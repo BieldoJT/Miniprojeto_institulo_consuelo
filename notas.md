@@ -2,29 +2,29 @@
 
 
 ## ER - DIAGRAMA
- -- 08/10
+ -- 04/10
 - Não sei se na tabela instrutores a coluna biografia seja text ou varchar
 
 - Os cursos podem ter mais de uma categoria??
 
 - decimal ou float?
 
-- nivel do curso, talvez seja um enum??
+- nivel do curso, talvez seja um enum?? -> usar check nessa condições
 
-- o que seria ordem na tabela campus??
+- o que seria ordem na tabela modulos??
 
-- tipo deve ser enum??
+- tipo deve ser enum?? -> check
 
 - lembrar de setar os not null
 
-- status da tabela matriculas talvez enum??
+- status da tabela matriculas talvez enum?? ->check
 
-- nota talvez seja enum
+- nota talvez seja enum -> usar check
 
 
 https://dbdiagram.io/d/ER-mini_projeto_casa_digital-663ab0839e85a46d55408b02
 
- -- 10/06
+ -- 06/10
 - para todos os enuns USAR CHECK
 
 - criar tabelas pagamento e ordem de pagamento
@@ -51,3 +51,13 @@ https://dbdiagram.io/d/ER-mini_projeto_casa_digital-663ab0839e85a46d55408b02
 - Separar as avaliações por modulos do curso , para ter mais controle do alunos
 
 - criar a coluna da situação da matricula
+
+ -- 08/10
+
+- criação da tabela certificados, relacionada com  matricula
+ - colocar um trigger/procedure para verificar se ha matricula está concluida, para gerar o certificado
+
+- colocar alguma regra na tabela matricula para verificar qual campo é prioridade para conclusao:
+    se campo 'data de conclusão' for preenchida, ou quando o campo 'status' ser alteradado para "concluida"
+
+- criei a tabela cupom e vou colocar na ordem de pgamentos, provavelmente devo fazer um check ou trigger/procedure para verificar se o cupom é valido
