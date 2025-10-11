@@ -61,3 +61,21 @@ https://dbdiagram.io/d/ER-mini_projeto_casa_digital-663ab0839e85a46d55408b02
     se campo 'data de conclusão' for preenchida, ou quando o campo 'status' ser alteradado para "concluida"
 
 - criei a tabela cupom e vou colocar na ordem de pgamentos, provavelmente devo fazer um check ou trigger/procedure para verificar se o cupom é valido
+
+ -- 10/10
+- com a autorização do julio, estou modificando algumas tabelas, atualmente criei a tabela CATEGORIAS_CURSOS que relaciona os cursos com as categorias, pois um curso pode ter mais de uma categoria
+
+- pensei em criar o campo media, para relação da media do curso, mas não sei se vale a pena
+
+- no cupom, verificar se a data de validade é valida (se a data que termina é antes da data da que começa) e se a porcentagem de desconto não é nula. Verificar o valor maximo que cupom cobre o desconto
+
+- verificar os campos não nulos
+
+- aparentemente, a modelagem está pronta
+
+//dica do Fernando
+PROCESSO PARA CRIAR UMA API
+como vc vai receber
+• estilo de processamento (batch ou streaming)
+• como vc vai processar (ETL, ELT) ETL - extract transform load | extract load transform
+• como vc vai disponibilizar esses dados (enpoint GET, pagina html)
