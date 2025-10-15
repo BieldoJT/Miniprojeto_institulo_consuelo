@@ -79,3 +79,10 @@ como vc vai receber
 • estilo de processamento (batch ou streaming)
 • como vc vai processar (ETL, ELT) ETL - extract transform load | extract load transform
 • como vc vai disponibilizar esses dados (enpoint GET, pagina html)
+
+ -- 14/10
+
+- comecei a criação do script
+ - - mudei alguns campos, e estou remodelando a logica do sistema de pagamentos para tonar memhlor com as triggers
+
+ - IMPORTANTE!!!! Por conta da logica de pagamentos, eu tirei o campo valor_pago e coloquei na tabela ordem de pagamentos, para mander uma boa relação.
