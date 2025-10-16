@@ -86,3 +86,17 @@ como vc vai receber
  - - mudei alguns campos, e estou remodelando a logica do sistema de pagamentos para tonar memhlor com as triggers
 
  - IMPORTANTE!!!! Por conta da logica de pagamentos, eu tirei o campo valor_pago e coloquei na tabela ordem de pagamentos, para mander uma boa relação.
+
+ -- 15/10
+
+ - Estava com muita duvida sobre o que o index faz e onde eu deveria usar.
+  - index serve para faciliar a busca quando for realizar queries. Os campos mais importantes a serem indexados devem ser os que, nas queries, mais serão utilizadas como parametra, no caso dentro do WHERE, ORDER BY, GROUP BY.
+  - Também deve ser utlizado em enum(os checks), que eu foi utilizar com frequencia em dashboards
+
+  - CREATE EXTENSION IF NOT EXISTS pg_trgm;
+
+CREATE INDEX IF NOT EXISTS idx_cursos_titulo_trgm
+  ON cursos USING GIN (titulo gin_trgm_ops); -> index para pesquisa aproximada do titulo, tem q usar ILIKE na query
+
+ - consegui criar uns triggers, so to me complicando com os pagamentos.
+ decidi remover a tabela pagamento, pois, torna mais complicado minha logica com os triggers.

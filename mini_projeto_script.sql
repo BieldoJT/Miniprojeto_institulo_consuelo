@@ -2,12 +2,13 @@ create schema if not exists Edutech;
 SET search_path TO Edutech;
 
 CREATE EXTENSION IF NOT EXISTS "uuid-ossp";
+CREATE EXTENSION IF NOT EXISTS citext;
 
 drop table if exists alunos cascade;
 create table alunos (
 	id serial primary key,
 	nome varchar(50) not null,
-	email varchar(254) not null unique,
+	email citext not null unique,
 	data_nascimento date not null,
 	data_cadastro timestamp not null default now()
 );
@@ -19,9 +20,11 @@ drop table if exists instrutores cascade;
 create table instrutores (
 	id serial primary key,
 	nome varchar(50) not null,
-	email varchar(254) not null unique,
+	email citext not null unique,
 	especialidade varchar(100) not null,
-	biografia varchar(300)
+	biografia varchar(300) not null,
+	data_cadastro timestamp not null default now(),
+	ultima_alteracao timestamp not null default now()
 );
 
 comment on table instrutores is 'Instrutores dos cursos da plataforma';
@@ -55,6 +58,7 @@ comment on column cursos.nivel is 'Possui os niveis iniciante, intermediario e a
 comment on column cursos.preco is 'Valor do curso, não pode ser negativo';
 
 
+
 drop table if exists categorias_cursos cascade;
 create table categorias_cursos (
 	curso_id integer not null references cursos(id) on delete cascade,
@@ -81,7 +85,7 @@ comment on table modulos is 'modulos dos curso e suas ordens';
 
 
 
---remover o curso_id do avalição, pois matriculas ja posssui o id do curso
+
 
 drop table if exists aulas cascade;
 create table aulas (
@@ -105,10 +109,30 @@ create table matriculas (
 	id serial primary key,
 	aluno_id integer not null references alunos(id) on delete cascade,
 	curso_id integer not null references cursos(id) on delete cascade,
-	data_matricula timestamp not null,
-	status varchar(10) not null check(status in ('ativa', 'concluida', 'cancelada', 'reservada')),
-	data_conclusao timestamp,
+	data_matricula timestamp not null default now(),
+	status varchar(10) not null check(status in ('ativa', 'concluida', 'cancelada', 'reservada')) default 'reservada',
+	data_conclusao timestamp default null,
 	unique (aluno_id, curso_id)
+);
+
+drop table if exists progresso_aulas cascade;
+create table progresso_aulas (
+	matricula_id integer not null references matriculas(id) on delete cascade,
+	aulas_id integer not null references aulas(id) on delete cascade,
+	concluida boolean not null default false,
+	data_conclusao timestamp,
+	primary key  (matricula_id, aulas_id)
+);
+
+--remover o curso_id do avalição, pois matriculas ja posssui o id do curso
+
+drop table if exists avaliacoes cascade;
+create table avaliacoes (
+	id serial primary key,
+	matricula_id integer not null references matriculas(id) on delete cascade,
+	nota integer not null check(nota >=1 and nota <= 5),
+	comentario varchar(200),
+	data_avaliacao date not null default now()
 );
 
 
@@ -121,18 +145,9 @@ create table ordem_pagamentos (
 	id uuid primary key,
 	matricula_id integer not null references matriculas(id) on delete cascade,
 	valor_a_pagar numeric(5,2) not null check(valor_a_pagar >= 0),
-	status varchar(20) not null check(status in ('pendente', 'pago','reembolsado')),
-	criado_em timestamp not null,
+	status varchar(20) not null check(status in ('pendente', 'pago','reembolsado')) default 'pendente',
+	criado_em timestamp not null default now(),
 	pago_em timestamp
-);
-
-drop table if exists pagamentos cascade;
-create table pagamentos (
-	id uuid primary key,
-	ordem_id uuid not null references ordem_pagamentos(id) on delete cascade,
-	forma_pagamento varchar(20) not null check(forma_pagamento  in ('pix', 'debito', 'credito')),
-	status_pagamento varchar(20) not null check(status_pagamento in ('confirmado','falho', 'reembolsado')),
-	data_criacao timestamp not null
 );
 
 drop table if exists certificados cascade;
@@ -144,7 +159,106 @@ create table certificados (
 );
 
 -- tratar os limites de preço no python ou aqui??
+ -- INDEXES
+
+
+-- Index das chaves estrangeiras
+create index if not exists idx_cursos_instrutor on cursos(instrutor_id);
+create index if not exists idx_cc_categorias_id on categorias_cursos(categoria_id);
+create index if not exists idx_pg_aulas_aula on progresso_aulas(aulas_id);
+create index if not exists idx_avaliacoes_matricula on avaliacoes(matricula_id);
+create index if not exists idx_ordem_pg_matricula on ordem_pagamentos(matricula_id);
+
+-- outros indexes
+create index if not exists idx_matriculas_curso_ativas on matriculas(curso_id) where status='ativa';
+create index if not exists idx_certificados_matricula_a_emitir on certificados(matricula_id) where data_emissao is NULL;
+create index if not exists idx_ordem_pg_pendentes on ordem_pagamentos(matricula_id, criado_em) where status='pendente'; 
+/*=======================================================================*/
+-- Triggers, Procedurese e Funções
+/*=======================================================================*/
+/*Função que altera a coluna ultima_alteração para now()*/
+create or replace function setar_ultima_alteracao()
+returns trigger
+language plpgsql
+as $$
+begin
+	new.ultima_alteracao := now();
+	return new;
+end;
+$$;
+
+create or replace function setar_conclusao_aula()
+returns trigger
+language plpgsql
+as $$
+begin
+if old.concluida is distinct from new.concluida then
+	if new.concluida is true then
+		new.data_conclusao := now();
+	else
+		new.data_conclusao := NULL;
+	end if;
+end if;
+return new;
+end;
+$$;
+
+
+/*-------------------------------------------------------------------------*/
+/*Triggers nas tabelas reutilizando a função setar_ultima_alteracao*/
+drop trigger if exists trg_ultima_alteracao_cursos on cursos;
+create trigger trg_ultima_alteracao_cursos
+before update on cursos
+for each row
+when (old is distinct from new)
+execute function setar_ultima_alteracao();
+
+drop trigger if exists trg_ultima_alteracao_instrutores on instrutores;
+create trigger trg_ultima_alteracao_instrutores
+before update on instrutores
+for each row
+when (old is distinct from new)
+execute function setar_ultima_alteracao();
+
+
+/*Trigger para setar a data de conclusao e estiver concluida*/
+drop trigger if exists trg_data_conclusao_progresso_aulas on progresso_aulas;
+create trigger trg_data_conclusao_progresso_aulas
+before update of concluida on progresso_aulas
+for each row
+when (old.concluida is distinct from new.concluida)
+execute function setar_conclusao_aula()
+/*-------------------------------------------------------------------------*/
 
 
 
+-- comandos para testar a trigger
+/*ultima alteração*/
+insert into alunos values (default, 'rafael', 'rafael@gmail.com', '2000-03-30');
+insert into instrutores values (default,'Ricardo', 'ricardo@gmail.com', 'developer','Sou um des da programação mua hahaha');
+insert into categorias values (default, 'python','cursin de python');
+insert into cursos values (default, 1,'curso de python completo','um curso', 'iniciante',50.00,5,default, default);
+insert into modulos values (default, 2,'um titulo', 1,'algun testo');
+insert into matriculas values (default, 1,2,default, 'ativa', default);
+insert into aulas values (default,1,'um moduli', 1,50,'quiz');
+insert into progresso_aulas  values (1,1,default, default);
+select * from progresso_aulas;
+
+update progresso_aulas
+set concluida = true
+where matricula_id=1 and aulas_id = 1;
+
+update cursos
+set descricao = 'troquei dnv'
+where id = 1;
+
+--------------------------------------------
+insert into instrutores values (default,'Ricardo', 'ricardo@gmail.com', 'developer','Sou um des da programação mua hahaha');
+select * from instrutores;
+
+update instrutores
+set especialidade='caminhoneirpo'
+where id=1;
+
+/*data conclusao*/
 
