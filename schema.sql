@@ -110,7 +110,7 @@ create table matriculas (
 	aluno_id integer not null references alunos(id) on delete cascade,
 	curso_id integer not null references cursos(id) on delete cascade,
 	data_matricula timestamp not null default now(),
-	status varchar(10) not null check(status in ('ativa', 'concluida', 'cancelada', 'reservada')) default 'reservada',
+	status varchar(10) not null check(status in ('ativa', 'concluida', 'cancelada', 'pendente')) default 'pendente',
 	data_conclusao timestamp default null,
 	unique (aluno_id, curso_id)
 );
@@ -142,19 +142,19 @@ comment on column matriculas.status is 'Situação da matricula do aluno';
 
 drop table if exists ordem_pagamentos cascade;
 create table ordem_pagamentos (
-	id uuid primary key,
+	id uuid primary key default uuid_generate_v4(),
 	matricula_id integer not null references matriculas(id) on delete cascade,
 	valor_a_pagar numeric(5,2) not null check(valor_a_pagar >= 0),
-	status varchar(20) not null check(status in ('pendente', 'pago','reembolsado')) default 'pendente',
+	status varchar(20) not null check(status in ('pendente', 'pago','reembolsado' ,'cancelado')) default 'pendente',
 	criado_em timestamp not null default now(),
 	pago_em timestamp
 );
 
 drop table if exists certificados cascade;
 create table certificados (
-	id uuid primary key,
+	id uuid primary key default uuid_generate_v4(),
 	matricula_id integer not null references matriculas(id) on delete cascade,
-	data_criacao timestamp not null,
+	data_criacao timestamp not null default now(),
 	data_emissao timestamp
 );
 
@@ -176,6 +176,9 @@ create index if not exists idx_ordem_pg_pendentes on ordem_pagamentos(matricula_
 /*=======================================================================*/
 -- Triggers, Procedurese e Funções
 /*=======================================================================*/
+
+
+/*-----------------------------FUNÇÔES-----------------------------------*/
 /*Função que altera a coluna ultima_alteração para now()*/
 create or replace function setar_ultima_alteracao()
 returns trigger
@@ -203,8 +206,84 @@ return new;
 end;
 $$;
 
+/*Função que criar a ordem de pagamento apos criar a matricula*/
+create or replace function criar_ordem_de_pagamento_na_matricula()
+returns trigger
+language plpgsql
+as $$
+declare preco_curso numeric(5,2);
+declare id_matricula integer;
+begin
+	select preco into preco_curso from cursos where id = new.curso_id ;
+	id_matricula := new.id;
+	insert into ordem_pagamentos values (default, id_matricula, preco_curso, default, default);
+	return new;
+end;
+$$;
 
-/*-------------------------------------------------------------------------*/
+create or replace function setar_matricula_alteracao_status()
+returns trigger
+language plpgsql
+as $$
+declare id_matricula integer;
+begin
+	id_matricula := new.matricula_id;
+	if old.status is distinct from new.status then
+		if new.status = 'pago' then
+			new.pago_em := now();
+			update matriculas set status = 'ativa' where id = id_matricula;
+		end if;
+		if new.status = 'cancelado' or new.status = 'reembolsado' then
+			update matriculas set status = 'cancelada' where id = id_matricula;
+		end if;
+	end if;
+	return new;
+end;
+$$;
+
+create or replace function gerar_certificato()
+returns trigger
+language plpgsql
+as $$
+begin
+	if old.status is distinct from new.status then
+		if new.status = 'concluida' then
+			insert into certificados values (default, new.id, default);
+		end if;
+	end if;
+	return new;
+end;
+$$;
+
+
+
+
+/*-----------------------------TRIGGERS-----------------------------------*/
+drop trigger if exists trg_gerar_certificado_em_status_concluida on matriculas;
+create trigger trg_gerar_certificado_em_status_concluida
+before update of status on matriculas
+for each row
+when (old is distinct from new)
+execute function gerar_certificato();
+
+
+drop trigger if exists trg_muda_status_matricula_de_ordem_pagementos on ordem_pagamentos;
+create trigger trg_muda_status_matricula_de_ordem_pagementos
+before update of status on ordem_pagamentos
+for each row
+when (old is distinct from new)
+execute function setar_matricula_alteracao_status();
+
+
+
+/*Trigger para criar uma ordem de pagamento pendente para matricula*/
+drop trigger if exists trg_criacao_ordem_pagamentos_na_matricula on matriculas;
+create trigger trg_criacao_ordem_pagamentos_na_matricula
+after insert on matriculas
+for each row
+execute function criar_ordem_de_pagamento_na_matricula();
+
+
 /*Triggers nas tabelas reutilizando a função setar_ultima_alteracao*/
 drop trigger if exists trg_ultima_alteracao_cursos on cursos;
 create trigger trg_ultima_alteracao_cursos
@@ -227,7 +306,9 @@ create trigger trg_data_conclusao_progresso_aulas
 before update of concluida on progresso_aulas
 for each row
 when (old.concluida is distinct from new.concluida)
-execute function setar_conclusao_aula()
+execute function setar_conclusao_aula();
+
+
 /*-------------------------------------------------------------------------*/
 
 
@@ -238,27 +319,22 @@ insert into alunos values (default, 'rafael', 'rafael@gmail.com', '2000-03-30');
 insert into instrutores values (default,'Ricardo', 'ricardo@gmail.com', 'developer','Sou um des da programação mua hahaha');
 insert into categorias values (default, 'python','cursin de python');
 insert into cursos values (default, 1,'curso de python completo','um curso', 'iniciante',50.00,5,default, default);
-insert into modulos values (default, 2,'um titulo', 1,'algun testo');
-insert into matriculas values (default, 1,2,default, 'ativa', default);
-insert into aulas values (default,1,'um moduli', 1,50,'quiz');
+insert into modulos values (default, 1,'um titulo', 1,'algun testo');
+insert into matriculas values (default, 1,1,default, default, default);
+insert into aulas values (default,1,'um moduli', 1,50.00,'quiz');
 insert into progresso_aulas  values (1,1,default, default);
 select * from progresso_aulas;
 
-update progresso_aulas
-set concluida = true
-where matricula_id=1 and aulas_id = 1;
+select * from matriculas;
+select * from ordem_pagamentos op ;
+update ordem_pagamentos op set status = 'pago' where matricula_id = 1;
 
-update cursos
-set descricao = 'troquei dnv'
-where id = 1;
+update matriculas set status = 'concluida' where id=1;
 
---------------------------------------------
-insert into instrutores values (default,'Ricardo', 'ricardo@gmail.com', 'developer','Sou um des da programação mua hahaha');
-select * from instrutores;
+select * from certificados;
 
-update instrutores
-set especialidade='caminhoneirpo'
-where id=1;
 
-/*data conclusao*/
+
+
+
 
