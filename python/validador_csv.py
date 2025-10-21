@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 # validador_csv.py
 import csv
 import os

@@ -5,7 +5,19 @@ import random
 from datetime import datetime, timedelta, date
 from faker import Faker
 
+# usar o NFKD - Normal Form Decomposition, para remover os acentos das palavras
+import unicodedata
+
+
 from utils import garantir_pasta, escolha_ponderada
+
+
+def remover_acentos(texto):
+    """Remove acentos e cedilhas de uma string usando unicodedata."""
+    return "".join(
+        c for c in unicodedata.normalize("NFKD", texto)
+        if not unicodedata.combining(c)
+    )
 
 fake = Faker("pt_BR")
 random.seed(42)
@@ -64,8 +76,9 @@ def gerar_alunos(quantidade):
     for i in range(1, quantidade + 1):
         nome = f"{fake.first_name()} {fake.last_name()}"
         # garantir unicidade simples
-        base = f"{nome.lower().replace(' ', '')}.{i}"
-        email = f"{base}@mail.com"
+        base = f"{nome.lower().replace(' ', '')}{i}"
+        base_normalizada = remover_acentos(base)
+        email = f"{base_normalizada}@mail.com"
         while email in emails:
             email = f"{base}{random.randint(1,999)}@mail.com"
         emails.add(email)
@@ -83,8 +96,9 @@ def gerar_instrutores(quantidade):
     emails = set()
     for i in range(1, quantidade + 1):
         nome = f"{fake.first_name()} {fake.last_name()}"
-        base = f"{nome.lower().replace(' ', '')}.{i}"
-        email = f"{base}@edutech.com"
+        base = f"{nome.lower().replace(' ', '')}{i}"
+        base_normalizada = remover_acentos(base)
+        email = f"{base_normalizada}@edutech.com"
         while email in emails:
             email = f"{base}{random.randint(1,999)}@edutech.com"
         emails.add(email)

@@ -100,3 +100,9 @@ CREATE INDEX IF NOT EXISTS idx_cursos_titulo_trgm
 
  - consegui criar uns triggers, so to me complicando com os pagamentos.
  decidi remover a tabela pagamento, pois, torna mais complicado minha logica com os triggers.
+
+
+ -- 21/10
+  - corrigir a validação dos dados no CSV
+
+  - Estou com duvida sobra a relação a importação e exportação de dados, pois tem que gerar os inserts, mas os inserts tem que ser gerado pelo script?? por que o script gera os dados e por final gera um csv. Porem eu devo importar o csv para o banco ou devo apenas criar um script sql com os inserts
