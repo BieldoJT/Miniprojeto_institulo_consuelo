@@ -1,15 +1,9 @@
 #!/usr/bin/python3
-# gerador_dados.py
+
 import csv
 import random
-
 from faker import Faker
-
-
-
 import utils
-
-
 
 fake = Faker("pt_BR")
 random.seed(42)
@@ -39,8 +33,6 @@ CATEGORIAS_BASE = [
     "Web", "UX/UI", "Finanças", "Produtividade", "NoSQL", "Excel & BI"
 ]
 
-
-# ---------- GERADORES ----------
 def gerar_alunos(quantidade):
     alunos = []
     emails = set()
@@ -272,7 +264,7 @@ def gerar_avaliacoes(matriculas):
     return avals
 
 # ---------- EXPORT ----------
-def _write_csv(path, rows, header):
+def write_csv(path, rows, header):
     if not rows:
         return
     utils.garantir_pasta(OUTDIR)
@@ -284,22 +276,22 @@ def _write_csv(path, rows, header):
 def exportar_para_csv(alunos, instrutores, categorias, cursos,
                       cat_cursos, modulos, aulas, matriculas,
                       progresso, avaliacoes):
-    _write_csv("alunos.csv", alunos,
+    write_csv("alunos.csv", alunos,
                ["id", "nome", "email", "data_nascimento", "data_cadastro"])
-    _write_csv("instrutores.csv", instrutores,
+    write_csv("instrutores.csv", instrutores,
                ["id", "nome", "email", "especialidade", "biografia", "data_cadastro", "ultima_alteracao"])
-    _write_csv("categorias.csv", categorias, ["id", "nome", "descricao"])
-    _write_csv("cursos.csv", cursos,
+    write_csv("categorias.csv", categorias, ["id", "nome", "descricao"])
+    write_csv("cursos.csv", cursos,
                ["id", "instrutor_id", "titulo", "descricao", "nivel", "preco",
                 "carga_horaria", "data_criacao", "ultima_alteracao"])
-    _write_csv("categorias_cursos.csv", cat_cursos, ["curso_id", "categoria_id"])
-    _write_csv("modulos.csv", modulos, ["id", "curso_id", "titulo", "ordem", "descricao"])
-    _write_csv("aulas.csv", aulas, ["id", "modulo_id", "titulo", "ordem_aula", "duracao_minutos", "tipo"])
-    _write_csv("matriculas.csv", matriculas,
+    write_csv("categorias_cursos.csv", cat_cursos, ["curso_id", "categoria_id"])
+    write_csv("modulos.csv", modulos, ["id", "curso_id", "titulo", "ordem", "descricao"])
+    write_csv("aulas.csv", aulas, ["id", "modulo_id", "titulo", "ordem_aula", "duracao_minutos", "tipo"])
+    write_csv("matriculas.csv", matriculas,
                ["id", "aluno_id", "curso_id", "data_matricula", "status", "data_conclusao"])
-    _write_csv("progresso_aulas.csv", progresso,
+    write_csv("progresso_aulas.csv", progresso,
                ["matricula_id", "aulas_id", "concluida", "data_conclusao"])
-    _write_csv("avaliacoes.csv", avaliacoes,
+    write_csv("avaliacoes.csv", avaliacoes,
                ["id", "matricula_id", "nota", "comentario", "data_avaliacao"])
 
 # ---------- EXECUÇÃO SIMPLES ----------

@@ -1,4 +1,3 @@
-# utils.py
 from datetime import datetime
 import os
 import random

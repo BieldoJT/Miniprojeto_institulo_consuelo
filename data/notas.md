@@ -106,3 +106,7 @@ CREATE INDEX IF NOT EXISTS idx_cursos_titulo_trgm
   - corrigir a validação dos dados no CSV
 
   - Estou com duvida sobra a relação a importação e exportação de dados, pois tem que gerar os inserts, mas os inserts tem que ser gerado pelo script?? por que o script gera os dados e por final gera um csv. Porem eu devo importar o csv para o banco ou devo apenas criar um script sql com os inserts
+
+  - Reorganzando nomes de funções, ta tudo confunso com portugues e ingles
+
+  -Agora eu deveria configurar minha venv, lembrar de importar o unicodedata e o Faker

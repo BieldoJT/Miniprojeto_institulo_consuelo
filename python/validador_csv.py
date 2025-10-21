@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-# validador_csv.py
+
 import csv
 import os
 from datetime import datetime
@@ -9,7 +9,7 @@ from utils import validar_email, garantir_pasta
 INPATH = "out_csv"
 REPORT = "out_csv/relatorio_validacao.md"
 
-def _ler_csv(nome, obrigatorios=None):
+def ler_csv(nome, obrigatorios=None):
     path = os.path.join(INPATH, nome)
     if not os.path.exists(path):
         return [], []
@@ -24,21 +24,21 @@ def _ler_csv(nome, obrigatorios=None):
                 erros.append(f"{nome}: linha {i} - campo obrigatório vazio: {campo}")
     return rows, erros
 
-def _eh_int(v):
+def is_int(v):
     try:
         int(str(v))
         return True
     except:
         return False
 
-def _eh_float(v):
+def is_float(v):
     try:
         float(str(v).replace(",", "."))
         return True
     except:
         return False
 
-def _eh_data(v, com_tempo=False):
+def is_data(v, com_tempo=False):
     try:
         if com_tempo:
             datetime.strptime(v, "%Y-%m-%d %H:%M:%S")
@@ -53,16 +53,16 @@ def validar():
     rel = []
 
     # ---- Carregar bases ----
-    alunos, e1 = _ler_csv("alunos.csv", ["id","nome","email","data_nascimento","data_cadastro"])
-    instrutores, e2 = _ler_csv("instrutores.csv", ["id","nome","email","especialidade","biografia","data_cadastro","ultima_alteracao"])
-    categorias, e3 = _ler_csv("categorias.csv", ["id","nome","descricao"])
-    cursos, e4 = _ler_csv("cursos.csv", ["id","instrutor_id","titulo","descricao","nivel","preco","carga_horaria","data_criacao","ultima_alteracao"])
-    cat_cursos, e5 = _ler_csv("categorias_cursos.csv", ["curso_id","categoria_id"])
-    modulos, e6 = _ler_csv("modulos.csv", ["id","curso_id","titulo","ordem","descricao"])
-    aulas, e7 = _ler_csv("aulas.csv", ["id","modulo_id","titulo","ordem_aula","duracao_minutos","tipo"])
-    matriculas, e8 = _ler_csv("matriculas.csv", ["id","aluno_id","curso_id","data_matricula","status"])
-    progresso, e9 = _ler_csv("progresso_aulas.csv", ["matricula_id","aulas_id","concluida"])
-    avaliacoes, e10 = _ler_csv("avaliacoes.csv", ["id","matricula_id","nota","data_avaliacao"])
+    alunos, e1 = ler_csv("alunos.csv", ["id","nome","email","data_nascimento","data_cadastro"])
+    instrutores, e2 = ler_csv("instrutores.csv", ["id","nome","email","especialidade","biografia","data_cadastro","ultima_alteracao"])
+    categorias, e3 = ler_csv("categorias.csv", ["id","nome","descricao"])
+    cursos, e4 = ler_csv("cursos.csv", ["id","instrutor_id","titulo","descricao","nivel","preco","carga_horaria","data_criacao","ultima_alteracao"])
+    cat_cursos, e5 = ler_csv("categorias_cursos.csv", ["curso_id","categoria_id"])
+    modulos, e6 = ler_csv("modulos.csv", ["id","curso_id","titulo","ordem","descricao"])
+    aulas, e7 = ler_csv("aulas.csv", ["id","modulo_id","titulo","ordem_aula","duracao_minutos","tipo"])
+    matriculas, e8 = ler_csv("matriculas.csv", ["id","aluno_id","curso_id","data_matricula","status"])
+    progresso, e9 = ler_csv("progresso_aulas.csv", ["matricula_id","aulas_id","concluida"])
+    avaliacoes, e10 = ler_csv("avaliacoes.csv", ["id","matricula_id","nota","data_avaliacao"])
 
     erros = e1+e2+e3+e4+e5+e6+e7+e8+e9+e10
 
@@ -70,65 +70,65 @@ def validar():
     for a in alunos:
         if not validar_email(a["email"]):
             erros.append(f"alunos.csv: id {a['id']} - email inválido")
-        if not _eh_data(a["data_nascimento"]):
+        if not is_data(a["data_nascimento"]):
             erros.append(f"alunos.csv: id {a['id']} - data_nascimento inválida (YYYY-MM-DD)")
-        if not _eh_data(a["data_cadastro"], com_tempo=True):
+        if not is_data(a["data_cadastro"], com_tempo=True):
             erros.append(f"alunos.csv: id {a['id']} - data_cadastro inválida (YYYY-MM-DD HH:MM:SS)")
 
     for i in instrutores:
         if not validar_email(i["email"]):
             erros.append(f"instrutores.csv: id {i['id']} - email inválido")
-        if not _eh_data(i["data_cadastro"], com_tempo=True):
+        if not is_data(i["data_cadastro"], com_tempo=True):
             erros.append(f"instrutores.csv: id {i['id']} - data_cadastro inválida")
-        if not _eh_data(i["ultima_alteracao"], com_tempo=True):
+        if not is_data(i["ultima_alteracao"], com_tempo=True):
             erros.append(f"instrutores.csv: id {i['id']} - ultima_alteracao inválida")
 
     niveis_validos = {"iniciante","intermediario","avançado"}
     for c in cursos:
         if c["nivel"] not in niveis_validos:
             erros.append(f"cursos.csv: id {c['id']} - nivel inválido")
-        if not _eh_float(c["preco"]):
+        if not is_float(c["preco"]):
             erros.append(f"cursos.csv: id {c['id']} - preco não numérico")
         else:
             p = float(c["preco"].replace(",", "."))
             if not (49.9 <= p <= 499.9):
                 erros.append(f"cursos.csv: id {c['id']} - preco fora do range (49.90 a 499.90)")
-        if not _eh_int(c["carga_horaria"]):
+        if not is_int(c["carga_horaria"]):
             erros.append(f"cursos.csv: id {c['id']} - carga_horaria não inteiro")
-        if not _eh_data(c["data_criacao"], com_tempo=True):
+        if not is_data(c["data_criacao"], com_tempo=True):
             erros.append(f"cursos.csv: id {c['id']} - data_criacao inválida")
-        if not _eh_data(c["ultima_alteracao"], com_tempo=True):
+        if not is_data(c["ultima_alteracao"], com_tempo=True):
             erros.append(f"cursos.csv: id {c['id']} - ultima_alteracao inválida")
 
     for a in aulas:
         if a["tipo"] not in {"video","texto","quiz"}:
             erros.append(f"aulas.csv: id {a['id']} - tipo inválido")
-        if not _eh_int(a["duracao_minutos"]):
+        if not is_int(a["duracao_minutos"]):
             erros.append(f"aulas.csv: id {a['id']} - duracao_minutos não inteiro")
 
     for m in matriculas:
         if m["status"] not in {"pendente","ativa","concluida","cancelada"}:
             erros.append(f"matriculas.csv: id {m['id']} - status inválido")
-        if not _eh_data(m["data_matricula"], com_tempo=True):
+        if not is_data(m["data_matricula"], com_tempo=True):
             erros.append(f"matriculas.csv: id {m['id']} - data_matricula inválida")
         if m["data_conclusao"]:
-            if not _eh_data(m["data_conclusao"], com_tempo=True):
+            if not is_data(m["data_conclusao"], com_tempo=True):
                 erros.append(f"matriculas.csv: id {m['id']} - data_conclusao inválida")
 
     for pr in progresso:
         if pr["concluida"] not in {"true","false"}:
             erros.append(f"progresso_aulas.csv: matricula {pr['matricula_id']}, aula {pr['aulas_id']} - concluida deve ser true/false")
-        if pr["data_conclusao"] and not _eh_data(pr["data_conclusao"], com_tempo=True):
+        if pr["data_conclusao"] and not is_data(pr["data_conclusao"], com_tempo=True):
             erros.append(f"progresso_aulas.csv: matricula {pr['matricula_id']}, aula {pr['aulas_id']} - data_conclusao inválida")
 
     for av in avaliacoes:
-        if not _eh_int(av["nota"]):
+        if not is_int(av["nota"]):
             erros.append(f"avaliacoes.csv: id {av['id']} - nota não inteira")
         else:
             n = int(av["nota"])
             if not (1 <= n <= 5):
                 erros.append(f"avaliacoes.csv: id {av['id']} - nota fora do range 1..5")
-        if not _eh_data(av["data_avaliacao"]):
+        if not is_data(av["data_avaliacao"]):
             erros.append(f"avaliacoes.csv: id {av['id']} - data_avaliacao inválida")
 
     # ---- Duplicatas simples por ID ----
