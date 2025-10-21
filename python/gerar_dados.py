@@ -2,22 +2,14 @@
 # gerador_dados.py
 import csv
 import random
-from datetime import datetime, timedelta, date
+
 from faker import Faker
 
-# usar o NFKD - Normal Form Decomposition, para remover os acentos das palavras
-import unicodedata
 
 
-from utils import garantir_pasta, escolha_ponderada
+import utils
 
 
-def remover_acentos(texto):
-    """Remove acentos e cedilhas de uma string usando unicodedata."""
-    return "".join(
-        c for c in unicodedata.normalize("NFKD", texto)
-        if not unicodedata.combining(c)
-    )
 
 fake = Faker("pt_BR")
 random.seed(42)
@@ -47,27 +39,6 @@ CATEGORIAS_BASE = [
     "Web", "UX/UI", "Finanças", "Produtividade", "NoSQL", "Excel & BI"
 ]
 
-HOJE = datetime.now()
-
-# ---------- HELPERS ----------
-def dt_ultimos_2_anos():
-    dias = random.randint(0, 730)  # 2 anos ~ 730 dias
-    segundos = random.randint(0, 86400)
-    return HOJE - timedelta(days=dias, seconds=segundos)
-
-def preco_aleatorio():
-    # 49,90 a 499,90 (intervalo simples)
-    return round(random.uniform(49.9, 499.9), 2)
-
-def carga_horaria_aleatoria():
-    return random.randint(6, 80)
-
-def idade_min_max(idade_min=16, idade_max=60):
-    anos = random.randint(idade_min, idade_max)
-    nasc = date.today() - timedelta(days=int(anos * 365.25))
-    # espalhar o dia do ano
-    nasc = nasc - timedelta(days=random.randint(0, 364))
-    return nasc
 
 # ---------- GERADORES ----------
 def gerar_alunos(quantidade):
@@ -77,7 +48,7 @@ def gerar_alunos(quantidade):
         nome = f"{fake.first_name()} {fake.last_name()}"
         # garantir unicidade simples
         base = f"{nome.lower().replace(' ', '')}{i}"
-        base_normalizada = remover_acentos(base)
+        base_normalizada = utils.remover_acentos(base)
         email = f"{base_normalizada}@mail.com"
         while email in emails:
             email = f"{base}{random.randint(1,999)}@mail.com"
@@ -86,8 +57,8 @@ def gerar_alunos(quantidade):
             "id": i,
             "nome": nome,
             "email": email,  # citext no banco cuida de case-insensitive
-            "data_nascimento": idade_min_max().isoformat(),
-            "data_cadastro": dt_ultimos_2_anos().strftime("%Y-%m-%d %H:%M:%S"),
+            "data_nascimento": utils.idade_min_max().isoformat(),
+            "data_cadastro": utils.dt_ultimos_2_anos().strftime("%Y-%m-%d %H:%M:%S"),
         })
     return alunos
 
@@ -97,17 +68,17 @@ def gerar_instrutores(quantidade):
     for i in range(1, quantidade + 1):
         nome = f"{fake.first_name()} {fake.last_name()}"
         base = f"{nome.lower().replace(' ', '')}{i}"
-        base_normalizada = remover_acentos(base)
+        base_normalizada = utils.remover_acentos(base)
         email = f"{base_normalizada}@edutech.com"
         while email in emails:
             email = f"{base}{random.randint(1,999)}@edutech.com"
         emails.add(email)
         esp = random.choice(ESPECIALIDADES)
         biografia = fake.text(max_nb_chars=280).replace("\n", " ")
-        cadastro = dt_ultimos_2_anos()
-        ultima_alt = cadastro + timedelta(days=random.randint(0, 60))
-        if ultima_alt > HOJE:
-            ultima_alt = HOJE
+        cadastro = utils.dt_ultimos_2_anos()
+        ultima_alt = cadastro + utils.timedelta(days=random.randint(0, 60))
+        if ultima_alt > utils.HOJE:
+            ultima_alt = utils.HOJE
         instrutores.append({
             "id": i,
             "nome": nome,
@@ -140,13 +111,13 @@ def gerar_cursos(quantidade, instrutores):
             titulo = f"{random.choice(['Curso', 'Formação'])} {fake.word().capitalize()} {i+random.randint(1,999)}"
         usados.add(titulo)
         desc = fake.sentence(nb_words=12)
-        nivel = escolha_ponderada(NIVEIS)
-        preco = preco_aleatorio()
-        ch = carga_horaria_aleatoria()
-        criacao = dt_ultimos_2_anos()
-        ultima = criacao + timedelta(days=random.randint(0, 45))
-        if ultima > HOJE:
-            ultima = HOJE
+        nivel = utils.escolha_ponderada(NIVEIS)
+        preco = utils.preco_aleatorio()
+        ch = utils.carga_horaria_aleatoria()
+        criacao = utils.dt_ultimos_2_anos()
+        ultima = criacao + utils.timedelta(days=random.randint(0, 45))
+        if ultima > utils.HOJE:
+            ultima = utils.HOJE
         cursos.append({
             "id": i,
             "instrutor_id": instrutor_id,
@@ -193,7 +164,7 @@ def gerar_modulos(cursos):
             mid += 1
     return modulos
 
-def gerar_aulas(curso_id, quantidade, modulo_id_inicio, modulo_id_fim):
+def gerar_aulas(quantidade, modulo_id_inicio, modulo_id_fim):
     # função conforme solicitado, mas o gerador global usa abaixo
     aulas = []
     aid = 1
@@ -237,7 +208,7 @@ def gerar_matriculas(quantidade, alunos, cursos):
             aluno = random.choice(alunos)["id"]
             curso = random.choice(cursos)["id"]
         existentes.add((aluno, curso))
-        data_m = dt_ultimos_2_anos()
+        data_m = utils.dt_ultimos_2_anos()
         status = random.choices(
             ["pendente", "ativa", "concluida", "cancelada"],
             weights=[15, 55, 20, 10],
@@ -245,9 +216,9 @@ def gerar_matriculas(quantidade, alunos, cursos):
         )[0]
         data_conc = None
         if status == "concluida":
-            data_conc = (data_m + timedelta(days=random.randint(5, 120)))
-            if data_conc > HOJE:
-                data_conc = HOJE
+            data_conc = (data_m + utils.timedelta(days=random.randint(5, 120)))
+            if data_conc > utils.HOJE:
+                data_conc = utils.HOJE
         matriculas.append({
             "id": i,
             "aluno_id": aluno,
@@ -272,10 +243,10 @@ def gerar_progresso_aulas(matriculas, aulas):
             done = aid in concluidas_ids
             data_c = ""
             if done:
-                data_c = (datetime.fromisoformat(m["data_matricula"]) +
-                          timedelta(days=random.randint(1, 60)))
-                if data_c > HOJE:
-                    data_c = HOJE
+                data_c = (utils.datetime.fromisoformat(m["data_matricula"]) +
+                          utils.timedelta(days=random.randint(1, 60)))
+                if data_c > utils.HOJE:
+                    data_c = utils.HOJE
                 data_c = data_c.strftime("%Y-%m-%d %H:%M:%S")
             progresso.append({
                 "matricula_id": m["id"],
@@ -295,7 +266,7 @@ def gerar_avaliacoes(matriculas):
                 "matricula_id": m["id"],
                 "nota": random.randint(1, 5),
                 "comentario": fake.sentence(nb_words=10),
-                "data_avaliacao": dt_ultimos_2_anos().date().isoformat()
+                "data_avaliacao": utils.dt_ultimos_2_anos().date().isoformat()
             })
             idx += 1
     return avals
@@ -304,7 +275,7 @@ def gerar_avaliacoes(matriculas):
 def _write_csv(path, rows, header):
     if not rows:
         return
-    garantir_pasta(OUTDIR)
+    utils.garantir_pasta(OUTDIR)
     with open(f"{OUTDIR}/{path}", "w", newline="", encoding="utf-8") as f:
         w = csv.DictWriter(f, fieldnames=header)
         w.writeheader()
