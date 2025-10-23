@@ -1,5 +1,7 @@
-create schema if not exists Edutech;
-SET search_path TO Edutech;
+\c postgres;
+DROP DATABASE IF EXISTS edutech;
+CREATE DATABASE edutech;
+\c edutech;
 
 CREATE EXTENSION IF NOT EXISTS "uuid-ossp";
 CREATE EXTENSION IF NOT EXISTS citext;
@@ -172,7 +174,7 @@ create index if not exists idx_ordem_pg_matricula on ordem_pagamentos(matricula_
 -- outros indexes
 create index if not exists idx_matriculas_curso_ativas on matriculas(curso_id) where status='ativa';
 create index if not exists idx_certificados_matricula_a_emitir on certificados(matricula_id) where data_emissao is NULL;
-create index if not exists idx_ordem_pg_pendentes on ordem_pagamentos(matricula_id, criado_em) where status='pendente'; 
+create index if not exists idx_ordem_pg_pendentes on ordem_pagamentos(matricula_id, criado_em) where status='pendente';
 /*=======================================================================*/
 -- Triggers, Procedurese e Funções
 /*=======================================================================*/
@@ -315,6 +317,7 @@ execute function setar_conclusao_aula();
 
 -- comandos para testar a trigger
 /*ultima alteração*/
+/*
 insert into alunos values (default, 'rafael', 'rafael@gmail.com', '2000-03-30');
 insert into instrutores values (default,'Ricardo', 'ricardo@gmail.com', 'developer','Sou um des da programação mua hahaha');
 insert into categorias values (default, 'python','cursin de python');
@@ -331,7 +334,7 @@ update ordem_pagamentos op set status = 'pago' where matricula_id = 1;
 
 update matriculas set status = 'concluida' where id=1;
 
-select * from certificados;
+select * from certificados;*/
 
 
 

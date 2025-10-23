@@ -109,4 +109,7 @@ CREATE INDEX IF NOT EXISTS idx_cursos_titulo_trgm
 
   - Reorganzando nomes de funções, ta tudo confunso com portugues e ingles
 
-  -Agora eu deveria configurar minha venv, lembrar de importar o unicodedata e o Faker
+  - Agora eu deveria configurar minha venv, lembrar de importar o unicodedata e o Faker
+
+  -- 22/10
+  - eu consegui fazer a conexão com o banco, mas estou na duvida sobre o que fazer, eu devo fazer a conexão com o banco de alguma forma, mas estou na duvida sobre como fazer isso, pq para acessar o banco , eu preciso de usuario e senha
