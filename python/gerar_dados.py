@@ -1,5 +1,3 @@
-#!/usr/bin/python3
-
 import csv
 import random
 from faker import Faker

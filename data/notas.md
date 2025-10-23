@@ -113,3 +113,21 @@ CREATE INDEX IF NOT EXISTS idx_cursos_titulo_trgm
 
   -- 22/10
   - eu consegui fazer a conexão com o banco, mas estou na duvida sobre o que fazer, eu devo fazer a conexão com o banco de alguma forma, mas estou na duvida sobre como fazer isso, pq para acessar o banco , eu preciso de usuario e senha
+
+  -- 23/10
+  - descobri que n da pra rodar com o "#!/usr/bin/python3", pois da conflito com a venv, tenho que rodar da forma padrão "python3 'nome do script'"
+
+  - retornar esse se o validador_csv não ler/encontrar os csv
+
+  - ideia no momento. cria uma main onde voce pode adicionar/atualizar/remover alunos, cursos etc.
+  então poder gerar relatórios gerais ou especificos;
+  ex: dados gerais de aluno x, de curso y
+  gerar relatórios fixos.
+  Possivel fazer consultas pelo python.
+
+  - estava pensando em usar o psycopg2, mas acho melhor fazer a conexão do banco com o subprocess para apenas rodar o script. então garantir que é necessário ter o psql instalado na maquina.
+
+# INSIGHTS Q TIVE
+
+ - a utilização do  psycopg2 é muito melhor em questões gerais de banco do que prender o usuario ao psql, pois gera uma conexão melhor e é mais escalavel. Decidi usar o subprocess por uma questão de facil execução para meu planos com o projeto.
+
