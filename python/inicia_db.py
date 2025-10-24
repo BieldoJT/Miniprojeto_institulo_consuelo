@@ -1,8 +1,9 @@
 import sys
 import getpass
 import os
-import subprocess
 import shutil
+
+from utils import executar_processo
 
 caminho_script = '../schema.sql'
 
@@ -55,14 +56,6 @@ def pegar_comando_e_env():
 
     return cmd,env
 
-def executar_processo(cmd, new_env):
-
-    try:
-        subprocess.run(cmd, check=True, env=new_env, text=True, capture_output=True)
-        print("script criado!!")
-    except subprocess.CalledProcessError as e:
-        print(f"Erro: {e}")
-        sys.exit(e.returncode)
 
 def rodar_script():
     cmd,env = pegar_comando_e_env()

@@ -2,6 +2,8 @@ from datetime import datetime
 import os
 import random
 import re
+import subprocess
+import sys
 
 # usar o NFKD - Normal Form Decomposition, para remover os acentos das palavras
 import unicodedata
@@ -60,3 +62,12 @@ def remover_acentos(texto):
     return "".join(
         c for c in unicodedata.normalize("NFKD", texto)
         if not unicodedata.combining(c))
+
+def executar_processo(cmd, new_env):
+
+    try:
+        subprocess.run(cmd, check=True, env=new_env, text=True, capture_output=True)
+        print("script criado!!")
+    except subprocess.CalledProcessError as e:
+        print(f"Erro: { e.stderr}")
+        sys.exit(e.returncode)

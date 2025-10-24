@@ -36,6 +36,7 @@ def is_float(v):
     except:
         return False
 
+
 def is_data(v, com_tempo=False):
     try:
         if com_tempo:

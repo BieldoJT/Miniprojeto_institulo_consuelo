@@ -215,7 +215,7 @@ def gerar_matriculas(quantidade, alunos, cursos):
             "curso_id": curso,
             "data_matricula": data_m.strftime("%Y-%m-%d %H:%M:%S"),
             "status": status,
-            "data_conclusao": data_conc.strftime("%Y-%m-%d %H:%M:%S") if data_conc else ""
+            "data_conclusao": data_conc.strftime("%Y-%m-%d %H:%M:%S") if data_conc else "default"
         })
     return matriculas
 
@@ -231,7 +231,7 @@ def gerar_progresso_aulas(matriculas, aulas):
         concluidas_ids = set(random.sample(escolhidas, k=concluidas))
         for aid in escolhidas:
             done = aid in concluidas_ids
-            data_c = ""
+            data_c = None
             if done:
                 data_c = (utils.datetime.fromisoformat(m["data_matricula"]) +
                           utils.timedelta(days=random.randint(1, 60)))
@@ -242,7 +242,7 @@ def gerar_progresso_aulas(matriculas, aulas):
                 "matricula_id": m["id"],
                 "aulas_id": aid,
                 "concluida": "true" if done else "false",
-                "data_conclusao": data_c
+                "data_conclusao": data_c if data_c else "default"
             })
     return progresso
 
