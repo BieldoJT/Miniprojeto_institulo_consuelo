@@ -175,6 +175,67 @@ create index if not exists idx_ordem_pg_matricula on ordem_pagamentos(matricula_
 create index if not exists idx_matriculas_curso_ativas on matriculas(curso_id) where status='ativa';
 create index if not exists idx_certificados_matricula_a_emitir on certificados(matricula_id) where data_emissao is NULL;
 create index if not exists idx_ordem_pg_pendentes on ordem_pagamentos(matricula_id, criado_em) where status='pendente';
+
+
+
+
+
+
+/*=======================================================================*/
+--  VIEWS
+/*=======================================================================*/
+
+
+
+CREATE OR REPLACE VIEW v_cursos_com_detalhes AS
+SELECT
+  c.id,
+  c.titulo,
+  i.nome AS instrutor,
+  STRING_AGG(DISTINCT cat.nome, ', ' ORDER BY cat.nome) AS categorias,
+  c.preco,
+  c.nivel,
+  c.carga_horaria,
+  c.data_criacao
+FROM cursos c
+JOIN instrutores i           ON i.id = c.instrutor_id
+LEFT JOIN categorias_cursos cc ON cc.curso_id = c.id
+LEFT JOIN categorias cat        ON cat.id = cc.categoria_id
+GROUP BY c.id, c.titulo, i.nome, c.preco, c.nivel, c.carga_horaria, c.data_criacao;
+
+
+
+CREATE OR REPLACE VIEW v_faturamento_por_curso AS
+SELECT
+  c.id AS curso_id,
+  c.titulo,
+  SUM(CASE WHEN op.status='pago' THEN op.valor_a_pagar END) AS receita
+FROM cursos c
+LEFT JOIN matriculas m        ON m.curso_id = c.id
+LEFT JOIN ordem_pagamentos op ON op.matricula_id = m.id
+GROUP BY c.id, c.titulo;
+
+
+
+
+CREATE OR REPLACE VIEW v_avaliacoes_por_curso AS
+SELECT
+  c.id AS curso_id,
+  c.titulo,
+  ROUND(AVG(av.nota)::numeric, 2) AS media_nota,
+  COUNT(av.id)                    AS qt_avaliacoes
+FROM cursos c
+LEFT JOIN matriculas m ON m.curso_id = c.id
+LEFT JOIN avaliacoes av ON av.matricula_id = m.id
+GROUP BY c.id, c.titulo;
+
+
+
+
+
+
+
+
 /*=======================================================================*/
 -- Triggers, Procedurese e Funções
 /*=======================================================================*/
@@ -218,7 +279,19 @@ declare id_matricula integer;
 begin
 	select preco into preco_curso from cursos where id = new.curso_id ;
 	id_matricula := new.id;
-	insert into ordem_pagamentos values (default, id_matricula, preco_curso, default, default);
+	if new.status = 'pendente' then
+		insert into ordem_pagamentos values (default, id_matricula, preco_curso, default, default);
+	end if;
+	if new.status = 'ativa' then
+		insert into ordem_pagamentos values (default, id_matricula, preco_curso, 'pago', now(), default);
+	end if;
+	if new.status = 'concluida' then
+		insert into ordem_pagamentos values (default, id_matricula, preco_curso, 'pago', now(), default);
+	end if;
+	if new.status = 'cancelada' then
+		insert into ordem_pagamentos values (default, id_matricula, preco_curso, 'cancelado', default, default);
+	end if;
+
 	return new;
 end;
 $$;
@@ -250,7 +323,7 @@ as $$
 begin
 	if old.status is distinct from new.status then
 		if new.status = 'concluida' then
-			insert into certificados values (default, new.id, default);
+			insert into certificados values (default, new.id, default, default);
 		end if;
 	end if;
 	return new;
@@ -263,17 +336,16 @@ $$;
 /*-----------------------------TRIGGERS-----------------------------------*/
 drop trigger if exists trg_gerar_certificado_em_status_concluida on matriculas;
 create trigger trg_gerar_certificado_em_status_concluida
-before update of status on matriculas
+after update on matriculas
 for each row
-when (old is distinct from new)
+when (old.status is distinct from new.status and new.status = 'concluida')
 execute function gerar_certificato();
 
 
 drop trigger if exists trg_muda_status_matricula_de_ordem_pagementos on ordem_pagamentos;
 create trigger trg_muda_status_matricula_de_ordem_pagementos
-before update of status on ordem_pagamentos
+before update or insert on ordem_pagamentos
 for each row
-when (old is distinct from new)
 execute function setar_matricula_alteracao_status();
 
 
@@ -291,7 +363,6 @@ drop trigger if exists trg_ultima_alteracao_cursos on cursos;
 create trigger trg_ultima_alteracao_cursos
 before update on cursos
 for each row
-when (old is distinct from new)
 execute function setar_ultima_alteracao();
 
 drop trigger if exists trg_ultima_alteracao_instrutores on instrutores;

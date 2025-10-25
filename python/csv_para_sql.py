@@ -36,7 +36,8 @@ def read_csv_to_sql(lista_tabelas):
 			print(inserts_sql)
 
 if __name__ == "__main__":
-	lista_csv = list(["alunos","instrutores", "categorias", "cursos", "categorias_cursos", "modulos", "aulas", "matriculas", "progresso_aulas", "avaliacoes"])
+	lista_csv = list(["alunos","instrutores", "categorias", "cursos", "categorias_cursos",
+				    "modulos", "aulas", "matriculas", "progresso_aulas", "avaliacoes, ordem_pagamentos, certificados"])
 	read_csv_to_sql(lista_csv)
 
 
