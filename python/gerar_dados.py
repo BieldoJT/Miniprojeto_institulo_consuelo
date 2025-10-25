@@ -14,8 +14,8 @@ QT = {
     "instrutores": 25,
     "categorias": 12,
     "cursos": 80,
-    "modulos_por_curso": (3, 6),     # min, max
-    "aulas_por_modulo": (4, 8),      # min, max
+    "modulos_por_curso": (5, 8),     # min, max
+    "aulas_por_modulo": (6, 9),      # min, max
     "matriculas": 600,
     "avaliacoes_pct": 0.55,          # % das matrículas com avaliações
 }

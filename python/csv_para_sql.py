@@ -1,5 +1,4 @@
 import pandas as pd
-import numpy as np
 import os
 from validador_csv import is_float, is_int
 
@@ -35,4 +34,9 @@ def read_csv_to_sql(lista_tabelas):
 				valores = []
 				print(f"Insert da tabela {nome_tabela}...")
 			print(inserts_sql)
+
+if __name__ == "__main__":
+	lista_csv = list(["alunos","instrutores", "categorias", "cursos", "categorias_cursos", "modulos", "aulas", "matriculas", "progresso_aulas", "avaliacoes"])
+	read_csv_to_sql(lista_csv)
+
 

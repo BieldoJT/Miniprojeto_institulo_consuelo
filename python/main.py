@@ -1,55 +1,101 @@
 import subprocess
 import sys
 import os
+from pathlib import Path
+
 from inicia_db import rodar_script
 from csv_para_sql import read_csv_to_sql
+
 INPATH = "out_csv"
-
-def main_admin():
-	while(1):
-		print("MENU")
-		print("DIGITE USAR OPÇÃO:")
-		print("1: GERAR DADOS\n2:VALIDAR CSV\n3:RODAR O SCRIPT\n4:PROCESSAR RELATÓRIOS\n5: SAIR")
-		try:
-			resposta_usuario = int(input())
-			os.system('clear')
-		except (TypeError, KeyboardInterrupt, ValueError):
-			print("insira um numero valido")
-			continue
-		if resposta_usuario == 1:
-			subprocess.run(["python3", "gerar_dados.py"])
-		elif resposta_usuario == 2:
-			subprocess.run(["python3", "validador_csv.py"])
-		elif resposta_usuario == 3:
-			print("Fazer alguma coisa aqui!!")
-			continue
-		elif resposta_usuario == 4:
-			subprocess.run(["python3", "processador_relatorios.py"])
-			subprocess.run(["psql","-U", "bieldojt", "-d", "edutech", "-c",
-				   "SELECT *FROM alunos"])
-		elif resposta_usuario == 5:
-			print("Obriado pelo uso!")
-			sys.exit(0)
-
-def popula_banco():
-	lista_csv = list(["alunos","instrutores", "categorias", "cursos", "categorias_cursos", "modulos", "aulas", "matriculas", "progresso_aulas", "avaliacoes"])
-	read_csv_to_sql(lista_csv)
-	subprocess.run(["psql","-U", "bieldojt", "-d", "edutech", "-f", "../script.sql"])
-	print("todos os insert realizados")
+DBNAME = "edutech"  # ajuste se necessário
+# tabelas para gerar INSERTs a partir dos CSVs em out_csv/
+TABELAS_PADRAO = ["alunos","instrutores", "categorias", "cursos", "categorias_cursos", "modulos",
+                  "aulas", "matriculas", "progresso_aulas", "avaliacoes"]
 
 
+def run(cmd_list, env):
+    return subprocess.run(cmd_list, env=env, text=True)
 
+
+def existe_arquivo(nome):
+    return Path(nome).exists()
+
+
+def main_admin(env):
+    while True:
+        print("MENU")
+        print("DIGITE UMA OPÇÃO:")
+        print("1: GERAR DADOS")
+        print("2: VALIDAR CSV")
+        print("3: RODAR SCRIPT (CSV -> SQL -> APLICAR NO BANCO)")
+        print("4: PROCESSAR RELATÓRIOS + EXEMPLO DE QUERY")
+        print("5: SAIR")
+        try:
+            resposta_usuario = int(input("> ").strip())
+            os.system('clear')
+        except (TypeError, KeyboardInterrupt, ValueError):
+            print("insira um numero valido")
+            continue
+
+        if resposta_usuario == 1:
+            if existe_arquivo("gerar_dados.py"):
+                run(["python3", "gerar_dados.py"], env)
+            else:
+                print("Arquivo gerar_dados.py não encontrado; pulando...")
+
+        elif resposta_usuario == 2:
+            if existe_arquivo("validador_csv.py"):
+                run(["python3", "validador_csv.py"], env)
+            else:
+                print("Arquivo validador_csv.py não encontrado; pulando...")
+
+        elif resposta_usuario == 3:
+            if not Path(INPATH).exists():
+                print(f"Pasta {INPATH} não encontrada. Crie/importe seus CSVs antes.")
+                continue
+
+            print("Gerando ../script.sql a partir dos CSVs...")
+            try:
+                read_csv_to_sql(TABELAS_PADRAO)
+            except Exception as e:
+                print(f"Falha ao gerar script.sql: {e}")
+                continue
+
+            script_path = Path("../script.sql")
+            if not script_path.exists():
+                print("script.sql não encontrado após a geração.")
+                continue
+
+            print("Aplicando script.sql no banco...")
+            run(["psql", "-d", DBNAME, "-f", str(script_path)], env)
+
+        elif resposta_usuario == 4:
+            if existe_arquivo("processador_relatorios.py"):
+                run(["python3", "processador_relatorios.py"], env)
+            else:
+                print("Arquivo processador_relatorios.py não encontrado; pulando...")
+            run(["psql", "-d", DBNAME, "-c", "SELECT * FROM ordem_pagamentos LIMIT 5;"], env)
+
+        elif resposta_usuario == 5:
+            print("Saindo...")
+            break
+
+        else:
+            print("Opção inválida.")
 
 
 if __name__ == "__main__":
-	print("BEM VINDO!!")
-	print("Iniciando o banco de dados!")
-	rodar_script()
-	print("gerando dados...")
-	subprocess.run(["python3", "gerar_dados.py"])
-	print("populando o banco de dados...")
-	popula_banco()
+    print("BEM VINDO!!")
+    print("Iniciando o banco de dados (aplicando schema.sql)...")
+    env, creds = rodar_script(criar_pgpass=False)
 
+    # Refina o env para todas as chamadas subsequentes (Opção A)
+    env = os.environ.copy() | {
+        "PGPASSWORD": creds["password"],
+        "PGUSER": creds["user"],
+        "PGHOST": creds["host"],
+        "PGPORT": creds["port"],
+    }
 
-
-	main_admin()
+    # segue fluxo normal do programa, sem novos prompts de senha
+    main_admin(env)
