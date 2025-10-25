@@ -8,7 +8,7 @@ random.seed(42)
 Faker.seed(42)
 
 # ---------- CONFIG ----------
-OUTDIR = "out_csv"
+OUTDIR = "../data"
 QT = {
     "alunos": 300,
     "instrutores": 25,

@@ -2,7 +2,7 @@ import pandas as pd
 import os
 from validador_csv import is_float, is_int
 
-INPATH = "out_csv"
+INPATH = "../data"
 def read_csv_to_sql(lista_tabelas):
 	with open("../script.sql", 'w') as f:
 		for nome_tabela in lista_tabelas:
@@ -21,9 +21,7 @@ def read_csv_to_sql(lista_tabelas):
 						valores.append("NULL")
 					elif (is_int(v) or is_float(v)):
 						valores.append(str(v))
-					# <<< detectar nulos de verdade (NaN/None/NaT) >>>
 					else:
-						# opcional: escapar aspas simples no texto
 						s = str(v).replace("'", "''")
 						valores.append(f"'{s}'")
 				f.write(f"({', '.join(valores)})")

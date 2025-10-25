@@ -7,7 +7,7 @@ from inicia_db import rodar_script
 from csv_para_sql import read_csv_to_sql
 from utils import run
 
-INPATH = "out_csv"
+INPATH = "../data"
 DBNAME = "edutech"  # ajuste se necessário
 # tabelas para gerar INSERTs a partir dos CSVs em out_csv/
 TABELAS_PADRAO = ["alunos","instrutores", "categorias", "cursos", "categorias_cursos", "modulos",

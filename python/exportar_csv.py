@@ -4,7 +4,7 @@ import sys
 
 from utils import run
 from main import DBNAME
-OUTDIR = "out_csv"
+OUTDIR = "../data"
 
 
 def lista_tabelas(env):

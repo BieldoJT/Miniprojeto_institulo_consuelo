@@ -4,8 +4,8 @@ from datetime import datetime
 
 from utils import validar_email, garantir_pasta
 
-INPATH = "out_csv"
-REPORT = "out_csv/relatorio_validacao.md"
+INPATH =  "../data"
+REPORT =  "../data/relatorio_validacao.md"
 
 def ler_csv(nome, obrigatorios=None):
     path = os.path.join(INPATH, nome)
