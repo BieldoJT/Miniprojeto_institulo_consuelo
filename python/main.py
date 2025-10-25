@@ -5,6 +5,7 @@ from pathlib import Path
 
 from inicia_db import rodar_script
 from csv_para_sql import read_csv_to_sql
+from utils import run
 
 INPATH = "out_csv"
 DBNAME = "edutech"  # ajuste se necessário
@@ -13,8 +14,7 @@ TABELAS_PADRAO = ["alunos","instrutores", "categorias", "cursos", "categorias_cu
                   "aulas", "matriculas", "progresso_aulas", "avaliacoes"]
 
 
-def run(cmd_list, env):
-    return subprocess.run(cmd_list, env=env, text=True)
+
 
 
 def existe_arquivo(nome):
@@ -25,11 +25,12 @@ def main_admin(env):
     while True:
         print("MENU")
         print("DIGITE UMA OPÇÃO:")
-        print("1: GERAR DADOS")
+        print("1: GERAR DADOS/CSV")
         print("2: VALIDAR CSV")
-        print("3: RODAR SCRIPT (CSV -> SQL -> APLICAR NO BANCO)")
-        print("4: PROCESSAR RELATÓRIOS + EXEMPLO DE QUERY")
-        print("5: SAIR")
+        print("3: IMPORTAR CSV (CSV -> SQL -> APLICAR NO BANCO)")
+        print("4: EXPORTAR CSV (CSV -> SQL -> APLICAR NO BANCO)")
+        print("5: PROCESSAR RELATÓRIOS + EXEMPLO DE QUERY")
+        print("6: SAIR")
         try:
             resposta_usuario = int(input("> ").strip())
             os.system('clear')
@@ -70,13 +71,16 @@ def main_admin(env):
             run(["psql", "-d", DBNAME, "-f", str(script_path)], env)
 
         elif resposta_usuario == 4:
+            run(["python3", "exportar_csv.py"], env)
+
+        elif resposta_usuario == 5:
             if existe_arquivo("processador_relatorios.py"):
-                run(["python3", "processador_relatorios.py"], env)
+                 run(["python3", "processador_relatorios.py"], env)
             else:
                 print("Arquivo processador_relatorios.py não encontrado; pulando...")
             run(["psql", "-d", DBNAME, "-c", "SELECT * FROM ordem_pagamentos LIMIT 5;"], env)
 
-        elif resposta_usuario == 5:
+        elif resposta_usuario == 6:
             print("Saindo...")
             break
 

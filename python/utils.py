@@ -71,3 +71,6 @@ def executar_processo(cmd, new_env):
     except subprocess.CalledProcessError as e:
         print(f"Erro: { e.stderr}")
         sys.exit(e.returncode)
+
+def run(cmd_list, env):
+    return subprocess.run(cmd_list, env=env, text=True)
