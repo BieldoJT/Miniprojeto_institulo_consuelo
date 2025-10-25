@@ -110,14 +110,15 @@ def validar():
             erros.append(f"matriculas.csv: id {m['id']} - status inválido")
         if not is_data(m["data_matricula"], com_tempo=True):
             erros.append(f"matriculas.csv: id {m['id']} - data_matricula inválida")
-        if m["data_conclusao"]:
-            if not is_data(m["data_conclusao"], com_tempo=True):
-                erros.append(f"matriculas.csv: id {m['id']} - data_conclusao inválida")
+        if m["data_conclusao"] != "default":
+            if m["status"] == "concluida":
+                if not is_data(m["data_conclusao"], com_tempo=True):
+                    erros.append(f"matriculas.csv: id {m['id']} - data_conclusao inválida")
 
     for pr in progresso:
         if pr["concluida"] not in {"true","false"}:
             erros.append(f"progresso_aulas.csv: matricula {pr['matricula_id']}, aula {pr['aulas_id']} - concluida deve ser true/false")
-        if pr["data_conclusao"] and not is_data(pr["data_conclusao"], com_tempo=True):
+        if pr["data_conclusao"] != "default" and not is_data(pr["data_conclusao"], com_tempo=True):
             erros.append(f"progresso_aulas.csv: matricula {pr['matricula_id']}, aula {pr['aulas_id']} - data_conclusao inválida")
 
     for av in avaliacoes:
