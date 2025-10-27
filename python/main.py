@@ -78,7 +78,6 @@ def main_admin(env):
                  run(["python3", "processador_relatorios.py"], env)
             else:
                 print("Arquivo processador_relatorios.py não encontrado; pulando...")
-            run(["psql", "-d", DBNAME, "-c", "SELECT * FROM ordem_pagamentos LIMIT 5;"], env)
 
         elif resposta_usuario == 6:
             print("Saindo...")
