@@ -200,13 +200,13 @@ def gerar_matriculas(quantidade, alunos, cursos):
             curso = random.choice(cursos)["id"]
         existentes.add((aluno, curso))
         data_m = utils.dt_ultimos_2_anos()
-        status = random.choices(
+        status_matricula = random.choices(
             ["pendente", "ativa", "concluida", "cancelada"],
             weights=[15, 55, 20, 10],
             k=1
         )[0]
         data_conc = None
-        if status == "concluida":
+        if status_matricula == "concluida":
             data_conc = (data_m + utils.timedelta(days=random.randint(5, 120)))
             if data_conc > utils.HOJE:
                 data_conc = utils.HOJE
@@ -215,7 +215,7 @@ def gerar_matriculas(quantidade, alunos, cursos):
             "aluno_id": aluno,
             "curso_id": curso,
             "data_matricula": data_m.strftime("%Y-%m-%d %H:%M:%S"),
-            "status": status,
+            "status_matricula": status_matricula,
             "data_conclusao": data_conc.strftime("%Y-%m-%d %H:%M:%S") if data_conc else "default"
         })
     return matriculas
@@ -270,7 +270,7 @@ def gerar_ordens_pagamento(matriculas, cursos):
         curso_id = m["curso_id"]
         valor = round(preco_por_curso.get(curso_id, 0.0), 2)
         # status-base: mais pendentes; parte paga; poucos cancelados/reembolsados
-        status = random.choices(
+        status_pagamento = random.choices(
             ["pendente", "ativa", "concluida", "cancelada"],
             weights=[35, 55, 5, 5],
             k=1
@@ -279,7 +279,7 @@ def gerar_ordens_pagamento(matriculas, cursos):
         criado_em = utils.datetime.fromisoformat(m["data_matricula"])
         # quando pago, definir pago_em alguns dias após criado_em (limitado a HOJE)
         pago_em = None
-        if status == "pago":
+        if status_pagamento == "pago":
             pago_em = criado_em + utils.timedelta(days=random.randint(1, 20))
             if pago_em > utils.HOJE:
                 pago_em = utils.HOJE
@@ -288,7 +288,7 @@ def gerar_ordens_pagamento(matriculas, cursos):
             "id": "default",  # manter vazio para o DB gerar (uuid_generate_v4())
             "matricula_id": m["id"],
             "valor_a_pagar": f"{valor:.2f}",
-            "status": status,
+            "status_pagamento": status_pagamento,
             "criado_em": criado_em.strftime("%Y-%m-%d %H:%M:%S"),
             "pago_em": pago_em.strftime("%Y-%m-%d %H:%M:%S") if pago_em else "default"
         })
@@ -312,19 +312,19 @@ def aplicar_regras_matricula_por_pagamento(matriculas, ordens):
         ultima = ordens_por_matriculas.get(m["id"])
         if not ultima:
             continue
-        st = ultima["status"]
+        st = ultima["status_pagamento"]
         if st == "pago":
-            m["status"] = "ativa"
+            m["status_matricula"] = "ativa"
         elif st in ("cancelado", "reembolsado"):
-            m["status"] = "cancelada"
+            m["status_matricula"] = "cancelada"
         # caso 'pendente' deixamos o status da matrícula como já estava
 
 def gerar_certificados(matriculas, ordens):
     # saber se foi pago
-    pago_por_m = {o["matricula_id"]: (o["status"] == "pago") for o in ordens}
+    pago_por_m = {o["matricula_id"]: (o["status_pagamento"] == "pago") for o in ordens}
     certificados = []
     for m in matriculas:
-        if m["status"] == "concluida":
+        if m["status_matricula"] == "concluida":
             data_criacao = None
             if m.get("data_conclusao") and m["data_conclusao"] != "default":
                 data_criacao = utils.datetime.strptime(m["data_conclusao"], "%Y-%m-%d %H:%M:%S")
@@ -373,13 +373,13 @@ def exportar_para_csv(alunos, instrutores, categorias, cursos,
     write_csv("modulos.csv", modulos, ["id", "curso_id", "titulo", "ordem", "descricao"])
     write_csv("aulas.csv", aulas, ["id", "modulo_id", "titulo", "ordem_aula", "duracao_minutos", "tipo"])
     write_csv("matriculas.csv", matriculas,
-               ["id", "aluno_id", "curso_id", "data_matricula", "status", "data_conclusao"])
+               ["id", "aluno_id", "curso_id", "data_matricula", "status_matricula", "data_conclusao"])
     write_csv("progresso_aulas.csv", progresso,
                ["matricula_id", "aulas_id", "concluida", "data_conclusao"])
     write_csv("avaliacoes.csv", avaliacoes,
                ["id", "matricula_id", "nota", "comentario", "data_avaliacao"])
     write_csv("ordem_pagamentos.csv", ordens,
-              ["id", "matricula_id", "valor_a_pagar", "status", "criado_em", "pago_em"])
+              ["id", "matricula_id", "valor_a_pagar", "status_pagamento", "criado_em", "pago_em"])
     write_csv("certificados.csv", certificados,
               ["id", "matricula_id", "data_criacao", "data_emissao"])
 

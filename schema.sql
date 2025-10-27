@@ -1,4 +1,3 @@
-\c postgres;
 DROP DATABASE IF EXISTS edutech;
 CREATE DATABASE edutech;
 \c edutech;
@@ -112,7 +111,7 @@ create table matriculas (
 	aluno_id integer not null references alunos(id) on delete cascade,
 	curso_id integer not null references cursos(id) on delete cascade,
 	data_matricula timestamp not null default now(),
-	status varchar(10) not null check(status in ('ativa', 'concluida', 'cancelada', 'pendente')) default 'pendente',
+	status_matricula varchar(12) not null check(status_matricula in ('ativa', 'concluida', 'cancelada', 'pendente')),
 	data_conclusao timestamp default null,
 	unique (aluno_id, curso_id)
 );
@@ -140,14 +139,14 @@ create table avaliacoes (
 
 
 comment on table matriculas is 'Informações das matriculas dos alunos nos cursos';
-comment on column matriculas.status is 'Situação da matricula do aluno';
+comment on column matriculas.status_matricula is 'Situação da matricula do aluno';
 
 drop table if exists ordem_pagamentos cascade;
 create table ordem_pagamentos (
 	id uuid primary key default uuid_generate_v4(),
 	matricula_id integer not null references matriculas(id) on delete cascade,
 	valor_a_pagar numeric(5,2) not null check(valor_a_pagar >= 0),
-	status varchar(20) not null check(status in ('pendente', 'pago','reembolsado' ,'cancelado')) default 'pendente',
+	status_pagamento varchar(20) not null check(status_pagamento in ('pendente', 'pago','reembolsado' ,'cancelado')),
 	criado_em timestamp not null default now(),
 	pago_em timestamp
 );
@@ -172,9 +171,9 @@ create index if not exists idx_avaliacoes_matricula on avaliacoes(matricula_id);
 create index if not exists idx_ordem_pg_matricula on ordem_pagamentos(matricula_id);
 
 -- outros indexes
-create index if not exists idx_matriculas_curso_ativas on matriculas(curso_id) where status='ativa';
+create index if not exists idx_matriculas_curso_ativas on matriculas(curso_id) where status_matricula='ativa';
 create index if not exists idx_certificados_matricula_a_emitir on certificados(matricula_id) where data_emissao is NULL;
-create index if not exists idx_ordem_pg_pendentes on ordem_pagamentos(matricula_id, criado_em) where status='pendente';
+create index if not exists idx_ordem_pg_pendentes on ordem_pagamentos(matricula_id, criado_em) where status_pagamento='pendente';
 
 
 
@@ -209,7 +208,7 @@ CREATE OR REPLACE VIEW v_faturamento_por_curso AS
 SELECT
   c.id AS curso_id,
   c.titulo,
-  SUM(CASE WHEN op.status='pago' THEN op.valor_a_pagar END) AS receita
+  SUM(CASE WHEN op.status_pagamento='pago' THEN op.valor_a_pagar END) AS receita
 FROM cursos c
 LEFT JOIN matriculas m        ON m.curso_id = c.id
 LEFT JOIN ordem_pagamentos op ON op.matricula_id = m.id
@@ -279,17 +278,17 @@ declare id_matricula integer;
 begin
 	select preco into preco_curso from cursos where id = new.curso_id ;
 	id_matricula := new.id;
-	if new.status = 'pendente' then
-		insert into ordem_pagamentos values (default, id_matricula, preco_curso, default, default);
+	if new.status_matricula = 'pendente' then
+		insert into ordem_pagamentos values (default, id_matricula, preco_curso, 'pendente', now(), default);
 	end if;
-	if new.status = 'ativa' then
-		insert into ordem_pagamentos values (default, id_matricula, preco_curso, 'pago', now(), default);
+	if new.status_matricula = 'ativa' then
+		insert into ordem_pagamentos values (default, id_matricula, preco_curso, 'pago', now(), now());
 	end if;
-	if new.status = 'concluida' then
-		insert into ordem_pagamentos values (default, id_matricula, preco_curso, 'pago', now(), default);
+	if new.status_matricula = 'concluida' then
+		insert into ordem_pagamentos values (default, id_matricula, preco_curso, 'pago', now(), now());
 	end if;
-	if new.status = 'cancelada' then
-		insert into ordem_pagamentos values (default, id_matricula, preco_curso, 'cancelado', default, default);
+	if new.status_matricula = 'cancelada' then
+		insert into ordem_pagamentos values (default, id_matricula, preco_curso, 'cancelado', now(), now());
 	end if;
 
 	return new;
@@ -301,15 +300,19 @@ returns trigger
 language plpgsql
 as $$
 declare id_matricula integer;
+declare st varchar(20);
 begin
+	select status_matricula into st from matriculas where id = new.matricula_id;
 	id_matricula := new.matricula_id;
-	if old.status is distinct from new.status then
-		if new.status = 'pago' then
+	if old.status_pagamento is distinct from new.status_pagamento then
+		if new.status_pagamento = 'pago' then
 			new.pago_em := now();
-			update matriculas set status = 'ativa' where id = id_matricula;
+			if st = 'pendente' then
+				update matriculas set status_matricula = 'ativa' where id = id_matricula;
+			end if;
 		end if;
-		if new.status = 'cancelado' or new.status = 'reembolsado' then
-			update matriculas set status = 'cancelada' where id = id_matricula;
+		if new.status_pagamento = 'cancelado' or new.status_pagamento = 'reembolsado' then
+			update matriculas set status_matricula = 'cancelada' where id = id_matricula;
 		end if;
 	end if;
 	return new;
@@ -321,11 +324,10 @@ returns trigger
 language plpgsql
 as $$
 begin
-	if old.status is distinct from new.status then
-		if new.status = 'concluida' then
-			insert into certificados values (default, new.id, default, default);
-		end if;
+	if new.status_matricula = 'concluida' then
+		insert into certificados values (default, new.id, default, default);
 	end if;
+
 	return new;
 end;
 $$;
@@ -336,9 +338,8 @@ $$;
 /*-----------------------------TRIGGERS-----------------------------------*/
 drop trigger if exists trg_gerar_certificado_em_status_concluida on matriculas;
 create trigger trg_gerar_certificado_em_status_concluida
-after update on matriculas
+after insert or update on matriculas
 for each row
-when (old.status is distinct from new.status and new.status = 'concluida')
 execute function gerar_certificato();
 
 

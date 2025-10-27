@@ -1,3 +1,7340 @@
 # Relatório de Validação
 
-✅ Nenhum erro encontrado.
+**Erros encontrados:** 7336
+
+- matriculas.csv: linha 2 - campo obrigatório vazio: status
+- matriculas.csv: linha 3 - campo obrigatório vazio: status
+- matriculas.csv: linha 4 - campo obrigatório vazio: status
+- matriculas.csv: linha 5 - campo obrigatório vazio: status
+- matriculas.csv: linha 6 - campo obrigatório vazio: status
+- matriculas.csv: linha 7 - campo obrigatório vazio: status
+- matriculas.csv: linha 8 - campo obrigatório vazio: status
+- matriculas.csv: linha 9 - campo obrigatório vazio: status
+- matriculas.csv: linha 10 - campo obrigatório vazio: status
+- matriculas.csv: linha 11 - campo obrigatório vazio: status
+- matriculas.csv: linha 12 - campo obrigatório vazio: status
+- matriculas.csv: linha 13 - campo obrigatório vazio: status
+- matriculas.csv: linha 14 - campo obrigatório vazio: status
+- matriculas.csv: linha 15 - campo obrigatório vazio: status
+- matriculas.csv: linha 16 - campo obrigatório vazio: status
+- matriculas.csv: linha 17 - campo obrigatório vazio: status
+- matriculas.csv: linha 18 - campo obrigatório vazio: status
+- matriculas.csv: linha 19 - campo obrigatório vazio: status
+- matriculas.csv: linha 20 - campo obrigatório vazio: status
+- matriculas.csv: linha 21 - campo obrigatório vazio: status
+- matriculas.csv: linha 22 - campo obrigatório vazio: status
+- matriculas.csv: linha 23 - campo obrigatório vazio: status
+- matriculas.csv: linha 24 - campo obrigatório vazio: status
+- matriculas.csv: linha 25 - campo obrigatório vazio: status
+- matriculas.csv: linha 26 - campo obrigatório vazio: status
+- matriculas.csv: linha 27 - campo obrigatório vazio: status
+- matriculas.csv: linha 28 - campo obrigatório vazio: status
+- matriculas.csv: linha 29 - campo obrigatório vazio: status
+- matriculas.csv: linha 30 - campo obrigatório vazio: status
+- matriculas.csv: linha 31 - campo obrigatório vazio: status
+- matriculas.csv: linha 32 - campo obrigatório vazio: status
+- matriculas.csv: linha 33 - campo obrigatório vazio: status
+- matriculas.csv: linha 34 - campo obrigatório vazio: status
+- matriculas.csv: linha 35 - campo obrigatório vazio: status
+- matriculas.csv: linha 36 - campo obrigatório vazio: status
+- matriculas.csv: linha 37 - campo obrigatório vazio: status
+- matriculas.csv: linha 38 - campo obrigatório vazio: status
+- matriculas.csv: linha 39 - campo obrigatório vazio: status
+- matriculas.csv: linha 40 - campo obrigatório vazio: status
+- matriculas.csv: linha 41 - campo obrigatório vazio: status
+- matriculas.csv: linha 42 - campo obrigatório vazio: status
+- matriculas.csv: linha 43 - campo obrigatório vazio: status
+- matriculas.csv: linha 44 - campo obrigatório vazio: status
+- matriculas.csv: linha 45 - campo obrigatório vazio: status
+- matriculas.csv: linha 46 - campo obrigatório vazio: status
+- matriculas.csv: linha 47 - campo obrigatório vazio: status
+- matriculas.csv: linha 48 - campo obrigatório vazio: status
+- matriculas.csv: linha 49 - campo obrigatório vazio: status
+- matriculas.csv: linha 50 - campo obrigatório vazio: status
+- matriculas.csv: linha 51 - campo obrigatório vazio: status
+- matriculas.csv: linha 52 - campo obrigatório vazio: status
+- matriculas.csv: linha 53 - campo obrigatório vazio: status
+- matriculas.csv: linha 54 - campo obrigatório vazio: status
+- matriculas.csv: linha 55 - campo obrigatório vazio: status
+- matriculas.csv: linha 56 - campo obrigatório vazio: status
+- matriculas.csv: linha 57 - campo obrigatório vazio: status
+- matriculas.csv: linha 58 - campo obrigatório vazio: status
+- matriculas.csv: linha 59 - campo obrigatório vazio: status
+- matriculas.csv: linha 60 - campo obrigatório vazio: status
+- matriculas.csv: linha 61 - campo obrigatório vazio: status
+- matriculas.csv: linha 62 - campo obrigatório vazio: status
+- matriculas.csv: linha 63 - campo obrigatório vazio: status
+- matriculas.csv: linha 64 - campo obrigatório vazio: status
+- matriculas.csv: linha 65 - campo obrigatório vazio: status
+- matriculas.csv: linha 66 - campo obrigatório vazio: status
+- matriculas.csv: linha 67 - campo obrigatório vazio: status
+- matriculas.csv: linha 68 - campo obrigatório vazio: status
+- matriculas.csv: linha 69 - campo obrigatório vazio: status
+- matriculas.csv: linha 70 - campo obrigatório vazio: status
+- matriculas.csv: linha 71 - campo obrigatório vazio: status
+- matriculas.csv: linha 72 - campo obrigatório vazio: status
+- matriculas.csv: linha 73 - campo obrigatório vazio: status
+- matriculas.csv: linha 74 - campo obrigatório vazio: status
+- matriculas.csv: linha 75 - campo obrigatório vazio: status
+- matriculas.csv: linha 76 - campo obrigatório vazio: status
+- matriculas.csv: linha 77 - campo obrigatório vazio: status
+- matriculas.csv: linha 78 - campo obrigatório vazio: status
+- matriculas.csv: linha 79 - campo obrigatório vazio: status
+- matriculas.csv: linha 80 - campo obrigatório vazio: status
+- matriculas.csv: linha 81 - campo obrigatório vazio: status
+- matriculas.csv: linha 82 - campo obrigatório vazio: status
+- matriculas.csv: linha 83 - campo obrigatório vazio: status
+- matriculas.csv: linha 84 - campo obrigatório vazio: status
+- matriculas.csv: linha 85 - campo obrigatório vazio: status
+- matriculas.csv: linha 86 - campo obrigatório vazio: status
+- matriculas.csv: linha 87 - campo obrigatório vazio: status
+- matriculas.csv: linha 88 - campo obrigatório vazio: status
+- matriculas.csv: linha 89 - campo obrigatório vazio: status
+- matriculas.csv: linha 90 - campo obrigatório vazio: status
+- matriculas.csv: linha 91 - campo obrigatório vazio: status
+- matriculas.csv: linha 92 - campo obrigatório vazio: status
+- matriculas.csv: linha 93 - campo obrigatório vazio: status
+- matriculas.csv: linha 94 - campo obrigatório vazio: status
+- matriculas.csv: linha 95 - campo obrigatório vazio: status
+- matriculas.csv: linha 96 - campo obrigatório vazio: status
+- matriculas.csv: linha 97 - campo obrigatório vazio: status
+- matriculas.csv: linha 98 - campo obrigatório vazio: status
+- matriculas.csv: linha 99 - campo obrigatório vazio: status
+- matriculas.csv: linha 100 - campo obrigatório vazio: status
+- matriculas.csv: linha 101 - campo obrigatório vazio: status
+- matriculas.csv: linha 102 - campo obrigatório vazio: status
+- matriculas.csv: linha 103 - campo obrigatório vazio: status
+- matriculas.csv: linha 104 - campo obrigatório vazio: status
+- matriculas.csv: linha 105 - campo obrigatório vazio: status
+- matriculas.csv: linha 106 - campo obrigatório vazio: status
+- matriculas.csv: linha 107 - campo obrigatório vazio: status
+- matriculas.csv: linha 108 - campo obrigatório vazio: status
+- matriculas.csv: linha 109 - campo obrigatório vazio: status
+- matriculas.csv: linha 110 - campo obrigatório vazio: status
+- matriculas.csv: linha 111 - campo obrigatório vazio: status
+- matriculas.csv: linha 112 - campo obrigatório vazio: status
+- matriculas.csv: linha 113 - campo obrigatório vazio: status
+- matriculas.csv: linha 114 - campo obrigatório vazio: status
+- matriculas.csv: linha 115 - campo obrigatório vazio: status
+- matriculas.csv: linha 116 - campo obrigatório vazio: status
+- matriculas.csv: linha 117 - campo obrigatório vazio: status
+- matriculas.csv: linha 118 - campo obrigatório vazio: status
+- matriculas.csv: linha 119 - campo obrigatório vazio: status
+- matriculas.csv: linha 120 - campo obrigatório vazio: status
+- matriculas.csv: linha 121 - campo obrigatório vazio: status
+- matriculas.csv: linha 122 - campo obrigatório vazio: status
+- matriculas.csv: linha 123 - campo obrigatório vazio: status
+- matriculas.csv: linha 124 - campo obrigatório vazio: status
+- matriculas.csv: linha 125 - campo obrigatório vazio: status
+- matriculas.csv: linha 126 - campo obrigatório vazio: status
+- matriculas.csv: linha 127 - campo obrigatório vazio: status
+- matriculas.csv: linha 128 - campo obrigatório vazio: status
+- matriculas.csv: linha 129 - campo obrigatório vazio: status
+- matriculas.csv: linha 130 - campo obrigatório vazio: status
+- matriculas.csv: linha 131 - campo obrigatório vazio: status
+- matriculas.csv: linha 132 - campo obrigatório vazio: status
+- matriculas.csv: linha 133 - campo obrigatório vazio: status
+- matriculas.csv: linha 134 - campo obrigatório vazio: status
+- matriculas.csv: linha 135 - campo obrigatório vazio: status
+- matriculas.csv: linha 136 - campo obrigatório vazio: status
+- matriculas.csv: linha 137 - campo obrigatório vazio: status
+- matriculas.csv: linha 138 - campo obrigatório vazio: status
+- matriculas.csv: linha 139 - campo obrigatório vazio: status
+- matriculas.csv: linha 140 - campo obrigatório vazio: status
+- matriculas.csv: linha 141 - campo obrigatório vazio: status
+- matriculas.csv: linha 142 - campo obrigatório vazio: status
+- matriculas.csv: linha 143 - campo obrigatório vazio: status
+- matriculas.csv: linha 144 - campo obrigatório vazio: status
+- matriculas.csv: linha 145 - campo obrigatório vazio: status
+- matriculas.csv: linha 146 - campo obrigatório vazio: status
+- matriculas.csv: linha 147 - campo obrigatório vazio: status
+- matriculas.csv: linha 148 - campo obrigatório vazio: status
+- matriculas.csv: linha 149 - campo obrigatório vazio: status
+- matriculas.csv: linha 150 - campo obrigatório vazio: status
+- matriculas.csv: linha 151 - campo obrigatório vazio: status
+- matriculas.csv: linha 152 - campo obrigatório vazio: status
+- matriculas.csv: linha 153 - campo obrigatório vazio: status
+- matriculas.csv: linha 154 - campo obrigatório vazio: status
+- matriculas.csv: linha 155 - campo obrigatório vazio: status
+- matriculas.csv: linha 156 - campo obrigatório vazio: status
+- matriculas.csv: linha 157 - campo obrigatório vazio: status
+- matriculas.csv: linha 158 - campo obrigatório vazio: status
+- matriculas.csv: linha 159 - campo obrigatório vazio: status
+- matriculas.csv: linha 160 - campo obrigatório vazio: status
+- matriculas.csv: linha 161 - campo obrigatório vazio: status
+- matriculas.csv: linha 162 - campo obrigatório vazio: status
+- matriculas.csv: linha 163 - campo obrigatório vazio: status
+- matriculas.csv: linha 164 - campo obrigatório vazio: status
+- matriculas.csv: linha 165 - campo obrigatório vazio: status
+- matriculas.csv: linha 166 - campo obrigatório vazio: status
+- matriculas.csv: linha 167 - campo obrigatório vazio: status
+- matriculas.csv: linha 168 - campo obrigatório vazio: status
+- matriculas.csv: linha 169 - campo obrigatório vazio: status
+- matriculas.csv: linha 170 - campo obrigatório vazio: status
+- matriculas.csv: linha 171 - campo obrigatório vazio: status
+- matriculas.csv: linha 172 - campo obrigatório vazio: status
+- matriculas.csv: linha 173 - campo obrigatório vazio: status
+- matriculas.csv: linha 174 - campo obrigatório vazio: status
+- matriculas.csv: linha 175 - campo obrigatório vazio: status
+- matriculas.csv: linha 176 - campo obrigatório vazio: status
+- matriculas.csv: linha 177 - campo obrigatório vazio: status
+- matriculas.csv: linha 178 - campo obrigatório vazio: status
+- matriculas.csv: linha 179 - campo obrigatório vazio: status
+- matriculas.csv: linha 180 - campo obrigatório vazio: status
+- matriculas.csv: linha 181 - campo obrigatório vazio: status
+- matriculas.csv: linha 182 - campo obrigatório vazio: status
+- matriculas.csv: linha 183 - campo obrigatório vazio: status
+- matriculas.csv: linha 184 - campo obrigatório vazio: status
+- matriculas.csv: linha 185 - campo obrigatório vazio: status
+- matriculas.csv: linha 186 - campo obrigatório vazio: status
+- matriculas.csv: linha 187 - campo obrigatório vazio: status
+- matriculas.csv: linha 188 - campo obrigatório vazio: status
+- matriculas.csv: linha 189 - campo obrigatório vazio: status
+- matriculas.csv: linha 190 - campo obrigatório vazio: status
+- matriculas.csv: linha 191 - campo obrigatório vazio: status
+- matriculas.csv: linha 192 - campo obrigatório vazio: status
+- matriculas.csv: linha 193 - campo obrigatório vazio: status
+- matriculas.csv: linha 194 - campo obrigatório vazio: status
+- matriculas.csv: linha 195 - campo obrigatório vazio: status
+- matriculas.csv: linha 196 - campo obrigatório vazio: status
+- matriculas.csv: linha 197 - campo obrigatório vazio: status
+- matriculas.csv: linha 198 - campo obrigatório vazio: status
+- matriculas.csv: linha 199 - campo obrigatório vazio: status
+- matriculas.csv: linha 200 - campo obrigatório vazio: status
+- matriculas.csv: linha 201 - campo obrigatório vazio: status
+- matriculas.csv: linha 202 - campo obrigatório vazio: status
+- matriculas.csv: linha 203 - campo obrigatório vazio: status
+- matriculas.csv: linha 204 - campo obrigatório vazio: status
+- matriculas.csv: linha 205 - campo obrigatório vazio: status
+- matriculas.csv: linha 206 - campo obrigatório vazio: status
+- matriculas.csv: linha 207 - campo obrigatório vazio: status
+- matriculas.csv: linha 208 - campo obrigatório vazio: status
+- matriculas.csv: linha 209 - campo obrigatório vazio: status
+- matriculas.csv: linha 210 - campo obrigatório vazio: status
+- matriculas.csv: linha 211 - campo obrigatório vazio: status
+- matriculas.csv: linha 212 - campo obrigatório vazio: status
+- matriculas.csv: linha 213 - campo obrigatório vazio: status
+- matriculas.csv: linha 214 - campo obrigatório vazio: status
+- matriculas.csv: linha 215 - campo obrigatório vazio: status
+- matriculas.csv: linha 216 - campo obrigatório vazio: status
+- matriculas.csv: linha 217 - campo obrigatório vazio: status
+- matriculas.csv: linha 218 - campo obrigatório vazio: status
+- matriculas.csv: linha 219 - campo obrigatório vazio: status
+- matriculas.csv: linha 220 - campo obrigatório vazio: status
+- matriculas.csv: linha 221 - campo obrigatório vazio: status
+- matriculas.csv: linha 222 - campo obrigatório vazio: status
+- matriculas.csv: linha 223 - campo obrigatório vazio: status
+- matriculas.csv: linha 224 - campo obrigatório vazio: status
+- matriculas.csv: linha 225 - campo obrigatório vazio: status
+- matriculas.csv: linha 226 - campo obrigatório vazio: status
+- matriculas.csv: linha 227 - campo obrigatório vazio: status
+- matriculas.csv: linha 228 - campo obrigatório vazio: status
+- matriculas.csv: linha 229 - campo obrigatório vazio: status
+- matriculas.csv: linha 230 - campo obrigatório vazio: status
+- matriculas.csv: linha 231 - campo obrigatório vazio: status
+- matriculas.csv: linha 232 - campo obrigatório vazio: status
+- matriculas.csv: linha 233 - campo obrigatório vazio: status
+- matriculas.csv: linha 234 - campo obrigatório vazio: status
+- matriculas.csv: linha 235 - campo obrigatório vazio: status
+- matriculas.csv: linha 236 - campo obrigatório vazio: status
+- matriculas.csv: linha 237 - campo obrigatório vazio: status
+- matriculas.csv: linha 238 - campo obrigatório vazio: status
+- matriculas.csv: linha 239 - campo obrigatório vazio: status
+- matriculas.csv: linha 240 - campo obrigatório vazio: status
+- matriculas.csv: linha 241 - campo obrigatório vazio: status
+- matriculas.csv: linha 242 - campo obrigatório vazio: status
+- matriculas.csv: linha 243 - campo obrigatório vazio: status
+- matriculas.csv: linha 244 - campo obrigatório vazio: status
+- matriculas.csv: linha 245 - campo obrigatório vazio: status
+- matriculas.csv: linha 246 - campo obrigatório vazio: status
+- matriculas.csv: linha 247 - campo obrigatório vazio: status
+- matriculas.csv: linha 248 - campo obrigatório vazio: status
+- matriculas.csv: linha 249 - campo obrigatório vazio: status
+- matriculas.csv: linha 250 - campo obrigatório vazio: status
+- matriculas.csv: linha 251 - campo obrigatório vazio: status
+- matriculas.csv: linha 252 - campo obrigatório vazio: status
+- matriculas.csv: linha 253 - campo obrigatório vazio: status
+- matriculas.csv: linha 254 - campo obrigatório vazio: status
+- matriculas.csv: linha 255 - campo obrigatório vazio: status
+- matriculas.csv: linha 256 - campo obrigatório vazio: status
+- matriculas.csv: linha 257 - campo obrigatório vazio: status
+- matriculas.csv: linha 258 - campo obrigatório vazio: status
+- matriculas.csv: linha 259 - campo obrigatório vazio: status
+- matriculas.csv: linha 260 - campo obrigatório vazio: status
+- matriculas.csv: linha 261 - campo obrigatório vazio: status
+- matriculas.csv: linha 262 - campo obrigatório vazio: status
+- matriculas.csv: linha 263 - campo obrigatório vazio: status
+- matriculas.csv: linha 264 - campo obrigatório vazio: status
+- matriculas.csv: linha 265 - campo obrigatório vazio: status
+- matriculas.csv: linha 266 - campo obrigatório vazio: status
+- matriculas.csv: linha 267 - campo obrigatório vazio: status
+- matriculas.csv: linha 268 - campo obrigatório vazio: status
+- matriculas.csv: linha 269 - campo obrigatório vazio: status
+- matriculas.csv: linha 270 - campo obrigatório vazio: status
+- matriculas.csv: linha 271 - campo obrigatório vazio: status
+- matriculas.csv: linha 272 - campo obrigatório vazio: status
+- matriculas.csv: linha 273 - campo obrigatório vazio: status
+- matriculas.csv: linha 274 - campo obrigatório vazio: status
+- matriculas.csv: linha 275 - campo obrigatório vazio: status
+- matriculas.csv: linha 276 - campo obrigatório vazio: status
+- matriculas.csv: linha 277 - campo obrigatório vazio: status
+- matriculas.csv: linha 278 - campo obrigatório vazio: status
+- matriculas.csv: linha 279 - campo obrigatório vazio: status
+- matriculas.csv: linha 280 - campo obrigatório vazio: status
+- matriculas.csv: linha 281 - campo obrigatório vazio: status
+- matriculas.csv: linha 282 - campo obrigatório vazio: status
+- matriculas.csv: linha 283 - campo obrigatório vazio: status
+- matriculas.csv: linha 284 - campo obrigatório vazio: status
+- matriculas.csv: linha 285 - campo obrigatório vazio: status
+- matriculas.csv: linha 286 - campo obrigatório vazio: status
+- matriculas.csv: linha 287 - campo obrigatório vazio: status
+- matriculas.csv: linha 288 - campo obrigatório vazio: status
+- matriculas.csv: linha 289 - campo obrigatório vazio: status
+- matriculas.csv: linha 290 - campo obrigatório vazio: status
+- matriculas.csv: linha 291 - campo obrigatório vazio: status
+- matriculas.csv: linha 292 - campo obrigatório vazio: status
+- matriculas.csv: linha 293 - campo obrigatório vazio: status
+- matriculas.csv: linha 294 - campo obrigatório vazio: status
+- matriculas.csv: linha 295 - campo obrigatório vazio: status
+- matriculas.csv: linha 296 - campo obrigatório vazio: status
+- matriculas.csv: linha 297 - campo obrigatório vazio: status
+- matriculas.csv: linha 298 - campo obrigatório vazio: status
+- matriculas.csv: linha 299 - campo obrigatório vazio: status
+- matriculas.csv: linha 300 - campo obrigatório vazio: status
+- matriculas.csv: linha 301 - campo obrigatório vazio: status
+- matriculas.csv: linha 302 - campo obrigatório vazio: status
+- matriculas.csv: linha 303 - campo obrigatório vazio: status
+- matriculas.csv: linha 304 - campo obrigatório vazio: status
+- matriculas.csv: linha 305 - campo obrigatório vazio: status
+- matriculas.csv: linha 306 - campo obrigatório vazio: status
+- matriculas.csv: linha 307 - campo obrigatório vazio: status
+- matriculas.csv: linha 308 - campo obrigatório vazio: status
+- matriculas.csv: linha 309 - campo obrigatório vazio: status
+- matriculas.csv: linha 310 - campo obrigatório vazio: status
+- matriculas.csv: linha 311 - campo obrigatório vazio: status
+- matriculas.csv: linha 312 - campo obrigatório vazio: status
+- matriculas.csv: linha 313 - campo obrigatório vazio: status
+- matriculas.csv: linha 314 - campo obrigatório vazio: status
+- matriculas.csv: linha 315 - campo obrigatório vazio: status
+- matriculas.csv: linha 316 - campo obrigatório vazio: status
+- matriculas.csv: linha 317 - campo obrigatório vazio: status
+- matriculas.csv: linha 318 - campo obrigatório vazio: status
+- matriculas.csv: linha 319 - campo obrigatório vazio: status
+- matriculas.csv: linha 320 - campo obrigatório vazio: status
+- matriculas.csv: linha 321 - campo obrigatório vazio: status
+- matriculas.csv: linha 322 - campo obrigatório vazio: status
+- matriculas.csv: linha 323 - campo obrigatório vazio: status
+- matriculas.csv: linha 324 - campo obrigatório vazio: status
+- matriculas.csv: linha 325 - campo obrigatório vazio: status
+- matriculas.csv: linha 326 - campo obrigatório vazio: status
+- matriculas.csv: linha 327 - campo obrigatório vazio: status
+- matriculas.csv: linha 328 - campo obrigatório vazio: status
+- matriculas.csv: linha 329 - campo obrigatório vazio: status
+- matriculas.csv: linha 330 - campo obrigatório vazio: status
+- matriculas.csv: linha 331 - campo obrigatório vazio: status
+- matriculas.csv: linha 332 - campo obrigatório vazio: status
+- matriculas.csv: linha 333 - campo obrigatório vazio: status
+- matriculas.csv: linha 334 - campo obrigatório vazio: status
+- matriculas.csv: linha 335 - campo obrigatório vazio: status
+- matriculas.csv: linha 336 - campo obrigatório vazio: status
+- matriculas.csv: linha 337 - campo obrigatório vazio: status
+- matriculas.csv: linha 338 - campo obrigatório vazio: status
+- matriculas.csv: linha 339 - campo obrigatório vazio: status
+- matriculas.csv: linha 340 - campo obrigatório vazio: status
+- matriculas.csv: linha 341 - campo obrigatório vazio: status
+- matriculas.csv: linha 342 - campo obrigatório vazio: status
+- matriculas.csv: linha 343 - campo obrigatório vazio: status
+- matriculas.csv: linha 344 - campo obrigatório vazio: status
+- matriculas.csv: linha 345 - campo obrigatório vazio: status
+- matriculas.csv: linha 346 - campo obrigatório vazio: status
+- matriculas.csv: linha 347 - campo obrigatório vazio: status
+- matriculas.csv: linha 348 - campo obrigatório vazio: status
+- matriculas.csv: linha 349 - campo obrigatório vazio: status
+- matriculas.csv: linha 350 - campo obrigatório vazio: status
+- matriculas.csv: linha 351 - campo obrigatório vazio: status
+- matriculas.csv: linha 352 - campo obrigatório vazio: status
+- matriculas.csv: linha 353 - campo obrigatório vazio: status
+- matriculas.csv: linha 354 - campo obrigatório vazio: status
+- matriculas.csv: linha 355 - campo obrigatório vazio: status
+- matriculas.csv: linha 356 - campo obrigatório vazio: status
+- matriculas.csv: linha 357 - campo obrigatório vazio: status
+- matriculas.csv: linha 358 - campo obrigatório vazio: status
+- matriculas.csv: linha 359 - campo obrigatório vazio: status
+- matriculas.csv: linha 360 - campo obrigatório vazio: status
+- matriculas.csv: linha 361 - campo obrigatório vazio: status
+- matriculas.csv: linha 362 - campo obrigatório vazio: status
+- matriculas.csv: linha 363 - campo obrigatório vazio: status
+- matriculas.csv: linha 364 - campo obrigatório vazio: status
+- matriculas.csv: linha 365 - campo obrigatório vazio: status
+- matriculas.csv: linha 366 - campo obrigatório vazio: status
+- matriculas.csv: linha 367 - campo obrigatório vazio: status
+- matriculas.csv: linha 368 - campo obrigatório vazio: status
+- matriculas.csv: linha 369 - campo obrigatório vazio: status
+- matriculas.csv: linha 370 - campo obrigatório vazio: status
+- matriculas.csv: linha 371 - campo obrigatório vazio: status
+- matriculas.csv: linha 372 - campo obrigatório vazio: status
+- matriculas.csv: linha 373 - campo obrigatório vazio: status
+- matriculas.csv: linha 374 - campo obrigatório vazio: status
+- matriculas.csv: linha 375 - campo obrigatório vazio: status
+- matriculas.csv: linha 376 - campo obrigatório vazio: status
+- matriculas.csv: linha 377 - campo obrigatório vazio: status
+- matriculas.csv: linha 378 - campo obrigatório vazio: status
+- matriculas.csv: linha 379 - campo obrigatório vazio: status
+- matriculas.csv: linha 380 - campo obrigatório vazio: status
+- matriculas.csv: linha 381 - campo obrigatório vazio: status
+- matriculas.csv: linha 382 - campo obrigatório vazio: status
+- matriculas.csv: linha 383 - campo obrigatório vazio: status
+- matriculas.csv: linha 384 - campo obrigatório vazio: status
+- matriculas.csv: linha 385 - campo obrigatório vazio: status
+- matriculas.csv: linha 386 - campo obrigatório vazio: status
+- matriculas.csv: linha 387 - campo obrigatório vazio: status
+- matriculas.csv: linha 388 - campo obrigatório vazio: status
+- matriculas.csv: linha 389 - campo obrigatório vazio: status
+- matriculas.csv: linha 390 - campo obrigatório vazio: status
+- matriculas.csv: linha 391 - campo obrigatório vazio: status
+- matriculas.csv: linha 392 - campo obrigatório vazio: status
+- matriculas.csv: linha 393 - campo obrigatório vazio: status
+- matriculas.csv: linha 394 - campo obrigatório vazio: status
+- matriculas.csv: linha 395 - campo obrigatório vazio: status
+- matriculas.csv: linha 396 - campo obrigatório vazio: status
+- matriculas.csv: linha 397 - campo obrigatório vazio: status
+- matriculas.csv: linha 398 - campo obrigatório vazio: status
+- matriculas.csv: linha 399 - campo obrigatório vazio: status
+- matriculas.csv: linha 400 - campo obrigatório vazio: status
+- matriculas.csv: linha 401 - campo obrigatório vazio: status
+- matriculas.csv: linha 402 - campo obrigatório vazio: status
+- matriculas.csv: linha 403 - campo obrigatório vazio: status
+- matriculas.csv: linha 404 - campo obrigatório vazio: status
+- matriculas.csv: linha 405 - campo obrigatório vazio: status
+- matriculas.csv: linha 406 - campo obrigatório vazio: status
+- matriculas.csv: linha 407 - campo obrigatório vazio: status
+- matriculas.csv: linha 408 - campo obrigatório vazio: status
+- matriculas.csv: linha 409 - campo obrigatório vazio: status
+- matriculas.csv: linha 410 - campo obrigatório vazio: status
+- matriculas.csv: linha 411 - campo obrigatório vazio: status
+- matriculas.csv: linha 412 - campo obrigatório vazio: status
+- matriculas.csv: linha 413 - campo obrigatório vazio: status
+- matriculas.csv: linha 414 - campo obrigatório vazio: status
+- matriculas.csv: linha 415 - campo obrigatório vazio: status
+- matriculas.csv: linha 416 - campo obrigatório vazio: status
+- matriculas.csv: linha 417 - campo obrigatório vazio: status
+- matriculas.csv: linha 418 - campo obrigatório vazio: status
+- matriculas.csv: linha 419 - campo obrigatório vazio: status
+- matriculas.csv: linha 420 - campo obrigatório vazio: status
+- matriculas.csv: linha 421 - campo obrigatório vazio: status
+- matriculas.csv: linha 422 - campo obrigatório vazio: status
+- matriculas.csv: linha 423 - campo obrigatório vazio: status
+- matriculas.csv: linha 424 - campo obrigatório vazio: status
+- matriculas.csv: linha 425 - campo obrigatório vazio: status
+- matriculas.csv: linha 426 - campo obrigatório vazio: status
+- matriculas.csv: linha 427 - campo obrigatório vazio: status
+- matriculas.csv: linha 428 - campo obrigatório vazio: status
+- matriculas.csv: linha 429 - campo obrigatório vazio: status
+- matriculas.csv: linha 430 - campo obrigatório vazio: status
+- matriculas.csv: linha 431 - campo obrigatório vazio: status
+- matriculas.csv: linha 432 - campo obrigatório vazio: status
+- matriculas.csv: linha 433 - campo obrigatório vazio: status
+- matriculas.csv: linha 434 - campo obrigatório vazio: status
+- matriculas.csv: linha 435 - campo obrigatório vazio: status
+- matriculas.csv: linha 436 - campo obrigatório vazio: status
+- matriculas.csv: linha 437 - campo obrigatório vazio: status
+- matriculas.csv: linha 438 - campo obrigatório vazio: status
+- matriculas.csv: linha 439 - campo obrigatório vazio: status
+- matriculas.csv: linha 440 - campo obrigatório vazio: status
+- matriculas.csv: linha 441 - campo obrigatório vazio: status
+- matriculas.csv: linha 442 - campo obrigatório vazio: status
+- matriculas.csv: linha 443 - campo obrigatório vazio: status
+- matriculas.csv: linha 444 - campo obrigatório vazio: status
+- matriculas.csv: linha 445 - campo obrigatório vazio: status
+- matriculas.csv: linha 446 - campo obrigatório vazio: status
+- matriculas.csv: linha 447 - campo obrigatório vazio: status
+- matriculas.csv: linha 448 - campo obrigatório vazio: status
+- matriculas.csv: linha 449 - campo obrigatório vazio: status
+- matriculas.csv: linha 450 - campo obrigatório vazio: status
+- matriculas.csv: linha 451 - campo obrigatório vazio: status
+- matriculas.csv: linha 452 - campo obrigatório vazio: status
+- matriculas.csv: linha 453 - campo obrigatório vazio: status
+- matriculas.csv: linha 454 - campo obrigatório vazio: status
+- matriculas.csv: linha 455 - campo obrigatório vazio: status
+- matriculas.csv: linha 456 - campo obrigatório vazio: status
+- matriculas.csv: linha 457 - campo obrigatório vazio: status
+- matriculas.csv: linha 458 - campo obrigatório vazio: status
+- matriculas.csv: linha 459 - campo obrigatório vazio: status
+- matriculas.csv: linha 460 - campo obrigatório vazio: status
+- matriculas.csv: linha 461 - campo obrigatório vazio: status
+- matriculas.csv: linha 462 - campo obrigatório vazio: status
+- matriculas.csv: linha 463 - campo obrigatório vazio: status
+- matriculas.csv: linha 464 - campo obrigatório vazio: status
+- matriculas.csv: linha 465 - campo obrigatório vazio: status
+- matriculas.csv: linha 466 - campo obrigatório vazio: status
+- matriculas.csv: linha 467 - campo obrigatório vazio: status
+- matriculas.csv: linha 468 - campo obrigatório vazio: status
+- matriculas.csv: linha 469 - campo obrigatório vazio: status
+- matriculas.csv: linha 470 - campo obrigatório vazio: status
+- matriculas.csv: linha 471 - campo obrigatório vazio: status
+- matriculas.csv: linha 472 - campo obrigatório vazio: status
+- matriculas.csv: linha 473 - campo obrigatório vazio: status
+- matriculas.csv: linha 474 - campo obrigatório vazio: status
+- matriculas.csv: linha 475 - campo obrigatório vazio: status
+- matriculas.csv: linha 476 - campo obrigatório vazio: status
+- matriculas.csv: linha 477 - campo obrigatório vazio: status
+- matriculas.csv: linha 478 - campo obrigatório vazio: status
+- matriculas.csv: linha 479 - campo obrigatório vazio: status
+- matriculas.csv: linha 480 - campo obrigatório vazio: status
+- matriculas.csv: linha 481 - campo obrigatório vazio: status
+- matriculas.csv: linha 482 - campo obrigatório vazio: status
+- matriculas.csv: linha 483 - campo obrigatório vazio: status
+- matriculas.csv: linha 484 - campo obrigatório vazio: status
+- matriculas.csv: linha 485 - campo obrigatório vazio: status
+- matriculas.csv: linha 486 - campo obrigatório vazio: status
+- matriculas.csv: linha 487 - campo obrigatório vazio: status
+- matriculas.csv: linha 488 - campo obrigatório vazio: status
+- matriculas.csv: linha 489 - campo obrigatório vazio: status
+- matriculas.csv: linha 490 - campo obrigatório vazio: status
+- matriculas.csv: linha 491 - campo obrigatório vazio: status
+- matriculas.csv: linha 492 - campo obrigatório vazio: status
+- matriculas.csv: linha 493 - campo obrigatório vazio: status
+- matriculas.csv: linha 494 - campo obrigatório vazio: status
+- matriculas.csv: linha 495 - campo obrigatório vazio: status
+- matriculas.csv: linha 496 - campo obrigatório vazio: status
+- matriculas.csv: linha 497 - campo obrigatório vazio: status
+- matriculas.csv: linha 498 - campo obrigatório vazio: status
+- matriculas.csv: linha 499 - campo obrigatório vazio: status
+- matriculas.csv: linha 500 - campo obrigatório vazio: status
+- matriculas.csv: linha 501 - campo obrigatório vazio: status
+- matriculas.csv: linha 502 - campo obrigatório vazio: status
+- matriculas.csv: linha 503 - campo obrigatório vazio: status
+- matriculas.csv: linha 504 - campo obrigatório vazio: status
+- matriculas.csv: linha 505 - campo obrigatório vazio: status
+- matriculas.csv: linha 506 - campo obrigatório vazio: status
+- matriculas.csv: linha 507 - campo obrigatório vazio: status
+- matriculas.csv: linha 508 - campo obrigatório vazio: status
+- matriculas.csv: linha 509 - campo obrigatório vazio: status
+- matriculas.csv: linha 510 - campo obrigatório vazio: status
+- matriculas.csv: linha 511 - campo obrigatório vazio: status
+- matriculas.csv: linha 512 - campo obrigatório vazio: status
+- matriculas.csv: linha 513 - campo obrigatório vazio: status
+- matriculas.csv: linha 514 - campo obrigatório vazio: status
+- matriculas.csv: linha 515 - campo obrigatório vazio: status
+- matriculas.csv: linha 516 - campo obrigatório vazio: status
+- matriculas.csv: linha 517 - campo obrigatório vazio: status
+- matriculas.csv: linha 518 - campo obrigatório vazio: status
+- matriculas.csv: linha 519 - campo obrigatório vazio: status
+- matriculas.csv: linha 520 - campo obrigatório vazio: status
+- matriculas.csv: linha 521 - campo obrigatório vazio: status
+- matriculas.csv: linha 522 - campo obrigatório vazio: status
+- matriculas.csv: linha 523 - campo obrigatório vazio: status
+- matriculas.csv: linha 524 - campo obrigatório vazio: status
+- matriculas.csv: linha 525 - campo obrigatório vazio: status
+- matriculas.csv: linha 526 - campo obrigatório vazio: status
+- matriculas.csv: linha 527 - campo obrigatório vazio: status
+- matriculas.csv: linha 528 - campo obrigatório vazio: status
+- matriculas.csv: linha 529 - campo obrigatório vazio: status
+- matriculas.csv: linha 530 - campo obrigatório vazio: status
+- matriculas.csv: linha 531 - campo obrigatório vazio: status
+- matriculas.csv: linha 532 - campo obrigatório vazio: status
+- matriculas.csv: linha 533 - campo obrigatório vazio: status
+- matriculas.csv: linha 534 - campo obrigatório vazio: status
+- matriculas.csv: linha 535 - campo obrigatório vazio: status
+- matriculas.csv: linha 536 - campo obrigatório vazio: status
+- matriculas.csv: linha 537 - campo obrigatório vazio: status
+- matriculas.csv: linha 538 - campo obrigatório vazio: status
+- matriculas.csv: linha 539 - campo obrigatório vazio: status
+- matriculas.csv: linha 540 - campo obrigatório vazio: status
+- matriculas.csv: linha 541 - campo obrigatório vazio: status
+- matriculas.csv: linha 542 - campo obrigatório vazio: status
+- matriculas.csv: linha 543 - campo obrigatório vazio: status
+- matriculas.csv: linha 544 - campo obrigatório vazio: status
+- matriculas.csv: linha 545 - campo obrigatório vazio: status
+- matriculas.csv: linha 546 - campo obrigatório vazio: status
+- matriculas.csv: linha 547 - campo obrigatório vazio: status
+- matriculas.csv: linha 548 - campo obrigatório vazio: status
+- matriculas.csv: linha 549 - campo obrigatório vazio: status
+- matriculas.csv: linha 550 - campo obrigatório vazio: status
+- matriculas.csv: linha 551 - campo obrigatório vazio: status
+- matriculas.csv: linha 552 - campo obrigatório vazio: status
+- matriculas.csv: linha 553 - campo obrigatório vazio: status
+- matriculas.csv: linha 554 - campo obrigatório vazio: status
+- matriculas.csv: linha 555 - campo obrigatório vazio: status
+- matriculas.csv: linha 556 - campo obrigatório vazio: status
+- matriculas.csv: linha 557 - campo obrigatório vazio: status
+- matriculas.csv: linha 558 - campo obrigatório vazio: status
+- matriculas.csv: linha 559 - campo obrigatório vazio: status
+- matriculas.csv: linha 560 - campo obrigatório vazio: status
+- matriculas.csv: linha 561 - campo obrigatório vazio: status
+- matriculas.csv: linha 562 - campo obrigatório vazio: status
+- matriculas.csv: linha 563 - campo obrigatório vazio: status
+- matriculas.csv: linha 564 - campo obrigatório vazio: status
+- matriculas.csv: linha 565 - campo obrigatório vazio: status
+- matriculas.csv: linha 566 - campo obrigatório vazio: status
+- matriculas.csv: linha 567 - campo obrigatório vazio: status
+- matriculas.csv: linha 568 - campo obrigatório vazio: status
+- matriculas.csv: linha 569 - campo obrigatório vazio: status
+- matriculas.csv: linha 570 - campo obrigatório vazio: status
+- matriculas.csv: linha 571 - campo obrigatório vazio: status
+- matriculas.csv: linha 572 - campo obrigatório vazio: status
+- matriculas.csv: linha 573 - campo obrigatório vazio: status
+- matriculas.csv: linha 574 - campo obrigatório vazio: status
+- matriculas.csv: linha 575 - campo obrigatório vazio: status
+- matriculas.csv: linha 576 - campo obrigatório vazio: status
+- matriculas.csv: linha 577 - campo obrigatório vazio: status
+- matriculas.csv: linha 578 - campo obrigatório vazio: status
+- matriculas.csv: linha 579 - campo obrigatório vazio: status
+- matriculas.csv: linha 580 - campo obrigatório vazio: status
+- matriculas.csv: linha 581 - campo obrigatório vazio: status
+- matriculas.csv: linha 582 - campo obrigatório vazio: status
+- matriculas.csv: linha 583 - campo obrigatório vazio: status
+- matriculas.csv: linha 584 - campo obrigatório vazio: status
+- matriculas.csv: linha 585 - campo obrigatório vazio: status
+- matriculas.csv: linha 586 - campo obrigatório vazio: status
+- matriculas.csv: linha 587 - campo obrigatório vazio: status
+- matriculas.csv: linha 588 - campo obrigatório vazio: status
+- matriculas.csv: linha 589 - campo obrigatório vazio: status
+- matriculas.csv: linha 590 - campo obrigatório vazio: status
+- matriculas.csv: linha 591 - campo obrigatório vazio: status
+- matriculas.csv: linha 592 - campo obrigatório vazio: status
+- matriculas.csv: linha 593 - campo obrigatório vazio: status
+- matriculas.csv: linha 594 - campo obrigatório vazio: status
+- matriculas.csv: linha 595 - campo obrigatório vazio: status
+- matriculas.csv: linha 596 - campo obrigatório vazio: status
+- matriculas.csv: linha 597 - campo obrigatório vazio: status
+- matriculas.csv: linha 598 - campo obrigatório vazio: status
+- matriculas.csv: linha 599 - campo obrigatório vazio: status
+- matriculas.csv: linha 600 - campo obrigatório vazio: status
+- matriculas.csv: linha 601 - campo obrigatório vazio: status
+- progresso_aulas.csv: matricula 1, aula 1283 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 1, aula 2093 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 1, aula 2932 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 1, aula 3199 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 1, aula 3040 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 1, aula 2082 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 2, aula 2063 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 2, aula 2353 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 2, aula 2353 - data_conclusao inválida
+- progresso_aulas.csv: matricula 2, aula 2582 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 2, aula 2246 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 2, aula 2246 - data_conclusao inválida
+- progresso_aulas.csv: matricula 2, aula 3007 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 2, aula 1713 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 3, aula 1103 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 3, aula 1103 - data_conclusao inválida
+- progresso_aulas.csv: matricula 3, aula 799 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 3, aula 799 - data_conclusao inválida
+- progresso_aulas.csv: matricula 3, aula 3425 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 3, aula 2357 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 3, aula 1201 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 3, aula 1201 - data_conclusao inválida
+- progresso_aulas.csv: matricula 3, aula 3732 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 3, aula 1000 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 3, aula 1000 - data_conclusao inválida
+- progresso_aulas.csv: matricula 3, aula 1347 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 3, aula 996 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 3, aula 996 - data_conclusao inválida
+- progresso_aulas.csv: matricula 3, aula 3273 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 4, aula 327 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 4, aula 327 - data_conclusao inválida
+- progresso_aulas.csv: matricula 4, aula 1442 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 4, aula 2296 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 4, aula 2296 - data_conclusao inválida
+- progresso_aulas.csv: matricula 4, aula 2072 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 4, aula 314 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 4, aula 314 - data_conclusao inválida
+- progresso_aulas.csv: matricula 4, aula 3747 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 4, aula 3747 - data_conclusao inválida
+- progresso_aulas.csv: matricula 4, aula 1484 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 4, aula 2677 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 4, aula 1984 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 5, aula 3181 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 5, aula 3181 - data_conclusao inválida
+- progresso_aulas.csv: matricula 5, aula 3725 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 5, aula 1670 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 5, aula 1670 - data_conclusao inválida
+- progresso_aulas.csv: matricula 5, aula 2762 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 5, aula 2762 - data_conclusao inválida
+- progresso_aulas.csv: matricula 5, aula 2396 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 5, aula 2396 - data_conclusao inválida
+- progresso_aulas.csv: matricula 5, aula 2728 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 5, aula 566 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 5, aula 566 - data_conclusao inválida
+- progresso_aulas.csv: matricula 5, aula 2481 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 5, aula 2481 - data_conclusao inválida
+- progresso_aulas.csv: matricula 5, aula 1067 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 5, aula 1067 - data_conclusao inválida
+- progresso_aulas.csv: matricula 5, aula 3260 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 5, aula 3260 - data_conclusao inválida
+- progresso_aulas.csv: matricula 5, aula 1176 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 6, aula 2360 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 6, aula 2360 - data_conclusao inválida
+- progresso_aulas.csv: matricula 6, aula 2025 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 6, aula 2592 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 6, aula 3611 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 6, aula 3611 - data_conclusao inválida
+- progresso_aulas.csv: matricula 6, aula 3165 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 6, aula 3165 - data_conclusao inválida
+- progresso_aulas.csv: matricula 6, aula 812 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 6, aula 812 - data_conclusao inválida
+- progresso_aulas.csv: matricula 6, aula 3686 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 6, aula 3686 - data_conclusao inválida
+- progresso_aulas.csv: matricula 6, aula 737 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 6, aula 737 - data_conclusao inválida
+- progresso_aulas.csv: matricula 6, aula 3590 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 6, aula 3590 - data_conclusao inválida
+- progresso_aulas.csv: matricula 6, aula 1860 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 6, aula 1860 - data_conclusao inválida
+- progresso_aulas.csv: matricula 6, aula 64 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 6, aula 64 - data_conclusao inválida
+- progresso_aulas.csv: matricula 7, aula 3810 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 7, aula 1925 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 7, aula 3043 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 7, aula 414 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 7, aula 518 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 7, aula 3562 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 7, aula 140 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 7, aula 3416 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 7, aula 1768 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 7, aula 99 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 7, aula 2827 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 8, aula 3026 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 8, aula 3026 - data_conclusao inválida
+- progresso_aulas.csv: matricula 8, aula 3772 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 8, aula 3772 - data_conclusao inválida
+- progresso_aulas.csv: matricula 8, aula 1454 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 8, aula 1454 - data_conclusao inválida
+- progresso_aulas.csv: matricula 9, aula 2584 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 9, aula 1843 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 9, aula 3034 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 9, aula 3420 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 9, aula 3420 - data_conclusao inválida
+- progresso_aulas.csv: matricula 9, aula 1785 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 9, aula 1185 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 9, aula 1185 - data_conclusao inválida
+- progresso_aulas.csv: matricula 9, aula 3104 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 9, aula 3104 - data_conclusao inválida
+- progresso_aulas.csv: matricula 9, aula 1955 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 9, aula 2868 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 9, aula 552 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 9, aula 552 - data_conclusao inválida
+- progresso_aulas.csv: matricula 10, aula 724 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 10, aula 2084 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 10, aula 2960 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 10, aula 2409 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 10, aula 1145 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 10, aula 3870 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 10, aula 3870 - data_conclusao inválida
+- progresso_aulas.csv: matricula 10, aula 3167 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 10, aula 397 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 11, aula 1764 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 11, aula 1764 - data_conclusao inválida
+- progresso_aulas.csv: matricula 11, aula 2127 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 11, aula 2127 - data_conclusao inválida
+- progresso_aulas.csv: matricula 11, aula 1140 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 12, aula 408 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 12, aula 408 - data_conclusao inválida
+- progresso_aulas.csv: matricula 12, aula 1423 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 12, aula 1167 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 12, aula 1167 - data_conclusao inválida
+- progresso_aulas.csv: matricula 12, aula 679 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 12, aula 486 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 12, aula 1180 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 12, aula 1180 - data_conclusao inválida
+- progresso_aulas.csv: matricula 12, aula 1122 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 12, aula 1122 - data_conclusao inválida
+- progresso_aulas.csv: matricula 12, aula 1994 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 12, aula 1994 - data_conclusao inválida
+- progresso_aulas.csv: matricula 12, aula 1798 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 12, aula 1798 - data_conclusao inválida
+- progresso_aulas.csv: matricula 12, aula 917 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 12, aula 3627 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 12, aula 3627 - data_conclusao inválida
+- progresso_aulas.csv: matricula 12, aula 694 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 13, aula 3092 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 13, aula 692 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 13, aula 113 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 13, aula 2452 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 13, aula 3697 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 13, aula 163 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 13, aula 3649 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 13, aula 3649 - data_conclusao inválida
+- progresso_aulas.csv: matricula 13, aula 2212 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 13, aula 2204 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 13, aula 2204 - data_conclusao inválida
+- progresso_aulas.csv: matricula 13, aula 3273 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 13, aula 3273 - data_conclusao inválida
+- progresso_aulas.csv: matricula 13, aula 800 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 14, aula 1821 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 14, aula 1821 - data_conclusao inválida
+- progresso_aulas.csv: matricula 14, aula 3641 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 14, aula 3641 - data_conclusao inválida
+- progresso_aulas.csv: matricula 14, aula 1771 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 14, aula 1771 - data_conclusao inválida
+- progresso_aulas.csv: matricula 14, aula 2021 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 14, aula 2021 - data_conclusao inválida
+- progresso_aulas.csv: matricula 15, aula 3542 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 15, aula 3542 - data_conclusao inválida
+- progresso_aulas.csv: matricula 15, aula 561 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 15, aula 561 - data_conclusao inválida
+- progresso_aulas.csv: matricula 15, aula 1141 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 15, aula 1141 - data_conclusao inválida
+- progresso_aulas.csv: matricula 15, aula 2997 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 15, aula 2997 - data_conclusao inválida
+- progresso_aulas.csv: matricula 15, aula 2740 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 15, aula 2740 - data_conclusao inválida
+- progresso_aulas.csv: matricula 15, aula 478 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 15, aula 478 - data_conclusao inválida
+- progresso_aulas.csv: matricula 15, aula 1449 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 16, aula 305 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 16, aula 1340 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 16, aula 642 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 16, aula 2077 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 16, aula 1374 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 16, aula 1131 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 16, aula 1131 - data_conclusao inválida
+- progresso_aulas.csv: matricula 17, aula 780 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 17, aula 3447 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 17, aula 3447 - data_conclusao inválida
+- progresso_aulas.csv: matricula 17, aula 2287 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 17, aula 2708 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 17, aula 3431 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 17, aula 3431 - data_conclusao inválida
+- progresso_aulas.csv: matricula 17, aula 3595 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 17, aula 3595 - data_conclusao inválida
+- progresso_aulas.csv: matricula 17, aula 2565 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 17, aula 146 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 17, aula 3888 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 17, aula 3888 - data_conclusao inválida
+- progresso_aulas.csv: matricula 17, aula 2599 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 17, aula 2599 - data_conclusao inválida
+- progresso_aulas.csv: matricula 17, aula 2570 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 17, aula 2570 - data_conclusao inválida
+- progresso_aulas.csv: matricula 18, aula 3334 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 18, aula 3334 - data_conclusao inválida
+- progresso_aulas.csv: matricula 18, aula 767 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 18, aula 3005 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 18, aula 2035 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 18, aula 2035 - data_conclusao inválida
+- progresso_aulas.csv: matricula 18, aula 1158 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 19, aula 1779 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 19, aula 1779 - data_conclusao inválida
+- progresso_aulas.csv: matricula 19, aula 276 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 19, aula 276 - data_conclusao inválida
+- progresso_aulas.csv: matricula 19, aula 2010 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 19, aula 2010 - data_conclusao inválida
+- progresso_aulas.csv: matricula 19, aula 2285 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 19, aula 2285 - data_conclusao inválida
+- progresso_aulas.csv: matricula 19, aula 2504 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 19, aula 2504 - data_conclusao inválida
+- progresso_aulas.csv: matricula 19, aula 855 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 19, aula 855 - data_conclusao inválida
+- progresso_aulas.csv: matricula 20, aula 1713 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 20, aula 1713 - data_conclusao inválida
+- progresso_aulas.csv: matricula 20, aula 2818 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 20, aula 2818 - data_conclusao inválida
+- progresso_aulas.csv: matricula 20, aula 1078 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 20, aula 1078 - data_conclusao inválida
+- progresso_aulas.csv: matricula 20, aula 2513 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 20, aula 2513 - data_conclusao inválida
+- progresso_aulas.csv: matricula 20, aula 1558 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 20, aula 1558 - data_conclusao inválida
+- progresso_aulas.csv: matricula 21, aula 2613 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 21, aula 2613 - data_conclusao inválida
+- progresso_aulas.csv: matricula 21, aula 1429 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 21, aula 1429 - data_conclusao inválida
+- progresso_aulas.csv: matricula 21, aula 1984 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 21, aula 1984 - data_conclusao inválida
+- progresso_aulas.csv: matricula 21, aula 2173 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 21, aula 2173 - data_conclusao inválida
+- progresso_aulas.csv: matricula 21, aula 2691 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 21, aula 2691 - data_conclusao inválida
+- progresso_aulas.csv: matricula 21, aula 738 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 21, aula 738 - data_conclusao inválida
+- progresso_aulas.csv: matricula 21, aula 3596 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 21, aula 3596 - data_conclusao inválida
+- progresso_aulas.csv: matricula 21, aula 1230 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 21, aula 3444 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 21, aula 3444 - data_conclusao inválida
+- progresso_aulas.csv: matricula 21, aula 950 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 21, aula 950 - data_conclusao inválida
+- progresso_aulas.csv: matricula 21, aula 3585 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 21, aula 1197 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 22, aula 2226 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 22, aula 2226 - data_conclusao inválida
+- progresso_aulas.csv: matricula 22, aula 1971 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 22, aula 1211 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 22, aula 1211 - data_conclusao inválida
+- progresso_aulas.csv: matricula 22, aula 396 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 22, aula 897 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 22, aula 897 - data_conclusao inválida
+- progresso_aulas.csv: matricula 22, aula 461 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 22, aula 3609 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 22, aula 3674 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 22, aula 3093 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 22, aula 3093 - data_conclusao inválida
+- progresso_aulas.csv: matricula 22, aula 3130 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 22, aula 3130 - data_conclusao inválida
+- progresso_aulas.csv: matricula 22, aula 1177 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 22, aula 1177 - data_conclusao inválida
+- progresso_aulas.csv: matricula 22, aula 1719 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 22, aula 1719 - data_conclusao inválida
+- progresso_aulas.csv: matricula 23, aula 2887 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 23, aula 525 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 23, aula 3170 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 23, aula 3170 - data_conclusao inválida
+- progresso_aulas.csv: matricula 23, aula 3614 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 23, aula 1982 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 23, aula 3442 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 23, aula 3442 - data_conclusao inválida
+- progresso_aulas.csv: matricula 23, aula 3297 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 23, aula 3539 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 24, aula 2304 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 24, aula 2304 - data_conclusao inválida
+- progresso_aulas.csv: matricula 24, aula 3162 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 24, aula 3162 - data_conclusao inválida
+- progresso_aulas.csv: matricula 24, aula 1324 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 24, aula 1324 - data_conclusao inválida
+- progresso_aulas.csv: matricula 24, aula 1072 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 24, aula 1072 - data_conclusao inválida
+- progresso_aulas.csv: matricula 24, aula 2765 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 24, aula 2765 - data_conclusao inválida
+- progresso_aulas.csv: matricula 24, aula 1301 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 24, aula 1301 - data_conclusao inválida
+- progresso_aulas.csv: matricula 24, aula 1685 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 24, aula 1685 - data_conclusao inválida
+- progresso_aulas.csv: matricula 24, aula 1604 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 24, aula 1604 - data_conclusao inválida
+- progresso_aulas.csv: matricula 24, aula 3314 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 24, aula 3314 - data_conclusao inválida
+- progresso_aulas.csv: matricula 25, aula 1633 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 25, aula 1068 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 25, aula 3738 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 25, aula 3738 - data_conclusao inválida
+- progresso_aulas.csv: matricula 25, aula 224 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 25, aula 1100 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 25, aula 1989 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 25, aula 1989 - data_conclusao inválida
+- progresso_aulas.csv: matricula 25, aula 2983 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 25, aula 2983 - data_conclusao inválida
+- progresso_aulas.csv: matricula 25, aula 897 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 25, aula 1392 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 25, aula 2607 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 25, aula 2607 - data_conclusao inválida
+- progresso_aulas.csv: matricula 26, aula 2502 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 26, aula 1351 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 26, aula 530 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 26, aula 2478 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 27, aula 260 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 27, aula 2683 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 27, aula 202 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 27, aula 2125 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 27, aula 863 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 27, aula 1484 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 27, aula 2194 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 27, aula 813 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 28, aula 2055 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 28, aula 2055 - data_conclusao inválida
+- progresso_aulas.csv: matricula 28, aula 1630 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 28, aula 1630 - data_conclusao inválida
+- progresso_aulas.csv: matricula 28, aula 3242 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 28, aula 3242 - data_conclusao inválida
+- progresso_aulas.csv: matricula 29, aula 643 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 29, aula 643 - data_conclusao inválida
+- progresso_aulas.csv: matricula 29, aula 1160 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 29, aula 1160 - data_conclusao inválida
+- progresso_aulas.csv: matricula 29, aula 1235 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 29, aula 1235 - data_conclusao inválida
+- progresso_aulas.csv: matricula 29, aula 100 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 29, aula 100 - data_conclusao inválida
+- progresso_aulas.csv: matricula 29, aula 943 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 29, aula 943 - data_conclusao inválida
+- progresso_aulas.csv: matricula 29, aula 2587 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 29, aula 2587 - data_conclusao inválida
+- progresso_aulas.csv: matricula 29, aula 3164 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 29, aula 3164 - data_conclusao inválida
+- progresso_aulas.csv: matricula 29, aula 2819 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 29, aula 2819 - data_conclusao inválida
+- progresso_aulas.csv: matricula 29, aula 1013 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 29, aula 1013 - data_conclusao inválida
+- progresso_aulas.csv: matricula 29, aula 139 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 29, aula 139 - data_conclusao inválida
+- progresso_aulas.csv: matricula 30, aula 3331 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 30, aula 3331 - data_conclusao inválida
+- progresso_aulas.csv: matricula 30, aula 3212 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 30, aula 3212 - data_conclusao inválida
+- progresso_aulas.csv: matricula 30, aula 1548 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 30, aula 1548 - data_conclusao inválida
+- progresso_aulas.csv: matricula 30, aula 2685 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 30, aula 2685 - data_conclusao inválida
+- progresso_aulas.csv: matricula 30, aula 1642 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 30, aula 1642 - data_conclusao inválida
+- progresso_aulas.csv: matricula 30, aula 538 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 30, aula 3352 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 30, aula 3352 - data_conclusao inválida
+- progresso_aulas.csv: matricula 31, aula 314 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 31, aula 314 - data_conclusao inválida
+- progresso_aulas.csv: matricula 31, aula 303 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 31, aula 303 - data_conclusao inválida
+- progresso_aulas.csv: matricula 31, aula 2067 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 31, aula 2067 - data_conclusao inválida
+- progresso_aulas.csv: matricula 31, aula 2958 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 31, aula 2882 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 31, aula 2882 - data_conclusao inválida
+- progresso_aulas.csv: matricula 31, aula 3123 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 31, aula 3123 - data_conclusao inválida
+- progresso_aulas.csv: matricula 31, aula 3001 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 31, aula 3001 - data_conclusao inválida
+- progresso_aulas.csv: matricula 32, aula 392 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 32, aula 392 - data_conclusao inválida
+- progresso_aulas.csv: matricula 32, aula 3015 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 32, aula 2410 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 32, aula 2410 - data_conclusao inválida
+- progresso_aulas.csv: matricula 33, aula 3215 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 33, aula 3215 - data_conclusao inválida
+- progresso_aulas.csv: matricula 33, aula 1326 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 33, aula 1326 - data_conclusao inválida
+- progresso_aulas.csv: matricula 33, aula 1742 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 33, aula 1742 - data_conclusao inválida
+- progresso_aulas.csv: matricula 33, aula 2099 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 33, aula 2099 - data_conclusao inválida
+- progresso_aulas.csv: matricula 33, aula 3046 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 33, aula 3046 - data_conclusao inválida
+- progresso_aulas.csv: matricula 33, aula 96 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 33, aula 96 - data_conclusao inválida
+- progresso_aulas.csv: matricula 33, aula 1238 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 33, aula 1123 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 33, aula 1880 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 33, aula 1880 - data_conclusao inválida
+- progresso_aulas.csv: matricula 33, aula 831 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 33, aula 409 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 33, aula 1083 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 33, aula 1083 - data_conclusao inválida
+- progresso_aulas.csv: matricula 34, aula 1141 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 34, aula 1980 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 34, aula 1165 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 34, aula 3718 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 34, aula 2879 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 34, aula 2879 - data_conclusao inválida
+- progresso_aulas.csv: matricula 34, aula 2185 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 34, aula 2076 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 34, aula 1002 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 34, aula 1567 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 35, aula 2633 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 35, aula 2633 - data_conclusao inválida
+- progresso_aulas.csv: matricula 35, aula 1273 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 35, aula 1273 - data_conclusao inválida
+- progresso_aulas.csv: matricula 35, aula 1362 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 35, aula 1362 - data_conclusao inválida
+- progresso_aulas.csv: matricula 35, aula 589 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 35, aula 589 - data_conclusao inválida
+- progresso_aulas.csv: matricula 35, aula 3317 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 35, aula 3317 - data_conclusao inválida
+- progresso_aulas.csv: matricula 35, aula 2581 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 35, aula 2581 - data_conclusao inválida
+- progresso_aulas.csv: matricula 35, aula 343 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 35, aula 343 - data_conclusao inválida
+- progresso_aulas.csv: matricula 35, aula 391 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 35, aula 2298 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 35, aula 2298 - data_conclusao inválida
+- progresso_aulas.csv: matricula 35, aula 694 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 35, aula 694 - data_conclusao inválida
+- progresso_aulas.csv: matricula 35, aula 851 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 35, aula 851 - data_conclusao inválida
+- progresso_aulas.csv: matricula 35, aula 3543 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 35, aula 3543 - data_conclusao inválida
+- progresso_aulas.csv: matricula 36, aula 579 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 36, aula 579 - data_conclusao inválida
+- progresso_aulas.csv: matricula 36, aula 1652 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 36, aula 1652 - data_conclusao inválida
+- progresso_aulas.csv: matricula 36, aula 2526 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 36, aula 2526 - data_conclusao inválida
+- progresso_aulas.csv: matricula 36, aula 3433 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 36, aula 3433 - data_conclusao inválida
+- progresso_aulas.csv: matricula 36, aula 1940 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 36, aula 1940 - data_conclusao inválida
+- progresso_aulas.csv: matricula 36, aula 2144 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 36, aula 2144 - data_conclusao inválida
+- progresso_aulas.csv: matricula 37, aula 953 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 37, aula 242 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 37, aula 3144 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 37, aula 2022 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 37, aula 1033 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 37, aula 1687 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 37, aula 1276 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 37, aula 3034 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 37, aula 1384 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 37, aula 3418 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 37, aula 617 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 37, aula 150 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 38, aula 2865 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 38, aula 318 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 38, aula 318 - data_conclusao inválida
+- progresso_aulas.csv: matricula 38, aula 1539 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 38, aula 522 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 39, aula 3628 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 39, aula 3628 - data_conclusao inválida
+- progresso_aulas.csv: matricula 39, aula 1738 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 39, aula 1738 - data_conclusao inválida
+- progresso_aulas.csv: matricula 39, aula 2029 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 39, aula 2029 - data_conclusao inválida
+- progresso_aulas.csv: matricula 39, aula 700 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 39, aula 700 - data_conclusao inválida
+- progresso_aulas.csv: matricula 40, aula 573 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 40, aula 573 - data_conclusao inválida
+- progresso_aulas.csv: matricula 40, aula 3068 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 40, aula 3068 - data_conclusao inválida
+- progresso_aulas.csv: matricula 40, aula 3581 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 40, aula 2241 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 40, aula 2241 - data_conclusao inválida
+- progresso_aulas.csv: matricula 40, aula 1713 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 40, aula 1636 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 40, aula 38 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 40, aula 1216 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 40, aula 1216 - data_conclusao inválida
+- progresso_aulas.csv: matricula 40, aula 482 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 40, aula 1784 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 40, aula 1206 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 41, aula 1521 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 41, aula 2128 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 41, aula 2477 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 41, aula 1030 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 41, aula 1934 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 41, aula 1896 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 41, aula 863 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 41, aula 863 - data_conclusao inválida
+- progresso_aulas.csv: matricula 41, aula 3835 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 41, aula 1353 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 41, aula 3798 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 41, aula 3059 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 41, aula 2950 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 42, aula 2435 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 42, aula 641 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 42, aula 274 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 43, aula 1165 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 43, aula 1165 - data_conclusao inválida
+- progresso_aulas.csv: matricula 43, aula 3362 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 43, aula 3362 - data_conclusao inválida
+- progresso_aulas.csv: matricula 43, aula 3734 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 43, aula 3556 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 43, aula 3556 - data_conclusao inválida
+- progresso_aulas.csv: matricula 43, aula 1746 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 43, aula 1746 - data_conclusao inválida
+- progresso_aulas.csv: matricula 43, aula 2394 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 44, aula 2299 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 44, aula 2299 - data_conclusao inválida
+- progresso_aulas.csv: matricula 44, aula 2217 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 44, aula 2628 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 44, aula 2701 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 44, aula 830 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 44, aula 318 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 44, aula 318 - data_conclusao inválida
+- progresso_aulas.csv: matricula 44, aula 2428 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 44, aula 2428 - data_conclusao inválida
+- progresso_aulas.csv: matricula 44, aula 625 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 44, aula 625 - data_conclusao inválida
+- progresso_aulas.csv: matricula 44, aula 422 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 44, aula 422 - data_conclusao inválida
+- progresso_aulas.csv: matricula 45, aula 2642 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 45, aula 3138 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 45, aula 1569 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 45, aula 1353 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 45, aula 2358 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 45, aula 2358 - data_conclusao inválida
+- progresso_aulas.csv: matricula 45, aula 3163 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 45, aula 3496 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 45, aula 2426 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 45, aula 2478 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 45, aula 2478 - data_conclusao inválida
+- progresso_aulas.csv: matricula 45, aula 1136 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 45, aula 3307 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 46, aula 2096 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 46, aula 2096 - data_conclusao inválida
+- progresso_aulas.csv: matricula 46, aula 3307 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 46, aula 1801 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 46, aula 1801 - data_conclusao inválida
+- progresso_aulas.csv: matricula 47, aula 1240 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 47, aula 1240 - data_conclusao inválida
+- progresso_aulas.csv: matricula 47, aula 2050 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 47, aula 2050 - data_conclusao inválida
+- progresso_aulas.csv: matricula 47, aula 3113 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 47, aula 3113 - data_conclusao inválida
+- progresso_aulas.csv: matricula 47, aula 481 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 47, aula 481 - data_conclusao inválida
+- progresso_aulas.csv: matricula 47, aula 987 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 47, aula 2295 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 47, aula 1611 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 47, aula 1546 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 47, aula 3170 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 47, aula 3170 - data_conclusao inválida
+- progresso_aulas.csv: matricula 47, aula 1580 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 48, aula 3873 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 48, aula 3873 - data_conclusao inválida
+- progresso_aulas.csv: matricula 48, aula 2596 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 48, aula 2596 - data_conclusao inválida
+- progresso_aulas.csv: matricula 48, aula 3415 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 48, aula 3415 - data_conclusao inválida
+- progresso_aulas.csv: matricula 48, aula 1138 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 48, aula 2914 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 48, aula 2914 - data_conclusao inválida
+- progresso_aulas.csv: matricula 48, aula 586 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 48, aula 586 - data_conclusao inválida
+- progresso_aulas.csv: matricula 49, aula 2848 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 49, aula 3232 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 49, aula 3232 - data_conclusao inválida
+- progresso_aulas.csv: matricula 49, aula 1027 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 49, aula 2808 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 49, aula 493 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 49, aula 493 - data_conclusao inválida
+- progresso_aulas.csv: matricula 49, aula 2286 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 49, aula 3686 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 49, aula 1784 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 49, aula 2671 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 49, aula 2671 - data_conclusao inválida
+- progresso_aulas.csv: matricula 49, aula 1427 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 50, aula 3823 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 50, aula 3063 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 50, aula 3063 - data_conclusao inválida
+- progresso_aulas.csv: matricula 50, aula 44 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 50, aula 44 - data_conclusao inválida
+- progresso_aulas.csv: matricula 50, aula 803 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 50, aula 803 - data_conclusao inválida
+- progresso_aulas.csv: matricula 50, aula 1811 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 50, aula 1479 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 50, aula 1479 - data_conclusao inválida
+- progresso_aulas.csv: matricula 50, aula 2155 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 50, aula 2155 - data_conclusao inválida
+- progresso_aulas.csv: matricula 50, aula 799 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 50, aula 799 - data_conclusao inválida
+- progresso_aulas.csv: matricula 51, aula 3752 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 51, aula 1040 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 51, aula 1040 - data_conclusao inválida
+- progresso_aulas.csv: matricula 51, aula 2060 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 51, aula 3775 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 51, aula 3775 - data_conclusao inválida
+- progresso_aulas.csv: matricula 52, aula 1632 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 52, aula 180 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 52, aula 2849 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 52, aula 2885 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 52, aula 1037 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 52, aula 1124 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 52, aula 2562 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 53, aula 1514 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 53, aula 1514 - data_conclusao inválida
+- progresso_aulas.csv: matricula 53, aula 119 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 53, aula 119 - data_conclusao inválida
+- progresso_aulas.csv: matricula 53, aula 2511 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 53, aula 2511 - data_conclusao inválida
+- progresso_aulas.csv: matricula 53, aula 3663 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 53, aula 3663 - data_conclusao inválida
+- progresso_aulas.csv: matricula 54, aula 3016 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 54, aula 725 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 54, aula 3568 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 54, aula 3486 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 54, aula 540 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 55, aula 3493 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 55, aula 796 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 55, aula 796 - data_conclusao inválida
+- progresso_aulas.csv: matricula 55, aula 2684 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 55, aula 2515 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 55, aula 2515 - data_conclusao inválida
+- progresso_aulas.csv: matricula 55, aula 3021 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 55, aula 3021 - data_conclusao inválida
+- progresso_aulas.csv: matricula 55, aula 69 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 55, aula 1363 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 55, aula 1363 - data_conclusao inválida
+- progresso_aulas.csv: matricula 55, aula 3430 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 55, aula 3430 - data_conclusao inválida
+- progresso_aulas.csv: matricula 55, aula 2753 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 55, aula 2753 - data_conclusao inválida
+- progresso_aulas.csv: matricula 55, aula 3475 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 55, aula 3475 - data_conclusao inválida
+- progresso_aulas.csv: matricula 55, aula 3686 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 56, aula 791 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 56, aula 791 - data_conclusao inválida
+- progresso_aulas.csv: matricula 56, aula 3380 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 56, aula 3380 - data_conclusao inválida
+- progresso_aulas.csv: matricula 56, aula 3119 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 56, aula 3119 - data_conclusao inválida
+- progresso_aulas.csv: matricula 57, aula 2986 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 57, aula 2986 - data_conclusao inválida
+- progresso_aulas.csv: matricula 57, aula 1093 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 57, aula 1093 - data_conclusao inválida
+- progresso_aulas.csv: matricula 57, aula 344 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 57, aula 707 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 57, aula 707 - data_conclusao inválida
+- progresso_aulas.csv: matricula 57, aula 1817 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 57, aula 1817 - data_conclusao inválida
+- progresso_aulas.csv: matricula 57, aula 183 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 57, aula 183 - data_conclusao inválida
+- progresso_aulas.csv: matricula 57, aula 1129 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 57, aula 2493 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 57, aula 2493 - data_conclusao inválida
+- progresso_aulas.csv: matricula 57, aula 814 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 57, aula 814 - data_conclusao inválida
+- progresso_aulas.csv: matricula 57, aula 2821 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 57, aula 2821 - data_conclusao inválida
+- progresso_aulas.csv: matricula 57, aula 2071 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 57, aula 2071 - data_conclusao inválida
+- progresso_aulas.csv: matricula 58, aula 1122 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 58, aula 2297 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 58, aula 1437 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 58, aula 1437 - data_conclusao inválida
+- progresso_aulas.csv: matricula 59, aula 3811 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 59, aula 1897 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 59, aula 362 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 59, aula 477 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 60, aula 891 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 60, aula 891 - data_conclusao inválida
+- progresso_aulas.csv: matricula 60, aula 2614 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 60, aula 2614 - data_conclusao inválida
+- progresso_aulas.csv: matricula 60, aula 1535 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 60, aula 1535 - data_conclusao inválida
+- progresso_aulas.csv: matricula 60, aula 1886 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 60, aula 1886 - data_conclusao inválida
+- progresso_aulas.csv: matricula 60, aula 333 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 60, aula 333 - data_conclusao inválida
+- progresso_aulas.csv: matricula 61, aula 3430 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 61, aula 3430 - data_conclusao inválida
+- progresso_aulas.csv: matricula 61, aula 2789 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 61, aula 2631 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 61, aula 2631 - data_conclusao inválida
+- progresso_aulas.csv: matricula 61, aula 3862 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 61, aula 3862 - data_conclusao inválida
+- progresso_aulas.csv: matricula 61, aula 3693 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 61, aula 3693 - data_conclusao inválida
+- progresso_aulas.csv: matricula 61, aula 3542 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 62, aula 730 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 62, aula 730 - data_conclusao inválida
+- progresso_aulas.csv: matricula 62, aula 1143 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 62, aula 576 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 62, aula 2315 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 62, aula 1293 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 62, aula 1696 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 62, aula 1696 - data_conclusao inválida
+- progresso_aulas.csv: matricula 62, aula 926 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 62, aula 926 - data_conclusao inválida
+- progresso_aulas.csv: matricula 62, aula 3422 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 62, aula 3422 - data_conclusao inválida
+- progresso_aulas.csv: matricula 62, aula 772 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 62, aula 772 - data_conclusao inválida
+- progresso_aulas.csv: matricula 63, aula 1455 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 63, aula 2371 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 63, aula 2371 - data_conclusao inválida
+- progresso_aulas.csv: matricula 63, aula 1490 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 63, aula 1429 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 64, aula 2204 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 64, aula 2204 - data_conclusao inválida
+- progresso_aulas.csv: matricula 64, aula 2330 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 64, aula 2330 - data_conclusao inválida
+- progresso_aulas.csv: matricula 64, aula 863 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 64, aula 863 - data_conclusao inválida
+- progresso_aulas.csv: matricula 64, aula 2877 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 64, aula 1778 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 64, aula 1421 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 64, aula 1421 - data_conclusao inválida
+- progresso_aulas.csv: matricula 64, aula 2647 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 64, aula 2647 - data_conclusao inválida
+- progresso_aulas.csv: matricula 64, aula 3322 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 64, aula 3322 - data_conclusao inválida
+- progresso_aulas.csv: matricula 64, aula 2794 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 64, aula 2794 - data_conclusao inválida
+- progresso_aulas.csv: matricula 65, aula 3400 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 65, aula 3044 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 65, aula 3254 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 65, aula 1102 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 65, aula 372 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 65, aula 2103 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 65, aula 2103 - data_conclusao inválida
+- progresso_aulas.csv: matricula 65, aula 3168 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 65, aula 864 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 65, aula 1058 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 65, aula 894 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 65, aula 894 - data_conclusao inválida
+- progresso_aulas.csv: matricula 65, aula 1916 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 65, aula 1916 - data_conclusao inválida
+- progresso_aulas.csv: matricula 66, aula 3561 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 66, aula 3561 - data_conclusao inválida
+- progresso_aulas.csv: matricula 66, aula 3691 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 66, aula 33 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 66, aula 33 - data_conclusao inválida
+- progresso_aulas.csv: matricula 66, aula 651 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 67, aula 3741 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 67, aula 3741 - data_conclusao inválida
+- progresso_aulas.csv: matricula 67, aula 1467 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 67, aula 1467 - data_conclusao inválida
+- progresso_aulas.csv: matricula 67, aula 1255 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 67, aula 1255 - data_conclusao inválida
+- progresso_aulas.csv: matricula 67, aula 667 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 68, aula 1799 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 68, aula 1799 - data_conclusao inválida
+- progresso_aulas.csv: matricula 68, aula 3315 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 68, aula 3315 - data_conclusao inválida
+- progresso_aulas.csv: matricula 68, aula 2526 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 68, aula 2526 - data_conclusao inválida
+- progresso_aulas.csv: matricula 68, aula 1870 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 68, aula 1870 - data_conclusao inválida
+- progresso_aulas.csv: matricula 68, aula 2432 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 68, aula 2432 - data_conclusao inválida
+- progresso_aulas.csv: matricula 69, aula 1782 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 69, aula 2994 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 69, aula 1636 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 69, aula 1940 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 69, aula 3417 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 69, aula 998 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 69, aula 998 - data_conclusao inválida
+- progresso_aulas.csv: matricula 69, aula 1035 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 69, aula 2963 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 69, aula 1529 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 69, aula 2462 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 69, aula 1384 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 69, aula 1977 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 70, aula 2327 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 70, aula 2327 - data_conclusao inválida
+- progresso_aulas.csv: matricula 70, aula 3080 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 70, aula 3080 - data_conclusao inválida
+- progresso_aulas.csv: matricula 70, aula 572 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 70, aula 533 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 70, aula 533 - data_conclusao inválida
+- progresso_aulas.csv: matricula 70, aula 2718 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 70, aula 2718 - data_conclusao inválida
+- progresso_aulas.csv: matricula 70, aula 1365 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 70, aula 3230 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 70, aula 3230 - data_conclusao inválida
+- progresso_aulas.csv: matricula 70, aula 221 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 70, aula 371 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 70, aula 371 - data_conclusao inválida
+- progresso_aulas.csv: matricula 70, aula 1267 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 70, aula 1267 - data_conclusao inválida
+- progresso_aulas.csv: matricula 70, aula 3248 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 70, aula 3248 - data_conclusao inválida
+- progresso_aulas.csv: matricula 71, aula 821 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 71, aula 821 - data_conclusao inválida
+- progresso_aulas.csv: matricula 71, aula 3617 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 71, aula 705 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 71, aula 705 - data_conclusao inválida
+- progresso_aulas.csv: matricula 72, aula 968 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 72, aula 3514 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 72, aula 3514 - data_conclusao inválida
+- progresso_aulas.csv: matricula 72, aula 833 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 72, aula 833 - data_conclusao inválida
+- progresso_aulas.csv: matricula 72, aula 1789 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 72, aula 1789 - data_conclusao inválida
+- progresso_aulas.csv: matricula 73, aula 2805 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 73, aula 2805 - data_conclusao inválida
+- progresso_aulas.csv: matricula 73, aula 2275 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 73, aula 2275 - data_conclusao inválida
+- progresso_aulas.csv: matricula 73, aula 3464 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 73, aula 3464 - data_conclusao inválida
+- progresso_aulas.csv: matricula 73, aula 3177 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 73, aula 1533 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 73, aula 1533 - data_conclusao inválida
+- progresso_aulas.csv: matricula 73, aula 21 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 73, aula 21 - data_conclusao inválida
+- progresso_aulas.csv: matricula 74, aula 1929 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 74, aula 1929 - data_conclusao inválida
+- progresso_aulas.csv: matricula 74, aula 2253 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 74, aula 2253 - data_conclusao inválida
+- progresso_aulas.csv: matricula 74, aula 2814 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 74, aula 2814 - data_conclusao inválida
+- progresso_aulas.csv: matricula 74, aula 1615 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 74, aula 1615 - data_conclusao inválida
+- progresso_aulas.csv: matricula 74, aula 2863 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 74, aula 2863 - data_conclusao inválida
+- progresso_aulas.csv: matricula 74, aula 871 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 74, aula 871 - data_conclusao inválida
+- progresso_aulas.csv: matricula 74, aula 3739 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 74, aula 1935 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 74, aula 1935 - data_conclusao inválida
+- progresso_aulas.csv: matricula 75, aula 3126 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 75, aula 3126 - data_conclusao inválida
+- progresso_aulas.csv: matricula 75, aula 3756 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 75, aula 3756 - data_conclusao inválida
+- progresso_aulas.csv: matricula 75, aula 393 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 75, aula 393 - data_conclusao inválida
+- progresso_aulas.csv: matricula 75, aula 1588 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 75, aula 1588 - data_conclusao inválida
+- progresso_aulas.csv: matricula 75, aula 527 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 75, aula 1304 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 75, aula 3831 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 75, aula 547 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 75, aula 547 - data_conclusao inválida
+- progresso_aulas.csv: matricula 75, aula 1638 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 75, aula 1638 - data_conclusao inválida
+- progresso_aulas.csv: matricula 75, aula 3168 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 75, aula 3168 - data_conclusao inválida
+- progresso_aulas.csv: matricula 76, aula 2001 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 76, aula 2744 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 76, aula 2744 - data_conclusao inválida
+- progresso_aulas.csv: matricula 76, aula 3033 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 76, aula 3033 - data_conclusao inválida
+- progresso_aulas.csv: matricula 76, aula 2403 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 77, aula 1512 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 77, aula 1484 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 77, aula 1484 - data_conclusao inválida
+- progresso_aulas.csv: matricula 77, aula 1393 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 77, aula 1393 - data_conclusao inválida
+- progresso_aulas.csv: matricula 77, aula 2054 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 77, aula 2054 - data_conclusao inválida
+- progresso_aulas.csv: matricula 77, aula 3372 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 77, aula 3372 - data_conclusao inválida
+- progresso_aulas.csv: matricula 78, aula 1631 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 78, aula 3747 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 78, aula 317 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 78, aula 2645 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 78, aula 943 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 78, aula 566 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 78, aula 2048 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 78, aula 770 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 78, aula 182 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 78, aula 866 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 78, aula 1237 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 78, aula 1784 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 79, aula 2687 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 79, aula 2687 - data_conclusao inválida
+- progresso_aulas.csv: matricula 79, aula 3533 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 79, aula 3533 - data_conclusao inválida
+- progresso_aulas.csv: matricula 79, aula 1657 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 79, aula 3292 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 79, aula 3292 - data_conclusao inválida
+- progresso_aulas.csv: matricula 79, aula 3306 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 79, aula 3306 - data_conclusao inválida
+- progresso_aulas.csv: matricula 79, aula 51 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 79, aula 51 - data_conclusao inválida
+- progresso_aulas.csv: matricula 79, aula 659 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 79, aula 659 - data_conclusao inválida
+- progresso_aulas.csv: matricula 79, aula 1307 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 79, aula 1307 - data_conclusao inválida
+- progresso_aulas.csv: matricula 80, aula 2812 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 80, aula 2812 - data_conclusao inválida
+- progresso_aulas.csv: matricula 80, aula 1863 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 80, aula 48 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 80, aula 1992 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 80, aula 1992 - data_conclusao inválida
+- progresso_aulas.csv: matricula 80, aula 2679 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 80, aula 2746 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 80, aula 2746 - data_conclusao inválida
+- progresso_aulas.csv: matricula 80, aula 1646 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 80, aula 1731 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 80, aula 3160 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 80, aula 3160 - data_conclusao inválida
+- progresso_aulas.csv: matricula 80, aula 224 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 80, aula 1241 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 80, aula 1241 - data_conclusao inválida
+- progresso_aulas.csv: matricula 81, aula 3218 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 81, aula 3218 - data_conclusao inválida
+- progresso_aulas.csv: matricula 81, aula 733 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 81, aula 1737 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 81, aula 1737 - data_conclusao inválida
+- progresso_aulas.csv: matricula 81, aula 2178 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 81, aula 2178 - data_conclusao inválida
+- progresso_aulas.csv: matricula 81, aula 3112 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 81, aula 3112 - data_conclusao inválida
+- progresso_aulas.csv: matricula 81, aula 1571 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 81, aula 1571 - data_conclusao inválida
+- progresso_aulas.csv: matricula 81, aula 3565 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 81, aula 3565 - data_conclusao inválida
+- progresso_aulas.csv: matricula 81, aula 2764 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 81, aula 2764 - data_conclusao inválida
+- progresso_aulas.csv: matricula 82, aula 3884 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 82, aula 3884 - data_conclusao inválida
+- progresso_aulas.csv: matricula 82, aula 3827 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 82, aula 2899 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 83, aula 3573 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 83, aula 1864 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 83, aula 1782 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 83, aula 199 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 83, aula 199 - data_conclusao inválida
+- progresso_aulas.csv: matricula 83, aula 1904 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 83, aula 1154 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 83, aula 164 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 83, aula 498 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 83, aula 3555 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 83, aula 2006 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 83, aula 1886 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 83, aula 1504 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 84, aula 2998 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 84, aula 150 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 84, aula 150 - data_conclusao inválida
+- progresso_aulas.csv: matricula 84, aula 2177 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 84, aula 2177 - data_conclusao inválida
+- progresso_aulas.csv: matricula 84, aula 3026 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 85, aula 517 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 85, aula 517 - data_conclusao inválida
+- progresso_aulas.csv: matricula 85, aula 2977 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 85, aula 2977 - data_conclusao inválida
+- progresso_aulas.csv: matricula 85, aula 593 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 85, aula 593 - data_conclusao inválida
+- progresso_aulas.csv: matricula 85, aula 2593 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 85, aula 2593 - data_conclusao inválida
+- progresso_aulas.csv: matricula 85, aula 2022 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 85, aula 2022 - data_conclusao inválida
+- progresso_aulas.csv: matricula 85, aula 1766 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 85, aula 1766 - data_conclusao inválida
+- progresso_aulas.csv: matricula 85, aula 3657 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 85, aula 3657 - data_conclusao inválida
+- progresso_aulas.csv: matricula 85, aula 1126 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 85, aula 1126 - data_conclusao inválida
+- progresso_aulas.csv: matricula 85, aula 1415 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 85, aula 1415 - data_conclusao inválida
+- progresso_aulas.csv: matricula 85, aula 1877 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 85, aula 2823 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 85, aula 2823 - data_conclusao inválida
+- progresso_aulas.csv: matricula 86, aula 1878 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 86, aula 1878 - data_conclusao inválida
+- progresso_aulas.csv: matricula 86, aula 167 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 86, aula 314 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 86, aula 1338 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 86, aula 1527 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 86, aula 1527 - data_conclusao inválida
+- progresso_aulas.csv: matricula 86, aula 157 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 86, aula 602 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 86, aula 2496 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 86, aula 2965 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 86, aula 2613 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 86, aula 3328 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 87, aula 3251 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 87, aula 3251 - data_conclusao inválida
+- progresso_aulas.csv: matricula 87, aula 785 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 87, aula 785 - data_conclusao inválida
+- progresso_aulas.csv: matricula 87, aula 2339 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 87, aula 2339 - data_conclusao inválida
+- progresso_aulas.csv: matricula 87, aula 1069 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 87, aula 1242 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 87, aula 1242 - data_conclusao inválida
+- progresso_aulas.csv: matricula 87, aula 2522 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 87, aula 2522 - data_conclusao inválida
+- progresso_aulas.csv: matricula 87, aula 2106 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 87, aula 2106 - data_conclusao inválida
+- progresso_aulas.csv: matricula 87, aula 2209 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 87, aula 2209 - data_conclusao inválida
+- progresso_aulas.csv: matricula 87, aula 3499 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 87, aula 3499 - data_conclusao inválida
+- progresso_aulas.csv: matricula 88, aula 2349 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 88, aula 2349 - data_conclusao inválida
+- progresso_aulas.csv: matricula 88, aula 1938 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 88, aula 882 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 89, aula 2055 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 89, aula 2055 - data_conclusao inválida
+- progresso_aulas.csv: matricula 89, aula 2751 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 89, aula 188 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 89, aula 2477 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 89, aula 2477 - data_conclusao inválida
+- progresso_aulas.csv: matricula 89, aula 1633 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 89, aula 1633 - data_conclusao inválida
+- progresso_aulas.csv: matricula 90, aula 77 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 90, aula 77 - data_conclusao inválida
+- progresso_aulas.csv: matricula 90, aula 3204 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 90, aula 1698 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 90, aula 1698 - data_conclusao inválida
+- progresso_aulas.csv: matricula 90, aula 2692 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 90, aula 2692 - data_conclusao inválida
+- progresso_aulas.csv: matricula 90, aula 532 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 90, aula 532 - data_conclusao inválida
+- progresso_aulas.csv: matricula 90, aula 1126 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 90, aula 1094 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 90, aula 1094 - data_conclusao inválida
+- progresso_aulas.csv: matricula 90, aula 1895 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 90, aula 2454 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 90, aula 2454 - data_conclusao inválida
+- progresso_aulas.csv: matricula 91, aula 262 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 91, aula 262 - data_conclusao inválida
+- progresso_aulas.csv: matricula 91, aula 2505 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 91, aula 2505 - data_conclusao inválida
+- progresso_aulas.csv: matricula 91, aula 1179 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 91, aula 1179 - data_conclusao inválida
+- progresso_aulas.csv: matricula 91, aula 2983 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 91, aula 2983 - data_conclusao inválida
+- progresso_aulas.csv: matricula 91, aula 2917 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 91, aula 2496 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 91, aula 3388 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 91, aula 1887 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 91, aula 1887 - data_conclusao inválida
+- progresso_aulas.csv: matricula 92, aula 52 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 92, aula 1405 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 92, aula 1405 - data_conclusao inválida
+- progresso_aulas.csv: matricula 92, aula 1396 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 92, aula 1310 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 92, aula 1419 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 92, aula 1419 - data_conclusao inválida
+- progresso_aulas.csv: matricula 92, aula 3370 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 92, aula 1821 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 92, aula 622 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 92, aula 1893 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 92, aula 3500 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 93, aula 3064 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 93, aula 3064 - data_conclusao inválida
+- progresso_aulas.csv: matricula 93, aula 2170 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 93, aula 2170 - data_conclusao inválida
+- progresso_aulas.csv: matricula 93, aula 1513 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 93, aula 1246 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 93, aula 1246 - data_conclusao inválida
+- progresso_aulas.csv: matricula 94, aula 2763 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 94, aula 1915 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 94, aula 122 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 94, aula 639 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 94, aula 2560 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 94, aula 2396 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 94, aula 683 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 94, aula 683 - data_conclusao inválida
+- progresso_aulas.csv: matricula 94, aula 2557 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 95, aula 1621 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 95, aula 1621 - data_conclusao inválida
+- progresso_aulas.csv: matricula 95, aula 895 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 95, aula 895 - data_conclusao inválida
+- progresso_aulas.csv: matricula 95, aula 866 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 95, aula 866 - data_conclusao inválida
+- progresso_aulas.csv: matricula 95, aula 454 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 95, aula 454 - data_conclusao inválida
+- progresso_aulas.csv: matricula 96, aula 732 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 96, aula 732 - data_conclusao inválida
+- progresso_aulas.csv: matricula 96, aula 3543 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 96, aula 3543 - data_conclusao inválida
+- progresso_aulas.csv: matricula 96, aula 652 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 96, aula 652 - data_conclusao inválida
+- progresso_aulas.csv: matricula 96, aula 3142 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 96, aula 3142 - data_conclusao inválida
+- progresso_aulas.csv: matricula 96, aula 3185 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 96, aula 3009 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 96, aula 1643 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 96, aula 2254 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 96, aula 2254 - data_conclusao inválida
+- progresso_aulas.csv: matricula 96, aula 1674 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 96, aula 1674 - data_conclusao inválida
+- progresso_aulas.csv: matricula 96, aula 1442 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 96, aula 3078 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 96, aula 3078 - data_conclusao inválida
+- progresso_aulas.csv: matricula 96, aula 892 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 96, aula 892 - data_conclusao inválida
+- progresso_aulas.csv: matricula 97, aula 2194 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 97, aula 2182 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 97, aula 1607 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 97, aula 923 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 97, aula 3519 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 97, aula 1655 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 97, aula 2027 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 97, aula 3100 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 98, aula 2377 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 98, aula 2676 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 98, aula 2676 - data_conclusao inválida
+- progresso_aulas.csv: matricula 98, aula 1713 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 98, aula 1714 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 99, aula 2062 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 99, aula 330 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 99, aula 2456 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 99, aula 2456 - data_conclusao inválida
+- progresso_aulas.csv: matricula 99, aula 2338 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 99, aula 2999 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 99, aula 1675 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 99, aula 3873 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 99, aula 3873 - data_conclusao inválida
+- progresso_aulas.csv: matricula 99, aula 94 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 99, aula 1332 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 99, aula 1332 - data_conclusao inválida
+- progresso_aulas.csv: matricula 99, aula 2498 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 99, aula 1024 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 99, aula 682 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 100, aula 1935 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 100, aula 1935 - data_conclusao inválida
+- progresso_aulas.csv: matricula 100, aula 3839 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 100, aula 2920 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 100, aula 2920 - data_conclusao inválida
+- progresso_aulas.csv: matricula 100, aula 3774 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 100, aula 3774 - data_conclusao inválida
+- progresso_aulas.csv: matricula 100, aula 819 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 100, aula 819 - data_conclusao inválida
+- progresso_aulas.csv: matricula 100, aula 1322 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 100, aula 1322 - data_conclusao inválida
+- progresso_aulas.csv: matricula 101, aula 848 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 101, aula 848 - data_conclusao inválida
+- progresso_aulas.csv: matricula 101, aula 2366 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 101, aula 2366 - data_conclusao inválida
+- progresso_aulas.csv: matricula 101, aula 1889 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 101, aula 1889 - data_conclusao inválida
+- progresso_aulas.csv: matricula 101, aula 1881 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 101, aula 1881 - data_conclusao inválida
+- progresso_aulas.csv: matricula 102, aula 2471 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 102, aula 1818 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 102, aula 1818 - data_conclusao inválida
+- progresso_aulas.csv: matricula 102, aula 991 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 102, aula 3264 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 102, aula 725 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 102, aula 1890 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 103, aula 3552 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 103, aula 2129 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 103, aula 1926 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 104, aula 2932 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 104, aula 3181 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 104, aula 3181 - data_conclusao inválida
+- progresso_aulas.csv: matricula 104, aula 2487 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 104, aula 2487 - data_conclusao inválida
+- progresso_aulas.csv: matricula 104, aula 2651 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 104, aula 2651 - data_conclusao inválida
+- progresso_aulas.csv: matricula 104, aula 2188 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 104, aula 2188 - data_conclusao inválida
+- progresso_aulas.csv: matricula 104, aula 2928 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 104, aula 2928 - data_conclusao inválida
+- progresso_aulas.csv: matricula 104, aula 98 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 104, aula 98 - data_conclusao inválida
+- progresso_aulas.csv: matricula 104, aula 1797 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 104, aula 1797 - data_conclusao inválida
+- progresso_aulas.csv: matricula 104, aula 1970 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 104, aula 1970 - data_conclusao inválida
+- progresso_aulas.csv: matricula 104, aula 3391 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 104, aula 3391 - data_conclusao inválida
+- progresso_aulas.csv: matricula 104, aula 2974 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 104, aula 2974 - data_conclusao inválida
+- progresso_aulas.csv: matricula 105, aula 1489 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 105, aula 1489 - data_conclusao inválida
+- progresso_aulas.csv: matricula 105, aula 1637 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 105, aula 1637 - data_conclusao inválida
+- progresso_aulas.csv: matricula 105, aula 2936 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 105, aula 2936 - data_conclusao inválida
+- progresso_aulas.csv: matricula 105, aula 3799 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 105, aula 3799 - data_conclusao inválida
+- progresso_aulas.csv: matricula 105, aula 2096 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 105, aula 2096 - data_conclusao inválida
+- progresso_aulas.csv: matricula 105, aula 2578 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 105, aula 2578 - data_conclusao inválida
+- progresso_aulas.csv: matricula 105, aula 2661 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 105, aula 2661 - data_conclusao inválida
+- progresso_aulas.csv: matricula 105, aula 1803 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 105, aula 1803 - data_conclusao inválida
+- progresso_aulas.csv: matricula 105, aula 1756 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 105, aula 1756 - data_conclusao inválida
+- progresso_aulas.csv: matricula 106, aula 598 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 106, aula 598 - data_conclusao inválida
+- progresso_aulas.csv: matricula 106, aula 3470 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 106, aula 3470 - data_conclusao inválida
+- progresso_aulas.csv: matricula 106, aula 1076 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 106, aula 1076 - data_conclusao inválida
+- progresso_aulas.csv: matricula 106, aula 3105 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 106, aula 3105 - data_conclusao inválida
+- progresso_aulas.csv: matricula 107, aula 3243 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 107, aula 458 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 107, aula 2958 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 107, aula 693 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 107, aula 1502 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 107, aula 1692 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 107, aula 2690 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 107, aula 1392 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 107, aula 582 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 107, aula 3740 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 107, aula 996 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 107, aula 3259 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 108, aula 3119 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 108, aula 3119 - data_conclusao inválida
+- progresso_aulas.csv: matricula 108, aula 574 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 108, aula 574 - data_conclusao inválida
+- progresso_aulas.csv: matricula 108, aula 607 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 108, aula 607 - data_conclusao inválida
+- progresso_aulas.csv: matricula 108, aula 2138 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 108, aula 2138 - data_conclusao inválida
+- progresso_aulas.csv: matricula 108, aula 1182 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 108, aula 1182 - data_conclusao inválida
+- progresso_aulas.csv: matricula 108, aula 107 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 108, aula 107 - data_conclusao inválida
+- progresso_aulas.csv: matricula 108, aula 906 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 108, aula 906 - data_conclusao inválida
+- progresso_aulas.csv: matricula 109, aula 2924 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 109, aula 2924 - data_conclusao inválida
+- progresso_aulas.csv: matricula 109, aula 1193 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 109, aula 1193 - data_conclusao inválida
+- progresso_aulas.csv: matricula 109, aula 1257 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 109, aula 3870 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 109, aula 2933 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 109, aula 649 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 109, aula 2326 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 109, aula 2597 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 109, aula 2597 - data_conclusao inválida
+- progresso_aulas.csv: matricula 110, aula 1198 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 110, aula 3520 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 110, aula 1574 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 110, aula 1574 - data_conclusao inválida
+- progresso_aulas.csv: matricula 110, aula 1054 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 110, aula 2609 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 111, aula 3054 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 111, aula 3565 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 111, aula 2117 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 111, aula 1663 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 111, aula 1954 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 111, aula 2534 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 111, aula 3687 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 111, aula 698 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 112, aula 3675 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 112, aula 1556 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 112, aula 1556 - data_conclusao inválida
+- progresso_aulas.csv: matricula 112, aula 59 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 112, aula 2740 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 112, aula 2740 - data_conclusao inválida
+- progresso_aulas.csv: matricula 112, aula 3879 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 113, aula 2493 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 113, aula 2493 - data_conclusao inválida
+- progresso_aulas.csv: matricula 113, aula 3187 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 113, aula 2986 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 113, aula 3233 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 113, aula 3233 - data_conclusao inválida
+- progresso_aulas.csv: matricula 113, aula 490 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 113, aula 490 - data_conclusao inválida
+- progresso_aulas.csv: matricula 114, aula 3713 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 114, aula 50 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 114, aula 3441 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 114, aula 3057 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 114, aula 3465 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 114, aula 3355 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 114, aula 3208 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 114, aula 3227 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 114, aula 3227 - data_conclusao inválida
+- progresso_aulas.csv: matricula 114, aula 2147 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 114, aula 3679 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 114, aula 936 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 114, aula 936 - data_conclusao inválida
+- progresso_aulas.csv: matricula 114, aula 3037 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 115, aula 1003 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 115, aula 1049 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 115, aula 1049 - data_conclusao inválida
+- progresso_aulas.csv: matricula 115, aula 3266 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 115, aula 3029 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 115, aula 3029 - data_conclusao inválida
+- progresso_aulas.csv: matricula 115, aula 749 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 115, aula 749 - data_conclusao inválida
+- progresso_aulas.csv: matricula 115, aula 2826 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 115, aula 2826 - data_conclusao inválida
+- progresso_aulas.csv: matricula 115, aula 3836 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 115, aula 3836 - data_conclusao inválida
+- progresso_aulas.csv: matricula 115, aula 2666 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 115, aula 3513 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 115, aula 3513 - data_conclusao inválida
+- progresso_aulas.csv: matricula 115, aula 1004 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 115, aula 1004 - data_conclusao inválida
+- progresso_aulas.csv: matricula 115, aula 936 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 115, aula 936 - data_conclusao inválida
+- progresso_aulas.csv: matricula 116, aula 3044 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 116, aula 3044 - data_conclusao inválida
+- progresso_aulas.csv: matricula 116, aula 779 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 116, aula 3004 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 116, aula 3004 - data_conclusao inválida
+- progresso_aulas.csv: matricula 116, aula 3403 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 116, aula 3403 - data_conclusao inválida
+- progresso_aulas.csv: matricula 116, aula 3758 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 116, aula 3758 - data_conclusao inválida
+- progresso_aulas.csv: matricula 116, aula 261 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 116, aula 261 - data_conclusao inválida
+- progresso_aulas.csv: matricula 116, aula 3712 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 116, aula 3712 - data_conclusao inválida
+- progresso_aulas.csv: matricula 117, aula 851 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 117, aula 851 - data_conclusao inválida
+- progresso_aulas.csv: matricula 117, aula 933 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 117, aula 933 - data_conclusao inválida
+- progresso_aulas.csv: matricula 117, aula 1000 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 117, aula 1000 - data_conclusao inválida
+- progresso_aulas.csv: matricula 117, aula 2399 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 117, aula 2399 - data_conclusao inválida
+- progresso_aulas.csv: matricula 117, aula 3120 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 117, aula 3120 - data_conclusao inválida
+- progresso_aulas.csv: matricula 117, aula 2381 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 117, aula 2381 - data_conclusao inválida
+- progresso_aulas.csv: matricula 117, aula 1955 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 117, aula 1955 - data_conclusao inválida
+- progresso_aulas.csv: matricula 118, aula 2200 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 118, aula 2200 - data_conclusao inválida
+- progresso_aulas.csv: matricula 118, aula 3612 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 118, aula 3201 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 118, aula 3201 - data_conclusao inválida
+- progresso_aulas.csv: matricula 118, aula 210 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 118, aula 210 - data_conclusao inválida
+- progresso_aulas.csv: matricula 118, aula 1307 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 118, aula 1307 - data_conclusao inválida
+- progresso_aulas.csv: matricula 118, aula 3236 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 118, aula 3236 - data_conclusao inválida
+- progresso_aulas.csv: matricula 118, aula 2597 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 118, aula 2597 - data_conclusao inválida
+- progresso_aulas.csv: matricula 118, aula 300 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 118, aula 300 - data_conclusao inválida
+- progresso_aulas.csv: matricula 118, aula 805 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 118, aula 805 - data_conclusao inválida
+- progresso_aulas.csv: matricula 118, aula 1960 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 118, aula 1960 - data_conclusao inválida
+- progresso_aulas.csv: matricula 119, aula 809 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 119, aula 809 - data_conclusao inválida
+- progresso_aulas.csv: matricula 119, aula 410 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 119, aula 2222 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 119, aula 2415 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 120, aula 3528 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 120, aula 3707 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 120, aula 3707 - data_conclusao inválida
+- progresso_aulas.csv: matricula 120, aula 457 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 120, aula 457 - data_conclusao inválida
+- progresso_aulas.csv: matricula 120, aula 2950 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 120, aula 2950 - data_conclusao inválida
+- progresso_aulas.csv: matricula 120, aula 3632 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 120, aula 1814 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 120, aula 1814 - data_conclusao inválida
+- progresso_aulas.csv: matricula 120, aula 3185 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 120, aula 2633 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 120, aula 798 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 120, aula 2413 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 120, aula 3301 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 120, aula 3301 - data_conclusao inválida
+- progresso_aulas.csv: matricula 120, aula 2601 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 120, aula 2601 - data_conclusao inválida
+- progresso_aulas.csv: matricula 121, aula 1163 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 121, aula 2644 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 121, aula 1228 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 121, aula 1228 - data_conclusao inválida
+- progresso_aulas.csv: matricula 121, aula 1083 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 121, aula 3553 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 121, aula 2180 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 121, aula 1020 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 121, aula 1398 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 121, aula 1398 - data_conclusao inválida
+- progresso_aulas.csv: matricula 121, aula 1128 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 121, aula 2777 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 122, aula 2757 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 122, aula 1248 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 122, aula 388 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 122, aula 388 - data_conclusao inválida
+- progresso_aulas.csv: matricula 122, aula 3791 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 123, aula 1259 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 123, aula 1259 - data_conclusao inválida
+- progresso_aulas.csv: matricula 123, aula 2056 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 123, aula 2056 - data_conclusao inválida
+- progresso_aulas.csv: matricula 123, aula 1251 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 123, aula 1251 - data_conclusao inválida
+- progresso_aulas.csv: matricula 123, aula 1311 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 123, aula 3140 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 123, aula 3140 - data_conclusao inválida
+- progresso_aulas.csv: matricula 123, aula 2173 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 123, aula 2173 - data_conclusao inválida
+- progresso_aulas.csv: matricula 124, aula 2339 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 124, aula 2339 - data_conclusao inválida
+- progresso_aulas.csv: matricula 124, aula 2753 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 124, aula 634 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 124, aula 634 - data_conclusao inválida
+- progresso_aulas.csv: matricula 124, aula 1327 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 124, aula 641 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 124, aula 641 - data_conclusao inválida
+- progresso_aulas.csv: matricula 124, aula 787 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 124, aula 3140 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 124, aula 3140 - data_conclusao inválida
+- progresso_aulas.csv: matricula 125, aula 1941 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 125, aula 2677 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 125, aula 2439 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 125, aula 3231 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 125, aula 1708 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 125, aula 3194 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 125, aula 2976 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 125, aula 1104 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 126, aula 3124 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 126, aula 1709 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 126, aula 1709 - data_conclusao inválida
+- progresso_aulas.csv: matricula 126, aula 24 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 126, aula 24 - data_conclusao inválida
+- progresso_aulas.csv: matricula 126, aula 3123 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 126, aula 3851 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 126, aula 1656 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 126, aula 227 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 126, aula 227 - data_conclusao inválida
+- progresso_aulas.csv: matricula 126, aula 1675 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 126, aula 1449 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 126, aula 2646 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 126, aula 2646 - data_conclusao inválida
+- progresso_aulas.csv: matricula 126, aula 3299 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 126, aula 3299 - data_conclusao inválida
+- progresso_aulas.csv: matricula 126, aula 574 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 126, aula 574 - data_conclusao inválida
+- progresso_aulas.csv: matricula 127, aula 3240 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 127, aula 1567 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 127, aula 1567 - data_conclusao inválida
+- progresso_aulas.csv: matricula 127, aula 1335 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 127, aula 2286 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 127, aula 2294 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 127, aula 3028 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 127, aula 3028 - data_conclusao inválida
+- progresso_aulas.csv: matricula 127, aula 817 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 127, aula 3267 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 128, aula 3878 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 128, aula 189 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 128, aula 3200 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 128, aula 2701 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 128, aula 2701 - data_conclusao inválida
+- progresso_aulas.csv: matricula 128, aula 1598 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 128, aula 1598 - data_conclusao inválida
+- progresso_aulas.csv: matricula 128, aula 2818 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 128, aula 3723 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 128, aula 2894 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 128, aula 2894 - data_conclusao inválida
+- progresso_aulas.csv: matricula 128, aula 1995 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 128, aula 1995 - data_conclusao inválida
+- progresso_aulas.csv: matricula 128, aula 1024 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 128, aula 1148 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 128, aula 1148 - data_conclusao inválida
+- progresso_aulas.csv: matricula 128, aula 2486 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 129, aula 3608 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 129, aula 3608 - data_conclusao inválida
+- progresso_aulas.csv: matricula 129, aula 3072 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 129, aula 3072 - data_conclusao inválida
+- progresso_aulas.csv: matricula 129, aula 304 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 129, aula 1330 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 129, aula 1330 - data_conclusao inválida
+- progresso_aulas.csv: matricula 129, aula 3176 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 129, aula 3001 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 129, aula 3001 - data_conclusao inválida
+- progresso_aulas.csv: matricula 129, aula 1695 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 129, aula 1695 - data_conclusao inválida
+- progresso_aulas.csv: matricula 129, aula 3377 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 129, aula 3377 - data_conclusao inválida
+- progresso_aulas.csv: matricula 129, aula 622 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 129, aula 622 - data_conclusao inválida
+- progresso_aulas.csv: matricula 129, aula 3580 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 129, aula 3580 - data_conclusao inválida
+- progresso_aulas.csv: matricula 130, aula 1796 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 130, aula 1796 - data_conclusao inválida
+- progresso_aulas.csv: matricula 130, aula 1005 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 130, aula 1005 - data_conclusao inválida
+- progresso_aulas.csv: matricula 130, aula 1343 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 130, aula 1343 - data_conclusao inválida
+- progresso_aulas.csv: matricula 130, aula 2346 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 130, aula 2346 - data_conclusao inválida
+- progresso_aulas.csv: matricula 130, aula 2239 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 130, aula 3125 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 130, aula 3125 - data_conclusao inválida
+- progresso_aulas.csv: matricula 130, aula 2707 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 130, aula 2707 - data_conclusao inválida
+- progresso_aulas.csv: matricula 130, aula 1068 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 130, aula 1068 - data_conclusao inválida
+- progresso_aulas.csv: matricula 130, aula 2281 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 130, aula 2281 - data_conclusao inválida
+- progresso_aulas.csv: matricula 130, aula 2176 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 130, aula 2176 - data_conclusao inválida
+- progresso_aulas.csv: matricula 130, aula 3348 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 130, aula 3348 - data_conclusao inválida
+- progresso_aulas.csv: matricula 131, aula 3163 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 131, aula 3163 - data_conclusao inválida
+- progresso_aulas.csv: matricula 131, aula 3154 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 131, aula 3154 - data_conclusao inválida
+- progresso_aulas.csv: matricula 131, aula 279 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 132, aula 3708 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 132, aula 3708 - data_conclusao inválida
+- progresso_aulas.csv: matricula 132, aula 3165 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 132, aula 1827 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 132, aula 3061 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 132, aula 3624 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 132, aula 880 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 132, aula 880 - data_conclusao inválida
+- progresso_aulas.csv: matricula 132, aula 755 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 132, aula 755 - data_conclusao inválida
+- progresso_aulas.csv: matricula 132, aula 1316 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 133, aula 3821 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 133, aula 95 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 133, aula 575 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 133, aula 489 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 133, aula 2631 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 133, aula 1683 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 133, aula 1751 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 133, aula 1751 - data_conclusao inválida
+- progresso_aulas.csv: matricula 133, aula 1624 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 133, aula 3302 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 133, aula 1993 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 133, aula 3270 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 133, aula 197 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 134, aula 649 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 134, aula 3272 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 134, aula 2104 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 134, aula 3467 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 135, aula 1908 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 135, aula 1908 - data_conclusao inválida
+- progresso_aulas.csv: matricula 135, aula 1849 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 135, aula 1849 - data_conclusao inválida
+- progresso_aulas.csv: matricula 135, aula 3643 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 135, aula 3607 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 135, aula 3027 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 135, aula 624 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 135, aula 2665 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 135, aula 2665 - data_conclusao inválida
+- progresso_aulas.csv: matricula 135, aula 1354 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 135, aula 1354 - data_conclusao inválida
+- progresso_aulas.csv: matricula 135, aula 300 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 135, aula 300 - data_conclusao inválida
+- progresso_aulas.csv: matricula 136, aula 1645 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 136, aula 1645 - data_conclusao inválida
+- progresso_aulas.csv: matricula 136, aula 2355 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 136, aula 2355 - data_conclusao inválida
+- progresso_aulas.csv: matricula 136, aula 1204 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 136, aula 1204 - data_conclusao inválida
+- progresso_aulas.csv: matricula 136, aula 27 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 136, aula 27 - data_conclusao inválida
+- progresso_aulas.csv: matricula 136, aula 2555 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 136, aula 2555 - data_conclusao inválida
+- progresso_aulas.csv: matricula 136, aula 3393 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 136, aula 3393 - data_conclusao inválida
+- progresso_aulas.csv: matricula 136, aula 1598 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 136, aula 1598 - data_conclusao inválida
+- progresso_aulas.csv: matricula 136, aula 78 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 136, aula 78 - data_conclusao inválida
+- progresso_aulas.csv: matricula 136, aula 35 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 136, aula 35 - data_conclusao inválida
+- progresso_aulas.csv: matricula 137, aula 1750 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 137, aula 1750 - data_conclusao inválida
+- progresso_aulas.csv: matricula 137, aula 617 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 137, aula 617 - data_conclusao inválida
+- progresso_aulas.csv: matricula 137, aula 1061 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 137, aula 3505 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 137, aula 3505 - data_conclusao inválida
+- progresso_aulas.csv: matricula 137, aula 913 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 137, aula 913 - data_conclusao inválida
+- progresso_aulas.csv: matricula 137, aula 2394 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 138, aula 3365 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 138, aula 2353 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 138, aula 3791 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 138, aula 1453 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 138, aula 3659 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 138, aula 3606 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 139, aula 2213 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 139, aula 2213 - data_conclusao inválida
+- progresso_aulas.csv: matricula 139, aula 1428 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 139, aula 284 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 139, aula 284 - data_conclusao inválida
+- progresso_aulas.csv: matricula 140, aula 2696 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 140, aula 2696 - data_conclusao inválida
+- progresso_aulas.csv: matricula 140, aula 856 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 140, aula 856 - data_conclusao inválida
+- progresso_aulas.csv: matricula 140, aula 827 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 140, aula 1241 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 140, aula 669 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 140, aula 669 - data_conclusao inválida
+- progresso_aulas.csv: matricula 140, aula 1738 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 140, aula 1738 - data_conclusao inválida
+- progresso_aulas.csv: matricula 140, aula 1111 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 140, aula 955 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 140, aula 955 - data_conclusao inválida
+- progresso_aulas.csv: matricula 141, aula 3417 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 141, aula 3417 - data_conclusao inválida
+- progresso_aulas.csv: matricula 141, aula 3884 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 141, aula 3884 - data_conclusao inválida
+- progresso_aulas.csv: matricula 141, aula 1537 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 141, aula 1537 - data_conclusao inválida
+- progresso_aulas.csv: matricula 141, aula 105 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 141, aula 105 - data_conclusao inválida
+- progresso_aulas.csv: matricula 141, aula 1819 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 141, aula 1819 - data_conclusao inválida
+- progresso_aulas.csv: matricula 141, aula 3554 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 141, aula 3554 - data_conclusao inválida
+- progresso_aulas.csv: matricula 141, aula 3048 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 141, aula 3499 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 141, aula 3499 - data_conclusao inválida
+- progresso_aulas.csv: matricula 141, aula 3031 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 141, aula 3031 - data_conclusao inválida
+- progresso_aulas.csv: matricula 141, aula 855 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 141, aula 855 - data_conclusao inválida
+- progresso_aulas.csv: matricula 142, aula 1636 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 142, aula 814 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 142, aula 843 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 142, aula 843 - data_conclusao inválida
+- progresso_aulas.csv: matricula 142, aula 3158 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 142, aula 1559 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 142, aula 1559 - data_conclusao inválida
+- progresso_aulas.csv: matricula 142, aula 2418 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 142, aula 2418 - data_conclusao inválida
+- progresso_aulas.csv: matricula 142, aula 3337 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 142, aula 511 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 142, aula 381 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 142, aula 718 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 143, aula 3276 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 143, aula 3276 - data_conclusao inválida
+- progresso_aulas.csv: matricula 143, aula 2077 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 143, aula 2077 - data_conclusao inválida
+- progresso_aulas.csv: matricula 143, aula 1474 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 143, aula 1474 - data_conclusao inválida
+- progresso_aulas.csv: matricula 143, aula 1958 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 143, aula 1958 - data_conclusao inválida
+- progresso_aulas.csv: matricula 143, aula 1046 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 143, aula 1046 - data_conclusao inválida
+- progresso_aulas.csv: matricula 143, aula 2084 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 143, aula 2084 - data_conclusao inválida
+- progresso_aulas.csv: matricula 144, aula 67 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 144, aula 30 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 144, aula 1557 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 144, aula 1557 - data_conclusao inválida
+- progresso_aulas.csv: matricula 144, aula 3291 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 145, aula 3875 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 145, aula 3473 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 145, aula 2671 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 145, aula 1232 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 145, aula 1232 - data_conclusao inválida
+- progresso_aulas.csv: matricula 146, aula 65 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 146, aula 1126 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 146, aula 2989 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 146, aula 2652 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 146, aula 3676 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 146, aula 1325 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 146, aula 186 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 146, aula 577 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 146, aula 577 - data_conclusao inválida
+- progresso_aulas.csv: matricula 146, aula 3472 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 146, aula 3472 - data_conclusao inválida
+- progresso_aulas.csv: matricula 147, aula 3031 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 147, aula 2708 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 147, aula 1201 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 147, aula 1523 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 147, aula 2530 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 147, aula 1700 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 148, aula 836 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 148, aula 1254 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 148, aula 1654 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 149, aula 117 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 149, aula 3641 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 149, aula 3641 - data_conclusao inválida
+- progresso_aulas.csv: matricula 149, aula 1928 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 150, aula 3124 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 150, aula 2452 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 150, aula 2960 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 151, aula 1720 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 151, aula 1720 - data_conclusao inválida
+- progresso_aulas.csv: matricula 151, aula 272 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 151, aula 272 - data_conclusao inválida
+- progresso_aulas.csv: matricula 151, aula 461 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 151, aula 461 - data_conclusao inválida
+- progresso_aulas.csv: matricula 151, aula 1949 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 151, aula 1949 - data_conclusao inválida
+- progresso_aulas.csv: matricula 151, aula 1903 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 151, aula 1903 - data_conclusao inválida
+- progresso_aulas.csv: matricula 151, aula 1701 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 151, aula 1701 - data_conclusao inválida
+- progresso_aulas.csv: matricula 152, aula 551 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 152, aula 3510 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 152, aula 3510 - data_conclusao inválida
+- progresso_aulas.csv: matricula 152, aula 2471 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 152, aula 3316 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 152, aula 3316 - data_conclusao inválida
+- progresso_aulas.csv: matricula 152, aula 2609 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 152, aula 3 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 152, aula 1276 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 152, aula 1276 - data_conclusao inválida
+- progresso_aulas.csv: matricula 152, aula 1951 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 152, aula 1924 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 152, aula 3685 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 152, aula 3685 - data_conclusao inválida
+- progresso_aulas.csv: matricula 152, aula 3699 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 153, aula 2109 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 153, aula 2109 - data_conclusao inválida
+- progresso_aulas.csv: matricula 153, aula 532 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 153, aula 3300 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 153, aula 3300 - data_conclusao inválida
+- progresso_aulas.csv: matricula 153, aula 3860 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 153, aula 3860 - data_conclusao inválida
+- progresso_aulas.csv: matricula 153, aula 585 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 153, aula 585 - data_conclusao inválida
+- progresso_aulas.csv: matricula 154, aula 2938 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 154, aula 2938 - data_conclusao inválida
+- progresso_aulas.csv: matricula 154, aula 1655 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 154, aula 1655 - data_conclusao inválida
+- progresso_aulas.csv: matricula 154, aula 1157 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 154, aula 1157 - data_conclusao inválida
+- progresso_aulas.csv: matricula 154, aula 3633 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 154, aula 3633 - data_conclusao inválida
+- progresso_aulas.csv: matricula 155, aula 1024 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 155, aula 1024 - data_conclusao inválida
+- progresso_aulas.csv: matricula 155, aula 927 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 155, aula 927 - data_conclusao inválida
+- progresso_aulas.csv: matricula 155, aula 1027 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 155, aula 1027 - data_conclusao inválida
+- progresso_aulas.csv: matricula 155, aula 757 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 155, aula 757 - data_conclusao inválida
+- progresso_aulas.csv: matricula 155, aula 2991 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 155, aula 2991 - data_conclusao inválida
+- progresso_aulas.csv: matricula 155, aula 2701 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 155, aula 2701 - data_conclusao inválida
+- progresso_aulas.csv: matricula 155, aula 1234 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 155, aula 1234 - data_conclusao inválida
+- progresso_aulas.csv: matricula 155, aula 1347 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 155, aula 1347 - data_conclusao inválida
+- progresso_aulas.csv: matricula 155, aula 2911 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 155, aula 1893 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 155, aula 1893 - data_conclusao inválida
+- progresso_aulas.csv: matricula 155, aula 2738 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 155, aula 2738 - data_conclusao inválida
+- progresso_aulas.csv: matricula 155, aula 2420 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 155, aula 2420 - data_conclusao inválida
+- progresso_aulas.csv: matricula 156, aula 3113 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 156, aula 3685 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 156, aula 3685 - data_conclusao inválida
+- progresso_aulas.csv: matricula 156, aula 540 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 156, aula 540 - data_conclusao inválida
+- progresso_aulas.csv: matricula 156, aula 1344 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 156, aula 1729 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 156, aula 1729 - data_conclusao inválida
+- progresso_aulas.csv: matricula 156, aula 1536 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 156, aula 1536 - data_conclusao inválida
+- progresso_aulas.csv: matricula 156, aula 2709 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 156, aula 595 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 156, aula 595 - data_conclusao inválida
+- progresso_aulas.csv: matricula 156, aula 2374 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 156, aula 2374 - data_conclusao inválida
+- progresso_aulas.csv: matricula 156, aula 3017 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 156, aula 3017 - data_conclusao inválida
+- progresso_aulas.csv: matricula 156, aula 3829 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 156, aula 3829 - data_conclusao inválida
+- progresso_aulas.csv: matricula 156, aula 3485 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 157, aula 664 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 157, aula 1626 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 157, aula 1626 - data_conclusao inválida
+- progresso_aulas.csv: matricula 157, aula 1322 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 157, aula 1322 - data_conclusao inválida
+- progresso_aulas.csv: matricula 158, aula 3514 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 158, aula 1409 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 158, aula 1409 - data_conclusao inválida
+- progresso_aulas.csv: matricula 158, aula 770 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 158, aula 2576 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 158, aula 2576 - data_conclusao inválida
+- progresso_aulas.csv: matricula 158, aula 3562 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 158, aula 3347 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 158, aula 2365 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 158, aula 2365 - data_conclusao inválida
+- progresso_aulas.csv: matricula 158, aula 1662 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 158, aula 1852 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 158, aula 880 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 159, aula 1870 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 159, aula 2717 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 159, aula 396 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 159, aula 396 - data_conclusao inválida
+- progresso_aulas.csv: matricula 159, aula 2737 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 159, aula 3508 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 159, aula 1403 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 159, aula 3127 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 159, aula 2127 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 159, aula 1077 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 159, aula 1077 - data_conclusao inválida
+- progresso_aulas.csv: matricula 159, aula 259 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 160, aula 1854 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 160, aula 1854 - data_conclusao inválida
+- progresso_aulas.csv: matricula 160, aula 1787 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 160, aula 2267 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 160, aula 2267 - data_conclusao inválida
+- progresso_aulas.csv: matricula 160, aula 3849 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 160, aula 3849 - data_conclusao inválida
+- progresso_aulas.csv: matricula 160, aula 340 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 160, aula 3552 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 160, aula 3552 - data_conclusao inválida
+- progresso_aulas.csv: matricula 160, aula 2068 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 160, aula 748 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 161, aula 3005 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 161, aula 3005 - data_conclusao inválida
+- progresso_aulas.csv: matricula 161, aula 3050 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 161, aula 3050 - data_conclusao inválida
+- progresso_aulas.csv: matricula 161, aula 1450 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 162, aula 3523 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 162, aula 2174 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 162, aula 2174 - data_conclusao inválida
+- progresso_aulas.csv: matricula 162, aula 2151 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 162, aula 193 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 162, aula 3278 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 163, aula 2787 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 163, aula 2787 - data_conclusao inválida
+- progresso_aulas.csv: matricula 163, aula 679 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 163, aula 679 - data_conclusao inválida
+- progresso_aulas.csv: matricula 163, aula 2601 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 163, aula 2601 - data_conclusao inválida
+- progresso_aulas.csv: matricula 163, aula 2599 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 163, aula 2599 - data_conclusao inválida
+- progresso_aulas.csv: matricula 163, aula 3519 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 163, aula 3519 - data_conclusao inválida
+- progresso_aulas.csv: matricula 164, aula 3454 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 164, aula 3812 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 164, aula 3812 - data_conclusao inválida
+- progresso_aulas.csv: matricula 164, aula 3077 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 164, aula 3077 - data_conclusao inválida
+- progresso_aulas.csv: matricula 164, aula 2934 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 164, aula 2934 - data_conclusao inválida
+- progresso_aulas.csv: matricula 164, aula 623 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 164, aula 2216 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 164, aula 2216 - data_conclusao inválida
+- progresso_aulas.csv: matricula 164, aula 3860 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 164, aula 2498 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 164, aula 2498 - data_conclusao inválida
+- progresso_aulas.csv: matricula 164, aula 1737 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 164, aula 1737 - data_conclusao inválida
+- progresso_aulas.csv: matricula 164, aula 3516 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 164, aula 3516 - data_conclusao inválida
+- progresso_aulas.csv: matricula 164, aula 829 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 164, aula 829 - data_conclusao inválida
+- progresso_aulas.csv: matricula 164, aula 1141 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 164, aula 1141 - data_conclusao inválida
+- progresso_aulas.csv: matricula 165, aula 1917 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 165, aula 1319 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 165, aula 558 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 165, aula 558 - data_conclusao inválida
+- progresso_aulas.csv: matricula 165, aula 2956 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 165, aula 3843 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 165, aula 1229 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 165, aula 2 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 165, aula 2 - data_conclusao inválida
+- progresso_aulas.csv: matricula 165, aula 307 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 165, aula 1030 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 166, aula 3221 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 166, aula 3221 - data_conclusao inválida
+- progresso_aulas.csv: matricula 166, aula 654 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 166, aula 2647 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 166, aula 1717 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 166, aula 1717 - data_conclusao inválida
+- progresso_aulas.csv: matricula 166, aula 1602 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 166, aula 1602 - data_conclusao inválida
+- progresso_aulas.csv: matricula 166, aula 2423 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 167, aula 506 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 167, aula 506 - data_conclusao inválida
+- progresso_aulas.csv: matricula 167, aula 2974 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 167, aula 3030 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 167, aula 3030 - data_conclusao inválida
+- progresso_aulas.csv: matricula 167, aula 2400 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 167, aula 3869 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 168, aula 2609 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 168, aula 2609 - data_conclusao inválida
+- progresso_aulas.csv: matricula 168, aula 481 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 168, aula 481 - data_conclusao inválida
+- progresso_aulas.csv: matricula 168, aula 2133 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 168, aula 2133 - data_conclusao inválida
+- progresso_aulas.csv: matricula 168, aula 1275 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 168, aula 1275 - data_conclusao inválida
+- progresso_aulas.csv: matricula 168, aula 2148 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 168, aula 2148 - data_conclusao inválida
+- progresso_aulas.csv: matricula 168, aula 421 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 168, aula 421 - data_conclusao inválida
+- progresso_aulas.csv: matricula 168, aula 3161 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 168, aula 3161 - data_conclusao inválida
+- progresso_aulas.csv: matricula 168, aula 2575 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 168, aula 2575 - data_conclusao inválida
+- progresso_aulas.csv: matricula 169, aula 952 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 169, aula 2706 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 169, aula 2706 - data_conclusao inválida
+- progresso_aulas.csv: matricula 169, aula 1796 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 169, aula 1224 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 169, aula 1224 - data_conclusao inválida
+- progresso_aulas.csv: matricula 169, aula 3368 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 169, aula 512 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 169, aula 2217 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 169, aula 3043 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 169, aula 2499 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 169, aula 2499 - data_conclusao inválida
+- progresso_aulas.csv: matricula 169, aula 1862 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 169, aula 1862 - data_conclusao inválida
+- progresso_aulas.csv: matricula 169, aula 630 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 169, aula 630 - data_conclusao inválida
+- progresso_aulas.csv: matricula 169, aula 289 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 170, aula 921 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 170, aula 2142 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 170, aula 2142 - data_conclusao inválida
+- progresso_aulas.csv: matricula 170, aula 423 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 170, aula 423 - data_conclusao inválida
+- progresso_aulas.csv: matricula 170, aula 363 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 170, aula 363 - data_conclusao inválida
+- progresso_aulas.csv: matricula 170, aula 2998 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 170, aula 2998 - data_conclusao inválida
+- progresso_aulas.csv: matricula 170, aula 2472 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 170, aula 2472 - data_conclusao inválida
+- progresso_aulas.csv: matricula 170, aula 2454 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 170, aula 3544 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 170, aula 1486 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 170, aula 989 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 170, aula 989 - data_conclusao inválida
+- progresso_aulas.csv: matricula 171, aula 3706 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 171, aula 1031 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 171, aula 1031 - data_conclusao inválida
+- progresso_aulas.csv: matricula 171, aula 2623 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 171, aula 2081 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 171, aula 2081 - data_conclusao inválida
+- progresso_aulas.csv: matricula 171, aula 1347 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 171, aula 1347 - data_conclusao inválida
+- progresso_aulas.csv: matricula 171, aula 1719 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 171, aula 2732 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 172, aula 2400 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 172, aula 2400 - data_conclusao inválida
+- progresso_aulas.csv: matricula 172, aula 2028 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 172, aula 2028 - data_conclusao inválida
+- progresso_aulas.csv: matricula 172, aula 907 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 172, aula 907 - data_conclusao inválida
+- progresso_aulas.csv: matricula 172, aula 2422 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 172, aula 2422 - data_conclusao inválida
+- progresso_aulas.csv: matricula 172, aula 1777 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 172, aula 1777 - data_conclusao inválida
+- progresso_aulas.csv: matricula 172, aula 2727 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 172, aula 2727 - data_conclusao inválida
+- progresso_aulas.csv: matricula 172, aula 1089 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 172, aula 426 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 172, aula 3199 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 172, aula 3385 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 172, aula 3385 - data_conclusao inválida
+- progresso_aulas.csv: matricula 173, aula 2465 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 173, aula 2465 - data_conclusao inválida
+- progresso_aulas.csv: matricula 173, aula 442 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 173, aula 442 - data_conclusao inválida
+- progresso_aulas.csv: matricula 173, aula 2419 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 173, aula 2419 - data_conclusao inválida
+- progresso_aulas.csv: matricula 173, aula 3434 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 173, aula 3434 - data_conclusao inválida
+- progresso_aulas.csv: matricula 173, aula 3251 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 173, aula 3251 - data_conclusao inválida
+- progresso_aulas.csv: matricula 173, aula 2633 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 173, aula 2633 - data_conclusao inválida
+- progresso_aulas.csv: matricula 173, aula 404 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 173, aula 404 - data_conclusao inválida
+- progresso_aulas.csv: matricula 173, aula 2358 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 173, aula 2358 - data_conclusao inválida
+- progresso_aulas.csv: matricula 173, aula 389 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 173, aula 389 - data_conclusao inválida
+- progresso_aulas.csv: matricula 174, aula 1478 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 174, aula 1478 - data_conclusao inválida
+- progresso_aulas.csv: matricula 174, aula 2377 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 174, aula 2377 - data_conclusao inválida
+- progresso_aulas.csv: matricula 174, aula 2756 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 174, aula 2756 - data_conclusao inválida
+- progresso_aulas.csv: matricula 174, aula 2906 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 175, aula 1423 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 175, aula 1423 - data_conclusao inválida
+- progresso_aulas.csv: matricula 175, aula 2651 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 175, aula 2651 - data_conclusao inválida
+- progresso_aulas.csv: matricula 175, aula 3229 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 175, aula 3229 - data_conclusao inválida
+- progresso_aulas.csv: matricula 175, aula 1804 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 175, aula 1804 - data_conclusao inválida
+- progresso_aulas.csv: matricula 175, aula 3491 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 175, aula 3491 - data_conclusao inválida
+- progresso_aulas.csv: matricula 175, aula 1888 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 175, aula 1888 - data_conclusao inválida
+- progresso_aulas.csv: matricula 175, aula 2349 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 175, aula 2349 - data_conclusao inválida
+- progresso_aulas.csv: matricula 175, aula 3537 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 175, aula 3537 - data_conclusao inválida
+- progresso_aulas.csv: matricula 175, aula 2142 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 175, aula 2142 - data_conclusao inválida
+- progresso_aulas.csv: matricula 176, aula 3331 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 176, aula 3299 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 176, aula 2573 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 177, aula 405 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 177, aula 1198 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 177, aula 3772 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 177, aula 3772 - data_conclusao inválida
+- progresso_aulas.csv: matricula 178, aula 3353 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 178, aula 2798 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 178, aula 2798 - data_conclusao inválida
+- progresso_aulas.csv: matricula 178, aula 1410 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 178, aula 1444 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 178, aula 1019 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 178, aula 1134 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 178, aula 1134 - data_conclusao inválida
+- progresso_aulas.csv: matricula 178, aula 1827 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 179, aula 3158 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 179, aula 3158 - data_conclusao inválida
+- progresso_aulas.csv: matricula 179, aula 3537 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 179, aula 2242 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 179, aula 2656 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 179, aula 1319 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 179, aula 1319 - data_conclusao inválida
+- progresso_aulas.csv: matricula 179, aula 3034 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 180, aula 3031 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 180, aula 3031 - data_conclusao inválida
+- progresso_aulas.csv: matricula 180, aula 3298 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 180, aula 3426 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 180, aula 933 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 180, aula 1297 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 180, aula 1297 - data_conclusao inválida
+- progresso_aulas.csv: matricula 180, aula 3395 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 180, aula 1253 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 180, aula 415 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 180, aula 3745 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 180, aula 3745 - data_conclusao inválida
+- progresso_aulas.csv: matricula 180, aula 2958 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 180, aula 371 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 180, aula 371 - data_conclusao inválida
+- progresso_aulas.csv: matricula 180, aula 2620 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 181, aula 691 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 181, aula 691 - data_conclusao inválida
+- progresso_aulas.csv: matricula 181, aula 1323 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 181, aula 1323 - data_conclusao inválida
+- progresso_aulas.csv: matricula 181, aula 66 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 181, aula 66 - data_conclusao inválida
+- progresso_aulas.csv: matricula 181, aula 457 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 181, aula 457 - data_conclusao inválida
+- progresso_aulas.csv: matricula 181, aula 778 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 181, aula 2384 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 181, aula 2384 - data_conclusao inválida
+- progresso_aulas.csv: matricula 181, aula 1272 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 181, aula 3723 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 181, aula 3723 - data_conclusao inválida
+- progresso_aulas.csv: matricula 182, aula 2534 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 182, aula 2850 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 182, aula 312 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 182, aula 312 - data_conclusao inválida
+- progresso_aulas.csv: matricula 182, aula 814 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 182, aula 383 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 182, aula 383 - data_conclusao inválida
+- progresso_aulas.csv: matricula 183, aula 1626 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 183, aula 1626 - data_conclusao inválida
+- progresso_aulas.csv: matricula 183, aula 545 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 183, aula 3774 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 183, aula 3774 - data_conclusao inválida
+- progresso_aulas.csv: matricula 183, aula 1578 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 183, aula 1578 - data_conclusao inválida
+- progresso_aulas.csv: matricula 183, aula 425 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 183, aula 3462 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 183, aula 3016 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 183, aula 3016 - data_conclusao inválida
+- progresso_aulas.csv: matricula 183, aula 3337 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 183, aula 3337 - data_conclusao inválida
+- progresso_aulas.csv: matricula 183, aula 3590 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 183, aula 3635 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 183, aula 3271 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 183, aula 3271 - data_conclusao inválida
+- progresso_aulas.csv: matricula 184, aula 1122 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 184, aula 108 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 184, aula 2026 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 184, aula 920 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 184, aula 3413 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 185, aula 3433 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 185, aula 3433 - data_conclusao inválida
+- progresso_aulas.csv: matricula 185, aula 1798 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 185, aula 1798 - data_conclusao inválida
+- progresso_aulas.csv: matricula 185, aula 1698 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 185, aula 2279 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 185, aula 2279 - data_conclusao inválida
+- progresso_aulas.csv: matricula 185, aula 2258 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 185, aula 2327 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 185, aula 788 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 185, aula 1689 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 185, aula 1689 - data_conclusao inválida
+- progresso_aulas.csv: matricula 185, aula 763 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 185, aula 763 - data_conclusao inválida
+- progresso_aulas.csv: matricula 185, aula 3474 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 185, aula 2125 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 185, aula 2380 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 186, aula 2214 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 186, aula 2214 - data_conclusao inválida
+- progresso_aulas.csv: matricula 186, aula 1463 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 186, aula 316 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 186, aula 316 - data_conclusao inválida
+- progresso_aulas.csv: matricula 186, aula 2840 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 186, aula 2840 - data_conclusao inválida
+- progresso_aulas.csv: matricula 186, aula 551 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 186, aula 551 - data_conclusao inválida
+- progresso_aulas.csv: matricula 186, aula 1318 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 187, aula 396 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 187, aula 396 - data_conclusao inválida
+- progresso_aulas.csv: matricula 187, aula 3758 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 187, aula 3758 - data_conclusao inválida
+- progresso_aulas.csv: matricula 187, aula 3213 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 187, aula 3213 - data_conclusao inválida
+- progresso_aulas.csv: matricula 187, aula 2079 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 187, aula 2902 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 187, aula 2902 - data_conclusao inválida
+- progresso_aulas.csv: matricula 187, aula 1949 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 187, aula 2193 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 187, aula 2193 - data_conclusao inválida
+- progresso_aulas.csv: matricula 187, aula 1285 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 187, aula 1285 - data_conclusao inválida
+- progresso_aulas.csv: matricula 187, aula 430 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 187, aula 430 - data_conclusao inválida
+- progresso_aulas.csv: matricula 187, aula 3307 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 187, aula 3307 - data_conclusao inválida
+- progresso_aulas.csv: matricula 187, aula 3385 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 187, aula 3385 - data_conclusao inválida
+- progresso_aulas.csv: matricula 187, aula 2475 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 187, aula 2475 - data_conclusao inválida
+- progresso_aulas.csv: matricula 188, aula 1906 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 188, aula 1103 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 188, aula 2353 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 188, aula 3427 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 188, aula 3427 - data_conclusao inválida
+- progresso_aulas.csv: matricula 188, aula 218 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 188, aula 218 - data_conclusao inválida
+- progresso_aulas.csv: matricula 188, aula 1886 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 188, aula 1886 - data_conclusao inválida
+- progresso_aulas.csv: matricula 188, aula 2535 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 188, aula 2535 - data_conclusao inválida
+- progresso_aulas.csv: matricula 188, aula 1794 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 188, aula 1794 - data_conclusao inválida
+- progresso_aulas.csv: matricula 188, aula 2037 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 188, aula 2037 - data_conclusao inválida
+- progresso_aulas.csv: matricula 188, aula 2421 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 188, aula 2421 - data_conclusao inválida
+- progresso_aulas.csv: matricula 188, aula 1787 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 188, aula 1787 - data_conclusao inválida
+- progresso_aulas.csv: matricula 189, aula 1953 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 189, aula 3554 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 189, aula 3554 - data_conclusao inválida
+- progresso_aulas.csv: matricula 189, aula 2894 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 190, aula 2334 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 190, aula 1033 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 190, aula 1033 - data_conclusao inválida
+- progresso_aulas.csv: matricula 190, aula 3881 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 190, aula 3673 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 190, aula 3673 - data_conclusao inválida
+- progresso_aulas.csv: matricula 191, aula 1624 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 191, aula 1624 - data_conclusao inválida
+- progresso_aulas.csv: matricula 191, aula 882 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 191, aula 882 - data_conclusao inválida
+- progresso_aulas.csv: matricula 191, aula 2711 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 191, aula 2711 - data_conclusao inválida
+- progresso_aulas.csv: matricula 191, aula 1852 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 191, aula 1270 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 191, aula 1270 - data_conclusao inválida
+- progresso_aulas.csv: matricula 191, aula 2206 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 191, aula 2856 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 191, aula 2856 - data_conclusao inválida
+- progresso_aulas.csv: matricula 191, aula 2764 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 191, aula 2764 - data_conclusao inválida
+- progresso_aulas.csv: matricula 191, aula 1248 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 191, aula 1248 - data_conclusao inválida
+- progresso_aulas.csv: matricula 192, aula 591 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 192, aula 3139 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 192, aula 2211 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 192, aula 2211 - data_conclusao inválida
+- progresso_aulas.csv: matricula 192, aula 2791 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 192, aula 2791 - data_conclusao inválida
+- progresso_aulas.csv: matricula 192, aula 2404 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 192, aula 1289 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 192, aula 3534 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 192, aula 3534 - data_conclusao inválida
+- progresso_aulas.csv: matricula 192, aula 28 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 192, aula 28 - data_conclusao inválida
+- progresso_aulas.csv: matricula 192, aula 2497 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 192, aula 217 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 192, aula 2917 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 192, aula 2917 - data_conclusao inválida
+- progresso_aulas.csv: matricula 193, aula 3170 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 193, aula 3109 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 193, aula 735 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 193, aula 735 - data_conclusao inválida
+- progresso_aulas.csv: matricula 193, aula 3424 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 193, aula 743 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 193, aula 743 - data_conclusao inválida
+- progresso_aulas.csv: matricula 193, aula 121 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 194, aula 1562 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 194, aula 1562 - data_conclusao inválida
+- progresso_aulas.csv: matricula 194, aula 2853 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 194, aula 2853 - data_conclusao inválida
+- progresso_aulas.csv: matricula 194, aula 1944 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 194, aula 568 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 194, aula 3471 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 194, aula 3471 - data_conclusao inválida
+- progresso_aulas.csv: matricula 194, aula 1407 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 194, aula 750 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 194, aula 393 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 194, aula 1275 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 195, aula 1392 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 195, aula 1851 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 195, aula 1851 - data_conclusao inválida
+- progresso_aulas.csv: matricula 195, aula 3080 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 195, aula 3080 - data_conclusao inválida
+- progresso_aulas.csv: matricula 195, aula 386 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 195, aula 386 - data_conclusao inválida
+- progresso_aulas.csv: matricula 195, aula 2146 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 195, aula 2146 - data_conclusao inválida
+- progresso_aulas.csv: matricula 195, aula 1056 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 195, aula 1056 - data_conclusao inválida
+- progresso_aulas.csv: matricula 195, aula 84 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 195, aula 84 - data_conclusao inválida
+- progresso_aulas.csv: matricula 195, aula 3602 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 195, aula 3602 - data_conclusao inválida
+- progresso_aulas.csv: matricula 196, aula 392 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 196, aula 691 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 196, aula 691 - data_conclusao inválida
+- progresso_aulas.csv: matricula 196, aula 8 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 197, aula 114 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 197, aula 114 - data_conclusao inválida
+- progresso_aulas.csv: matricula 197, aula 3277 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 197, aula 3708 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 197, aula 3708 - data_conclusao inválida
+- progresso_aulas.csv: matricula 197, aula 2327 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 197, aula 2308 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 197, aula 1536 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 197, aula 1536 - data_conclusao inválida
+- progresso_aulas.csv: matricula 197, aula 3520 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 197, aula 3520 - data_conclusao inválida
+- progresso_aulas.csv: matricula 197, aula 285 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 197, aula 707 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 197, aula 707 - data_conclusao inválida
+- progresso_aulas.csv: matricula 198, aula 1533 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 198, aula 2352 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 198, aula 725 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 198, aula 725 - data_conclusao inválida
+- progresso_aulas.csv: matricula 198, aula 3652 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 198, aula 1806 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 199, aula 3830 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 199, aula 3830 - data_conclusao inválida
+- progresso_aulas.csv: matricula 199, aula 1194 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 199, aula 442 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 199, aula 1430 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 199, aula 1430 - data_conclusao inválida
+- progresso_aulas.csv: matricula 200, aula 792 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 200, aula 792 - data_conclusao inválida
+- progresso_aulas.csv: matricula 200, aula 2472 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 200, aula 636 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 200, aula 2512 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 201, aula 1386 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 201, aula 1386 - data_conclusao inválida
+- progresso_aulas.csv: matricula 201, aula 1009 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 201, aula 1009 - data_conclusao inválida
+- progresso_aulas.csv: matricula 201, aula 1498 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 201, aula 1498 - data_conclusao inválida
+- progresso_aulas.csv: matricula 201, aula 580 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 201, aula 580 - data_conclusao inválida
+- progresso_aulas.csv: matricula 201, aula 981 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 201, aula 981 - data_conclusao inválida
+- progresso_aulas.csv: matricula 201, aula 3349 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 201, aula 2011 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 201, aula 2011 - data_conclusao inválida
+- progresso_aulas.csv: matricula 201, aula 772 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 201, aula 772 - data_conclusao inválida
+- progresso_aulas.csv: matricula 201, aula 3253 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 201, aula 3253 - data_conclusao inválida
+- progresso_aulas.csv: matricula 201, aula 1656 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 201, aula 1656 - data_conclusao inválida
+- progresso_aulas.csv: matricula 201, aula 171 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 201, aula 171 - data_conclusao inválida
+- progresso_aulas.csv: matricula 202, aula 2899 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 202, aula 3091 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 202, aula 3437 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 202, aula 2422 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 202, aula 405 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 202, aula 3473 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 202, aula 2130 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 202, aula 373 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 202, aula 2718 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 202, aula 2683 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 203, aula 428 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 203, aula 1317 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 203, aula 2299 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 204, aula 2161 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 204, aula 2161 - data_conclusao inválida
+- progresso_aulas.csv: matricula 204, aula 3405 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 204, aula 3405 - data_conclusao inválida
+- progresso_aulas.csv: matricula 204, aula 171 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 204, aula 171 - data_conclusao inválida
+- progresso_aulas.csv: matricula 204, aula 771 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 204, aula 771 - data_conclusao inválida
+- progresso_aulas.csv: matricula 204, aula 3879 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 204, aula 3879 - data_conclusao inválida
+- progresso_aulas.csv: matricula 204, aula 366 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 204, aula 366 - data_conclusao inválida
+- progresso_aulas.csv: matricula 204, aula 1258 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 204, aula 1258 - data_conclusao inválida
+- progresso_aulas.csv: matricula 205, aula 3688 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 205, aula 2340 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 205, aula 2224 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 205, aula 711 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 205, aula 2626 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 205, aula 1285 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 205, aula 3028 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 205, aula 197 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 205, aula 197 - data_conclusao inválida
+- progresso_aulas.csv: matricula 205, aula 2189 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 205, aula 115 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 205, aula 194 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 205, aula 1241 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 206, aula 2925 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 206, aula 834 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 206, aula 834 - data_conclusao inválida
+- progresso_aulas.csv: matricula 206, aula 2029 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 206, aula 2029 - data_conclusao inválida
+- progresso_aulas.csv: matricula 206, aula 847 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 206, aula 847 - data_conclusao inválida
+- progresso_aulas.csv: matricula 206, aula 2340 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 206, aula 2340 - data_conclusao inválida
+- progresso_aulas.csv: matricula 206, aula 2624 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 206, aula 2624 - data_conclusao inválida
+- progresso_aulas.csv: matricula 206, aula 2511 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 206, aula 2511 - data_conclusao inválida
+- progresso_aulas.csv: matricula 206, aula 64 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 206, aula 64 - data_conclusao inválida
+- progresso_aulas.csv: matricula 207, aula 3688 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 207, aula 3688 - data_conclusao inválida
+- progresso_aulas.csv: matricula 207, aula 2824 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 207, aula 2824 - data_conclusao inválida
+- progresso_aulas.csv: matricula 207, aula 477 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 207, aula 3786 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 207, aula 1190 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 207, aula 1190 - data_conclusao inválida
+- progresso_aulas.csv: matricula 207, aula 20 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 207, aula 3705 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 207, aula 3705 - data_conclusao inválida
+- progresso_aulas.csv: matricula 207, aula 985 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 207, aula 985 - data_conclusao inválida
+- progresso_aulas.csv: matricula 207, aula 2702 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 207, aula 2702 - data_conclusao inválida
+- progresso_aulas.csv: matricula 208, aula 639 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 208, aula 639 - data_conclusao inválida
+- progresso_aulas.csv: matricula 208, aula 581 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 208, aula 581 - data_conclusao inválida
+- progresso_aulas.csv: matricula 208, aula 2453 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 208, aula 2453 - data_conclusao inválida
+- progresso_aulas.csv: matricula 208, aula 1009 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 208, aula 1009 - data_conclusao inválida
+- progresso_aulas.csv: matricula 208, aula 2547 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 208, aula 2547 - data_conclusao inválida
+- progresso_aulas.csv: matricula 208, aula 2739 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 208, aula 2739 - data_conclusao inválida
+- progresso_aulas.csv: matricula 208, aula 1058 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 208, aula 1058 - data_conclusao inválida
+- progresso_aulas.csv: matricula 208, aula 3613 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 208, aula 3613 - data_conclusao inválida
+- progresso_aulas.csv: matricula 208, aula 3778 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 208, aula 3778 - data_conclusao inválida
+- progresso_aulas.csv: matricula 209, aula 2909 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 209, aula 3538 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 209, aula 3695 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 209, aula 2565 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 209, aula 1269 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 209, aula 840 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 209, aula 3852 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 209, aula 3600 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 209, aula 2677 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 210, aula 528 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 210, aula 2716 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 210, aula 2825 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 211, aula 752 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 211, aula 752 - data_conclusao inválida
+- progresso_aulas.csv: matricula 211, aula 2200 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 211, aula 2200 - data_conclusao inválida
+- progresso_aulas.csv: matricula 211, aula 1341 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 211, aula 1341 - data_conclusao inválida
+- progresso_aulas.csv: matricula 211, aula 686 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 211, aula 686 - data_conclusao inválida
+- progresso_aulas.csv: matricula 211, aula 3865 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 211, aula 3865 - data_conclusao inválida
+- progresso_aulas.csv: matricula 211, aula 3032 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 211, aula 3032 - data_conclusao inválida
+- progresso_aulas.csv: matricula 211, aula 1051 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 211, aula 2789 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 211, aula 2789 - data_conclusao inválida
+- progresso_aulas.csv: matricula 211, aula 2929 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 211, aula 2929 - data_conclusao inválida
+- progresso_aulas.csv: matricula 211, aula 3812 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 211, aula 3812 - data_conclusao inválida
+- progresso_aulas.csv: matricula 212, aula 1167 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 212, aula 1167 - data_conclusao inválida
+- progresso_aulas.csv: matricula 212, aula 3505 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 212, aula 2336 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 212, aula 2336 - data_conclusao inválida
+- progresso_aulas.csv: matricula 212, aula 1072 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 212, aula 445 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 212, aula 445 - data_conclusao inválida
+- progresso_aulas.csv: matricula 212, aula 3118 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 212, aula 3118 - data_conclusao inválida
+- progresso_aulas.csv: matricula 212, aula 490 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 212, aula 490 - data_conclusao inválida
+- progresso_aulas.csv: matricula 212, aula 1618 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 212, aula 3371 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 212, aula 3628 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 212, aula 3628 - data_conclusao inválida
+- progresso_aulas.csv: matricula 212, aula 3621 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 212, aula 3621 - data_conclusao inválida
+- progresso_aulas.csv: matricula 213, aula 448 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 213, aula 448 - data_conclusao inválida
+- progresso_aulas.csv: matricula 213, aula 457 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 213, aula 937 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 213, aula 156 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 213, aula 3413 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 213, aula 1590 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 213, aula 1590 - data_conclusao inválida
+- progresso_aulas.csv: matricula 213, aula 756 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 213, aula 343 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 213, aula 343 - data_conclusao inválida
+- progresso_aulas.csv: matricula 213, aula 3124 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 213, aula 2842 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 214, aula 862 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 214, aula 2970 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 214, aula 1303 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 214, aula 180 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 214, aula 2330 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 214, aula 59 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 215, aula 2071 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 215, aula 2071 - data_conclusao inválida
+- progresso_aulas.csv: matricula 215, aula 261 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 215, aula 923 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 215, aula 754 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 215, aula 754 - data_conclusao inválida
+- progresso_aulas.csv: matricula 215, aula 2570 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 215, aula 2570 - data_conclusao inválida
+- progresso_aulas.csv: matricula 216, aula 3569 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 216, aula 3569 - data_conclusao inválida
+- progresso_aulas.csv: matricula 216, aula 1805 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 216, aula 1805 - data_conclusao inválida
+- progresso_aulas.csv: matricula 216, aula 285 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 216, aula 285 - data_conclusao inválida
+- progresso_aulas.csv: matricula 216, aula 3455 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 216, aula 3455 - data_conclusao inválida
+- progresso_aulas.csv: matricula 216, aula 1007 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 216, aula 1007 - data_conclusao inválida
+- progresso_aulas.csv: matricula 216, aula 2465 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 216, aula 2465 - data_conclusao inválida
+- progresso_aulas.csv: matricula 216, aula 2165 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 216, aula 2165 - data_conclusao inválida
+- progresso_aulas.csv: matricula 216, aula 1179 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 216, aula 1179 - data_conclusao inválida
+- progresso_aulas.csv: matricula 216, aula 2281 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 216, aula 2281 - data_conclusao inválida
+- progresso_aulas.csv: matricula 216, aula 660 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 216, aula 660 - data_conclusao inválida
+- progresso_aulas.csv: matricula 217, aula 1301 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 217, aula 233 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 217, aula 233 - data_conclusao inválida
+- progresso_aulas.csv: matricula 217, aula 457 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 217, aula 2805 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 217, aula 267 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 218, aula 3693 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 218, aula 426 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 218, aula 426 - data_conclusao inválida
+- progresso_aulas.csv: matricula 218, aula 2803 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 218, aula 2803 - data_conclusao inválida
+- progresso_aulas.csv: matricula 219, aula 2305 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 219, aula 2305 - data_conclusao inválida
+- progresso_aulas.csv: matricula 219, aula 240 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 219, aula 240 - data_conclusao inválida
+- progresso_aulas.csv: matricula 219, aula 3333 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 219, aula 3333 - data_conclusao inválida
+- progresso_aulas.csv: matricula 219, aula 1588 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 219, aula 1588 - data_conclusao inválida
+- progresso_aulas.csv: matricula 219, aula 3149 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 219, aula 3149 - data_conclusao inválida
+- progresso_aulas.csv: matricula 219, aula 2323 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 219, aula 2323 - data_conclusao inválida
+- progresso_aulas.csv: matricula 219, aula 491 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 219, aula 491 - data_conclusao inválida
+- progresso_aulas.csv: matricula 219, aula 3511 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 219, aula 3511 - data_conclusao inválida
+- progresso_aulas.csv: matricula 219, aula 920 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 219, aula 920 - data_conclusao inválida
+- progresso_aulas.csv: matricula 220, aula 82 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 220, aula 82 - data_conclusao inválida
+- progresso_aulas.csv: matricula 220, aula 2658 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 220, aula 2658 - data_conclusao inválida
+- progresso_aulas.csv: matricula 220, aula 3376 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 220, aula 3376 - data_conclusao inválida
+- progresso_aulas.csv: matricula 221, aula 2642 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 221, aula 2642 - data_conclusao inválida
+- progresso_aulas.csv: matricula 221, aula 1582 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 221, aula 1157 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 221, aula 2809 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 221, aula 2524 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 221, aula 1585 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 221, aula 1842 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 221, aula 3729 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 221, aula 3065 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 221, aula 974 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 222, aula 3032 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 222, aula 86 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 222, aula 1769 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 222, aula 1769 - data_conclusao inválida
+- progresso_aulas.csv: matricula 222, aula 3300 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 222, aula 3300 - data_conclusao inválida
+- progresso_aulas.csv: matricula 222, aula 1229 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 222, aula 1229 - data_conclusao inválida
+- progresso_aulas.csv: matricula 223, aula 1648 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 223, aula 1648 - data_conclusao inválida
+- progresso_aulas.csv: matricula 223, aula 513 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 223, aula 513 - data_conclusao inválida
+- progresso_aulas.csv: matricula 223, aula 3442 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 223, aula 3442 - data_conclusao inválida
+- progresso_aulas.csv: matricula 223, aula 2567 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 223, aula 2567 - data_conclusao inválida
+- progresso_aulas.csv: matricula 223, aula 1446 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 223, aula 1446 - data_conclusao inválida
+- progresso_aulas.csv: matricula 223, aula 853 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 223, aula 853 - data_conclusao inválida
+- progresso_aulas.csv: matricula 223, aula 3858 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 223, aula 3858 - data_conclusao inválida
+- progresso_aulas.csv: matricula 223, aula 1663 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 223, aula 1725 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 223, aula 1725 - data_conclusao inválida
+- progresso_aulas.csv: matricula 223, aula 3620 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 223, aula 1712 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 224, aula 2726 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 224, aula 2726 - data_conclusao inválida
+- progresso_aulas.csv: matricula 224, aula 1634 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 224, aula 546 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 224, aula 2963 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 224, aula 2171 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 224, aula 844 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 224, aula 844 - data_conclusao inválida
+- progresso_aulas.csv: matricula 224, aula 1008 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 224, aula 889 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 224, aula 889 - data_conclusao inválida
+- progresso_aulas.csv: matricula 225, aula 2638 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 225, aula 2638 - data_conclusao inválida
+- progresso_aulas.csv: matricula 225, aula 1258 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 225, aula 1258 - data_conclusao inválida
+- progresso_aulas.csv: matricula 225, aula 875 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 225, aula 875 - data_conclusao inválida
+- progresso_aulas.csv: matricula 225, aula 1610 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 225, aula 579 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 225, aula 1927 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 225, aula 1927 - data_conclusao inválida
+- progresso_aulas.csv: matricula 225, aula 446 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 225, aula 2224 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 225, aula 2672 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 226, aula 1575 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 226, aula 3839 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 226, aula 2120 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 226, aula 1769 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 226, aula 739 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 227, aula 639 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 227, aula 2627 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 227, aula 1647 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 227, aula 2356 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 227, aula 3203 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 227, aula 3281 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 227, aula 811 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 227, aula 618 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 227, aula 1685 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 227, aula 1297 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 227, aula 1920 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 227, aula 1007 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 228, aula 2553 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 228, aula 2553 - data_conclusao inválida
+- progresso_aulas.csv: matricula 228, aula 3725 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 228, aula 1293 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 228, aula 1293 - data_conclusao inválida
+- progresso_aulas.csv: matricula 228, aula 2390 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 229, aula 1243 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 229, aula 1243 - data_conclusao inválida
+- progresso_aulas.csv: matricula 229, aula 416 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 229, aula 3287 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 229, aula 3287 - data_conclusao inválida
+- progresso_aulas.csv: matricula 229, aula 2302 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 229, aula 2302 - data_conclusao inválida
+- progresso_aulas.csv: matricula 229, aula 655 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 230, aula 1679 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 230, aula 649 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 230, aula 2301 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 230, aula 2263 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 230, aula 2576 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 230, aula 1924 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 230, aula 1924 - data_conclusao inválida
+- progresso_aulas.csv: matricula 230, aula 2867 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 230, aula 1152 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 230, aula 2827 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 230, aula 2827 - data_conclusao inválida
+- progresso_aulas.csv: matricula 230, aula 3474 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 230, aula 3702 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 231, aula 2343 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 231, aula 745 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 231, aula 1833 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 231, aula 3662 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 231, aula 82 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 231, aula 2015 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 231, aula 3878 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 231, aula 3878 - data_conclusao inválida
+- progresso_aulas.csv: matricula 231, aula 2752 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 231, aula 2322 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 231, aula 1409 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 232, aula 1453 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 232, aula 1453 - data_conclusao inválida
+- progresso_aulas.csv: matricula 232, aula 2470 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 232, aula 2470 - data_conclusao inválida
+- progresso_aulas.csv: matricula 232, aula 3275 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 232, aula 3275 - data_conclusao inválida
+- progresso_aulas.csv: matricula 232, aula 2027 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 232, aula 2027 - data_conclusao inválida
+- progresso_aulas.csv: matricula 232, aula 66 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 232, aula 2548 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 232, aula 2548 - data_conclusao inválida
+- progresso_aulas.csv: matricula 232, aula 3650 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 232, aula 3650 - data_conclusao inválida
+- progresso_aulas.csv: matricula 233, aula 3487 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 233, aula 1036 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 233, aula 1036 - data_conclusao inválida
+- progresso_aulas.csv: matricula 233, aula 787 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 233, aula 787 - data_conclusao inválida
+- progresso_aulas.csv: matricula 233, aula 2103 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 233, aula 2103 - data_conclusao inválida
+- progresso_aulas.csv: matricula 233, aula 1148 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 234, aula 2660 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 234, aula 2660 - data_conclusao inválida
+- progresso_aulas.csv: matricula 234, aula 979 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 234, aula 979 - data_conclusao inválida
+- progresso_aulas.csv: matricula 234, aula 2870 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 234, aula 2870 - data_conclusao inválida
+- progresso_aulas.csv: matricula 234, aula 1256 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 234, aula 1256 - data_conclusao inválida
+- progresso_aulas.csv: matricula 234, aula 1078 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 234, aula 1078 - data_conclusao inválida
+- progresso_aulas.csv: matricula 235, aula 1383 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 235, aula 166 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 235, aula 166 - data_conclusao inválida
+- progresso_aulas.csv: matricula 235, aula 1118 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 235, aula 3072 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 235, aula 3072 - data_conclusao inválida
+- progresso_aulas.csv: matricula 235, aula 3112 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 235, aula 2690 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 235, aula 2690 - data_conclusao inválida
+- progresso_aulas.csv: matricula 235, aula 1877 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 235, aula 2701 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 235, aula 2701 - data_conclusao inválida
+- progresso_aulas.csv: matricula 235, aula 329 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 235, aula 1364 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 236, aula 1591 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 236, aula 1591 - data_conclusao inválida
+- progresso_aulas.csv: matricula 236, aula 148 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 236, aula 2848 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 236, aula 2753 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 236, aula 2753 - data_conclusao inválida
+- progresso_aulas.csv: matricula 236, aula 1108 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 236, aula 1108 - data_conclusao inválida
+- progresso_aulas.csv: matricula 236, aula 2855 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 236, aula 1537 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 236, aula 1375 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 236, aula 1375 - data_conclusao inválida
+- progresso_aulas.csv: matricula 236, aula 1503 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 236, aula 3290 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 237, aula 342 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 237, aula 3742 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 237, aula 3742 - data_conclusao inválida
+- progresso_aulas.csv: matricula 237, aula 1843 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 237, aula 3764 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 237, aula 3764 - data_conclusao inválida
+- progresso_aulas.csv: matricula 237, aula 2752 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 237, aula 348 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 237, aula 3300 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 237, aula 3300 - data_conclusao inválida
+- progresso_aulas.csv: matricula 238, aula 305 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 238, aula 305 - data_conclusao inválida
+- progresso_aulas.csv: matricula 238, aula 726 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 238, aula 1530 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 238, aula 1530 - data_conclusao inválida
+- progresso_aulas.csv: matricula 238, aula 267 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 238, aula 267 - data_conclusao inválida
+- progresso_aulas.csv: matricula 239, aula 358 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 239, aula 3538 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 239, aula 309 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 239, aula 40 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 239, aula 2962 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 239, aula 56 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 240, aula 3761 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 240, aula 3056 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 240, aula 3056 - data_conclusao inválida
+- progresso_aulas.csv: matricula 240, aula 3796 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 240, aula 3796 - data_conclusao inválida
+- progresso_aulas.csv: matricula 240, aula 333 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 240, aula 333 - data_conclusao inválida
+- progresso_aulas.csv: matricula 240, aula 761 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 240, aula 761 - data_conclusao inválida
+- progresso_aulas.csv: matricula 241, aula 1774 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 241, aula 1774 - data_conclusao inválida
+- progresso_aulas.csv: matricula 241, aula 3243 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 241, aula 3243 - data_conclusao inválida
+- progresso_aulas.csv: matricula 241, aula 2809 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 241, aula 2809 - data_conclusao inválida
+- progresso_aulas.csv: matricula 241, aula 955 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 241, aula 955 - data_conclusao inválida
+- progresso_aulas.csv: matricula 242, aula 2937 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 242, aula 2937 - data_conclusao inválida
+- progresso_aulas.csv: matricula 242, aula 326 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 242, aula 326 - data_conclusao inválida
+- progresso_aulas.csv: matricula 242, aula 1585 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 242, aula 1585 - data_conclusao inválida
+- progresso_aulas.csv: matricula 242, aula 1313 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 242, aula 1313 - data_conclusao inválida
+- progresso_aulas.csv: matricula 242, aula 2562 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 242, aula 2562 - data_conclusao inválida
+- progresso_aulas.csv: matricula 242, aula 2169 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 242, aula 2169 - data_conclusao inválida
+- progresso_aulas.csv: matricula 243, aula 3349 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 243, aula 3349 - data_conclusao inválida
+- progresso_aulas.csv: matricula 243, aula 809 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 243, aula 2901 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 243, aula 2029 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 243, aula 2480 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 243, aula 2480 - data_conclusao inválida
+- progresso_aulas.csv: matricula 243, aula 2893 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 243, aula 2893 - data_conclusao inválida
+- progresso_aulas.csv: matricula 244, aula 758 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 244, aula 2080 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 244, aula 26 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 245, aula 776 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 245, aula 2868 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 245, aula 2868 - data_conclusao inválida
+- progresso_aulas.csv: matricula 245, aula 508 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 245, aula 2879 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 245, aula 3120 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 245, aula 311 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 245, aula 311 - data_conclusao inválida
+- progresso_aulas.csv: matricula 245, aula 771 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 245, aula 767 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 245, aula 3476 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 245, aula 1317 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 245, aula 3098 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 246, aula 3090 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 246, aula 661 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 246, aula 661 - data_conclusao inválida
+- progresso_aulas.csv: matricula 246, aula 265 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 246, aula 265 - data_conclusao inválida
+- progresso_aulas.csv: matricula 246, aula 253 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 246, aula 258 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 246, aula 2024 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 246, aula 1410 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 246, aula 1410 - data_conclusao inválida
+- progresso_aulas.csv: matricula 247, aula 3049 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 247, aula 3049 - data_conclusao inválida
+- progresso_aulas.csv: matricula 247, aula 2763 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 247, aula 2763 - data_conclusao inválida
+- progresso_aulas.csv: matricula 247, aula 362 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 247, aula 362 - data_conclusao inválida
+- progresso_aulas.csv: matricula 247, aula 1305 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 247, aula 1305 - data_conclusao inválida
+- progresso_aulas.csv: matricula 247, aula 2410 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 247, aula 2410 - data_conclusao inválida
+- progresso_aulas.csv: matricula 247, aula 3160 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 247, aula 3160 - data_conclusao inválida
+- progresso_aulas.csv: matricula 247, aula 3754 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 247, aula 3754 - data_conclusao inválida
+- progresso_aulas.csv: matricula 247, aula 3746 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 247, aula 3746 - data_conclusao inválida
+- progresso_aulas.csv: matricula 247, aula 1481 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 247, aula 1481 - data_conclusao inválida
+- progresso_aulas.csv: matricula 247, aula 2860 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 247, aula 2860 - data_conclusao inválida
+- progresso_aulas.csv: matricula 248, aula 270 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 248, aula 2332 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 248, aula 1075 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 248, aula 2979 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 248, aula 3440 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 248, aula 1307 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 248, aula 1847 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 248, aula 1467 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 248, aula 3041 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 248, aula 3041 - data_conclusao inválida
+- progresso_aulas.csv: matricula 248, aula 3322 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 248, aula 3322 - data_conclusao inválida
+- progresso_aulas.csv: matricula 248, aula 1968 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 248, aula 1518 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 249, aula 1853 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 249, aula 1853 - data_conclusao inválida
+- progresso_aulas.csv: matricula 249, aula 626 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 249, aula 582 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 249, aula 3023 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 249, aula 3075 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 249, aula 3075 - data_conclusao inválida
+- progresso_aulas.csv: matricula 249, aula 1580 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 249, aula 1719 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 249, aula 3890 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 249, aula 101 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 249, aula 3578 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 249, aula 3578 - data_conclusao inválida
+- progresso_aulas.csv: matricula 250, aula 2429 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 250, aula 3875 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 250, aula 3875 - data_conclusao inválida
+- progresso_aulas.csv: matricula 250, aula 754 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 250, aula 754 - data_conclusao inválida
+- progresso_aulas.csv: matricula 250, aula 889 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 250, aula 889 - data_conclusao inválida
+- progresso_aulas.csv: matricula 250, aula 389 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 250, aula 389 - data_conclusao inválida
+- progresso_aulas.csv: matricula 251, aula 1110 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 251, aula 1110 - data_conclusao inválida
+- progresso_aulas.csv: matricula 251, aula 1382 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 251, aula 1382 - data_conclusao inválida
+- progresso_aulas.csv: matricula 251, aula 811 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 251, aula 811 - data_conclusao inválida
+- progresso_aulas.csv: matricula 251, aula 89 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 251, aula 89 - data_conclusao inválida
+- progresso_aulas.csv: matricula 251, aula 2038 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 251, aula 1607 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 251, aula 1607 - data_conclusao inválida
+- progresso_aulas.csv: matricula 251, aula 649 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 251, aula 649 - data_conclusao inválida
+- progresso_aulas.csv: matricula 251, aula 1244 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 251, aula 1244 - data_conclusao inválida
+- progresso_aulas.csv: matricula 251, aula 3399 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 251, aula 3498 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 251, aula 3498 - data_conclusao inválida
+- progresso_aulas.csv: matricula 252, aula 2965 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 252, aula 2045 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 252, aula 1773 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 252, aula 1783 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 252, aula 3881 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 252, aula 3489 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 252, aula 655 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 252, aula 1997 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 252, aula 1997 - data_conclusao inválida
+- progresso_aulas.csv: matricula 252, aula 2728 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 252, aula 245 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 253, aula 2583 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 253, aula 1273 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 253, aula 1273 - data_conclusao inválida
+- progresso_aulas.csv: matricula 253, aula 2802 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 253, aula 2802 - data_conclusao inválida
+- progresso_aulas.csv: matricula 253, aula 2534 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 253, aula 2534 - data_conclusao inválida
+- progresso_aulas.csv: matricula 253, aula 1758 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 254, aula 1398 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 254, aula 2969 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 254, aula 2969 - data_conclusao inválida
+- progresso_aulas.csv: matricula 254, aula 1530 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 254, aula 1530 - data_conclusao inválida
+- progresso_aulas.csv: matricula 254, aula 3306 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 254, aula 3306 - data_conclusao inválida
+- progresso_aulas.csv: matricula 254, aula 2821 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 254, aula 2821 - data_conclusao inválida
+- progresso_aulas.csv: matricula 254, aula 3540 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 254, aula 525 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 254, aula 1514 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 254, aula 2316 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 254, aula 2316 - data_conclusao inválida
+- progresso_aulas.csv: matricula 254, aula 1940 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 254, aula 1940 - data_conclusao inválida
+- progresso_aulas.csv: matricula 254, aula 259 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 254, aula 259 - data_conclusao inválida
+- progresso_aulas.csv: matricula 255, aula 3697 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 255, aula 1281 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 255, aula 2597 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 255, aula 3751 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 255, aula 3694 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 255, aula 1951 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 256, aula 2429 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 256, aula 2497 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 256, aula 971 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 256, aula 971 - data_conclusao inválida
+- progresso_aulas.csv: matricula 256, aula 3332 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 256, aula 3358 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 256, aula 1021 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 257, aula 1318 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 257, aula 334 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 257, aula 2168 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 257, aula 2011 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 257, aula 2011 - data_conclusao inválida
+- progresso_aulas.csv: matricula 257, aula 1896 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 258, aula 1491 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 258, aula 3473 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 258, aula 3473 - data_conclusao inválida
+- progresso_aulas.csv: matricula 258, aula 3186 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 258, aula 3186 - data_conclusao inválida
+- progresso_aulas.csv: matricula 258, aula 242 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 258, aula 242 - data_conclusao inválida
+- progresso_aulas.csv: matricula 258, aula 1941 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 258, aula 1941 - data_conclusao inválida
+- progresso_aulas.csv: matricula 258, aula 1011 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 258, aula 915 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 258, aula 915 - data_conclusao inválida
+- progresso_aulas.csv: matricula 259, aula 2302 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 259, aula 599 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 259, aula 3210 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 259, aula 3210 - data_conclusao inválida
+- progresso_aulas.csv: matricula 259, aula 1118 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 259, aula 1311 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 259, aula 1986 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 259, aula 1287 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 259, aula 1287 - data_conclusao inválida
+- progresso_aulas.csv: matricula 259, aula 2478 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 259, aula 2478 - data_conclusao inválida
+- progresso_aulas.csv: matricula 259, aula 3618 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 259, aula 3618 - data_conclusao inválida
+- progresso_aulas.csv: matricula 259, aula 2197 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 259, aula 820 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 259, aula 3376 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 259, aula 3376 - data_conclusao inválida
+- progresso_aulas.csv: matricula 260, aula 1541 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 260, aula 1733 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 260, aula 2870 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 260, aula 3353 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 260, aula 3493 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 260, aula 45 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 261, aula 3178 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 261, aula 3727 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 261, aula 605 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 261, aula 1830 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 261, aula 2564 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 261, aula 2564 - data_conclusao inválida
+- progresso_aulas.csv: matricula 261, aula 1565 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 261, aula 2275 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 261, aula 643 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 262, aula 70 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 262, aula 70 - data_conclusao inválida
+- progresso_aulas.csv: matricula 262, aula 508 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 262, aula 508 - data_conclusao inválida
+- progresso_aulas.csv: matricula 262, aula 215 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 262, aula 215 - data_conclusao inválida
+- progresso_aulas.csv: matricula 262, aula 3555 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 262, aula 1338 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 263, aula 2254 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 263, aula 105 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 263, aula 105 - data_conclusao inválida
+- progresso_aulas.csv: matricula 263, aula 2576 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 263, aula 1779 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 263, aula 2648 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 263, aula 1327 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 263, aula 1621 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 263, aula 730 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 263, aula 730 - data_conclusao inválida
+- progresso_aulas.csv: matricula 264, aula 262 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 264, aula 3797 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 264, aula 279 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 264, aula 574 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 264, aula 574 - data_conclusao inválida
+- progresso_aulas.csv: matricula 264, aula 621 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 264, aula 621 - data_conclusao inválida
+- progresso_aulas.csv: matricula 265, aula 1386 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 265, aula 333 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 265, aula 1691 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 265, aula 1691 - data_conclusao inválida
+- progresso_aulas.csv: matricula 265, aula 1408 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 265, aula 3076 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 265, aula 285 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 265, aula 2018 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 265, aula 2018 - data_conclusao inválida
+- progresso_aulas.csv: matricula 265, aula 1641 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 265, aula 1641 - data_conclusao inválida
+- progresso_aulas.csv: matricula 266, aula 473 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 266, aula 3125 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 266, aula 3125 - data_conclusao inválida
+- progresso_aulas.csv: matricula 266, aula 3734 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 266, aula 3734 - data_conclusao inválida
+- progresso_aulas.csv: matricula 266, aula 3559 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 266, aula 3559 - data_conclusao inválida
+- progresso_aulas.csv: matricula 266, aula 1069 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 266, aula 1069 - data_conclusao inválida
+- progresso_aulas.csv: matricula 266, aula 932 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 266, aula 932 - data_conclusao inválida
+- progresso_aulas.csv: matricula 266, aula 981 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 266, aula 981 - data_conclusao inválida
+- progresso_aulas.csv: matricula 266, aula 232 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 266, aula 232 - data_conclusao inválida
+- progresso_aulas.csv: matricula 266, aula 2641 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 266, aula 2800 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 266, aula 2800 - data_conclusao inválida
+- progresso_aulas.csv: matricula 267, aula 174 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 267, aula 174 - data_conclusao inválida
+- progresso_aulas.csv: matricula 267, aula 173 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 267, aula 898 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 267, aula 3107 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 267, aula 3107 - data_conclusao inválida
+- progresso_aulas.csv: matricula 267, aula 953 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 267, aula 953 - data_conclusao inválida
+- progresso_aulas.csv: matricula 267, aula 3892 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 268, aula 2090 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 268, aula 2090 - data_conclusao inválida
+- progresso_aulas.csv: matricula 268, aula 3136 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 268, aula 3136 - data_conclusao inválida
+- progresso_aulas.csv: matricula 268, aula 1187 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 268, aula 1187 - data_conclusao inválida
+- progresso_aulas.csv: matricula 268, aula 2017 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 268, aula 2017 - data_conclusao inválida
+- progresso_aulas.csv: matricula 268, aula 97 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 268, aula 97 - data_conclusao inválida
+- progresso_aulas.csv: matricula 268, aula 2743 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 268, aula 2743 - data_conclusao inválida
+- progresso_aulas.csv: matricula 268, aula 2928 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 268, aula 2928 - data_conclusao inválida
+- progresso_aulas.csv: matricula 268, aula 2856 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 268, aula 2856 - data_conclusao inválida
+- progresso_aulas.csv: matricula 268, aula 1700 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 268, aula 1700 - data_conclusao inválida
+- progresso_aulas.csv: matricula 269, aula 165 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 269, aula 165 - data_conclusao inválida
+- progresso_aulas.csv: matricula 269, aula 820 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 269, aula 2416 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 269, aula 2416 - data_conclusao inválida
+- progresso_aulas.csv: matricula 269, aula 148 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 269, aula 148 - data_conclusao inválida
+- progresso_aulas.csv: matricula 269, aula 856 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 269, aula 856 - data_conclusao inválida
+- progresso_aulas.csv: matricula 269, aula 941 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 269, aula 941 - data_conclusao inválida
+- progresso_aulas.csv: matricula 269, aula 2387 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 269, aula 2387 - data_conclusao inválida
+- progresso_aulas.csv: matricula 269, aula 2014 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 269, aula 2014 - data_conclusao inválida
+- progresso_aulas.csv: matricula 269, aula 30 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 269, aula 30 - data_conclusao inválida
+- progresso_aulas.csv: matricula 269, aula 1432 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 269, aula 1432 - data_conclusao inválida
+- progresso_aulas.csv: matricula 269, aula 2875 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 269, aula 2875 - data_conclusao inválida
+- progresso_aulas.csv: matricula 270, aula 3681 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 270, aula 3396 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 270, aula 673 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 270, aula 1627 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 270, aula 872 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 270, aula 624 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 270, aula 2197 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 270, aula 31 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 271, aula 119 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 271, aula 1825 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 271, aula 2472 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 271, aula 2669 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 271, aula 2752 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 271, aula 2097 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 271, aula 3154 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 272, aula 3632 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 272, aula 3632 - data_conclusao inválida
+- progresso_aulas.csv: matricula 272, aula 2430 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 272, aula 3350 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 272, aula 3350 - data_conclusao inválida
+- progresso_aulas.csv: matricula 272, aula 1243 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 272, aula 1243 - data_conclusao inválida
+- progresso_aulas.csv: matricula 272, aula 1479 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 272, aula 1479 - data_conclusao inválida
+- progresso_aulas.csv: matricula 272, aula 1900 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 272, aula 223 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 273, aula 2094 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 273, aula 2094 - data_conclusao inválida
+- progresso_aulas.csv: matricula 273, aula 98 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 273, aula 1270 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 273, aula 51 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 273, aula 51 - data_conclusao inválida
+- progresso_aulas.csv: matricula 273, aula 887 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 273, aula 887 - data_conclusao inválida
+- progresso_aulas.csv: matricula 273, aula 3398 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 273, aula 3398 - data_conclusao inválida
+- progresso_aulas.csv: matricula 273, aula 742 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 274, aula 1601 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 274, aula 2466 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 274, aula 3088 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 274, aula 677 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 274, aula 3772 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 274, aula 2014 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 274, aula 1967 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 274, aula 2298 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 274, aula 2298 - data_conclusao inválida
+- progresso_aulas.csv: matricula 275, aula 3810 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 275, aula 3810 - data_conclusao inválida
+- progresso_aulas.csv: matricula 275, aula 1 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 275, aula 1243 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 276, aula 220 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 276, aula 220 - data_conclusao inválida
+- progresso_aulas.csv: matricula 276, aula 1508 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 276, aula 1508 - data_conclusao inválida
+- progresso_aulas.csv: matricula 276, aula 882 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 276, aula 882 - data_conclusao inválida
+- progresso_aulas.csv: matricula 276, aula 2646 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 276, aula 2646 - data_conclusao inválida
+- progresso_aulas.csv: matricula 276, aula 782 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 276, aula 782 - data_conclusao inválida
+- progresso_aulas.csv: matricula 277, aula 312 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 277, aula 312 - data_conclusao inválida
+- progresso_aulas.csv: matricula 277, aula 1147 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 277, aula 1711 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 277, aula 2678 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 277, aula 92 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 277, aula 1219 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 277, aula 1219 - data_conclusao inválida
+- progresso_aulas.csv: matricula 277, aula 3156 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 277, aula 3156 - data_conclusao inválida
+- progresso_aulas.csv: matricula 277, aula 144 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 277, aula 144 - data_conclusao inválida
+- progresso_aulas.csv: matricula 277, aula 3681 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 278, aula 3766 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 278, aula 3766 - data_conclusao inválida
+- progresso_aulas.csv: matricula 278, aula 2608 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 278, aula 2608 - data_conclusao inválida
+- progresso_aulas.csv: matricula 278, aula 3049 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 278, aula 3049 - data_conclusao inválida
+- progresso_aulas.csv: matricula 278, aula 2793 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 278, aula 2793 - data_conclusao inválida
+- progresso_aulas.csv: matricula 278, aula 3248 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 278, aula 3248 - data_conclusao inválida
+- progresso_aulas.csv: matricula 278, aula 125 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 278, aula 125 - data_conclusao inválida
+- progresso_aulas.csv: matricula 279, aula 59 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 279, aula 59 - data_conclusao inválida
+- progresso_aulas.csv: matricula 279, aula 462 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 279, aula 462 - data_conclusao inválida
+- progresso_aulas.csv: matricula 279, aula 353 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 279, aula 353 - data_conclusao inválida
+- progresso_aulas.csv: matricula 279, aula 2969 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 279, aula 2969 - data_conclusao inválida
+- progresso_aulas.csv: matricula 279, aula 962 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 279, aula 1865 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 279, aula 1865 - data_conclusao inválida
+- progresso_aulas.csv: matricula 279, aula 3563 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 279, aula 3563 - data_conclusao inválida
+- progresso_aulas.csv: matricula 279, aula 3631 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 279, aula 3631 - data_conclusao inválida
+- progresso_aulas.csv: matricula 279, aula 2375 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 279, aula 2847 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 279, aula 2847 - data_conclusao inválida
+- progresso_aulas.csv: matricula 280, aula 260 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 280, aula 2996 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 280, aula 2996 - data_conclusao inválida
+- progresso_aulas.csv: matricula 280, aula 2834 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 280, aula 628 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 280, aula 628 - data_conclusao inválida
+- progresso_aulas.csv: matricula 280, aula 883 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 280, aula 267 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 280, aula 267 - data_conclusao inválida
+- progresso_aulas.csv: matricula 280, aula 1629 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 280, aula 2778 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 280, aula 1546 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 280, aula 1546 - data_conclusao inválida
+- progresso_aulas.csv: matricula 280, aula 123 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 280, aula 123 - data_conclusao inválida
+- progresso_aulas.csv: matricula 280, aula 153 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 280, aula 2038 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 281, aula 3285 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 281, aula 1095 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 281, aula 1095 - data_conclusao inválida
+- progresso_aulas.csv: matricula 281, aula 100 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 281, aula 100 - data_conclusao inválida
+- progresso_aulas.csv: matricula 281, aula 2750 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 281, aula 2750 - data_conclusao inválida
+- progresso_aulas.csv: matricula 281, aula 1114 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 281, aula 1114 - data_conclusao inválida
+- progresso_aulas.csv: matricula 281, aula 3572 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 281, aula 3572 - data_conclusao inválida
+- progresso_aulas.csv: matricula 281, aula 771 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 281, aula 962 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 281, aula 962 - data_conclusao inválida
+- progresso_aulas.csv: matricula 281, aula 2825 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 281, aula 2825 - data_conclusao inválida
+- progresso_aulas.csv: matricula 281, aula 1835 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 282, aula 3476 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 282, aula 3042 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 282, aula 194 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 282, aula 1174 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 282, aula 1492 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 282, aula 363 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 282, aula 363 - data_conclusao inválida
+- progresso_aulas.csv: matricula 283, aula 597 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 283, aula 597 - data_conclusao inválida
+- progresso_aulas.csv: matricula 283, aula 1314 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 283, aula 1314 - data_conclusao inválida
+- progresso_aulas.csv: matricula 283, aula 3012 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 283, aula 2619 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 283, aula 1421 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 283, aula 1668 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 283, aula 713 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 283, aula 713 - data_conclusao inválida
+- progresso_aulas.csv: matricula 283, aula 2377 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 283, aula 1646 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 283, aula 1525 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 283, aula 1915 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 284, aula 1847 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 284, aula 3088 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 284, aula 2209 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 284, aula 3530 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 284, aula 2787 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 284, aula 673 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 284, aula 3645 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 284, aula 3645 - data_conclusao inválida
+- progresso_aulas.csv: matricula 284, aula 176 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 285, aula 3373 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 285, aula 1717 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 285, aula 1717 - data_conclusao inválida
+- progresso_aulas.csv: matricula 285, aula 3608 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 285, aula 3608 - data_conclusao inválida
+- progresso_aulas.csv: matricula 285, aula 459 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 285, aula 459 - data_conclusao inválida
+- progresso_aulas.csv: matricula 285, aula 2054 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 285, aula 2054 - data_conclusao inválida
+- progresso_aulas.csv: matricula 285, aula 2229 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 285, aula 2229 - data_conclusao inválida
+- progresso_aulas.csv: matricula 285, aula 172 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 285, aula 172 - data_conclusao inválida
+- progresso_aulas.csv: matricula 285, aula 2129 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 285, aula 2129 - data_conclusao inválida
+- progresso_aulas.csv: matricula 285, aula 426 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 285, aula 426 - data_conclusao inválida
+- progresso_aulas.csv: matricula 286, aula 3860 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 286, aula 675 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 286, aula 3030 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 286, aula 929 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 286, aula 2802 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 286, aula 2908 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 286, aula 3227 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 286, aula 1372 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 286, aula 1372 - data_conclusao inválida
+- progresso_aulas.csv: matricula 286, aula 2004 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 286, aula 479 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 286, aula 1334 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 287, aula 2029 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 287, aula 2029 - data_conclusao inválida
+- progresso_aulas.csv: matricula 287, aula 592 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 287, aula 592 - data_conclusao inválida
+- progresso_aulas.csv: matricula 287, aula 3752 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 287, aula 3752 - data_conclusao inválida
+- progresso_aulas.csv: matricula 288, aula 991 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 288, aula 991 - data_conclusao inválida
+- progresso_aulas.csv: matricula 288, aula 3096 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 288, aula 1664 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 288, aula 1241 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 288, aula 1241 - data_conclusao inválida
+- progresso_aulas.csv: matricula 289, aula 67 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 289, aula 67 - data_conclusao inválida
+- progresso_aulas.csv: matricula 289, aula 128 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 289, aula 128 - data_conclusao inválida
+- progresso_aulas.csv: matricula 289, aula 1212 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 289, aula 1212 - data_conclusao inválida
+- progresso_aulas.csv: matricula 289, aula 496 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 289, aula 496 - data_conclusao inválida
+- progresso_aulas.csv: matricula 289, aula 849 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 289, aula 849 - data_conclusao inválida
+- progresso_aulas.csv: matricula 289, aula 761 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 289, aula 761 - data_conclusao inválida
+- progresso_aulas.csv: matricula 290, aula 1039 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 290, aula 1039 - data_conclusao inválida
+- progresso_aulas.csv: matricula 290, aula 1854 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 290, aula 1854 - data_conclusao inválida
+- progresso_aulas.csv: matricula 290, aula 488 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 290, aula 488 - data_conclusao inválida
+- progresso_aulas.csv: matricula 290, aula 1729 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 290, aula 1729 - data_conclusao inválida
+- progresso_aulas.csv: matricula 291, aula 44 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 291, aula 44 - data_conclusao inválida
+- progresso_aulas.csv: matricula 291, aula 2859 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 291, aula 2859 - data_conclusao inválida
+- progresso_aulas.csv: matricula 291, aula 2448 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 291, aula 1230 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 291, aula 1406 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 291, aula 1589 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 291, aula 1536 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 291, aula 854 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 292, aula 1440 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 292, aula 1440 - data_conclusao inválida
+- progresso_aulas.csv: matricula 292, aula 128 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 292, aula 1048 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 292, aula 1048 - data_conclusao inválida
+- progresso_aulas.csv: matricula 292, aula 2870 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 292, aula 1940 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 292, aula 1940 - data_conclusao inválida
+- progresso_aulas.csv: matricula 292, aula 3528 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 292, aula 3268 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 292, aula 1572 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 292, aula 3084 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 292, aula 3084 - data_conclusao inválida
+- progresso_aulas.csv: matricula 292, aula 2208 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 292, aula 2208 - data_conclusao inválida
+- progresso_aulas.csv: matricula 293, aula 1033 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 293, aula 2228 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 293, aula 378 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 293, aula 340 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 293, aula 340 - data_conclusao inválida
+- progresso_aulas.csv: matricula 294, aula 2473 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 294, aula 2473 - data_conclusao inválida
+- progresso_aulas.csv: matricula 294, aula 1923 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 294, aula 141 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 294, aula 141 - data_conclusao inválida
+- progresso_aulas.csv: matricula 294, aula 1323 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 294, aula 1323 - data_conclusao inválida
+- progresso_aulas.csv: matricula 294, aula 1269 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 294, aula 2264 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 294, aula 2264 - data_conclusao inválida
+- progresso_aulas.csv: matricula 294, aula 3184 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 294, aula 3184 - data_conclusao inválida
+- progresso_aulas.csv: matricula 294, aula 2884 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 295, aula 3534 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 295, aula 2766 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 295, aula 2766 - data_conclusao inválida
+- progresso_aulas.csv: matricula 295, aula 3199 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 295, aula 116 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 295, aula 3832 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 296, aula 2678 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 296, aula 2967 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 296, aula 200 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 296, aula 1038 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 296, aula 2399 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 296, aula 2399 - data_conclusao inválida
+- progresso_aulas.csv: matricula 296, aula 482 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 296, aula 2860 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 296, aula 2117 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 296, aula 2012 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 297, aula 24 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 297, aula 1587 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 297, aula 1587 - data_conclusao inválida
+- progresso_aulas.csv: matricula 297, aula 3178 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 297, aula 3050 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 297, aula 3050 - data_conclusao inválida
+- progresso_aulas.csv: matricula 297, aula 3305 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 297, aula 2679 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 297, aula 2679 - data_conclusao inválida
+- progresso_aulas.csv: matricula 297, aula 3709 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 297, aula 3709 - data_conclusao inválida
+- progresso_aulas.csv: matricula 297, aula 724 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 297, aula 724 - data_conclusao inválida
+- progresso_aulas.csv: matricula 297, aula 3165 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 297, aula 3165 - data_conclusao inválida
+- progresso_aulas.csv: matricula 297, aula 1544 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 297, aula 1544 - data_conclusao inválida
+- progresso_aulas.csv: matricula 298, aula 937 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 298, aula 2924 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 298, aula 2924 - data_conclusao inválida
+- progresso_aulas.csv: matricula 298, aula 1822 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 298, aula 3312 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 298, aula 2871 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 298, aula 2871 - data_conclusao inválida
+- progresso_aulas.csv: matricula 298, aula 3884 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 298, aula 3884 - data_conclusao inválida
+- progresso_aulas.csv: matricula 298, aula 3735 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 298, aula 3735 - data_conclusao inválida
+- progresso_aulas.csv: matricula 298, aula 476 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 298, aula 416 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 298, aula 416 - data_conclusao inválida
+- progresso_aulas.csv: matricula 298, aula 674 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 298, aula 571 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 298, aula 541 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 299, aula 436 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 299, aula 1715 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 299, aula 1941 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 299, aula 138 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 299, aula 1143 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 299, aula 1788 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 299, aula 2283 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 299, aula 2876 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 300, aula 664 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 300, aula 664 - data_conclusao inválida
+- progresso_aulas.csv: matricula 300, aula 354 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 300, aula 354 - data_conclusao inválida
+- progresso_aulas.csv: matricula 300, aula 2337 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 300, aula 2337 - data_conclusao inválida
+- progresso_aulas.csv: matricula 300, aula 766 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 300, aula 766 - data_conclusao inválida
+- progresso_aulas.csv: matricula 301, aula 2703 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 301, aula 2237 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 301, aula 1530 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 301, aula 1530 - data_conclusao inválida
+- progresso_aulas.csv: matricula 301, aula 2283 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 301, aula 1078 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 301, aula 1078 - data_conclusao inválida
+- progresso_aulas.csv: matricula 301, aula 1958 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 301, aula 1958 - data_conclusao inválida
+- progresso_aulas.csv: matricula 302, aula 604 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 302, aula 1231 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 302, aula 1231 - data_conclusao inválida
+- progresso_aulas.csv: matricula 302, aula 546 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 302, aula 546 - data_conclusao inválida
+- progresso_aulas.csv: matricula 302, aula 3059 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 302, aula 3059 - data_conclusao inválida
+- progresso_aulas.csv: matricula 302, aula 2874 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 302, aula 2874 - data_conclusao inválida
+- progresso_aulas.csv: matricula 302, aula 1601 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 302, aula 1601 - data_conclusao inválida
+- progresso_aulas.csv: matricula 303, aula 462 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 303, aula 462 - data_conclusao inválida
+- progresso_aulas.csv: matricula 303, aula 2149 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 303, aula 2149 - data_conclusao inválida
+- progresso_aulas.csv: matricula 303, aula 2728 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 303, aula 2728 - data_conclusao inválida
+- progresso_aulas.csv: matricula 304, aula 1243 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 304, aula 1243 - data_conclusao inválida
+- progresso_aulas.csv: matricula 304, aula 3607 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 304, aula 3607 - data_conclusao inválida
+- progresso_aulas.csv: matricula 304, aula 3324 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 304, aula 3324 - data_conclusao inválida
+- progresso_aulas.csv: matricula 304, aula 562 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 304, aula 562 - data_conclusao inválida
+- progresso_aulas.csv: matricula 304, aula 1309 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 304, aula 1309 - data_conclusao inválida
+- progresso_aulas.csv: matricula 304, aula 3772 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 304, aula 3772 - data_conclusao inválida
+- progresso_aulas.csv: matricula 304, aula 999 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 304, aula 999 - data_conclusao inválida
+- progresso_aulas.csv: matricula 305, aula 773 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 305, aula 773 - data_conclusao inválida
+- progresso_aulas.csv: matricula 305, aula 2720 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 305, aula 1945 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 305, aula 1960 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 305, aula 1960 - data_conclusao inválida
+- progresso_aulas.csv: matricula 305, aula 1961 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 305, aula 1961 - data_conclusao inválida
+- progresso_aulas.csv: matricula 305, aula 878 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 305, aula 878 - data_conclusao inválida
+- progresso_aulas.csv: matricula 305, aula 406 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 305, aula 406 - data_conclusao inválida
+- progresso_aulas.csv: matricula 305, aula 707 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 305, aula 707 - data_conclusao inválida
+- progresso_aulas.csv: matricula 305, aula 1589 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 305, aula 2266 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 305, aula 2266 - data_conclusao inválida
+- progresso_aulas.csv: matricula 306, aula 3528 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 306, aula 3528 - data_conclusao inválida
+- progresso_aulas.csv: matricula 306, aula 3116 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 306, aula 3116 - data_conclusao inválida
+- progresso_aulas.csv: matricula 306, aula 279 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 306, aula 279 - data_conclusao inválida
+- progresso_aulas.csv: matricula 306, aula 1957 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 306, aula 1957 - data_conclusao inválida
+- progresso_aulas.csv: matricula 306, aula 2103 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 306, aula 2103 - data_conclusao inválida
+- progresso_aulas.csv: matricula 306, aula 298 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 306, aula 2319 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 306, aula 675 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 306, aula 675 - data_conclusao inválida
+- progresso_aulas.csv: matricula 306, aula 1012 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 306, aula 1012 - data_conclusao inválida
+- progresso_aulas.csv: matricula 306, aula 2568 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 306, aula 2568 - data_conclusao inválida
+- progresso_aulas.csv: matricula 306, aula 3086 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 306, aula 3086 - data_conclusao inválida
+- progresso_aulas.csv: matricula 307, aula 245 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 307, aula 3082 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 307, aula 1769 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 307, aula 176 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 307, aula 3567 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 307, aula 1313 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 307, aula 1313 - data_conclusao inválida
+- progresso_aulas.csv: matricula 307, aula 3198 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 308, aula 2519 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 308, aula 3889 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 308, aula 3238 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 308, aula 3238 - data_conclusao inválida
+- progresso_aulas.csv: matricula 308, aula 2088 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 308, aula 3641 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 308, aula 3641 - data_conclusao inválida
+- progresso_aulas.csv: matricula 309, aula 1773 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 309, aula 1773 - data_conclusao inválida
+- progresso_aulas.csv: matricula 309, aula 2457 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 309, aula 2457 - data_conclusao inválida
+- progresso_aulas.csv: matricula 309, aula 127 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 309, aula 1710 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 309, aula 1710 - data_conclusao inválida
+- progresso_aulas.csv: matricula 309, aula 272 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 309, aula 272 - data_conclusao inválida
+- progresso_aulas.csv: matricula 309, aula 2301 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 309, aula 2301 - data_conclusao inválida
+- progresso_aulas.csv: matricula 309, aula 348 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 309, aula 348 - data_conclusao inválida
+- progresso_aulas.csv: matricula 309, aula 2886 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 309, aula 2886 - data_conclusao inválida
+- progresso_aulas.csv: matricula 309, aula 3653 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 309, aula 3653 - data_conclusao inválida
+- progresso_aulas.csv: matricula 309, aula 3183 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 309, aula 3183 - data_conclusao inválida
+- progresso_aulas.csv: matricula 310, aula 1137 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 310, aula 1137 - data_conclusao inválida
+- progresso_aulas.csv: matricula 310, aula 1611 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 310, aula 1151 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 311, aula 1340 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 311, aula 3766 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 311, aula 3766 - data_conclusao inválida
+- progresso_aulas.csv: matricula 311, aula 1263 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 311, aula 3504 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 311, aula 3886 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 311, aula 1925 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 311, aula 1925 - data_conclusao inválida
+- progresso_aulas.csv: matricula 311, aula 2095 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 311, aula 1998 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 311, aula 1582 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 311, aula 3103 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 311, aula 3569 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 312, aula 1283 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 312, aula 1283 - data_conclusao inválida
+- progresso_aulas.csv: matricula 312, aula 3797 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 312, aula 3711 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 312, aula 1328 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 312, aula 1328 - data_conclusao inválida
+- progresso_aulas.csv: matricula 312, aula 3716 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 312, aula 3716 - data_conclusao inválida
+- progresso_aulas.csv: matricula 312, aula 981 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 312, aula 2319 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 312, aula 2319 - data_conclusao inválida
+- progresso_aulas.csv: matricula 313, aula 1686 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 313, aula 1141 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 313, aula 1081 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 313, aula 2449 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 313, aula 1737 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 313, aula 2744 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 313, aula 2700 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 313, aula 772 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 313, aula 3148 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 313, aula 3148 - data_conclusao inválida
+- progresso_aulas.csv: matricula 313, aula 2512 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 313, aula 3648 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 314, aula 3236 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 314, aula 2595 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 314, aula 2595 - data_conclusao inválida
+- progresso_aulas.csv: matricula 314, aula 3402 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 314, aula 1382 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 314, aula 750 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 314, aula 750 - data_conclusao inválida
+- progresso_aulas.csv: matricula 314, aula 3635 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 315, aula 2202 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 315, aula 1399 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 315, aula 600 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 315, aula 600 - data_conclusao inválida
+- progresso_aulas.csv: matricula 315, aula 1044 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 315, aula 2483 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 315, aula 296 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 315, aula 296 - data_conclusao inválida
+- progresso_aulas.csv: matricula 315, aula 1035 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 315, aula 1035 - data_conclusao inválida
+- progresso_aulas.csv: matricula 315, aula 510 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 315, aula 1543 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 315, aula 3331 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 315, aula 2256 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 315, aula 2256 - data_conclusao inválida
+- progresso_aulas.csv: matricula 315, aula 1611 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 315, aula 1611 - data_conclusao inválida
+- progresso_aulas.csv: matricula 316, aula 1752 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 316, aula 1752 - data_conclusao inválida
+- progresso_aulas.csv: matricula 316, aula 2573 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 316, aula 2573 - data_conclusao inválida
+- progresso_aulas.csv: matricula 316, aula 2006 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 316, aula 2006 - data_conclusao inválida
+- progresso_aulas.csv: matricula 316, aula 2439 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 316, aula 2439 - data_conclusao inválida
+- progresso_aulas.csv: matricula 316, aula 443 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 316, aula 443 - data_conclusao inválida
+- progresso_aulas.csv: matricula 316, aula 1952 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 316, aula 1952 - data_conclusao inválida
+- progresso_aulas.csv: matricula 316, aula 1791 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 316, aula 1791 - data_conclusao inválida
+- progresso_aulas.csv: matricula 317, aula 490 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 317, aula 573 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 317, aula 742 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 317, aula 742 - data_conclusao inválida
+- progresso_aulas.csv: matricula 317, aula 504 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 317, aula 504 - data_conclusao inválida
+- progresso_aulas.csv: matricula 317, aula 1481 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 317, aula 3114 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 317, aula 3283 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 317, aula 3283 - data_conclusao inválida
+- progresso_aulas.csv: matricula 317, aula 224 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 317, aula 169 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 317, aula 169 - data_conclusao inválida
+- progresso_aulas.csv: matricula 318, aula 164 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 318, aula 164 - data_conclusao inválida
+- progresso_aulas.csv: matricula 318, aula 3651 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 318, aula 3651 - data_conclusao inválida
+- progresso_aulas.csv: matricula 318, aula 2705 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 318, aula 2705 - data_conclusao inválida
+- progresso_aulas.csv: matricula 318, aula 2321 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 318, aula 246 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 318, aula 41 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 318, aula 41 - data_conclusao inválida
+- progresso_aulas.csv: matricula 318, aula 457 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 318, aula 457 - data_conclusao inválida
+- progresso_aulas.csv: matricula 318, aula 1383 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 318, aula 1383 - data_conclusao inválida
+- progresso_aulas.csv: matricula 318, aula 2558 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 319, aula 2338 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 319, aula 3080 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 319, aula 1093 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 319, aula 3801 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 319, aula 2264 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 319, aula 1449 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 319, aula 3444 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 319, aula 969 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 319, aula 969 - data_conclusao inválida
+- progresso_aulas.csv: matricula 319, aula 622 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 319, aula 95 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 319, aula 95 - data_conclusao inválida
+- progresso_aulas.csv: matricula 319, aula 2268 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 319, aula 2393 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 319, aula 2393 - data_conclusao inválida
+- progresso_aulas.csv: matricula 320, aula 1665 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 320, aula 906 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 320, aula 992 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 320, aula 1883 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 320, aula 2497 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 320, aula 679 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 321, aula 875 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 321, aula 952 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 321, aula 952 - data_conclusao inválida
+- progresso_aulas.csv: matricula 321, aula 412 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 321, aula 3471 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 321, aula 336 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 321, aula 1674 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 321, aula 1674 - data_conclusao inválida
+- progresso_aulas.csv: matricula 321, aula 2919 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 321, aula 1820 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 321, aula 1813 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 322, aula 1320 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 322, aula 1320 - data_conclusao inválida
+- progresso_aulas.csv: matricula 322, aula 85 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 322, aula 2045 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 322, aula 2079 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 322, aula 2079 - data_conclusao inválida
+- progresso_aulas.csv: matricula 322, aula 2522 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 322, aula 2522 - data_conclusao inválida
+- progresso_aulas.csv: matricula 322, aula 1589 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 322, aula 1589 - data_conclusao inválida
+- progresso_aulas.csv: matricula 322, aula 3434 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 322, aula 1812 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 322, aula 1812 - data_conclusao inválida
+- progresso_aulas.csv: matricula 322, aula 2485 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 322, aula 842 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 322, aula 842 - data_conclusao inválida
+- progresso_aulas.csv: matricula 322, aula 1528 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 323, aula 1019 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 323, aula 2929 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 323, aula 2929 - data_conclusao inválida
+- progresso_aulas.csv: matricula 323, aula 1191 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 323, aula 1191 - data_conclusao inválida
+- progresso_aulas.csv: matricula 323, aula 3681 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 323, aula 946 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 323, aula 946 - data_conclusao inválida
+- progresso_aulas.csv: matricula 323, aula 1555 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 323, aula 2460 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 323, aula 3596 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 323, aula 3596 - data_conclusao inválida
+- progresso_aulas.csv: matricula 323, aula 1924 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 323, aula 1924 - data_conclusao inválida
+- progresso_aulas.csv: matricula 324, aula 2342 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 324, aula 1414 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 324, aula 1473 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 325, aula 1792 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 325, aula 1792 - data_conclusao inválida
+- progresso_aulas.csv: matricula 325, aula 1045 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 325, aula 1045 - data_conclusao inválida
+- progresso_aulas.csv: matricula 325, aula 1427 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 325, aula 937 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 325, aula 937 - data_conclusao inválida
+- progresso_aulas.csv: matricula 325, aula 1103 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 325, aula 1103 - data_conclusao inválida
+- progresso_aulas.csv: matricula 325, aula 1502 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 325, aula 1502 - data_conclusao inválida
+- progresso_aulas.csv: matricula 325, aula 3734 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 325, aula 3734 - data_conclusao inválida
+- progresso_aulas.csv: matricula 325, aula 1065 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 325, aula 1065 - data_conclusao inválida
+- progresso_aulas.csv: matricula 325, aula 1961 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 325, aula 1961 - data_conclusao inválida
+- progresso_aulas.csv: matricula 326, aula 2399 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 326, aula 2642 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 326, aula 2119 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 326, aula 2454 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 326, aula 2175 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 326, aula 3319 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 327, aula 1026 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 327, aula 1026 - data_conclusao inválida
+- progresso_aulas.csv: matricula 327, aula 325 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 327, aula 325 - data_conclusao inválida
+- progresso_aulas.csv: matricula 327, aula 2152 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 327, aula 2152 - data_conclusao inválida
+- progresso_aulas.csv: matricula 327, aula 3818 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 327, aula 3818 - data_conclusao inválida
+- progresso_aulas.csv: matricula 327, aula 1046 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 327, aula 1046 - data_conclusao inválida
+- progresso_aulas.csv: matricula 327, aula 1856 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 327, aula 1856 - data_conclusao inválida
+- progresso_aulas.csv: matricula 327, aula 611 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 327, aula 611 - data_conclusao inválida
+- progresso_aulas.csv: matricula 327, aula 1201 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 327, aula 1201 - data_conclusao inválida
+- progresso_aulas.csv: matricula 327, aula 581 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 327, aula 581 - data_conclusao inválida
+- progresso_aulas.csv: matricula 327, aula 3517 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 327, aula 3517 - data_conclusao inválida
+- progresso_aulas.csv: matricula 327, aula 1786 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 327, aula 1786 - data_conclusao inválida
+- progresso_aulas.csv: matricula 328, aula 939 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 328, aula 1678 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 328, aula 1678 - data_conclusao inválida
+- progresso_aulas.csv: matricula 328, aula 1277 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 328, aula 1277 - data_conclusao inválida
+- progresso_aulas.csv: matricula 328, aula 683 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 328, aula 683 - data_conclusao inválida
+- progresso_aulas.csv: matricula 328, aula 2133 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 328, aula 2133 - data_conclusao inválida
+- progresso_aulas.csv: matricula 328, aula 274 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 328, aula 274 - data_conclusao inválida
+- progresso_aulas.csv: matricula 328, aula 950 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 329, aula 3208 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 329, aula 3213 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 329, aula 3572 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 329, aula 3551 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 329, aula 3857 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 329, aula 3036 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 329, aula 3036 - data_conclusao inválida
+- progresso_aulas.csv: matricula 329, aula 721 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 329, aula 1181 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 329, aula 2245 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 329, aula 2245 - data_conclusao inválida
+- progresso_aulas.csv: matricula 329, aula 1927 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 329, aula 3859 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 329, aula 1734 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 330, aula 3224 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 330, aula 3224 - data_conclusao inválida
+- progresso_aulas.csv: matricula 330, aula 36 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 330, aula 36 - data_conclusao inválida
+- progresso_aulas.csv: matricula 330, aula 1334 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 330, aula 3504 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 330, aula 3504 - data_conclusao inválida
+- progresso_aulas.csv: matricula 330, aula 704 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 330, aula 704 - data_conclusao inválida
+- progresso_aulas.csv: matricula 331, aula 1614 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 331, aula 1614 - data_conclusao inválida
+- progresso_aulas.csv: matricula 331, aula 553 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 331, aula 553 - data_conclusao inválida
+- progresso_aulas.csv: matricula 331, aula 685 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 331, aula 685 - data_conclusao inválida
+- progresso_aulas.csv: matricula 332, aula 639 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 332, aula 3468 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 332, aula 542 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 333, aula 451 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 333, aula 2923 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 333, aula 1017 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 333, aula 664 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 333, aula 2622 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 334, aula 3090 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 334, aula 1618 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 334, aula 2255 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 334, aula 2218 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 334, aula 2975 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 334, aula 1655 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 334, aula 3641 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 334, aula 2151 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 334, aula 1912 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 334, aula 2652 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 335, aula 1540 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 335, aula 1540 - data_conclusao inválida
+- progresso_aulas.csv: matricula 335, aula 1227 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 335, aula 1531 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 335, aula 1531 - data_conclusao inválida
+- progresso_aulas.csv: matricula 335, aula 98 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 335, aula 1289 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 335, aula 1289 - data_conclusao inválida
+- progresso_aulas.csv: matricula 335, aula 1996 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 335, aula 814 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 335, aula 3074 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 335, aula 66 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 336, aula 1002 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 336, aula 1002 - data_conclusao inválida
+- progresso_aulas.csv: matricula 336, aula 583 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 336, aula 68 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 336, aula 3689 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 336, aula 931 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 336, aula 3702 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 336, aula 1799 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 337, aula 3882 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 337, aula 3882 - data_conclusao inválida
+- progresso_aulas.csv: matricula 337, aula 597 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 337, aula 597 - data_conclusao inválida
+- progresso_aulas.csv: matricula 337, aula 3675 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 338, aula 1533 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 338, aula 1533 - data_conclusao inválida
+- progresso_aulas.csv: matricula 338, aula 218 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 338, aula 218 - data_conclusao inválida
+- progresso_aulas.csv: matricula 338, aula 1436 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 338, aula 1906 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 339, aula 1205 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 339, aula 1454 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 339, aula 3364 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 339, aula 2100 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 340, aula 46 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 340, aula 46 - data_conclusao inválida
+- progresso_aulas.csv: matricula 340, aula 415 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 340, aula 415 - data_conclusao inválida
+- progresso_aulas.csv: matricula 340, aula 598 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 340, aula 598 - data_conclusao inválida
+- progresso_aulas.csv: matricula 340, aula 3049 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 340, aula 3049 - data_conclusao inválida
+- progresso_aulas.csv: matricula 340, aula 2913 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 340, aula 2913 - data_conclusao inválida
+- progresso_aulas.csv: matricula 340, aula 2301 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 340, aula 2301 - data_conclusao inválida
+- progresso_aulas.csv: matricula 340, aula 1105 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 340, aula 1105 - data_conclusao inválida
+- progresso_aulas.csv: matricula 340, aula 246 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 340, aula 246 - data_conclusao inválida
+- progresso_aulas.csv: matricula 340, aula 102 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 340, aula 2087 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 340, aula 2087 - data_conclusao inválida
+- progresso_aulas.csv: matricula 340, aula 896 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 341, aula 1369 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 341, aula 1369 - data_conclusao inválida
+- progresso_aulas.csv: matricula 341, aula 3271 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 341, aula 2511 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 341, aula 2511 - data_conclusao inválida
+- progresso_aulas.csv: matricula 341, aula 1886 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 341, aula 1422 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 341, aula 1422 - data_conclusao inválida
+- progresso_aulas.csv: matricula 341, aula 2547 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 341, aula 1338 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 341, aula 1168 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 341, aula 1508 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 341, aula 209 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 341, aula 209 - data_conclusao inválida
+- progresso_aulas.csv: matricula 342, aula 276 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 342, aula 276 - data_conclusao inválida
+- progresso_aulas.csv: matricula 342, aula 629 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 342, aula 3822 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 342, aula 3379 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 342, aula 1548 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 342, aula 1353 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 342, aula 1353 - data_conclusao inválida
+- progresso_aulas.csv: matricula 342, aula 2706 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 342, aula 2706 - data_conclusao inválida
+- progresso_aulas.csv: matricula 342, aula 2926 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 342, aula 2926 - data_conclusao inválida
+- progresso_aulas.csv: matricula 342, aula 1802 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 342, aula 2997 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 342, aula 2960 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 342, aula 2602 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 343, aula 794 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 343, aula 1711 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 343, aula 3275 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 343, aula 3383 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 343, aula 3618 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 343, aula 622 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 343, aula 1749 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 343, aula 2241 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 343, aula 2328 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 344, aula 2527 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 344, aula 2527 - data_conclusao inválida
+- progresso_aulas.csv: matricula 344, aula 2982 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 344, aula 2982 - data_conclusao inválida
+- progresso_aulas.csv: matricula 344, aula 1525 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 344, aula 3485 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 344, aula 3485 - data_conclusao inválida
+- progresso_aulas.csv: matricula 344, aula 1921 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 344, aula 1921 - data_conclusao inválida
+- progresso_aulas.csv: matricula 344, aula 1058 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 344, aula 2364 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 344, aula 2288 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 344, aula 2288 - data_conclusao inválida
+- progresso_aulas.csv: matricula 344, aula 2245 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 344, aula 3643 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 345, aula 927 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 345, aula 927 - data_conclusao inválida
+- progresso_aulas.csv: matricula 345, aula 3338 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 345, aula 3338 - data_conclusao inválida
+- progresso_aulas.csv: matricula 345, aula 92 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 345, aula 1778 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 345, aula 1980 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 345, aula 1115 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 345, aula 1115 - data_conclusao inválida
+- progresso_aulas.csv: matricula 345, aula 1345 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 345, aula 1345 - data_conclusao inválida
+- progresso_aulas.csv: matricula 346, aula 3284 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 346, aula 3284 - data_conclusao inválida
+- progresso_aulas.csv: matricula 346, aula 3536 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 346, aula 1056 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 346, aula 437 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 346, aula 3376 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 346, aula 3376 - data_conclusao inválida
+- progresso_aulas.csv: matricula 346, aula 607 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 346, aula 607 - data_conclusao inválida
+- progresso_aulas.csv: matricula 346, aula 2274 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 346, aula 2274 - data_conclusao inválida
+- progresso_aulas.csv: matricula 346, aula 916 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 346, aula 3460 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 346, aula 3460 - data_conclusao inválida
+- progresso_aulas.csv: matricula 346, aula 3210 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 346, aula 3210 - data_conclusao inválida
+- progresso_aulas.csv: matricula 346, aula 897 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 346, aula 897 - data_conclusao inválida
+- progresso_aulas.csv: matricula 346, aula 3608 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 346, aula 3608 - data_conclusao inválida
+- progresso_aulas.csv: matricula 347, aula 1718 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 347, aula 2321 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 347, aula 1357 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 347, aula 1357 - data_conclusao inválida
+- progresso_aulas.csv: matricula 347, aula 1226 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 347, aula 333 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 347, aula 994 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 347, aula 666 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 347, aula 666 - data_conclusao inválida
+- progresso_aulas.csv: matricula 347, aula 2553 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 347, aula 1971 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 347, aula 1971 - data_conclusao inválida
+- progresso_aulas.csv: matricula 348, aula 966 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 348, aula 966 - data_conclusao inválida
+- progresso_aulas.csv: matricula 348, aula 1993 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 348, aula 1993 - data_conclusao inválida
+- progresso_aulas.csv: matricula 348, aula 3601 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 348, aula 2015 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 349, aula 1174 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 349, aula 997 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 349, aula 2501 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 349, aula 2501 - data_conclusao inválida
+- progresso_aulas.csv: matricula 349, aula 3296 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 349, aula 3296 - data_conclusao inválida
+- progresso_aulas.csv: matricula 349, aula 676 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 349, aula 676 - data_conclusao inválida
+- progresso_aulas.csv: matricula 349, aula 1377 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 349, aula 1377 - data_conclusao inválida
+- progresso_aulas.csv: matricula 349, aula 653 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 349, aula 2450 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 349, aula 2450 - data_conclusao inválida
+- progresso_aulas.csv: matricula 349, aula 1340 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 349, aula 1340 - data_conclusao inválida
+- progresso_aulas.csv: matricula 350, aula 2214 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 350, aula 1756 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 350, aula 1756 - data_conclusao inválida
+- progresso_aulas.csv: matricula 350, aula 2018 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 350, aula 2018 - data_conclusao inválida
+- progresso_aulas.csv: matricula 351, aula 9 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 351, aula 9 - data_conclusao inválida
+- progresso_aulas.csv: matricula 351, aula 1931 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 351, aula 1931 - data_conclusao inválida
+- progresso_aulas.csv: matricula 351, aula 728 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 351, aula 728 - data_conclusao inválida
+- progresso_aulas.csv: matricula 351, aula 134 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 351, aula 134 - data_conclusao inválida
+- progresso_aulas.csv: matricula 351, aula 547 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 351, aula 547 - data_conclusao inválida
+- progresso_aulas.csv: matricula 352, aula 2781 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 352, aula 2809 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 352, aula 3761 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 352, aula 3761 - data_conclusao inválida
+- progresso_aulas.csv: matricula 352, aula 3387 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 352, aula 2868 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 352, aula 1464 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 352, aula 2729 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 352, aula 2729 - data_conclusao inválida
+- progresso_aulas.csv: matricula 353, aula 3365 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 353, aula 3365 - data_conclusao inválida
+- progresso_aulas.csv: matricula 353, aula 3779 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 353, aula 3779 - data_conclusao inválida
+- progresso_aulas.csv: matricula 353, aula 788 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 353, aula 788 - data_conclusao inválida
+- progresso_aulas.csv: matricula 354, aula 3376 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 354, aula 2009 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 354, aula 2009 - data_conclusao inválida
+- progresso_aulas.csv: matricula 354, aula 441 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 354, aula 1095 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 354, aula 1095 - data_conclusao inválida
+- progresso_aulas.csv: matricula 354, aula 2431 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 355, aula 3492 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 355, aula 1065 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 355, aula 645 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 355, aula 2636 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 355, aula 3179 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 355, aula 2867 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 355, aula 2109 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 355, aula 394 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 355, aula 394 - data_conclusao inválida
+- progresso_aulas.csv: matricula 355, aula 2034 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 355, aula 2485 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 356, aula 3470 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 356, aula 1267 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 356, aula 2729 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 356, aula 1338 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 356, aula 863 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 356, aula 986 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 357, aula 2961 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 357, aula 2961 - data_conclusao inválida
+- progresso_aulas.csv: matricula 357, aula 301 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 357, aula 301 - data_conclusao inválida
+- progresso_aulas.csv: matricula 357, aula 1158 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 357, aula 3156 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 357, aula 3156 - data_conclusao inválida
+- progresso_aulas.csv: matricula 357, aula 1363 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 357, aula 1363 - data_conclusao inválida
+- progresso_aulas.csv: matricula 358, aula 1973 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 358, aula 1784 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 358, aula 1784 - data_conclusao inválida
+- progresso_aulas.csv: matricula 358, aula 1679 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 358, aula 503 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 358, aula 3809 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 358, aula 2640 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 359, aula 785 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 359, aula 1414 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 359, aula 1414 - data_conclusao inválida
+- progresso_aulas.csv: matricula 359, aula 271 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 359, aula 201 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 359, aula 129 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 359, aula 129 - data_conclusao inválida
+- progresso_aulas.csv: matricula 360, aula 1842 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 360, aula 545 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 360, aula 3342 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 360, aula 1340 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 360, aula 1340 - data_conclusao inválida
+- progresso_aulas.csv: matricula 360, aula 3053 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 360, aula 3053 - data_conclusao inválida
+- progresso_aulas.csv: matricula 360, aula 2898 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 360, aula 2898 - data_conclusao inválida
+- progresso_aulas.csv: matricula 360, aula 1730 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 360, aula 2697 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 360, aula 2697 - data_conclusao inválida
+- progresso_aulas.csv: matricula 360, aula 1290 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 361, aula 3622 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 361, aula 3622 - data_conclusao inválida
+- progresso_aulas.csv: matricula 361, aula 575 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 361, aula 575 - data_conclusao inválida
+- progresso_aulas.csv: matricula 361, aula 984 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 361, aula 984 - data_conclusao inválida
+- progresso_aulas.csv: matricula 361, aula 2101 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 361, aula 2101 - data_conclusao inválida
+- progresso_aulas.csv: matricula 361, aula 2474 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 361, aula 2474 - data_conclusao inválida
+- progresso_aulas.csv: matricula 362, aula 3717 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 362, aula 829 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 362, aula 829 - data_conclusao inválida
+- progresso_aulas.csv: matricula 362, aula 2953 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 362, aula 2953 - data_conclusao inválida
+- progresso_aulas.csv: matricula 362, aula 740 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 362, aula 740 - data_conclusao inválida
+- progresso_aulas.csv: matricula 362, aula 1712 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 362, aula 1712 - data_conclusao inválida
+- progresso_aulas.csv: matricula 362, aula 158 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 362, aula 3158 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 362, aula 3158 - data_conclusao inválida
+- progresso_aulas.csv: matricula 362, aula 38 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 362, aula 38 - data_conclusao inválida
+- progresso_aulas.csv: matricula 362, aula 2587 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 362, aula 1478 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 363, aula 865 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 363, aula 865 - data_conclusao inválida
+- progresso_aulas.csv: matricula 363, aula 606 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 363, aula 606 - data_conclusao inválida
+- progresso_aulas.csv: matricula 363, aula 1362 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 363, aula 1362 - data_conclusao inválida
+- progresso_aulas.csv: matricula 363, aula 2787 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 363, aula 2698 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 363, aula 2698 - data_conclusao inválida
+- progresso_aulas.csv: matricula 363, aula 3514 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 363, aula 3514 - data_conclusao inválida
+- progresso_aulas.csv: matricula 363, aula 3017 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 363, aula 3048 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 363, aula 3048 - data_conclusao inválida
+- progresso_aulas.csv: matricula 363, aula 2069 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 363, aula 1121 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 363, aula 1121 - data_conclusao inválida
+- progresso_aulas.csv: matricula 363, aula 2175 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 363, aula 2175 - data_conclusao inválida
+- progresso_aulas.csv: matricula 364, aula 2946 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 364, aula 2421 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 364, aula 2242 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 365, aula 2569 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 365, aula 3244 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 365, aula 258 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 365, aula 1944 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 365, aula 3398 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 365, aula 3598 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 365, aula 1710 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 365, aula 3806 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 365, aula 1899 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 366, aula 167 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 366, aula 167 - data_conclusao inválida
+- progresso_aulas.csv: matricula 366, aula 909 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 366, aula 909 - data_conclusao inválida
+- progresso_aulas.csv: matricula 366, aula 3365 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 366, aula 3365 - data_conclusao inválida
+- progresso_aulas.csv: matricula 366, aula 1841 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 366, aula 1841 - data_conclusao inválida
+- progresso_aulas.csv: matricula 366, aula 979 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 366, aula 1627 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 366, aula 1627 - data_conclusao inválida
+- progresso_aulas.csv: matricula 366, aula 10 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 366, aula 10 - data_conclusao inválida
+- progresso_aulas.csv: matricula 366, aula 1762 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 366, aula 1762 - data_conclusao inválida
+- progresso_aulas.csv: matricula 366, aula 196 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 366, aula 312 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 366, aula 3287 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 366, aula 3287 - data_conclusao inválida
+- progresso_aulas.csv: matricula 367, aula 2035 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 367, aula 2035 - data_conclusao inválida
+- progresso_aulas.csv: matricula 367, aula 2377 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 367, aula 2377 - data_conclusao inválida
+- progresso_aulas.csv: matricula 367, aula 875 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 367, aula 875 - data_conclusao inválida
+- progresso_aulas.csv: matricula 367, aula 2188 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 367, aula 2188 - data_conclusao inválida
+- progresso_aulas.csv: matricula 367, aula 2709 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 367, aula 2709 - data_conclusao inválida
+- progresso_aulas.csv: matricula 367, aula 2263 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 367, aula 2263 - data_conclusao inválida
+- progresso_aulas.csv: matricula 367, aula 1178 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 367, aula 1178 - data_conclusao inválida
+- progresso_aulas.csv: matricula 368, aula 3792 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 368, aula 3792 - data_conclusao inválida
+- progresso_aulas.csv: matricula 368, aula 1594 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 368, aula 1594 - data_conclusao inválida
+- progresso_aulas.csv: matricula 368, aula 2297 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 368, aula 2973 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 368, aula 2973 - data_conclusao inválida
+- progresso_aulas.csv: matricula 369, aula 821 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 369, aula 59 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 369, aula 2807 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 369, aula 1760 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 369, aula 327 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 369, aula 1347 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 369, aula 2650 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 369, aula 1006 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 369, aula 3878 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 369, aula 3878 - data_conclusao inválida
+- progresso_aulas.csv: matricula 369, aula 1966 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 369, aula 85 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 370, aula 281 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 370, aula 313 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 370, aula 638 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 370, aula 3577 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 370, aula 498 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 370, aula 3495 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 370, aula 3839 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 370, aula 14 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 370, aula 982 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 370, aula 982 - data_conclusao inválida
+- progresso_aulas.csv: matricula 370, aula 271 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 370, aula 3190 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 371, aula 3304 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 371, aula 776 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 371, aula 776 - data_conclusao inválida
+- progresso_aulas.csv: matricula 371, aula 2234 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 371, aula 2234 - data_conclusao inválida
+- progresso_aulas.csv: matricula 371, aula 3871 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 371, aula 1026 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 372, aula 3340 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 372, aula 2825 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 372, aula 2191 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 372, aula 796 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 372, aula 796 - data_conclusao inválida
+- progresso_aulas.csv: matricula 372, aula 1961 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 373, aula 870 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 373, aula 870 - data_conclusao inválida
+- progresso_aulas.csv: matricula 373, aula 687 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 373, aula 687 - data_conclusao inválida
+- progresso_aulas.csv: matricula 373, aula 779 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 373, aula 2544 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 373, aula 2612 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 373, aula 2612 - data_conclusao inválida
+- progresso_aulas.csv: matricula 373, aula 1981 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 373, aula 1981 - data_conclusao inválida
+- progresso_aulas.csv: matricula 373, aula 3169 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 373, aula 3169 - data_conclusao inválida
+- progresso_aulas.csv: matricula 373, aula 2402 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 373, aula 3063 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 373, aula 2857 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 373, aula 275 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 374, aula 16 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 374, aula 2339 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 374, aula 2339 - data_conclusao inválida
+- progresso_aulas.csv: matricula 374, aula 1456 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 374, aula 1456 - data_conclusao inválida
+- progresso_aulas.csv: matricula 374, aula 71 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 374, aula 71 - data_conclusao inválida
+- progresso_aulas.csv: matricula 374, aula 2723 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 374, aula 2723 - data_conclusao inválida
+- progresso_aulas.csv: matricula 374, aula 3826 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 374, aula 1526 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 374, aula 1526 - data_conclusao inválida
+- progresso_aulas.csv: matricula 374, aula 2658 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 374, aula 1388 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 374, aula 1388 - data_conclusao inválida
+- progresso_aulas.csv: matricula 374, aula 1703 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 374, aula 1703 - data_conclusao inválida
+- progresso_aulas.csv: matricula 375, aula 2133 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 375, aula 2300 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 375, aula 3139 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 375, aula 478 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 376, aula 1279 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 376, aula 2200 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 376, aula 2200 - data_conclusao inválida
+- progresso_aulas.csv: matricula 376, aula 3368 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 376, aula 1744 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 376, aula 1744 - data_conclusao inválida
+- progresso_aulas.csv: matricula 376, aula 1202 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 376, aula 1202 - data_conclusao inválida
+- progresso_aulas.csv: matricula 376, aula 160 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 376, aula 3518 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 376, aula 3518 - data_conclusao inválida
+- progresso_aulas.csv: matricula 376, aula 437 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 376, aula 437 - data_conclusao inválida
+- progresso_aulas.csv: matricula 377, aula 1150 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 377, aula 1150 - data_conclusao inválida
+- progresso_aulas.csv: matricula 377, aula 1393 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 377, aula 1393 - data_conclusao inválida
+- progresso_aulas.csv: matricula 377, aula 3481 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 377, aula 3481 - data_conclusao inválida
+- progresso_aulas.csv: matricula 377, aula 1688 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 377, aula 1688 - data_conclusao inválida
+- progresso_aulas.csv: matricula 377, aula 305 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 377, aula 2175 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 377, aula 2175 - data_conclusao inválida
+- progresso_aulas.csv: matricula 377, aula 1491 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 377, aula 1491 - data_conclusao inválida
+- progresso_aulas.csv: matricula 377, aula 308 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 377, aula 308 - data_conclusao inválida
+- progresso_aulas.csv: matricula 377, aula 2041 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 378, aula 1343 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 378, aula 757 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 378, aula 757 - data_conclusao inválida
+- progresso_aulas.csv: matricula 378, aula 2916 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 379, aula 3489 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 379, aula 411 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 379, aula 1485 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 379, aula 465 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 379, aula 390 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 379, aula 390 - data_conclusao inválida
+- progresso_aulas.csv: matricula 379, aula 1083 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 379, aula 3146 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 379, aula 1368 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 379, aula 1368 - data_conclusao inválida
+- progresso_aulas.csv: matricula 379, aula 1304 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 379, aula 1304 - data_conclusao inválida
+- progresso_aulas.csv: matricula 379, aula 3639 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 379, aula 507 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 379, aula 749 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 380, aula 1219 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 380, aula 412 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 380, aula 3668 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 380, aula 3668 - data_conclusao inválida
+- progresso_aulas.csv: matricula 380, aula 1654 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 380, aula 3082 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 380, aula 3813 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 380, aula 167 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 380, aula 1278 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 380, aula 3764 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 380, aula 3597 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 380, aula 1722 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 381, aula 336 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 381, aula 1369 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 381, aula 1369 - data_conclusao inválida
+- progresso_aulas.csv: matricula 381, aula 690 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 381, aula 690 - data_conclusao inválida
+- progresso_aulas.csv: matricula 381, aula 759 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 381, aula 2657 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 381, aula 2657 - data_conclusao inválida
+- progresso_aulas.csv: matricula 381, aula 3761 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 381, aula 3761 - data_conclusao inválida
+- progresso_aulas.csv: matricula 381, aula 2331 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 381, aula 2331 - data_conclusao inválida
+- progresso_aulas.csv: matricula 381, aula 2871 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 381, aula 3550 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 381, aula 3550 - data_conclusao inválida
+- progresso_aulas.csv: matricula 381, aula 426 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 381, aula 426 - data_conclusao inválida
+- progresso_aulas.csv: matricula 381, aula 2584 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 381, aula 2584 - data_conclusao inválida
+- progresso_aulas.csv: matricula 382, aula 3368 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 382, aula 3539 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 382, aula 2796 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 382, aula 2088 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 382, aula 978 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 383, aula 2732 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 383, aula 2732 - data_conclusao inválida
+- progresso_aulas.csv: matricula 383, aula 1592 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 383, aula 789 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 383, aula 3380 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 383, aula 2162 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 383, aula 2162 - data_conclusao inválida
+- progresso_aulas.csv: matricula 383, aula 1199 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 384, aula 2525 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 384, aula 2525 - data_conclusao inválida
+- progresso_aulas.csv: matricula 384, aula 3507 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 384, aula 3507 - data_conclusao inválida
+- progresso_aulas.csv: matricula 384, aula 3644 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 384, aula 3644 - data_conclusao inválida
+- progresso_aulas.csv: matricula 384, aula 511 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 384, aula 2896 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 384, aula 1722 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 384, aula 1045 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 384, aula 1045 - data_conclusao inválida
+- progresso_aulas.csv: matricula 385, aula 3059 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 385, aula 1037 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 385, aula 1037 - data_conclusao inválida
+- progresso_aulas.csv: matricula 385, aula 2832 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 385, aula 526 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 385, aula 2362 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 385, aula 2362 - data_conclusao inválida
+- progresso_aulas.csv: matricula 385, aula 756 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 385, aula 756 - data_conclusao inválida
+- progresso_aulas.csv: matricula 385, aula 3336 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 385, aula 3336 - data_conclusao inválida
+- progresso_aulas.csv: matricula 385, aula 2625 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 385, aula 2625 - data_conclusao inválida
+- progresso_aulas.csv: matricula 385, aula 2377 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 385, aula 2377 - data_conclusao inválida
+- progresso_aulas.csv: matricula 385, aula 492 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 385, aula 492 - data_conclusao inválida
+- progresso_aulas.csv: matricula 385, aula 2749 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 385, aula 2749 - data_conclusao inválida
+- progresso_aulas.csv: matricula 385, aula 1020 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 385, aula 1020 - data_conclusao inválida
+- progresso_aulas.csv: matricula 386, aula 545 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 386, aula 894 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 386, aula 894 - data_conclusao inválida
+- progresso_aulas.csv: matricula 386, aula 1133 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 386, aula 462 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 387, aula 439 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 387, aula 1399 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 387, aula 846 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 388, aula 1332 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 388, aula 1332 - data_conclusao inválida
+- progresso_aulas.csv: matricula 388, aula 1684 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 388, aula 1552 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 388, aula 2702 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 388, aula 2702 - data_conclusao inválida
+- progresso_aulas.csv: matricula 389, aula 1595 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 389, aula 1595 - data_conclusao inválida
+- progresso_aulas.csv: matricula 389, aula 1447 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 389, aula 771 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 389, aula 771 - data_conclusao inválida
+- progresso_aulas.csv: matricula 389, aula 3564 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 389, aula 3564 - data_conclusao inválida
+- progresso_aulas.csv: matricula 389, aula 2728 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 389, aula 2728 - data_conclusao inválida
+- progresso_aulas.csv: matricula 390, aula 1792 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 390, aula 201 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 390, aula 1033 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 390, aula 1033 - data_conclusao inválida
+- progresso_aulas.csv: matricula 390, aula 13 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 390, aula 13 - data_conclusao inválida
+- progresso_aulas.csv: matricula 390, aula 1775 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 390, aula 1899 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 390, aula 1899 - data_conclusao inválida
+- progresso_aulas.csv: matricula 390, aula 650 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 390, aula 650 - data_conclusao inválida
+- progresso_aulas.csv: matricula 390, aula 252 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 390, aula 3201 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 390, aula 3201 - data_conclusao inválida
+- progresso_aulas.csv: matricula 390, aula 3642 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 390, aula 3642 - data_conclusao inválida
+- progresso_aulas.csv: matricula 391, aula 1145 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 391, aula 726 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 391, aula 726 - data_conclusao inválida
+- progresso_aulas.csv: matricula 391, aula 1746 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 391, aula 1746 - data_conclusao inválida
+- progresso_aulas.csv: matricula 391, aula 3151 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 391, aula 57 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 391, aula 57 - data_conclusao inválida
+- progresso_aulas.csv: matricula 392, aula 2639 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 392, aula 2639 - data_conclusao inválida
+- progresso_aulas.csv: matricula 392, aula 919 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 392, aula 1841 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 392, aula 823 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 392, aula 2820 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 392, aula 2820 - data_conclusao inválida
+- progresso_aulas.csv: matricula 392, aula 3539 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 392, aula 3539 - data_conclusao inválida
+- progresso_aulas.csv: matricula 392, aula 1129 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 392, aula 1129 - data_conclusao inválida
+- progresso_aulas.csv: matricula 392, aula 3439 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 393, aula 3200 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 393, aula 3200 - data_conclusao inválida
+- progresso_aulas.csv: matricula 393, aula 961 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 393, aula 961 - data_conclusao inválida
+- progresso_aulas.csv: matricula 393, aula 2643 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 393, aula 2643 - data_conclusao inválida
+- progresso_aulas.csv: matricula 393, aula 1991 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 393, aula 1991 - data_conclusao inválida
+- progresso_aulas.csv: matricula 393, aula 1576 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 393, aula 1576 - data_conclusao inválida
+- progresso_aulas.csv: matricula 394, aula 2088 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 394, aula 2088 - data_conclusao inválida
+- progresso_aulas.csv: matricula 394, aula 2630 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 394, aula 2630 - data_conclusao inválida
+- progresso_aulas.csv: matricula 394, aula 3826 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 394, aula 593 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 394, aula 450 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 394, aula 1097 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 395, aula 3058 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 395, aula 3058 - data_conclusao inválida
+- progresso_aulas.csv: matricula 395, aula 1654 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 395, aula 1654 - data_conclusao inválida
+- progresso_aulas.csv: matricula 395, aula 84 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 395, aula 258 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 395, aula 2324 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 395, aula 2324 - data_conclusao inválida
+- progresso_aulas.csv: matricula 395, aula 3625 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 395, aula 3625 - data_conclusao inválida
+- progresso_aulas.csv: matricula 395, aula 439 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 395, aula 439 - data_conclusao inválida
+- progresso_aulas.csv: matricula 395, aula 989 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 395, aula 989 - data_conclusao inválida
+- progresso_aulas.csv: matricula 395, aula 3682 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 395, aula 1159 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 395, aula 1033 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 395, aula 1033 - data_conclusao inválida
+- progresso_aulas.csv: matricula 396, aula 1341 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 396, aula 1341 - data_conclusao inválida
+- progresso_aulas.csv: matricula 396, aula 3148 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 396, aula 3148 - data_conclusao inválida
+- progresso_aulas.csv: matricula 396, aula 2825 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 396, aula 2825 - data_conclusao inválida
+- progresso_aulas.csv: matricula 396, aula 3153 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 396, aula 3153 - data_conclusao inválida
+- progresso_aulas.csv: matricula 396, aula 2269 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 396, aula 2269 - data_conclusao inválida
+- progresso_aulas.csv: matricula 397, aula 1398 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 397, aula 6 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 397, aula 1971 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 397, aula 793 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 397, aula 768 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 397, aula 445 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 397, aula 3001 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 397, aula 1255 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 397, aula 2953 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 398, aula 1931 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 398, aula 3109 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 398, aula 988 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 398, aula 988 - data_conclusao inválida
+- progresso_aulas.csv: matricula 398, aula 2182 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 398, aula 2182 - data_conclusao inválida
+- progresso_aulas.csv: matricula 398, aula 1366 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 398, aula 1366 - data_conclusao inválida
+- progresso_aulas.csv: matricula 398, aula 2020 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 398, aula 933 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 398, aula 1765 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 399, aula 2192 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 399, aula 3026 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 399, aula 3026 - data_conclusao inválida
+- progresso_aulas.csv: matricula 399, aula 298 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 399, aula 421 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 399, aula 2790 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 399, aula 2790 - data_conclusao inválida
+- progresso_aulas.csv: matricula 399, aula 2247 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 399, aula 1808 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 399, aula 2943 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 399, aula 2943 - data_conclusao inválida
+- progresso_aulas.csv: matricula 399, aula 556 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 399, aula 556 - data_conclusao inválida
+- progresso_aulas.csv: matricula 399, aula 905 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 400, aula 3659 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 400, aula 857 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 400, aula 857 - data_conclusao inválida
+- progresso_aulas.csv: matricula 400, aula 383 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 400, aula 1396 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 400, aula 3783 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 400, aula 3783 - data_conclusao inválida
+- progresso_aulas.csv: matricula 400, aula 970 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 400, aula 2506 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 400, aula 2506 - data_conclusao inválida
+- progresso_aulas.csv: matricula 400, aula 487 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 400, aula 384 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 400, aula 3299 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 400, aula 1026 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 400, aula 1026 - data_conclusao inválida
+- progresso_aulas.csv: matricula 400, aula 3241 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 400, aula 3241 - data_conclusao inválida
+- progresso_aulas.csv: matricula 401, aula 3260 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 401, aula 1687 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 401, aula 1687 - data_conclusao inválida
+- progresso_aulas.csv: matricula 401, aula 3636 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 401, aula 3636 - data_conclusao inválida
+- progresso_aulas.csv: matricula 401, aula 1355 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 401, aula 1355 - data_conclusao inválida
+- progresso_aulas.csv: matricula 401, aula 410 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 401, aula 364 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 401, aula 364 - data_conclusao inválida
+- progresso_aulas.csv: matricula 401, aula 2064 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 401, aula 2064 - data_conclusao inválida
+- progresso_aulas.csv: matricula 401, aula 2388 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 401, aula 2388 - data_conclusao inválida
+- progresso_aulas.csv: matricula 401, aula 940 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 401, aula 940 - data_conclusao inválida
+- progresso_aulas.csv: matricula 401, aula 3789 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 402, aula 2279 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 402, aula 2851 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 402, aula 673 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 402, aula 111 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 402, aula 111 - data_conclusao inválida
+- progresso_aulas.csv: matricula 402, aula 3027 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 402, aula 400 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 402, aula 2570 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 402, aula 2342 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 403, aula 1209 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 403, aula 1209 - data_conclusao inválida
+- progresso_aulas.csv: matricula 403, aula 1888 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 403, aula 1888 - data_conclusao inválida
+- progresso_aulas.csv: matricula 403, aula 251 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 403, aula 251 - data_conclusao inválida
+- progresso_aulas.csv: matricula 403, aula 2711 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 403, aula 2711 - data_conclusao inválida
+- progresso_aulas.csv: matricula 403, aula 1842 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 403, aula 925 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 403, aula 925 - data_conclusao inválida
+- progresso_aulas.csv: matricula 404, aula 2973 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 404, aula 2973 - data_conclusao inválida
+- progresso_aulas.csv: matricula 404, aula 3737 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 404, aula 3737 - data_conclusao inválida
+- progresso_aulas.csv: matricula 404, aula 2966 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 404, aula 2966 - data_conclusao inválida
+- progresso_aulas.csv: matricula 405, aula 2569 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 405, aula 2569 - data_conclusao inválida
+- progresso_aulas.csv: matricula 405, aula 3099 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 405, aula 3099 - data_conclusao inválida
+- progresso_aulas.csv: matricula 405, aula 3606 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 405, aula 3606 - data_conclusao inválida
+- progresso_aulas.csv: matricula 405, aula 3118 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 405, aula 1228 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 405, aula 1228 - data_conclusao inválida
+- progresso_aulas.csv: matricula 405, aula 3420 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 406, aula 1941 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 406, aula 1941 - data_conclusao inválida
+- progresso_aulas.csv: matricula 406, aula 1549 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 406, aula 1549 - data_conclusao inválida
+- progresso_aulas.csv: matricula 406, aula 32 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 406, aula 702 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 406, aula 702 - data_conclusao inválida
+- progresso_aulas.csv: matricula 407, aula 2804 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 407, aula 2804 - data_conclusao inválida
+- progresso_aulas.csv: matricula 407, aula 3453 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 407, aula 3658 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 407, aula 3658 - data_conclusao inválida
+- progresso_aulas.csv: matricula 407, aula 1722 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 407, aula 1722 - data_conclusao inválida
+- progresso_aulas.csv: matricula 407, aula 445 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 407, aula 445 - data_conclusao inválida
+- progresso_aulas.csv: matricula 407, aula 348 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 407, aula 348 - data_conclusao inválida
+- progresso_aulas.csv: matricula 407, aula 3132 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 407, aula 646 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 407, aula 646 - data_conclusao inválida
+- progresso_aulas.csv: matricula 407, aula 868 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 407, aula 868 - data_conclusao inválida
+- progresso_aulas.csv: matricula 407, aula 300 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 407, aula 300 - data_conclusao inválida
+- progresso_aulas.csv: matricula 407, aula 630 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 407, aula 630 - data_conclusao inválida
+- progresso_aulas.csv: matricula 408, aula 2924 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 408, aula 2924 - data_conclusao inválida
+- progresso_aulas.csv: matricula 408, aula 2131 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 408, aula 2131 - data_conclusao inválida
+- progresso_aulas.csv: matricula 408, aula 2274 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 408, aula 3621 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 408, aula 3621 - data_conclusao inválida
+- progresso_aulas.csv: matricula 408, aula 2774 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 409, aula 2183 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 409, aula 2183 - data_conclusao inválida
+- progresso_aulas.csv: matricula 409, aula 2706 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 409, aula 2324 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 409, aula 884 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 409, aula 1840 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 410, aula 3270 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 410, aula 3162 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 410, aula 3162 - data_conclusao inválida
+- progresso_aulas.csv: matricula 410, aula 3423 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 410, aula 83 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 410, aula 804 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 410, aula 1663 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 411, aula 2869 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 411, aula 2186 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 411, aula 3890 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 411, aula 3511 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 411, aula 464 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 411, aula 464 - data_conclusao inválida
+- progresso_aulas.csv: matricula 411, aula 2295 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 412, aula 2083 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 412, aula 2083 - data_conclusao inválida
+- progresso_aulas.csv: matricula 412, aula 3516 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 412, aula 3516 - data_conclusao inválida
+- progresso_aulas.csv: matricula 412, aula 2486 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 412, aula 2486 - data_conclusao inválida
+- progresso_aulas.csv: matricula 412, aula 2227 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 412, aula 2227 - data_conclusao inválida
+- progresso_aulas.csv: matricula 412, aula 3623 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 412, aula 3623 - data_conclusao inválida
+- progresso_aulas.csv: matricula 412, aula 304 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 412, aula 304 - data_conclusao inválida
+- progresso_aulas.csv: matricula 413, aula 2263 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 413, aula 2263 - data_conclusao inválida
+- progresso_aulas.csv: matricula 413, aula 343 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 413, aula 343 - data_conclusao inválida
+- progresso_aulas.csv: matricula 413, aula 1390 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 413, aula 2151 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 413, aula 2202 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 413, aula 384 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 414, aula 3483 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 414, aula 3433 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 414, aula 841 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 414, aula 573 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 414, aula 3289 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 414, aula 3236 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 414, aula 904 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 414, aula 904 - data_conclusao inválida
+- progresso_aulas.csv: matricula 414, aula 2863 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 414, aula 2607 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 414, aula 2607 - data_conclusao inválida
+- progresso_aulas.csv: matricula 415, aula 1132 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 415, aula 3471 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 415, aula 1384 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 415, aula 123 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 415, aula 136 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 416, aula 339 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 416, aula 2818 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 416, aula 2818 - data_conclusao inválida
+- progresso_aulas.csv: matricula 416, aula 780 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 416, aula 780 - data_conclusao inválida
+- progresso_aulas.csv: matricula 416, aula 1970 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 416, aula 1970 - data_conclusao inválida
+- progresso_aulas.csv: matricula 416, aula 3299 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 416, aula 3299 - data_conclusao inválida
+- progresso_aulas.csv: matricula 416, aula 403 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 416, aula 403 - data_conclusao inválida
+- progresso_aulas.csv: matricula 416, aula 1799 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 416, aula 1799 - data_conclusao inválida
+- progresso_aulas.csv: matricula 416, aula 3210 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 416, aula 3210 - data_conclusao inválida
+- progresso_aulas.csv: matricula 416, aula 3664 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 416, aula 3664 - data_conclusao inválida
+- progresso_aulas.csv: matricula 416, aula 2208 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 416, aula 2208 - data_conclusao inválida
+- progresso_aulas.csv: matricula 416, aula 2653 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 416, aula 2653 - data_conclusao inválida
+- progresso_aulas.csv: matricula 416, aula 1522 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 416, aula 1522 - data_conclusao inválida
+- progresso_aulas.csv: matricula 417, aula 2946 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 417, aula 2946 - data_conclusao inválida
+- progresso_aulas.csv: matricula 417, aula 614 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 417, aula 614 - data_conclusao inválida
+- progresso_aulas.csv: matricula 417, aula 1448 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 417, aula 1448 - data_conclusao inválida
+- progresso_aulas.csv: matricula 417, aula 1282 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 417, aula 1282 - data_conclusao inválida
+- progresso_aulas.csv: matricula 417, aula 1553 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 417, aula 1553 - data_conclusao inválida
+- progresso_aulas.csv: matricula 417, aula 2754 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 417, aula 2754 - data_conclusao inválida
+- progresso_aulas.csv: matricula 417, aula 472 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 417, aula 472 - data_conclusao inválida
+- progresso_aulas.csv: matricula 417, aula 3256 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 417, aula 3256 - data_conclusao inválida
+- progresso_aulas.csv: matricula 417, aula 3745 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 417, aula 3745 - data_conclusao inválida
+- progresso_aulas.csv: matricula 417, aula 2065 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 417, aula 2065 - data_conclusao inválida
+- progresso_aulas.csv: matricula 417, aula 2645 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 417, aula 2645 - data_conclusao inválida
+- progresso_aulas.csv: matricula 417, aula 1188 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 417, aula 1188 - data_conclusao inválida
+- progresso_aulas.csv: matricula 418, aula 653 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 418, aula 653 - data_conclusao inválida
+- progresso_aulas.csv: matricula 418, aula 349 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 418, aula 349 - data_conclusao inválida
+- progresso_aulas.csv: matricula 418, aula 2236 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 418, aula 3330 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 418, aula 606 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 418, aula 2460 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 418, aula 2460 - data_conclusao inválida
+- progresso_aulas.csv: matricula 418, aula 2737 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 419, aula 720 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 419, aula 3377 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 419, aula 3377 - data_conclusao inválida
+- progresso_aulas.csv: matricula 419, aula 3127 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 419, aula 3127 - data_conclusao inválida
+- progresso_aulas.csv: matricula 419, aula 1184 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 419, aula 1184 - data_conclusao inválida
+- progresso_aulas.csv: matricula 420, aula 166 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 420, aula 2078 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 420, aula 1781 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 420, aula 1915 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 420, aula 108 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 420, aula 181 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 420, aula 2455 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 420, aula 2455 - data_conclusao inválida
+- progresso_aulas.csv: matricula 420, aula 201 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 420, aula 12 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 420, aula 12 - data_conclusao inválida
+- progresso_aulas.csv: matricula 421, aula 966 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 421, aula 966 - data_conclusao inválida
+- progresso_aulas.csv: matricula 421, aula 1692 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 421, aula 1692 - data_conclusao inválida
+- progresso_aulas.csv: matricula 421, aula 612 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 421, aula 612 - data_conclusao inválida
+- progresso_aulas.csv: matricula 421, aula 3268 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 421, aula 3268 - data_conclusao inválida
+- progresso_aulas.csv: matricula 421, aula 1104 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 421, aula 2096 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 421, aula 2096 - data_conclusao inválida
+- progresso_aulas.csv: matricula 421, aula 934 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 421, aula 934 - data_conclusao inválida
+- progresso_aulas.csv: matricula 421, aula 1318 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 421, aula 1318 - data_conclusao inválida
+- progresso_aulas.csv: matricula 421, aula 1514 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 421, aula 1514 - data_conclusao inválida
+- progresso_aulas.csv: matricula 421, aula 2709 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 421, aula 2709 - data_conclusao inválida
+- progresso_aulas.csv: matricula 421, aula 201 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 421, aula 201 - data_conclusao inválida
+- progresso_aulas.csv: matricula 421, aula 1500 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 421, aula 1500 - data_conclusao inválida
+- progresso_aulas.csv: matricula 422, aula 1538 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 422, aula 2989 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 422, aula 172 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 422, aula 172 - data_conclusao inválida
+- progresso_aulas.csv: matricula 422, aula 2264 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 422, aula 2926 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 423, aula 1885 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 423, aula 2532 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 423, aula 1455 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 423, aula 3222 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 423, aula 3222 - data_conclusao inválida
+- progresso_aulas.csv: matricula 423, aula 70 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 423, aula 70 - data_conclusao inválida
+- progresso_aulas.csv: matricula 423, aula 3164 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 423, aula 2558 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 423, aula 2558 - data_conclusao inválida
+- progresso_aulas.csv: matricula 423, aula 3190 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 423, aula 2607 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 423, aula 3845 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 423, aula 3507 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 423, aula 3788 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 423, aula 3788 - data_conclusao inválida
+- progresso_aulas.csv: matricula 424, aula 21 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 424, aula 1072 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 424, aula 2563 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 424, aula 3004 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 424, aula 1060 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 424, aula 3511 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 424, aula 2637 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 424, aula 727 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 424, aula 2243 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 424, aula 3885 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 424, aula 1941 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 425, aula 2643 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 425, aula 2743 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 425, aula 2732 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 425, aula 2993 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 425, aula 2993 - data_conclusao inválida
+- progresso_aulas.csv: matricula 425, aula 1260 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 425, aula 1670 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 425, aula 1219 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 425, aula 650 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 425, aula 650 - data_conclusao inválida
+- progresso_aulas.csv: matricula 425, aula 85 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 425, aula 995 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 425, aula 3603 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 426, aula 3104 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 426, aula 3104 - data_conclusao inválida
+- progresso_aulas.csv: matricula 426, aula 1191 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 426, aula 1191 - data_conclusao inválida
+- progresso_aulas.csv: matricula 426, aula 3549 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 426, aula 3578 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 426, aula 174 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 426, aula 765 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 426, aula 1652 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 426, aula 3231 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 426, aula 3231 - data_conclusao inválida
+- progresso_aulas.csv: matricula 427, aula 1925 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 427, aula 1925 - data_conclusao inválida
+- progresso_aulas.csv: matricula 427, aula 1546 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 427, aula 1546 - data_conclusao inválida
+- progresso_aulas.csv: matricula 427, aula 1261 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 427, aula 1261 - data_conclusao inválida
+- progresso_aulas.csv: matricula 428, aula 3536 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 428, aula 1191 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 428, aula 1191 - data_conclusao inválida
+- progresso_aulas.csv: matricula 428, aula 2102 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 428, aula 2102 - data_conclusao inválida
+- progresso_aulas.csv: matricula 428, aula 2359 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 428, aula 3338 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 428, aula 3338 - data_conclusao inválida
+- progresso_aulas.csv: matricula 428, aula 2173 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 428, aula 2070 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 428, aula 2070 - data_conclusao inválida
+- progresso_aulas.csv: matricula 428, aula 3754 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 428, aula 3754 - data_conclusao inválida
+- progresso_aulas.csv: matricula 428, aula 3761 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 429, aula 731 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 429, aula 3402 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 429, aula 3402 - data_conclusao inválida
+- progresso_aulas.csv: matricula 429, aula 1129 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 429, aula 1359 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 429, aula 1359 - data_conclusao inválida
+- progresso_aulas.csv: matricula 429, aula 2972 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 429, aula 550 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 429, aula 1908 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 429, aula 2499 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 429, aula 2499 - data_conclusao inválida
+- progresso_aulas.csv: matricula 429, aula 3407 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 429, aula 2856 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 429, aula 253 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 430, aula 2156 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 430, aula 1056 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 430, aula 2405 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 430, aula 1291 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 430, aula 3619 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 430, aula 2904 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 431, aula 198 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 431, aula 2485 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 431, aula 814 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 431, aula 988 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 432, aula 161 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 432, aula 161 - data_conclusao inválida
+- progresso_aulas.csv: matricula 432, aula 3615 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 432, aula 3615 - data_conclusao inválida
+- progresso_aulas.csv: matricula 432, aula 1666 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 432, aula 3502 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 432, aula 3502 - data_conclusao inválida
+- progresso_aulas.csv: matricula 432, aula 143 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 432, aula 143 - data_conclusao inválida
+- progresso_aulas.csv: matricula 432, aula 2963 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 432, aula 2963 - data_conclusao inválida
+- progresso_aulas.csv: matricula 432, aula 315 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 432, aula 344 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 433, aula 3191 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 433, aula 2264 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 433, aula 2951 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 433, aula 2951 - data_conclusao inválida
+- progresso_aulas.csv: matricula 433, aula 3540 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 433, aula 2149 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 433, aula 2149 - data_conclusao inválida
+- progresso_aulas.csv: matricula 433, aula 3653 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 433, aula 35 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 433, aula 44 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 433, aula 44 - data_conclusao inválida
+- progresso_aulas.csv: matricula 433, aula 3734 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 433, aula 3734 - data_conclusao inválida
+- progresso_aulas.csv: matricula 433, aula 758 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 433, aula 758 - data_conclusao inválida
+- progresso_aulas.csv: matricula 433, aula 855 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 434, aula 2820 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 434, aula 2820 - data_conclusao inválida
+- progresso_aulas.csv: matricula 434, aula 1546 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 434, aula 1368 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 434, aula 1368 - data_conclusao inválida
+- progresso_aulas.csv: matricula 435, aula 2988 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 435, aula 2988 - data_conclusao inválida
+- progresso_aulas.csv: matricula 435, aula 1162 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 435, aula 1162 - data_conclusao inválida
+- progresso_aulas.csv: matricula 435, aula 3372 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 435, aula 2442 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 435, aula 491 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 435, aula 491 - data_conclusao inválida
+- progresso_aulas.csv: matricula 435, aula 2969 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 435, aula 2969 - data_conclusao inválida
+- progresso_aulas.csv: matricula 435, aula 3719 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 435, aula 1702 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 435, aula 1702 - data_conclusao inválida
+- progresso_aulas.csv: matricula 435, aula 3755 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 435, aula 3755 - data_conclusao inválida
+- progresso_aulas.csv: matricula 435, aula 13 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 436, aula 1275 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 436, aula 1275 - data_conclusao inválida
+- progresso_aulas.csv: matricula 436, aula 2473 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 436, aula 2473 - data_conclusao inválida
+- progresso_aulas.csv: matricula 436, aula 291 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 436, aula 291 - data_conclusao inválida
+- progresso_aulas.csv: matricula 437, aula 2619 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 437, aula 3162 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 437, aula 2356 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 437, aula 1175 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 438, aula 2403 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 438, aula 2403 - data_conclusao inválida
+- progresso_aulas.csv: matricula 438, aula 571 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 438, aula 571 - data_conclusao inválida
+- progresso_aulas.csv: matricula 438, aula 3099 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 438, aula 3099 - data_conclusao inválida
+- progresso_aulas.csv: matricula 438, aula 1669 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 438, aula 1669 - data_conclusao inválida
+- progresso_aulas.csv: matricula 438, aula 798 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 438, aula 798 - data_conclusao inválida
+- progresso_aulas.csv: matricula 438, aula 699 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 438, aula 699 - data_conclusao inválida
+- progresso_aulas.csv: matricula 438, aula 3339 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 438, aula 3339 - data_conclusao inválida
+- progresso_aulas.csv: matricula 438, aula 2962 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 438, aula 2962 - data_conclusao inválida
+- progresso_aulas.csv: matricula 439, aula 2485 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 439, aula 2485 - data_conclusao inválida
+- progresso_aulas.csv: matricula 439, aula 2466 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 439, aula 2072 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 439, aula 2072 - data_conclusao inválida
+- progresso_aulas.csv: matricula 439, aula 606 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 439, aula 606 - data_conclusao inválida
+- progresso_aulas.csv: matricula 439, aula 302 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 439, aula 302 - data_conclusao inválida
+- progresso_aulas.csv: matricula 440, aula 1384 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 440, aula 1384 - data_conclusao inválida
+- progresso_aulas.csv: matricula 440, aula 1714 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 440, aula 315 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 440, aula 378 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 440, aula 378 - data_conclusao inválida
+- progresso_aulas.csv: matricula 440, aula 1046 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 440, aula 3825 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 440, aula 150 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 441, aula 3187 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 441, aula 3187 - data_conclusao inválida
+- progresso_aulas.csv: matricula 441, aula 3245 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 441, aula 3245 - data_conclusao inválida
+- progresso_aulas.csv: matricula 441, aula 1383 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 441, aula 1383 - data_conclusao inválida
+- progresso_aulas.csv: matricula 441, aula 974 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 441, aula 974 - data_conclusao inválida
+- progresso_aulas.csv: matricula 441, aula 2017 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 441, aula 2017 - data_conclusao inválida
+- progresso_aulas.csv: matricula 441, aula 3833 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 441, aula 3833 - data_conclusao inválida
+- progresso_aulas.csv: matricula 441, aula 1620 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 441, aula 1620 - data_conclusao inválida
+- progresso_aulas.csv: matricula 441, aula 1756 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 441, aula 1756 - data_conclusao inválida
+- progresso_aulas.csv: matricula 442, aula 2128 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 442, aula 2128 - data_conclusao inválida
+- progresso_aulas.csv: matricula 442, aula 2842 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 442, aula 2842 - data_conclusao inválida
+- progresso_aulas.csv: matricula 442, aula 394 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 442, aula 394 - data_conclusao inválida
+- progresso_aulas.csv: matricula 442, aula 478 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 442, aula 478 - data_conclusao inválida
+- progresso_aulas.csv: matricula 442, aula 3058 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 442, aula 3058 - data_conclusao inválida
+- progresso_aulas.csv: matricula 442, aula 528 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 442, aula 528 - data_conclusao inválida
+- progresso_aulas.csv: matricula 442, aula 1748 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 442, aula 1748 - data_conclusao inválida
+- progresso_aulas.csv: matricula 442, aula 3197 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 442, aula 3197 - data_conclusao inválida
+- progresso_aulas.csv: matricula 442, aula 3468 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 442, aula 3468 - data_conclusao inválida
+- progresso_aulas.csv: matricula 443, aula 3867 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 443, aula 3867 - data_conclusao inválida
+- progresso_aulas.csv: matricula 443, aula 791 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 443, aula 791 - data_conclusao inválida
+- progresso_aulas.csv: matricula 443, aula 3584 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 443, aula 3584 - data_conclusao inválida
+- progresso_aulas.csv: matricula 444, aula 1480 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 444, aula 1480 - data_conclusao inválida
+- progresso_aulas.csv: matricula 444, aula 1600 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 444, aula 1600 - data_conclusao inválida
+- progresso_aulas.csv: matricula 444, aula 1630 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 445, aula 631 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 445, aula 2806 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 445, aula 1867 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 446, aula 3677 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 446, aula 3677 - data_conclusao inválida
+- progresso_aulas.csv: matricula 446, aula 1395 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 446, aula 1395 - data_conclusao inválida
+- progresso_aulas.csv: matricula 446, aula 1458 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 446, aula 1458 - data_conclusao inválida
+- progresso_aulas.csv: matricula 446, aula 214 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 446, aula 214 - data_conclusao inválida
+- progresso_aulas.csv: matricula 446, aula 3349 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 446, aula 1761 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 447, aula 1989 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 447, aula 1989 - data_conclusao inválida
+- progresso_aulas.csv: matricula 447, aula 2566 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 447, aula 2566 - data_conclusao inválida
+- progresso_aulas.csv: matricula 447, aula 3472 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 447, aula 3472 - data_conclusao inválida
+- progresso_aulas.csv: matricula 447, aula 1988 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 447, aula 1988 - data_conclusao inválida
+- progresso_aulas.csv: matricula 447, aula 1739 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 447, aula 1739 - data_conclusao inválida
+- progresso_aulas.csv: matricula 447, aula 3126 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 447, aula 3126 - data_conclusao inválida
+- progresso_aulas.csv: matricula 447, aula 2300 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 447, aula 2300 - data_conclusao inválida
+- progresso_aulas.csv: matricula 447, aula 2639 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 447, aula 2639 - data_conclusao inválida
+- progresso_aulas.csv: matricula 447, aula 3697 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 447, aula 585 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 447, aula 585 - data_conclusao inválida
+- progresso_aulas.csv: matricula 447, aula 2545 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 447, aula 2545 - data_conclusao inválida
+- progresso_aulas.csv: matricula 447, aula 864 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 447, aula 864 - data_conclusao inválida
+- progresso_aulas.csv: matricula 448, aula 3071 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 448, aula 166 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 448, aula 475 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 448, aula 475 - data_conclusao inválida
+- progresso_aulas.csv: matricula 448, aula 992 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 448, aula 1246 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 448, aula 3672 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 448, aula 3672 - data_conclusao inválida
+- progresso_aulas.csv: matricula 448, aula 2272 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 448, aula 2272 - data_conclusao inválida
+- progresso_aulas.csv: matricula 449, aula 3661 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 449, aula 2166 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 449, aula 560 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 449, aula 1669 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 449, aula 189 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 449, aula 869 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 449, aula 958 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 449, aula 2643 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 449, aula 1534 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 449, aula 2518 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 449, aula 2965 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 450, aula 3098 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 450, aula 3098 - data_conclusao inválida
+- progresso_aulas.csv: matricula 450, aula 2449 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 450, aula 2449 - data_conclusao inválida
+- progresso_aulas.csv: matricula 450, aula 2893 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 450, aula 2347 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 450, aula 2555 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 451, aula 2459 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 451, aula 3056 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 451, aula 2990 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 451, aula 2769 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 451, aula 2779 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 451, aula 3118 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 451, aula 3499 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 451, aula 1869 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 451, aula 368 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 451, aula 3642 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 451, aula 2139 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 451, aula 1211 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 452, aula 3198 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 452, aula 579 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 452, aula 579 - data_conclusao inválida
+- progresso_aulas.csv: matricula 452, aula 3180 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 452, aula 3180 - data_conclusao inválida
+- progresso_aulas.csv: matricula 452, aula 1761 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 452, aula 1761 - data_conclusao inválida
+- progresso_aulas.csv: matricula 452, aula 1656 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 452, aula 2310 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 452, aula 2310 - data_conclusao inválida
+- progresso_aulas.csv: matricula 453, aula 635 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 453, aula 1631 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 453, aula 2623 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 454, aula 3070 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 454, aula 3070 - data_conclusao inválida
+- progresso_aulas.csv: matricula 454, aula 885 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 454, aula 885 - data_conclusao inválida
+- progresso_aulas.csv: matricula 454, aula 1268 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 454, aula 1268 - data_conclusao inválida
+- progresso_aulas.csv: matricula 454, aula 2301 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 454, aula 2301 - data_conclusao inválida
+- progresso_aulas.csv: matricula 454, aula 3863 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 454, aula 3863 - data_conclusao inválida
+- progresso_aulas.csv: matricula 454, aula 2968 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 454, aula 935 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 454, aula 935 - data_conclusao inválida
+- progresso_aulas.csv: matricula 454, aula 2130 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 454, aula 2130 - data_conclusao inválida
+- progresso_aulas.csv: matricula 454, aula 2486 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 454, aula 2486 - data_conclusao inválida
+- progresso_aulas.csv: matricula 454, aula 903 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 455, aula 2693 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 455, aula 2693 - data_conclusao inválida
+- progresso_aulas.csv: matricula 455, aula 3675 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 455, aula 3675 - data_conclusao inválida
+- progresso_aulas.csv: matricula 455, aula 2299 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 455, aula 2299 - data_conclusao inválida
+- progresso_aulas.csv: matricula 455, aula 3101 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 455, aula 3101 - data_conclusao inválida
+- progresso_aulas.csv: matricula 455, aula 72 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 455, aula 72 - data_conclusao inválida
+- progresso_aulas.csv: matricula 455, aula 3425 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 455, aula 3354 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 455, aula 1167 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 455, aula 1167 - data_conclusao inválida
+- progresso_aulas.csv: matricula 455, aula 3392 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 455, aula 3392 - data_conclusao inválida
+- progresso_aulas.csv: matricula 455, aula 13 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 455, aula 13 - data_conclusao inválida
+- progresso_aulas.csv: matricula 455, aula 3676 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 455, aula 3676 - data_conclusao inválida
+- progresso_aulas.csv: matricula 456, aula 3696 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 456, aula 3696 - data_conclusao inválida
+- progresso_aulas.csv: matricula 456, aula 2848 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 456, aula 2848 - data_conclusao inválida
+- progresso_aulas.csv: matricula 456, aula 2320 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 456, aula 2320 - data_conclusao inválida
+- progresso_aulas.csv: matricula 456, aula 2499 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 457, aula 1664 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 457, aula 1664 - data_conclusao inválida
+- progresso_aulas.csv: matricula 457, aula 2419 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 457, aula 3126 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 457, aula 3126 - data_conclusao inválida
+- progresso_aulas.csv: matricula 458, aula 2708 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 458, aula 2708 - data_conclusao inválida
+- progresso_aulas.csv: matricula 458, aula 1090 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 458, aula 383 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 458, aula 383 - data_conclusao inválida
+- progresso_aulas.csv: matricula 458, aula 3210 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 458, aula 2256 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 459, aula 2302 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 459, aula 2302 - data_conclusao inválida
+- progresso_aulas.csv: matricula 459, aula 1974 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 459, aula 1974 - data_conclusao inválida
+- progresso_aulas.csv: matricula 459, aula 3313 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 459, aula 3313 - data_conclusao inválida
+- progresso_aulas.csv: matricula 459, aula 1745 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 459, aula 1745 - data_conclusao inválida
+- progresso_aulas.csv: matricula 459, aula 403 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 459, aula 403 - data_conclusao inválida
+- progresso_aulas.csv: matricula 459, aula 2753 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 459, aula 2753 - data_conclusao inválida
+- progresso_aulas.csv: matricula 460, aula 3307 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 460, aula 2165 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 460, aula 2165 - data_conclusao inválida
+- progresso_aulas.csv: matricula 460, aula 1285 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 460, aula 1285 - data_conclusao inválida
+- progresso_aulas.csv: matricula 460, aula 2341 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 460, aula 2341 - data_conclusao inválida
+- progresso_aulas.csv: matricula 460, aula 1380 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 460, aula 1380 - data_conclusao inválida
+- progresso_aulas.csv: matricula 461, aula 1094 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 461, aula 1633 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 461, aula 2218 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 461, aula 611 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 461, aula 986 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 461, aula 2407 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 462, aula 2460 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 462, aula 1601 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 462, aula 3717 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 463, aula 828 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 463, aula 308 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 463, aula 333 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 463, aula 2738 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 463, aula 792 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 463, aula 3336 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 463, aula 3336 - data_conclusao inválida
+- progresso_aulas.csv: matricula 463, aula 2507 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 463, aula 1372 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 463, aula 3374 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 464, aula 1671 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 464, aula 3169 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 464, aula 726 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 465, aula 2990 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 465, aula 2990 - data_conclusao inválida
+- progresso_aulas.csv: matricula 465, aula 1509 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 465, aula 1509 - data_conclusao inválida
+- progresso_aulas.csv: matricula 465, aula 904 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 465, aula 904 - data_conclusao inválida
+- progresso_aulas.csv: matricula 465, aula 2612 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 465, aula 2612 - data_conclusao inválida
+- progresso_aulas.csv: matricula 465, aula 1147 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 465, aula 1147 - data_conclusao inválida
+- progresso_aulas.csv: matricula 466, aula 3669 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 466, aula 3669 - data_conclusao inválida
+- progresso_aulas.csv: matricula 466, aula 2029 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 466, aula 2029 - data_conclusao inválida
+- progresso_aulas.csv: matricula 466, aula 1805 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 466, aula 1805 - data_conclusao inválida
+- progresso_aulas.csv: matricula 466, aula 1814 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 466, aula 1814 - data_conclusao inválida
+- progresso_aulas.csv: matricula 466, aula 2453 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 466, aula 2453 - data_conclusao inválida
+- progresso_aulas.csv: matricula 466, aula 1154 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 466, aula 1154 - data_conclusao inválida
+- progresso_aulas.csv: matricula 466, aula 1601 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 466, aula 1601 - data_conclusao inválida
+- progresso_aulas.csv: matricula 467, aula 2926 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 467, aula 2926 - data_conclusao inválida
+- progresso_aulas.csv: matricula 467, aula 3863 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 467, aula 3863 - data_conclusao inválida
+- progresso_aulas.csv: matricula 467, aula 1840 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 467, aula 1840 - data_conclusao inválida
+- progresso_aulas.csv: matricula 467, aula 3627 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 467, aula 3627 - data_conclusao inválida
+- progresso_aulas.csv: matricula 467, aula 573 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 467, aula 573 - data_conclusao inválida
+- progresso_aulas.csv: matricula 468, aula 2751 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 468, aula 533 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 468, aula 2443 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 468, aula 2443 - data_conclusao inválida
+- progresso_aulas.csv: matricula 468, aula 562 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 468, aula 1412 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 468, aula 1412 - data_conclusao inválida
+- progresso_aulas.csv: matricula 468, aula 80 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 468, aula 2276 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 468, aula 2276 - data_conclusao inválida
+- progresso_aulas.csv: matricula 468, aula 3272 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 468, aula 378 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 469, aula 2186 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 469, aula 1077 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 469, aula 1077 - data_conclusao inválida
+- progresso_aulas.csv: matricula 469, aula 276 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 469, aula 800 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 469, aula 813 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 469, aula 831 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 469, aula 1860 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 469, aula 951 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 469, aula 366 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 469, aula 3839 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 469, aula 544 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 470, aula 2 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 470, aula 2 - data_conclusao inválida
+- progresso_aulas.csv: matricula 470, aula 1556 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 470, aula 1556 - data_conclusao inválida
+- progresso_aulas.csv: matricula 470, aula 462 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 470, aula 462 - data_conclusao inválida
+- progresso_aulas.csv: matricula 470, aula 897 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 470, aula 897 - data_conclusao inválida
+- progresso_aulas.csv: matricula 470, aula 3074 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 470, aula 3074 - data_conclusao inválida
+- progresso_aulas.csv: matricula 470, aula 1729 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 470, aula 1729 - data_conclusao inválida
+- progresso_aulas.csv: matricula 470, aula 975 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 470, aula 975 - data_conclusao inválida
+- progresso_aulas.csv: matricula 470, aula 3380 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 470, aula 2103 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 470, aula 2103 - data_conclusao inválida
+- progresso_aulas.csv: matricula 470, aula 2743 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 470, aula 2743 - data_conclusao inválida
+- progresso_aulas.csv: matricula 470, aula 1302 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 470, aula 1302 - data_conclusao inválida
+- progresso_aulas.csv: matricula 470, aula 543 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 471, aula 497 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 471, aula 780 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 471, aula 780 - data_conclusao inválida
+- progresso_aulas.csv: matricula 471, aula 894 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 471, aula 1833 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 471, aula 1833 - data_conclusao inválida
+- progresso_aulas.csv: matricula 471, aula 305 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 471, aula 3652 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 471, aula 2736 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 471, aula 2234 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 472, aula 2091 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 472, aula 2091 - data_conclusao inválida
+- progresso_aulas.csv: matricula 472, aula 177 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 472, aula 177 - data_conclusao inválida
+- progresso_aulas.csv: matricula 472, aula 3349 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 472, aula 388 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 472, aula 1767 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 472, aula 1767 - data_conclusao inválida
+- progresso_aulas.csv: matricula 472, aula 1129 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 472, aula 1167 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 472, aula 1167 - data_conclusao inválida
+- progresso_aulas.csv: matricula 472, aula 217 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 472, aula 969 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 472, aula 969 - data_conclusao inválida
+- progresso_aulas.csv: matricula 473, aula 3800 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 473, aula 3800 - data_conclusao inválida
+- progresso_aulas.csv: matricula 473, aula 581 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 473, aula 581 - data_conclusao inválida
+- progresso_aulas.csv: matricula 473, aula 3708 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 473, aula 1898 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 473, aula 1898 - data_conclusao inválida
+- progresso_aulas.csv: matricula 473, aula 3035 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 473, aula 3035 - data_conclusao inválida
+- progresso_aulas.csv: matricula 473, aula 3240 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 473, aula 3240 - data_conclusao inválida
+- progresso_aulas.csv: matricula 473, aula 2047 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 473, aula 2047 - data_conclusao inválida
+- progresso_aulas.csv: matricula 473, aula 2734 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 473, aula 2734 - data_conclusao inválida
+- progresso_aulas.csv: matricula 473, aula 2103 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 473, aula 2103 - data_conclusao inválida
+- progresso_aulas.csv: matricula 473, aula 698 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 473, aula 698 - data_conclusao inválida
+- progresso_aulas.csv: matricula 473, aula 3749 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 473, aula 3749 - data_conclusao inválida
+- progresso_aulas.csv: matricula 474, aula 2618 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 474, aula 2618 - data_conclusao inválida
+- progresso_aulas.csv: matricula 474, aula 378 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 474, aula 3598 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 474, aula 3598 - data_conclusao inválida
+- progresso_aulas.csv: matricula 475, aula 3389 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 475, aula 3389 - data_conclusao inválida
+- progresso_aulas.csv: matricula 475, aula 748 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 475, aula 420 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 475, aula 420 - data_conclusao inválida
+- progresso_aulas.csv: matricula 475, aula 2574 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 475, aula 793 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 475, aula 793 - data_conclusao inválida
+- progresso_aulas.csv: matricula 475, aula 1070 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 475, aula 2128 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 475, aula 3812 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 475, aula 1720 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 475, aula 703 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 475, aula 2346 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 475, aula 2237 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 475, aula 2237 - data_conclusao inválida
+- progresso_aulas.csv: matricula 476, aula 2792 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 476, aula 1305 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 476, aula 1673 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 476, aula 120 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 476, aula 1387 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 476, aula 1387 - data_conclusao inválida
+- progresso_aulas.csv: matricula 477, aula 2608 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 477, aula 1756 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 477, aula 1650 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 477, aula 2789 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 477, aula 3798 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 477, aula 488 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 477, aula 1858 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 477, aula 1960 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 477, aula 2868 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 477, aula 251 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 477, aula 3527 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 478, aula 61 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 478, aula 3184 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 478, aula 3184 - data_conclusao inválida
+- progresso_aulas.csv: matricula 478, aula 1373 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 478, aula 2209 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 478, aula 2209 - data_conclusao inválida
+- progresso_aulas.csv: matricula 478, aula 1833 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 478, aula 3839 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 478, aula 430 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 478, aula 2813 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 478, aula 2813 - data_conclusao inválida
+- progresso_aulas.csv: matricula 478, aula 1086 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 478, aula 1086 - data_conclusao inválida
+- progresso_aulas.csv: matricula 479, aula 1341 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 479, aula 1341 - data_conclusao inválida
+- progresso_aulas.csv: matricula 479, aula 2326 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 479, aula 2326 - data_conclusao inválida
+- progresso_aulas.csv: matricula 479, aula 1630 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 479, aula 1630 - data_conclusao inválida
+- progresso_aulas.csv: matricula 479, aula 1871 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 479, aula 3093 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 479, aula 2434 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 479, aula 2434 - data_conclusao inválida
+- progresso_aulas.csv: matricula 479, aula 162 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 479, aula 162 - data_conclusao inválida
+- progresso_aulas.csv: matricula 479, aula 2284 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 479, aula 2284 - data_conclusao inválida
+- progresso_aulas.csv: matricula 479, aula 2420 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 479, aula 2420 - data_conclusao inválida
+- progresso_aulas.csv: matricula 479, aula 2189 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 479, aula 2189 - data_conclusao inválida
+- progresso_aulas.csv: matricula 479, aula 3165 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 479, aula 3165 - data_conclusao inválida
+- progresso_aulas.csv: matricula 479, aula 2793 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 479, aula 2793 - data_conclusao inválida
+- progresso_aulas.csv: matricula 480, aula 1183 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 480, aula 3209 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 480, aula 3209 - data_conclusao inválida
+- progresso_aulas.csv: matricula 480, aula 2240 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 480, aula 3556 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 480, aula 67 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 480, aula 649 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 480, aula 520 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 480, aula 3655 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 480, aula 3655 - data_conclusao inválida
+- progresso_aulas.csv: matricula 480, aula 3763 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 480, aula 155 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 480, aula 3486 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 480, aula 3486 - data_conclusao inválida
+- progresso_aulas.csv: matricula 480, aula 1356 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 480, aula 1356 - data_conclusao inválida
+- progresso_aulas.csv: matricula 481, aula 2268 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 481, aula 2579 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 481, aula 271 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 481, aula 271 - data_conclusao inválida
+- progresso_aulas.csv: matricula 481, aula 2652 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 481, aula 2652 - data_conclusao inválida
+- progresso_aulas.csv: matricula 481, aula 345 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 481, aula 1162 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 481, aula 1421 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 481, aula 1851 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 481, aula 2565 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 481, aula 2236 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 481, aula 2236 - data_conclusao inválida
+- progresso_aulas.csv: matricula 481, aula 2079 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 481, aula 1876 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 481, aula 1876 - data_conclusao inválida
+- progresso_aulas.csv: matricula 482, aula 3826 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 482, aula 3826 - data_conclusao inválida
+- progresso_aulas.csv: matricula 482, aula 2522 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 482, aula 2522 - data_conclusao inválida
+- progresso_aulas.csv: matricula 482, aula 1852 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 482, aula 1852 - data_conclusao inválida
+- progresso_aulas.csv: matricula 482, aula 1126 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 482, aula 1126 - data_conclusao inválida
+- progresso_aulas.csv: matricula 482, aula 1559 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 482, aula 1559 - data_conclusao inválida
+- progresso_aulas.csv: matricula 483, aula 261 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 483, aula 2947 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 483, aula 2572 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 483, aula 2719 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 484, aula 2072 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 484, aula 2037 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 484, aula 2037 - data_conclusao inválida
+- progresso_aulas.csv: matricula 484, aula 2944 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 484, aula 2944 - data_conclusao inválida
+- progresso_aulas.csv: matricula 484, aula 3464 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 484, aula 631 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 484, aula 631 - data_conclusao inválida
+- progresso_aulas.csv: matricula 484, aula 3429 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 484, aula 3417 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 484, aula 3417 - data_conclusao inválida
+- progresso_aulas.csv: matricula 484, aula 531 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 484, aula 1312 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 484, aula 2115 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 484, aula 2115 - data_conclusao inválida
+- progresso_aulas.csv: matricula 484, aula 2363 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 484, aula 804 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 484, aula 804 - data_conclusao inválida
+- progresso_aulas.csv: matricula 485, aula 2849 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 485, aula 2849 - data_conclusao inválida
+- progresso_aulas.csv: matricula 485, aula 1104 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 485, aula 1104 - data_conclusao inválida
+- progresso_aulas.csv: matricula 485, aula 3617 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 485, aula 3617 - data_conclusao inválida
+- progresso_aulas.csv: matricula 485, aula 123 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 485, aula 123 - data_conclusao inválida
+- progresso_aulas.csv: matricula 485, aula 2718 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 485, aula 2718 - data_conclusao inválida
+- progresso_aulas.csv: matricula 485, aula 3665 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 485, aula 3665 - data_conclusao inválida
+- progresso_aulas.csv: matricula 485, aula 3555 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 485, aula 3555 - data_conclusao inválida
+- progresso_aulas.csv: matricula 485, aula 1477 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 485, aula 1477 - data_conclusao inválida
+- progresso_aulas.csv: matricula 486, aula 2981 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 486, aula 2981 - data_conclusao inválida
+- progresso_aulas.csv: matricula 486, aula 2538 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 486, aula 1360 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 486, aula 2809 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 486, aula 2809 - data_conclusao inválida
+- progresso_aulas.csv: matricula 486, aula 1871 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 486, aula 2332 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 486, aula 2332 - data_conclusao inválida
+- progresso_aulas.csv: matricula 486, aula 157 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 486, aula 126 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 486, aula 2757 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 487, aula 1887 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 487, aula 1887 - data_conclusao inválida
+- progresso_aulas.csv: matricula 487, aula 2432 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 487, aula 2432 - data_conclusao inválida
+- progresso_aulas.csv: matricula 487, aula 1615 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 487, aula 804 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 487, aula 575 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 487, aula 1446 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 487, aula 1446 - data_conclusao inválida
+- progresso_aulas.csv: matricula 487, aula 3386 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 487, aula 3340 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 487, aula 3340 - data_conclusao inválida
+- progresso_aulas.csv: matricula 487, aula 2505 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 487, aula 2505 - data_conclusao inválida
+- progresso_aulas.csv: matricula 487, aula 1205 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 487, aula 761 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 488, aula 1394 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 488, aula 1394 - data_conclusao inválida
+- progresso_aulas.csv: matricula 488, aula 1659 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 488, aula 1659 - data_conclusao inválida
+- progresso_aulas.csv: matricula 488, aula 674 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 488, aula 674 - data_conclusao inválida
+- progresso_aulas.csv: matricula 488, aula 1068 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 488, aula 1068 - data_conclusao inválida
+- progresso_aulas.csv: matricula 488, aula 327 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 488, aula 327 - data_conclusao inválida
+- progresso_aulas.csv: matricula 488, aula 2804 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 488, aula 2788 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 488, aula 2788 - data_conclusao inválida
+- progresso_aulas.csv: matricula 488, aula 3752 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 488, aula 3752 - data_conclusao inválida
+- progresso_aulas.csv: matricula 488, aula 1343 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 488, aula 1343 - data_conclusao inválida
+- progresso_aulas.csv: matricula 488, aula 765 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 488, aula 765 - data_conclusao inválida
+- progresso_aulas.csv: matricula 488, aula 2184 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 488, aula 2184 - data_conclusao inválida
+- progresso_aulas.csv: matricula 488, aula 3120 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 488, aula 3120 - data_conclusao inválida
+- progresso_aulas.csv: matricula 489, aula 3744 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 489, aula 3744 - data_conclusao inválida
+- progresso_aulas.csv: matricula 489, aula 3871 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 489, aula 3871 - data_conclusao inválida
+- progresso_aulas.csv: matricula 489, aula 1407 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 489, aula 1407 - data_conclusao inválida
+- progresso_aulas.csv: matricula 489, aula 1594 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 489, aula 687 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 489, aula 687 - data_conclusao inválida
+- progresso_aulas.csv: matricula 489, aula 2358 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 489, aula 2358 - data_conclusao inválida
+- progresso_aulas.csv: matricula 489, aula 704 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 489, aula 704 - data_conclusao inválida
+- progresso_aulas.csv: matricula 489, aula 1654 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 489, aula 1654 - data_conclusao inválida
+- progresso_aulas.csv: matricula 489, aula 3876 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 489, aula 3876 - data_conclusao inválida
+- progresso_aulas.csv: matricula 489, aula 2414 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 490, aula 2812 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 490, aula 1516 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 490, aula 419 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 490, aula 916 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 490, aula 3525 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 490, aula 3849 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 490, aula 2067 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 490, aula 436 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 490, aula 2294 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 490, aula 2911 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 490, aula 1603 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 490, aula 1513 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 491, aula 306 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 491, aula 3795 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 491, aula 3795 - data_conclusao inválida
+- progresso_aulas.csv: matricula 491, aula 3410 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 491, aula 464 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 491, aula 3744 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 491, aula 1972 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 491, aula 2454 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 491, aula 1984 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 491, aula 676 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 491, aula 193 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 491, aula 816 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 491, aula 816 - data_conclusao inválida
+- progresso_aulas.csv: matricula 492, aula 440 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 492, aula 440 - data_conclusao inválida
+- progresso_aulas.csv: matricula 492, aula 888 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 492, aula 888 - data_conclusao inválida
+- progresso_aulas.csv: matricula 492, aula 2986 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 492, aula 2986 - data_conclusao inválida
+- progresso_aulas.csv: matricula 492, aula 711 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 492, aula 1500 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 492, aula 1500 - data_conclusao inválida
+- progresso_aulas.csv: matricula 492, aula 2537 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 492, aula 3630 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 492, aula 879 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 492, aula 879 - data_conclusao inválida
+- progresso_aulas.csv: matricula 493, aula 1746 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 493, aula 1833 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 493, aula 3488 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 493, aula 1300 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 493, aula 188 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 493, aula 66 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 494, aula 1569 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 494, aula 1569 - data_conclusao inválida
+- progresso_aulas.csv: matricula 494, aula 2522 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 494, aula 2522 - data_conclusao inválida
+- progresso_aulas.csv: matricula 494, aula 2168 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 494, aula 3883 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 494, aula 500 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 495, aula 28 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 495, aula 28 - data_conclusao inválida
+- progresso_aulas.csv: matricula 495, aula 1113 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 495, aula 1479 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 495, aula 532 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 495, aula 532 - data_conclusao inválida
+- progresso_aulas.csv: matricula 495, aula 963 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 496, aula 3315 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 496, aula 3740 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 496, aula 3316 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 496, aula 3178 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 496, aula 1754 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 496, aula 1705 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 496, aula 240 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 496, aula 1329 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 497, aula 3002 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 497, aula 2410 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 497, aula 2410 - data_conclusao inválida
+- progresso_aulas.csv: matricula 497, aula 1729 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 497, aula 1490 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 497, aula 1490 - data_conclusao inválida
+- progresso_aulas.csv: matricula 497, aula 3263 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 497, aula 3551 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 497, aula 1300 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 498, aula 3328 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 498, aula 3328 - data_conclusao inválida
+- progresso_aulas.csv: matricula 498, aula 2840 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 498, aula 2840 - data_conclusao inválida
+- progresso_aulas.csv: matricula 498, aula 1754 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 498, aula 1754 - data_conclusao inválida
+- progresso_aulas.csv: matricula 498, aula 1362 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 498, aula 1362 - data_conclusao inválida
+- progresso_aulas.csv: matricula 499, aula 3820 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 499, aula 3486 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 499, aula 3486 - data_conclusao inválida
+- progresso_aulas.csv: matricula 499, aula 26 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 499, aula 26 - data_conclusao inválida
+- progresso_aulas.csv: matricula 500, aula 1526 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 500, aula 2619 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 500, aula 941 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 500, aula 941 - data_conclusao inválida
+- progresso_aulas.csv: matricula 500, aula 2402 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 500, aula 2402 - data_conclusao inválida
+- progresso_aulas.csv: matricula 500, aula 2652 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 500, aula 2652 - data_conclusao inválida
+- progresso_aulas.csv: matricula 501, aula 3558 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 501, aula 1300 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 501, aula 284 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 501, aula 284 - data_conclusao inválida
+- progresso_aulas.csv: matricula 501, aula 854 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 501, aula 854 - data_conclusao inválida
+- progresso_aulas.csv: matricula 502, aula 2595 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 502, aula 2595 - data_conclusao inválida
+- progresso_aulas.csv: matricula 502, aula 2593 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 502, aula 2593 - data_conclusao inválida
+- progresso_aulas.csv: matricula 502, aula 1744 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 503, aula 412 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 503, aula 1163 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 503, aula 1243 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 503, aula 1165 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 503, aula 3487 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 504, aula 3682 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 504, aula 2611 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 504, aula 3232 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 504, aula 1807 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 504, aula 2947 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 504, aula 3889 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 504, aula 3889 - data_conclusao inválida
+- progresso_aulas.csv: matricula 504, aula 1199 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 504, aula 2635 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 504, aula 2635 - data_conclusao inválida
+- progresso_aulas.csv: matricula 504, aula 1693 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 505, aula 2226 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 505, aula 3309 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 505, aula 3344 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 505, aula 434 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 505, aula 3019 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 506, aula 2557 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 506, aula 380 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 506, aula 242 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 506, aula 242 - data_conclusao inválida
+- progresso_aulas.csv: matricula 507, aula 1702 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 507, aula 1702 - data_conclusao inválida
+- progresso_aulas.csv: matricula 507, aula 1075 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 507, aula 1075 - data_conclusao inválida
+- progresso_aulas.csv: matricula 507, aula 2006 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 507, aula 656 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 507, aula 656 - data_conclusao inválida
+- progresso_aulas.csv: matricula 507, aula 836 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 507, aula 836 - data_conclusao inválida
+- progresso_aulas.csv: matricula 507, aula 2940 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 507, aula 2940 - data_conclusao inválida
+- progresso_aulas.csv: matricula 507, aula 2265 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 507, aula 1898 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 507, aula 1414 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 507, aula 1414 - data_conclusao inválida
+- progresso_aulas.csv: matricula 507, aula 100 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 507, aula 100 - data_conclusao inválida
+- progresso_aulas.csv: matricula 507, aula 2182 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 507, aula 2182 - data_conclusao inválida
+- progresso_aulas.csv: matricula 508, aula 3224 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 508, aula 3224 - data_conclusao inválida
+- progresso_aulas.csv: matricula 508, aula 741 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 508, aula 741 - data_conclusao inválida
+- progresso_aulas.csv: matricula 508, aula 3686 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 508, aula 3686 - data_conclusao inválida
+- progresso_aulas.csv: matricula 508, aula 1434 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 508, aula 1434 - data_conclusao inválida
+- progresso_aulas.csv: matricula 508, aula 1967 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 508, aula 1902 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 508, aula 1902 - data_conclusao inválida
+- progresso_aulas.csv: matricula 508, aula 1315 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 508, aula 1315 - data_conclusao inválida
+- progresso_aulas.csv: matricula 508, aula 1067 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 508, aula 1067 - data_conclusao inválida
+- progresso_aulas.csv: matricula 508, aula 3060 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 508, aula 1488 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 508, aula 1488 - data_conclusao inválida
+- progresso_aulas.csv: matricula 509, aula 3534 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 509, aula 3534 - data_conclusao inválida
+- progresso_aulas.csv: matricula 509, aula 2340 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 509, aula 2340 - data_conclusao inválida
+- progresso_aulas.csv: matricula 509, aula 3859 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 509, aula 3859 - data_conclusao inválida
+- progresso_aulas.csv: matricula 509, aula 134 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 509, aula 134 - data_conclusao inválida
+- progresso_aulas.csv: matricula 509, aula 1333 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 509, aula 1333 - data_conclusao inválida
+- progresso_aulas.csv: matricula 509, aula 584 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 509, aula 584 - data_conclusao inválida
+- progresso_aulas.csv: matricula 509, aula 2534 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 509, aula 370 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 509, aula 2093 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 509, aula 2093 - data_conclusao inválida
+- progresso_aulas.csv: matricula 510, aula 2989 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 510, aula 2989 - data_conclusao inválida
+- progresso_aulas.csv: matricula 510, aula 419 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 510, aula 1608 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 510, aula 218 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 510, aula 218 - data_conclusao inválida
+- progresso_aulas.csv: matricula 510, aula 2251 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 510, aula 2251 - data_conclusao inválida
+- progresso_aulas.csv: matricula 510, aula 3560 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 510, aula 3560 - data_conclusao inválida
+- progresso_aulas.csv: matricula 510, aula 745 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 510, aula 745 - data_conclusao inválida
+- progresso_aulas.csv: matricula 510, aula 2943 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 510, aula 1801 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 510, aula 1801 - data_conclusao inválida
+- progresso_aulas.csv: matricula 510, aula 496 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 510, aula 496 - data_conclusao inválida
+- progresso_aulas.csv: matricula 510, aula 2644 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 510, aula 2644 - data_conclusao inválida
+- progresso_aulas.csv: matricula 511, aula 3225 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 511, aula 3225 - data_conclusao inválida
+- progresso_aulas.csv: matricula 511, aula 2938 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 511, aula 2984 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 511, aula 2984 - data_conclusao inválida
+- progresso_aulas.csv: matricula 511, aula 890 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 511, aula 890 - data_conclusao inválida
+- progresso_aulas.csv: matricula 511, aula 3793 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 511, aula 2313 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 512, aula 707 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 512, aula 707 - data_conclusao inválida
+- progresso_aulas.csv: matricula 512, aula 636 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 512, aula 2362 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 512, aula 2362 - data_conclusao inválida
+- progresso_aulas.csv: matricula 512, aula 2322 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 512, aula 2322 - data_conclusao inválida
+- progresso_aulas.csv: matricula 512, aula 3726 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 512, aula 3726 - data_conclusao inválida
+- progresso_aulas.csv: matricula 512, aula 2519 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 512, aula 2519 - data_conclusao inválida
+- progresso_aulas.csv: matricula 512, aula 877 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 512, aula 3036 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 512, aula 3036 - data_conclusao inválida
+- progresso_aulas.csv: matricula 513, aula 2693 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 513, aula 2693 - data_conclusao inválida
+- progresso_aulas.csv: matricula 513, aula 3498 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 513, aula 2397 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 513, aula 309 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 513, aula 2623 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 513, aula 2623 - data_conclusao inválida
+- progresso_aulas.csv: matricula 513, aula 1242 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 513, aula 968 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 513, aula 968 - data_conclusao inválida
+- progresso_aulas.csv: matricula 513, aula 2266 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 513, aula 2266 - data_conclusao inválida
+- progresso_aulas.csv: matricula 513, aula 2256 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 514, aula 1312 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 514, aula 1312 - data_conclusao inválida
+- progresso_aulas.csv: matricula 514, aula 2278 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 514, aula 2278 - data_conclusao inválida
+- progresso_aulas.csv: matricula 514, aula 3849 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 514, aula 1262 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 514, aula 1093 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 514, aula 1093 - data_conclusao inválida
+- progresso_aulas.csv: matricula 514, aula 1712 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 514, aula 1712 - data_conclusao inválida
+- progresso_aulas.csv: matricula 514, aula 501 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 514, aula 501 - data_conclusao inválida
+- progresso_aulas.csv: matricula 514, aula 2004 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 514, aula 2969 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 514, aula 2969 - data_conclusao inválida
+- progresso_aulas.csv: matricula 514, aula 2641 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 514, aula 2641 - data_conclusao inválida
+- progresso_aulas.csv: matricula 514, aula 1897 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 514, aula 1897 - data_conclusao inválida
+- progresso_aulas.csv: matricula 515, aula 2339 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 515, aula 2339 - data_conclusao inválida
+- progresso_aulas.csv: matricula 515, aula 1363 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 515, aula 1363 - data_conclusao inválida
+- progresso_aulas.csv: matricula 515, aula 1070 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 515, aula 1070 - data_conclusao inválida
+- progresso_aulas.csv: matricula 515, aula 3545 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 515, aula 3545 - data_conclusao inválida
+- progresso_aulas.csv: matricula 515, aula 1040 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 515, aula 1040 - data_conclusao inválida
+- progresso_aulas.csv: matricula 515, aula 2366 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 515, aula 2366 - data_conclusao inválida
+- progresso_aulas.csv: matricula 516, aula 2931 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 516, aula 2970 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 516, aula 478 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 516, aula 740 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 516, aula 3659 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 516, aula 1831 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 516, aula 1831 - data_conclusao inválida
+- progresso_aulas.csv: matricula 516, aula 2473 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 516, aula 3379 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 516, aula 3474 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 516, aula 3526 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 517, aula 878 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 517, aula 878 - data_conclusao inválida
+- progresso_aulas.csv: matricula 517, aula 2009 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 517, aula 2009 - data_conclusao inválida
+- progresso_aulas.csv: matricula 517, aula 2900 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 517, aula 2900 - data_conclusao inválida
+- progresso_aulas.csv: matricula 517, aula 3668 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 517, aula 3668 - data_conclusao inválida
+- progresso_aulas.csv: matricula 517, aula 3349 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 517, aula 3349 - data_conclusao inválida
+- progresso_aulas.csv: matricula 517, aula 1339 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 517, aula 1339 - data_conclusao inválida
+- progresso_aulas.csv: matricula 517, aula 567 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 517, aula 567 - data_conclusao inválida
+- progresso_aulas.csv: matricula 517, aula 2374 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 517, aula 2374 - data_conclusao inválida
+- progresso_aulas.csv: matricula 517, aula 2287 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 517, aula 3875 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 517, aula 3875 - data_conclusao inválida
+- progresso_aulas.csv: matricula 518, aula 116 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 518, aula 116 - data_conclusao inválida
+- progresso_aulas.csv: matricula 518, aula 3328 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 518, aula 2766 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 518, aula 2766 - data_conclusao inválida
+- progresso_aulas.csv: matricula 518, aula 3084 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 518, aula 3084 - data_conclusao inválida
+- progresso_aulas.csv: matricula 518, aula 404 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 518, aula 404 - data_conclusao inválida
+- progresso_aulas.csv: matricula 519, aula 2987 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 519, aula 3239 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 519, aula 3239 - data_conclusao inválida
+- progresso_aulas.csv: matricula 519, aula 2975 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 519, aula 3535 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 519, aula 223 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 519, aula 2245 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 519, aula 772 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 519, aula 772 - data_conclusao inválida
+- progresso_aulas.csv: matricula 519, aula 710 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 520, aula 1796 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 520, aula 1431 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 520, aula 1431 - data_conclusao inválida
+- progresso_aulas.csv: matricula 520, aula 2801 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 520, aula 863 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 520, aula 2840 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 520, aula 3031 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 520, aula 2958 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 520, aula 2888 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 520, aula 3599 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 520, aula 1525 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 520, aula 2734 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 520, aula 2734 - data_conclusao inválida
+- progresso_aulas.csv: matricula 521, aula 2351 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 521, aula 1314 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 521, aula 449 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 521, aula 1886 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 521, aula 273 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 521, aula 1421 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 521, aula 3421 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 521, aula 3571 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 521, aula 668 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 521, aula 861 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 521, aula 3572 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 521, aula 2982 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 522, aula 2362 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 522, aula 2362 - data_conclusao inválida
+- progresso_aulas.csv: matricula 522, aula 1703 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 522, aula 1703 - data_conclusao inválida
+- progresso_aulas.csv: matricula 522, aula 1926 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 522, aula 1926 - data_conclusao inválida
+- progresso_aulas.csv: matricula 522, aula 339 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 522, aula 339 - data_conclusao inválida
+- progresso_aulas.csv: matricula 522, aula 862 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 522, aula 862 - data_conclusao inválida
+- progresso_aulas.csv: matricula 522, aula 2814 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 522, aula 2814 - data_conclusao inválida
+- progresso_aulas.csv: matricula 523, aula 381 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 523, aula 381 - data_conclusao inválida
+- progresso_aulas.csv: matricula 523, aula 2494 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 523, aula 472 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 523, aula 595 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 523, aula 595 - data_conclusao inválida
+- progresso_aulas.csv: matricula 523, aula 1630 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 523, aula 1630 - data_conclusao inválida
+- progresso_aulas.csv: matricula 523, aula 199 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 523, aula 2594 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 523, aula 619 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 523, aula 2998 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 523, aula 622 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 523, aula 474 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 523, aula 474 - data_conclusao inválida
+- progresso_aulas.csv: matricula 523, aula 849 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 523, aula 849 - data_conclusao inválida
+- progresso_aulas.csv: matricula 524, aula 462 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 524, aula 462 - data_conclusao inválida
+- progresso_aulas.csv: matricula 524, aula 1568 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 524, aula 1568 - data_conclusao inválida
+- progresso_aulas.csv: matricula 524, aula 1650 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 524, aula 1650 - data_conclusao inválida
+- progresso_aulas.csv: matricula 524, aula 429 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 524, aula 429 - data_conclusao inválida
+- progresso_aulas.csv: matricula 525, aula 172 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 525, aula 172 - data_conclusao inválida
+- progresso_aulas.csv: matricula 525, aula 496 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 525, aula 496 - data_conclusao inválida
+- progresso_aulas.csv: matricula 525, aula 2530 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 525, aula 2530 - data_conclusao inválida
+- progresso_aulas.csv: matricula 525, aula 2956 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 525, aula 131 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 525, aula 131 - data_conclusao inválida
+- progresso_aulas.csv: matricula 526, aula 3113 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 526, aula 1793 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 526, aula 3820 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 526, aula 1019 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 526, aula 811 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 526, aula 3791 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 526, aula 2552 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 526, aula 3059 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 527, aula 613 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 527, aula 613 - data_conclusao inválida
+- progresso_aulas.csv: matricula 527, aula 3131 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 527, aula 3131 - data_conclusao inválida
+- progresso_aulas.csv: matricula 527, aula 3216 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 527, aula 1156 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 527, aula 1156 - data_conclusao inválida
+- progresso_aulas.csv: matricula 527, aula 722 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 527, aula 722 - data_conclusao inválida
+- progresso_aulas.csv: matricula 527, aula 412 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 527, aula 412 - data_conclusao inválida
+- progresso_aulas.csv: matricula 527, aula 370 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 527, aula 370 - data_conclusao inválida
+- progresso_aulas.csv: matricula 528, aula 1618 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 528, aula 2562 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 528, aula 2150 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 528, aula 576 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 528, aula 3777 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 528, aula 1381 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 528, aula 1381 - data_conclusao inválida
+- progresso_aulas.csv: matricula 528, aula 3522 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 528, aula 36 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 528, aula 2362 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 528, aula 2724 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 528, aula 1338 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 529, aula 2932 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 529, aula 2932 - data_conclusao inválida
+- progresso_aulas.csv: matricula 529, aula 2732 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 529, aula 2732 - data_conclusao inválida
+- progresso_aulas.csv: matricula 529, aula 2331 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 530, aula 2390 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 530, aula 2034 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 530, aula 3374 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 530, aula 70 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 530, aula 3180 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 531, aula 2211 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 531, aula 1502 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 531, aula 1587 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 531, aula 1258 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 531, aula 3124 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 531, aula 3124 - data_conclusao inválida
+- progresso_aulas.csv: matricula 531, aula 3785 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 531, aula 3785 - data_conclusao inválida
+- progresso_aulas.csv: matricula 531, aula 534 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 531, aula 534 - data_conclusao inválida
+- progresso_aulas.csv: matricula 531, aula 869 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 531, aula 869 - data_conclusao inválida
+- progresso_aulas.csv: matricula 531, aula 3467 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 531, aula 3467 - data_conclusao inválida
+- progresso_aulas.csv: matricula 531, aula 111 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 531, aula 1063 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 531, aula 1063 - data_conclusao inválida
+- progresso_aulas.csv: matricula 532, aula 1964 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 532, aula 1964 - data_conclusao inválida
+- progresso_aulas.csv: matricula 532, aula 946 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 532, aula 2284 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 532, aula 2284 - data_conclusao inválida
+- progresso_aulas.csv: matricula 532, aula 2027 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 532, aula 2027 - data_conclusao inválida
+- progresso_aulas.csv: matricula 532, aula 1139 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 532, aula 1139 - data_conclusao inválida
+- progresso_aulas.csv: matricula 532, aula 248 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 532, aula 248 - data_conclusao inválida
+- progresso_aulas.csv: matricula 532, aula 682 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 532, aula 682 - data_conclusao inválida
+- progresso_aulas.csv: matricula 532, aula 2454 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 532, aula 2454 - data_conclusao inválida
+- progresso_aulas.csv: matricula 532, aula 2538 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 532, aula 2538 - data_conclusao inválida
+- progresso_aulas.csv: matricula 532, aula 252 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 532, aula 252 - data_conclusao inválida
+- progresso_aulas.csv: matricula 532, aula 1815 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 532, aula 1815 - data_conclusao inválida
+- progresso_aulas.csv: matricula 532, aula 2945 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 533, aula 1689 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 533, aula 1689 - data_conclusao inválida
+- progresso_aulas.csv: matricula 533, aula 935 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 533, aula 935 - data_conclusao inválida
+- progresso_aulas.csv: matricula 533, aula 533 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 533, aula 533 - data_conclusao inválida
+- progresso_aulas.csv: matricula 533, aula 519 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 533, aula 519 - data_conclusao inválida
+- progresso_aulas.csv: matricula 533, aula 3523 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 533, aula 3523 - data_conclusao inválida
+- progresso_aulas.csv: matricula 533, aula 1153 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 533, aula 1153 - data_conclusao inválida
+- progresso_aulas.csv: matricula 533, aula 2176 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 533, aula 2176 - data_conclusao inválida
+- progresso_aulas.csv: matricula 533, aula 2663 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 533, aula 2663 - data_conclusao inválida
+- progresso_aulas.csv: matricula 533, aula 3872 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 533, aula 3872 - data_conclusao inválida
+- progresso_aulas.csv: matricula 533, aula 3691 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 533, aula 3691 - data_conclusao inválida
+- progresso_aulas.csv: matricula 533, aula 439 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 533, aula 439 - data_conclusao inválida
+- progresso_aulas.csv: matricula 533, aula 1403 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 533, aula 1403 - data_conclusao inválida
+- progresso_aulas.csv: matricula 534, aula 3540 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 534, aula 3540 - data_conclusao inválida
+- progresso_aulas.csv: matricula 534, aula 650 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 534, aula 650 - data_conclusao inválida
+- progresso_aulas.csv: matricula 534, aula 3391 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 534, aula 3599 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 534, aula 2804 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 534, aula 2804 - data_conclusao inválida
+- progresso_aulas.csv: matricula 534, aula 2588 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 534, aula 2630 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 534, aula 32 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 534, aula 32 - data_conclusao inválida
+- progresso_aulas.csv: matricula 535, aula 3720 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 535, aula 3720 - data_conclusao inválida
+- progresso_aulas.csv: matricula 535, aula 3708 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 535, aula 1662 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 536, aula 1520 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 536, aula 1520 - data_conclusao inválida
+- progresso_aulas.csv: matricula 536, aula 1814 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 536, aula 1814 - data_conclusao inválida
+- progresso_aulas.csv: matricula 536, aula 2418 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 536, aula 2774 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 536, aula 2774 - data_conclusao inválida
+- progresso_aulas.csv: matricula 536, aula 3189 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 536, aula 3189 - data_conclusao inválida
+- progresso_aulas.csv: matricula 536, aula 1426 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 536, aula 1426 - data_conclusao inválida
+- progresso_aulas.csv: matricula 536, aula 1524 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 536, aula 1524 - data_conclusao inválida
+- progresso_aulas.csv: matricula 537, aula 1030 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 537, aula 1030 - data_conclusao inválida
+- progresso_aulas.csv: matricula 537, aula 1965 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 537, aula 1965 - data_conclusao inválida
+- progresso_aulas.csv: matricula 537, aula 3448 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 537, aula 436 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 537, aula 436 - data_conclusao inválida
+- progresso_aulas.csv: matricula 537, aula 561 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 537, aula 561 - data_conclusao inválida
+- progresso_aulas.csv: matricula 538, aula 453 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 538, aula 453 - data_conclusao inválida
+- progresso_aulas.csv: matricula 538, aula 181 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 538, aula 181 - data_conclusao inválida
+- progresso_aulas.csv: matricula 538, aula 2274 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 538, aula 2274 - data_conclusao inválida
+- progresso_aulas.csv: matricula 538, aula 244 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 538, aula 244 - data_conclusao inválida
+- progresso_aulas.csv: matricula 538, aula 3151 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 538, aula 3151 - data_conclusao inválida
+- progresso_aulas.csv: matricula 538, aula 486 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 538, aula 486 - data_conclusao inválida
+- progresso_aulas.csv: matricula 538, aula 3266 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 538, aula 3266 - data_conclusao inválida
+- progresso_aulas.csv: matricula 538, aula 3210 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 538, aula 3210 - data_conclusao inválida
+- progresso_aulas.csv: matricula 538, aula 2107 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 538, aula 2107 - data_conclusao inválida
+- progresso_aulas.csv: matricula 539, aula 849 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 539, aula 849 - data_conclusao inválida
+- progresso_aulas.csv: matricula 539, aula 110 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 539, aula 110 - data_conclusao inválida
+- progresso_aulas.csv: matricula 539, aula 3302 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 539, aula 3302 - data_conclusao inválida
+- progresso_aulas.csv: matricula 539, aula 3734 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 539, aula 3734 - data_conclusao inválida
+- progresso_aulas.csv: matricula 540, aula 942 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 540, aula 412 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 540, aula 412 - data_conclusao inválida
+- progresso_aulas.csv: matricula 540, aula 1841 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 540, aula 1633 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 540, aula 1132 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 540, aula 3128 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 540, aula 3864 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 540, aula 369 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 540, aula 2003 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 541, aula 1404 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 541, aula 1404 - data_conclusao inválida
+- progresso_aulas.csv: matricula 541, aula 2885 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 541, aula 2885 - data_conclusao inválida
+- progresso_aulas.csv: matricula 541, aula 250 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 541, aula 250 - data_conclusao inválida
+- progresso_aulas.csv: matricula 542, aula 801 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 542, aula 801 - data_conclusao inválida
+- progresso_aulas.csv: matricula 542, aula 2083 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 542, aula 2083 - data_conclusao inválida
+- progresso_aulas.csv: matricula 542, aula 174 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 542, aula 174 - data_conclusao inválida
+- progresso_aulas.csv: matricula 542, aula 1674 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 542, aula 1856 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 542, aula 1856 - data_conclusao inválida
+- progresso_aulas.csv: matricula 542, aula 417 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 542, aula 417 - data_conclusao inválida
+- progresso_aulas.csv: matricula 542, aula 1010 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 542, aula 1010 - data_conclusao inválida
+- progresso_aulas.csv: matricula 542, aula 221 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 542, aula 221 - data_conclusao inválida
+- progresso_aulas.csv: matricula 542, aula 1893 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 542, aula 1893 - data_conclusao inválida
+- progresso_aulas.csv: matricula 542, aula 2919 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 542, aula 2919 - data_conclusao inválida
+- progresso_aulas.csv: matricula 543, aula 3331 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 543, aula 3331 - data_conclusao inválida
+- progresso_aulas.csv: matricula 543, aula 3565 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 543, aula 3565 - data_conclusao inválida
+- progresso_aulas.csv: matricula 543, aula 1179 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 543, aula 1179 - data_conclusao inválida
+- progresso_aulas.csv: matricula 543, aula 1480 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 543, aula 1480 - data_conclusao inválida
+- progresso_aulas.csv: matricula 544, aula 2016 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 544, aula 2016 - data_conclusao inválida
+- progresso_aulas.csv: matricula 544, aula 1230 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 544, aula 1230 - data_conclusao inválida
+- progresso_aulas.csv: matricula 544, aula 818 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 544, aula 3282 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 544, aula 3282 - data_conclusao inválida
+- progresso_aulas.csv: matricula 544, aula 1641 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 544, aula 1641 - data_conclusao inválida
+- progresso_aulas.csv: matricula 544, aula 717 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 544, aula 468 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 544, aula 2884 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 544, aula 2884 - data_conclusao inválida
+- progresso_aulas.csv: matricula 544, aula 806 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 544, aula 806 - data_conclusao inválida
+- progresso_aulas.csv: matricula 544, aula 102 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 544, aula 72 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 544, aula 72 - data_conclusao inválida
+- progresso_aulas.csv: matricula 545, aula 1745 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 545, aula 2882 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 545, aula 1760 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 545, aula 2442 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 545, aula 2442 - data_conclusao inválida
+- progresso_aulas.csv: matricula 545, aula 1040 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 545, aula 2033 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 545, aula 122 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 545, aula 838 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 546, aula 3644 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 546, aula 1613 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 546, aula 1790 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 546, aula 1790 - data_conclusao inválida
+- progresso_aulas.csv: matricula 546, aula 3372 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 546, aula 610 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 546, aula 324 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 546, aula 1447 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 547, aula 1273 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 547, aula 1354 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 547, aula 1354 - data_conclusao inválida
+- progresso_aulas.csv: matricula 547, aula 2568 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 547, aula 2568 - data_conclusao inválida
+- progresso_aulas.csv: matricula 547, aula 2414 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 547, aula 2414 - data_conclusao inválida
+- progresso_aulas.csv: matricula 547, aula 103 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 547, aula 103 - data_conclusao inválida
+- progresso_aulas.csv: matricula 547, aula 3093 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 547, aula 3093 - data_conclusao inválida
+- progresso_aulas.csv: matricula 547, aula 278 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 547, aula 278 - data_conclusao inválida
+- progresso_aulas.csv: matricula 547, aula 3257 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 547, aula 3257 - data_conclusao inválida
+- progresso_aulas.csv: matricula 547, aula 478 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 547, aula 478 - data_conclusao inválida
+- progresso_aulas.csv: matricula 548, aula 2731 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 548, aula 1915 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 548, aula 510 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 548, aula 3744 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 548, aula 3744 - data_conclusao inválida
+- progresso_aulas.csv: matricula 548, aula 1034 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 548, aula 153 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 548, aula 153 - data_conclusao inválida
+- progresso_aulas.csv: matricula 548, aula 81 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 548, aula 81 - data_conclusao inválida
+- progresso_aulas.csv: matricula 548, aula 3068 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 548, aula 3068 - data_conclusao inválida
+- progresso_aulas.csv: matricula 548, aula 2684 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 548, aula 1076 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 548, aula 2399 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 548, aula 2399 - data_conclusao inválida
+- progresso_aulas.csv: matricula 548, aula 967 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 549, aula 3309 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 549, aula 3309 - data_conclusao inválida
+- progresso_aulas.csv: matricula 549, aula 2416 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 549, aula 2416 - data_conclusao inválida
+- progresso_aulas.csv: matricula 549, aula 1220 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 549, aula 1220 - data_conclusao inválida
+- progresso_aulas.csv: matricula 549, aula 2649 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 549, aula 2649 - data_conclusao inválida
+- progresso_aulas.csv: matricula 549, aula 3401 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 549, aula 3401 - data_conclusao inválida
+- progresso_aulas.csv: matricula 549, aula 2450 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 549, aula 2450 - data_conclusao inválida
+- progresso_aulas.csv: matricula 549, aula 3366 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 549, aula 3366 - data_conclusao inválida
+- progresso_aulas.csv: matricula 550, aula 3209 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 550, aula 3209 - data_conclusao inválida
+- progresso_aulas.csv: matricula 550, aula 2483 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 550, aula 2168 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 550, aula 2168 - data_conclusao inválida
+- progresso_aulas.csv: matricula 550, aula 2019 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 550, aula 2617 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 550, aula 2617 - data_conclusao inválida
+- progresso_aulas.csv: matricula 550, aula 917 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 550, aula 2655 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 550, aula 267 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 550, aula 814 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 550, aula 814 - data_conclusao inválida
+- progresso_aulas.csv: matricula 550, aula 1898 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 551, aula 609 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 551, aula 609 - data_conclusao inválida
+- progresso_aulas.csv: matricula 551, aula 886 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 551, aula 886 - data_conclusao inválida
+- progresso_aulas.csv: matricula 551, aula 1987 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 551, aula 1987 - data_conclusao inválida
+- progresso_aulas.csv: matricula 551, aula 1175 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 551, aula 202 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 551, aula 202 - data_conclusao inválida
+- progresso_aulas.csv: matricula 551, aula 1966 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 551, aula 1966 - data_conclusao inválida
+- progresso_aulas.csv: matricula 551, aula 2339 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 551, aula 2339 - data_conclusao inválida
+- progresso_aulas.csv: matricula 551, aula 1091 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 551, aula 1091 - data_conclusao inválida
+- progresso_aulas.csv: matricula 551, aula 1017 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 551, aula 1017 - data_conclusao inválida
+- progresso_aulas.csv: matricula 552, aula 1790 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 552, aula 1790 - data_conclusao inválida
+- progresso_aulas.csv: matricula 552, aula 750 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 552, aula 750 - data_conclusao inválida
+- progresso_aulas.csv: matricula 552, aula 864 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 552, aula 3019 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 552, aula 3019 - data_conclusao inválida
+- progresso_aulas.csv: matricula 552, aula 2822 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 553, aula 1828 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 553, aula 3306 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 553, aula 61 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 553, aula 275 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 554, aula 3358 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 554, aula 3704 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 554, aula 2215 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 554, aula 2215 - data_conclusao inválida
+- progresso_aulas.csv: matricula 554, aula 3459 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 554, aula 3459 - data_conclusao inválida
+- progresso_aulas.csv: matricula 554, aula 703 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 554, aula 433 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 554, aula 433 - data_conclusao inválida
+- progresso_aulas.csv: matricula 554, aula 365 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 554, aula 1683 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 554, aula 1683 - data_conclusao inválida
+- progresso_aulas.csv: matricula 554, aula 225 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 554, aula 3445 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 554, aula 649 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 555, aula 2067 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 555, aula 3625 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 555, aula 3625 - data_conclusao inválida
+- progresso_aulas.csv: matricula 555, aula 3196 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 555, aula 2395 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 555, aula 2395 - data_conclusao inválida
+- progresso_aulas.csv: matricula 555, aula 1838 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 555, aula 3690 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 555, aula 601 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 555, aula 3676 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 555, aula 459 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 555, aula 343 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 555, aula 1821 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 556, aula 3879 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 556, aula 3879 - data_conclusao inválida
+- progresso_aulas.csv: matricula 556, aula 3606 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 556, aula 3619 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 556, aula 1459 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 557, aula 253 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 557, aula 253 - data_conclusao inválida
+- progresso_aulas.csv: matricula 557, aula 3326 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 557, aula 106 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 557, aula 106 - data_conclusao inválida
+- progresso_aulas.csv: matricula 558, aula 1943 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 558, aula 1312 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 558, aula 1939 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 559, aula 1227 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 559, aula 1227 - data_conclusao inválida
+- progresso_aulas.csv: matricula 559, aula 2440 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 559, aula 2440 - data_conclusao inválida
+- progresso_aulas.csv: matricula 559, aula 1652 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 559, aula 1652 - data_conclusao inválida
+- progresso_aulas.csv: matricula 559, aula 375 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 559, aula 375 - data_conclusao inválida
+- progresso_aulas.csv: matricula 559, aula 3132 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 559, aula 3132 - data_conclusao inválida
+- progresso_aulas.csv: matricula 559, aula 2655 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 559, aula 2655 - data_conclusao inválida
+- progresso_aulas.csv: matricula 559, aula 2737 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 559, aula 2737 - data_conclusao inválida
+- progresso_aulas.csv: matricula 559, aula 345 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 559, aula 3827 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 559, aula 3827 - data_conclusao inválida
+- progresso_aulas.csv: matricula 559, aula 647 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 559, aula 647 - data_conclusao inválida
+- progresso_aulas.csv: matricula 559, aula 2093 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 559, aula 2093 - data_conclusao inválida
+- progresso_aulas.csv: matricula 559, aula 3650 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 559, aula 3650 - data_conclusao inválida
+- progresso_aulas.csv: matricula 560, aula 3242 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 560, aula 678 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 560, aula 678 - data_conclusao inválida
+- progresso_aulas.csv: matricula 560, aula 2458 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 560, aula 2458 - data_conclusao inválida
+- progresso_aulas.csv: matricula 560, aula 2747 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 560, aula 2747 - data_conclusao inválida
+- progresso_aulas.csv: matricula 560, aula 1735 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 560, aula 1735 - data_conclusao inválida
+- progresso_aulas.csv: matricula 560, aula 2293 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 560, aula 2293 - data_conclusao inválida
+- progresso_aulas.csv: matricula 560, aula 3703 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 560, aula 2068 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 560, aula 617 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 560, aula 617 - data_conclusao inválida
+- progresso_aulas.csv: matricula 560, aula 1898 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 560, aula 2975 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 560, aula 2975 - data_conclusao inválida
+- progresso_aulas.csv: matricula 560, aula 3081 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 560, aula 3081 - data_conclusao inválida
+- progresso_aulas.csv: matricula 561, aula 483 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 561, aula 1060 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 561, aula 3706 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 561, aula 3238 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 561, aula 363 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 561, aula 3237 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 561, aula 3237 - data_conclusao inválida
+- progresso_aulas.csv: matricula 562, aula 1997 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 562, aula 1997 - data_conclusao inválida
+- progresso_aulas.csv: matricula 562, aula 1164 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 562, aula 1164 - data_conclusao inválida
+- progresso_aulas.csv: matricula 562, aula 2762 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 562, aula 2762 - data_conclusao inválida
+- progresso_aulas.csv: matricula 562, aula 3661 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 562, aula 3661 - data_conclusao inválida
+- progresso_aulas.csv: matricula 562, aula 3312 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 562, aula 2831 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 562, aula 2831 - data_conclusao inválida
+- progresso_aulas.csv: matricula 563, aula 2961 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 563, aula 2961 - data_conclusao inválida
+- progresso_aulas.csv: matricula 563, aula 1546 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 563, aula 1546 - data_conclusao inválida
+- progresso_aulas.csv: matricula 563, aula 1451 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 563, aula 1451 - data_conclusao inválida
+- progresso_aulas.csv: matricula 563, aula 439 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 563, aula 3191 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 563, aula 3814 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 563, aula 3814 - data_conclusao inválida
+- progresso_aulas.csv: matricula 564, aula 1200 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 564, aula 1200 - data_conclusao inválida
+- progresso_aulas.csv: matricula 564, aula 2622 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 564, aula 2622 - data_conclusao inválida
+- progresso_aulas.csv: matricula 564, aula 186 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 564, aula 186 - data_conclusao inválida
+- progresso_aulas.csv: matricula 564, aula 3625 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 564, aula 3625 - data_conclusao inválida
+- progresso_aulas.csv: matricula 564, aula 2478 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 564, aula 3794 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 564, aula 3794 - data_conclusao inválida
+- progresso_aulas.csv: matricula 564, aula 1728 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 564, aula 2876 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 564, aula 2876 - data_conclusao inválida
+- progresso_aulas.csv: matricula 564, aula 2621 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 564, aula 2621 - data_conclusao inválida
+- progresso_aulas.csv: matricula 565, aula 1085 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 565, aula 3833 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 565, aula 3833 - data_conclusao inválida
+- progresso_aulas.csv: matricula 565, aula 2506 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 565, aula 1759 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 565, aula 105 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 565, aula 1089 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 566, aula 584 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 566, aula 584 - data_conclusao inválida
+- progresso_aulas.csv: matricula 566, aula 655 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 566, aula 3824 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 566, aula 1457 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 567, aula 2059 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 567, aula 2059 - data_conclusao inválida
+- progresso_aulas.csv: matricula 567, aula 2351 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 567, aula 2351 - data_conclusao inválida
+- progresso_aulas.csv: matricula 567, aula 3234 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 567, aula 3234 - data_conclusao inválida
+- progresso_aulas.csv: matricula 567, aula 3190 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 567, aula 3190 - data_conclusao inválida
+- progresso_aulas.csv: matricula 567, aula 910 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 567, aula 910 - data_conclusao inválida
+- progresso_aulas.csv: matricula 568, aula 2182 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 568, aula 2854 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 568, aula 2056 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 568, aula 934 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 568, aula 2516 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 568, aula 2516 - data_conclusao inválida
+- progresso_aulas.csv: matricula 568, aula 169 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 568, aula 3606 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 569, aula 2553 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 569, aula 2553 - data_conclusao inválida
+- progresso_aulas.csv: matricula 569, aula 3413 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 569, aula 3413 - data_conclusao inválida
+- progresso_aulas.csv: matricula 569, aula 260 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 569, aula 260 - data_conclusao inválida
+- progresso_aulas.csv: matricula 569, aula 366 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 569, aula 366 - data_conclusao inválida
+- progresso_aulas.csv: matricula 569, aula 1229 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 569, aula 1229 - data_conclusao inválida
+- progresso_aulas.csv: matricula 569, aula 303 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 569, aula 303 - data_conclusao inválida
+- progresso_aulas.csv: matricula 569, aula 879 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 569, aula 879 - data_conclusao inválida
+- progresso_aulas.csv: matricula 569, aula 3399 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 569, aula 3399 - data_conclusao inválida
+- progresso_aulas.csv: matricula 569, aula 463 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 569, aula 463 - data_conclusao inválida
+- progresso_aulas.csv: matricula 570, aula 2969 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 570, aula 1017 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 570, aula 1466 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 570, aula 2709 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 570, aula 3095 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 570, aula 2457 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 570, aula 2622 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 570, aula 3338 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 570, aula 669 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 570, aula 3362 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 570, aula 3577 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 570, aula 838 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 571, aula 1476 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 571, aula 1476 - data_conclusao inválida
+- progresso_aulas.csv: matricula 571, aula 3713 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 571, aula 1141 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 571, aula 1141 - data_conclusao inválida
+- progresso_aulas.csv: matricula 572, aula 511 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 572, aula 2525 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 572, aula 399 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 572, aula 399 - data_conclusao inválida
+- progresso_aulas.csv: matricula 572, aula 1757 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 572, aula 1757 - data_conclusao inválida
+- progresso_aulas.csv: matricula 572, aula 1303 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 572, aula 1303 - data_conclusao inválida
+- progresso_aulas.csv: matricula 573, aula 3227 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 573, aula 3227 - data_conclusao inválida
+- progresso_aulas.csv: matricula 573, aula 2324 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 573, aula 2324 - data_conclusao inválida
+- progresso_aulas.csv: matricula 573, aula 1706 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 573, aula 1706 - data_conclusao inválida
+- progresso_aulas.csv: matricula 573, aula 1647 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 573, aula 1647 - data_conclusao inválida
+- progresso_aulas.csv: matricula 573, aula 3462 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 573, aula 3462 - data_conclusao inválida
+- progresso_aulas.csv: matricula 573, aula 259 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 573, aula 259 - data_conclusao inválida
+- progresso_aulas.csv: matricula 573, aula 1926 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 573, aula 1926 - data_conclusao inválida
+- progresso_aulas.csv: matricula 574, aula 3164 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 574, aula 2113 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 574, aula 2113 - data_conclusao inválida
+- progresso_aulas.csv: matricula 574, aula 520 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 574, aula 520 - data_conclusao inválida
+- progresso_aulas.csv: matricula 574, aula 2868 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 574, aula 2868 - data_conclusao inválida
+- progresso_aulas.csv: matricula 574, aula 1060 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 574, aula 1060 - data_conclusao inválida
+- progresso_aulas.csv: matricula 574, aula 2436 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 574, aula 2436 - data_conclusao inválida
+- progresso_aulas.csv: matricula 574, aula 2205 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 574, aula 2205 - data_conclusao inválida
+- progresso_aulas.csv: matricula 574, aula 2348 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 574, aula 2348 - data_conclusao inválida
+- progresso_aulas.csv: matricula 574, aula 3085 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 574, aula 3085 - data_conclusao inválida
+- progresso_aulas.csv: matricula 574, aula 2239 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 574, aula 2239 - data_conclusao inválida
+- progresso_aulas.csv: matricula 575, aula 12 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 575, aula 3549 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 575, aula 1642 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 575, aula 1892 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 575, aula 3414 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 575, aula 2258 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 575, aula 596 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 575, aula 397 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 575, aula 1113 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 575, aula 327 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 575, aula 1814 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 576, aula 2251 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 576, aula 1804 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 576, aula 1277 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 576, aula 3811 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 576, aula 2076 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 576, aula 1562 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 576, aula 2324 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 576, aula 1280 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 576, aula 2821 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 577, aula 1010 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 577, aula 1010 - data_conclusao inválida
+- progresso_aulas.csv: matricula 577, aula 2855 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 577, aula 3805 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 577, aula 3805 - data_conclusao inválida
+- progresso_aulas.csv: matricula 577, aula 1563 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 577, aula 1563 - data_conclusao inválida
+- progresso_aulas.csv: matricula 577, aula 3642 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 577, aula 3642 - data_conclusao inválida
+- progresso_aulas.csv: matricula 577, aula 2846 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 577, aula 183 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 577, aula 1439 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 577, aula 465 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 577, aula 465 - data_conclusao inválida
+- progresso_aulas.csv: matricula 577, aula 289 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 578, aula 849 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 578, aula 1726 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 578, aula 1726 - data_conclusao inválida
+- progresso_aulas.csv: matricula 578, aula 1288 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 578, aula 1288 - data_conclusao inválida
+- progresso_aulas.csv: matricula 578, aula 1019 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 578, aula 1683 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 578, aula 2906 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 578, aula 2653 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 578, aula 516 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 578, aula 516 - data_conclusao inválida
+- progresso_aulas.csv: matricula 578, aula 410 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 578, aula 410 - data_conclusao inválida
+- progresso_aulas.csv: matricula 578, aula 2109 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 578, aula 2373 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 578, aula 2373 - data_conclusao inválida
+- progresso_aulas.csv: matricula 579, aula 3306 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 579, aula 3306 - data_conclusao inválida
+- progresso_aulas.csv: matricula 579, aula 557 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 579, aula 557 - data_conclusao inválida
+- progresso_aulas.csv: matricula 579, aula 1224 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 579, aula 1224 - data_conclusao inválida
+- progresso_aulas.csv: matricula 579, aula 2173 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 579, aula 2173 - data_conclusao inválida
+- progresso_aulas.csv: matricula 579, aula 2378 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 579, aula 1025 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 579, aula 1025 - data_conclusao inválida
+- progresso_aulas.csv: matricula 579, aula 733 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 579, aula 193 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 579, aula 193 - data_conclusao inválida
+- progresso_aulas.csv: matricula 579, aula 1202 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 579, aula 3771 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 579, aula 3771 - data_conclusao inválida
+- progresso_aulas.csv: matricula 579, aula 1542 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 579, aula 1537 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 579, aula 1537 - data_conclusao inválida
+- progresso_aulas.csv: matricula 580, aula 1074 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 580, aula 1074 - data_conclusao inválida
+- progresso_aulas.csv: matricula 580, aula 663 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 580, aula 59 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 580, aula 3360 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 580, aula 3238 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 580, aula 3815 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 580, aula 3815 - data_conclusao inválida
+- progresso_aulas.csv: matricula 580, aula 1273 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 580, aula 1290 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 581, aula 905 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 581, aula 905 - data_conclusao inválida
+- progresso_aulas.csv: matricula 581, aula 788 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 581, aula 3201 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 581, aula 2075 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 581, aula 3299 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 581, aula 2493 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 581, aula 119 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 581, aula 119 - data_conclusao inválida
+- progresso_aulas.csv: matricula 582, aula 755 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 582, aula 3156 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 582, aula 1716 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 582, aula 1379 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 582, aula 2870 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 583, aula 2846 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 583, aula 2846 - data_conclusao inválida
+- progresso_aulas.csv: matricula 583, aula 3818 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 583, aula 3818 - data_conclusao inválida
+- progresso_aulas.csv: matricula 583, aula 2766 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 583, aula 2766 - data_conclusao inválida
+- progresso_aulas.csv: matricula 584, aula 3505 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 584, aula 3505 - data_conclusao inválida
+- progresso_aulas.csv: matricula 584, aula 765 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 584, aula 765 - data_conclusao inválida
+- progresso_aulas.csv: matricula 584, aula 486 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 584, aula 486 - data_conclusao inválida
+- progresso_aulas.csv: matricula 584, aula 717 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 584, aula 717 - data_conclusao inválida
+- progresso_aulas.csv: matricula 584, aula 624 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 584, aula 624 - data_conclusao inválida
+- progresso_aulas.csv: matricula 584, aula 1205 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 584, aula 1205 - data_conclusao inválida
+- progresso_aulas.csv: matricula 584, aula 742 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 584, aula 3122 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 584, aula 3270 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 584, aula 3270 - data_conclusao inválida
+- progresso_aulas.csv: matricula 585, aula 1644 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 585, aula 551 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 585, aula 3129 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 585, aula 1295 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 585, aula 1295 - data_conclusao inválida
+- progresso_aulas.csv: matricula 585, aula 2512 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 585, aula 276 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 585, aula 276 - data_conclusao inválida
+- progresso_aulas.csv: matricula 585, aula 1599 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 585, aula 1599 - data_conclusao inválida
+- progresso_aulas.csv: matricula 585, aula 114 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 585, aula 114 - data_conclusao inválida
+- progresso_aulas.csv: matricula 585, aula 425 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 585, aula 425 - data_conclusao inválida
+- progresso_aulas.csv: matricula 585, aula 324 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 585, aula 324 - data_conclusao inválida
+- progresso_aulas.csv: matricula 586, aula 246 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 586, aula 246 - data_conclusao inválida
+- progresso_aulas.csv: matricula 586, aula 26 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 586, aula 3115 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 586, aula 3705 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 586, aula 2199 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 586, aula 62 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 586, aula 444 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 587, aula 3615 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 587, aula 3858 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 587, aula 1468 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 587, aula 1819 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 587, aula 1819 - data_conclusao inválida
+- progresso_aulas.csv: matricula 587, aula 3813 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 587, aula 3218 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 587, aula 3676 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 587, aula 56 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 587, aula 3814 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 587, aula 3814 - data_conclusao inválida
+- progresso_aulas.csv: matricula 587, aula 3285 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 587, aula 3285 - data_conclusao inválida
+- progresso_aulas.csv: matricula 587, aula 1120 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 587, aula 1828 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 588, aula 1762 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 588, aula 1417 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 588, aula 1417 - data_conclusao inválida
+- progresso_aulas.csv: matricula 588, aula 2853 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 588, aula 2853 - data_conclusao inválida
+- progresso_aulas.csv: matricula 588, aula 2412 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 588, aula 2989 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 588, aula 1581 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 588, aula 1581 - data_conclusao inválida
+- progresso_aulas.csv: matricula 588, aula 3549 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 588, aula 3549 - data_conclusao inválida
+- progresso_aulas.csv: matricula 588, aula 3083 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 588, aula 3083 - data_conclusao inválida
+- progresso_aulas.csv: matricula 589, aula 1085 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 589, aula 3883 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 589, aula 2106 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 589, aula 2106 - data_conclusao inválida
+- progresso_aulas.csv: matricula 589, aula 717 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 589, aula 717 - data_conclusao inválida
+- progresso_aulas.csv: matricula 589, aula 1269 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 589, aula 1269 - data_conclusao inválida
+- progresso_aulas.csv: matricula 590, aula 1329 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 590, aula 3599 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 590, aula 3599 - data_conclusao inválida
+- progresso_aulas.csv: matricula 590, aula 1038 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 590, aula 1483 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 590, aula 1483 - data_conclusao inválida
+- progresso_aulas.csv: matricula 590, aula 3265 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 590, aula 3082 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 591, aula 2672 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 591, aula 1914 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 591, aula 1387 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 591, aula 1387 - data_conclusao inválida
+- progresso_aulas.csv: matricula 591, aula 3031 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 591, aula 3031 - data_conclusao inválida
+- progresso_aulas.csv: matricula 591, aula 597 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 591, aula 597 - data_conclusao inválida
+- progresso_aulas.csv: matricula 591, aula 3563 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 591, aula 807 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 591, aula 807 - data_conclusao inválida
+- progresso_aulas.csv: matricula 591, aula 3464 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 592, aula 2795 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 592, aula 3851 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 592, aula 2543 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 592, aula 3005 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 592, aula 3341 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 592, aula 348 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 592, aula 1847 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 593, aula 2807 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 593, aula 696 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 593, aula 3358 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 593, aula 3358 - data_conclusao inválida
+- progresso_aulas.csv: matricula 593, aula 299 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 593, aula 3678 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 593, aula 3678 - data_conclusao inválida
+- progresso_aulas.csv: matricula 593, aula 1945 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 593, aula 1945 - data_conclusao inválida
+- progresso_aulas.csv: matricula 593, aula 1449 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 593, aula 2926 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 593, aula 2926 - data_conclusao inválida
+- progresso_aulas.csv: matricula 593, aula 52 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 593, aula 2684 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 593, aula 2684 - data_conclusao inválida
+- progresso_aulas.csv: matricula 593, aula 2224 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 594, aula 3248 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 594, aula 941 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 594, aula 1332 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 594, aula 2946 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 594, aula 2234 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 594, aula 2061 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 594, aula 3399 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 594, aula 594 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 594, aula 1093 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 595, aula 1415 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 595, aula 1415 - data_conclusao inválida
+- progresso_aulas.csv: matricula 595, aula 706 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 595, aula 1143 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 595, aula 1041 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 596, aula 3357 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 596, aula 3357 - data_conclusao inválida
+- progresso_aulas.csv: matricula 596, aula 2192 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 596, aula 3601 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 596, aula 3601 - data_conclusao inválida
+- progresso_aulas.csv: matricula 597, aula 2469 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 597, aula 2538 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 597, aula 891 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 597, aula 891 - data_conclusao inválida
+- progresso_aulas.csv: matricula 597, aula 1845 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 598, aula 2199 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 598, aula 2199 - data_conclusao inválida
+- progresso_aulas.csv: matricula 598, aula 1870 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 598, aula 1870 - data_conclusao inválida
+- progresso_aulas.csv: matricula 598, aula 2058 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 598, aula 2100 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 598, aula 2100 - data_conclusao inválida
+- progresso_aulas.csv: matricula 599, aula 1582 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 599, aula 3293 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 599, aula 2549 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 599, aula 2327 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 599, aula 2373 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 599, aula 1744 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 599, aula 2402 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 599, aula 2162 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 599, aula 2108 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 599, aula 3181 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 599, aula 635 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 600, aula 1562 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 600, aula 2911 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 600, aula 1035 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 600, aula 717 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 600, aula 1097 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 600, aula 542 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 600, aula 3706 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 600, aula 835 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 600, aula 3407 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 600, aula 2281 - concluida deve ser true/false
+- progresso_aulas.csv: matricula 600, aula 2658 - concluida deve ser true/false

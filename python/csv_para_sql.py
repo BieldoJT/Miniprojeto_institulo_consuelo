@@ -32,10 +32,11 @@ def read_csv_to_sql(lista_tabelas):
 				valores = []
 				print(f"Insert da tabela {nome_tabela}...")
 			print(inserts_sql)
+			f.write("--cabeiaqui\n")
 
 if __name__ == "__main__":
 	lista_csv = list(["alunos","instrutores", "categorias", "cursos", "categorias_cursos",
-				    "modulos", "aulas", "matriculas", "progresso_aulas", "avaliacoes, ordem_pagamentos, certificados"])
+				    "modulos", "aulas", "matriculas", "progresso_aulas", "avaliacoes", "ordem_pagamentos", "certificados"])
 	read_csv_to_sql(lista_csv)
 
 

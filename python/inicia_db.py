@@ -5,7 +5,7 @@ import shutil
 from pathlib import Path
 import stat
 
-from utils import executar_processo
+from utils import executar_processo, run
 
 caminho_script = '../schema.sql'
 
@@ -34,6 +34,8 @@ def garantir_pgpass(host, port, db, user, password):
         novo = linha
     pgpass.write_text(novo)
     pgpass.chmod(stat.S_IRUSR | stat.S_IWUSR)
+
+#def criar_db()
 
 
 def pegar_comando_e_env():

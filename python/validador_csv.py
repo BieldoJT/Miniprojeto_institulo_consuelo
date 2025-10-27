@@ -106,12 +106,12 @@ def validar():
             erros.append(f"aulas.csv: id {a['id']} - duracao_minutos não inteiro")
 
     for m in matriculas:
-        if m["status"] not in {"pendente","ativa","concluida","cancelada"}:
+        if m["status_matricula"] not in {"pendente","ativa","concluida","cancelada"}:
             erros.append(f"matriculas.csv: id {m['id']} - status inválido")
         if not is_data(m["data_matricula"], com_tempo=True):
             erros.append(f"matriculas.csv: id {m['id']} - data_matricula inválida")
         if m["data_conclusao"] != "default":
-            if m["status"] == "concluida":
+            if m["status_matricula"] == "concluida":
                 if not is_data(m["data_conclusao"], com_tempo=True):
                     erros.append(f"matriculas.csv: id {m['id']} - data_conclusao inválida")
 
