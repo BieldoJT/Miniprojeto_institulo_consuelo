@@ -8,7 +8,6 @@ OUTDIR = "../data"
 
 
 def lista_tabelas(env):
-	print()
 	result = subprocess.run(["psql", "-d", DBNAME, "-At",
 			   "-c","SELECT tablename FROM pg_tables WHERE schemaname='public';"], env=env, text=True, capture_output=True)
 	linhas = result.stdout.split()

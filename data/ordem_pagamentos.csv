@@ -1,601 +1,601 @@
 id,matricula_id,valor_a_pagar,status_pagamento,criado_em,pago_em
-default,1,58.10,pendente,2025-09-11 06:26:12,default
-default,2,137.16,ativa,2024-11-09 08:43:27,default
-default,3,140.26,ativa,2025-02-12 19:05:18,default
-default,4,355.40,pendente,2024-06-17 06:27:59,default
-default,5,393.07,ativa,2023-10-27 07:19:36,default
-default,6,77.27,pendente,2025-05-05 22:36:22,default
-default,7,72.29,ativa,2025-06-21 03:47:51,default
-default,8,140.26,pendente,2023-12-03 13:18:54,default
-default,9,173.66,pendente,2025-03-19 22:00:35,default
-default,10,263.93,pendente,2023-11-13 21:31:30,default
-default,11,145.35,ativa,2024-09-22 12:02:17,default
-default,12,61.16,ativa,2024-10-05 15:55:07,default
-default,13,145.63,ativa,2025-04-05 19:56:11,default
-default,14,140.26,pendente,2024-11-15 16:16:04,default
-default,15,198.24,ativa,2025-07-20 17:09:05,default
-default,16,151.84,pendente,2025-07-08 11:21:10,default
-default,17,156.84,pendente,2025-03-28 03:32:27,default
-default,18,404.79,pendente,2025-03-03 15:28:49,default
-default,19,173.66,ativa,2025-10-11 08:37:20,default
-default,20,165.09,ativa,2025-03-23 06:33:37,default
-default,21,156.84,pendente,2024-10-14 21:39:50,default
-default,22,248.89,ativa,2024-12-22 01:27:35,default
-default,23,234.79,pendente,2024-03-23 17:01:16,default
-default,24,200.78,ativa,2024-11-28 00:17:40,default
-default,25,366.55,pendente,2025-04-30 00:07:52,default
-default,26,86.58,ativa,2025-08-18 11:03:47,default
-default,27,276.95,ativa,2024-09-30 04:39:28,default
-default,28,58.10,ativa,2024-03-04 22:46:47,default
-default,29,177.36,ativa,2025-02-26 07:39:45,default
-default,30,420.63,pendente,2025-06-08 09:37:40,default
-default,31,149.60,pendente,2024-10-07 15:49:20,default
-default,32,200.78,ativa,2024-07-29 11:17:47,default
-default,33,167.87,ativa,2024-05-11 08:09:29,default
-default,34,389.27,pendente,2025-03-06 11:12:09,default
-default,35,155.20,concluida,2025-09-01 14:13:19,default
-default,36,391.38,cancelada,2024-10-01 04:16:39,default
-default,37,214.09,pendente,2025-08-21 05:21:49,default
-default,38,61.16,ativa,2024-01-16 18:06:39,default
-default,39,250.01,pendente,2025-05-02 01:41:12,default
-default,40,145.63,pendente,2024-05-25 20:25:04,default
-default,41,177.36,ativa,2025-05-11 16:04:18,default
-default,42,391.38,ativa,2025-02-14 12:13:41,default
-default,43,237.10,pendente,2025-01-21 05:44:41,default
-default,44,272.25,ativa,2024-10-05 17:09:20,default
-default,45,58.10,ativa,2024-02-10 07:28:59,default
-default,46,461.22,pendente,2024-10-01 07:42:10,default
-default,47,200.78,pendente,2024-04-24 17:42:02,default
-default,48,353.64,concluida,2024-10-02 06:22:58,default
-default,49,137.16,ativa,2024-03-30 01:11:57,default
-default,50,57.00,pendente,2024-07-03 16:08:17,default
-default,51,214.09,pendente,2025-10-13 05:02:02,default
-default,52,493.84,ativa,2024-08-27 08:53:42,default
-default,53,165.09,pendente,2024-06-12 12:03:24,default
-default,54,248.89,ativa,2025-09-17 18:43:54,default
-default,55,77.27,concluida,2025-04-11 07:22:43,default
-default,56,151.84,ativa,2023-10-31 05:28:25,default
-default,57,420.63,pendente,2023-12-30 09:14:03,default
-default,58,393.07,pendente,2024-06-24 22:00:27,default
-default,59,389.27,pendente,2023-11-11 23:46:04,default
-default,60,78.50,pendente,2025-02-08 14:15:20,default
-default,61,140.26,pendente,2025-06-29 19:54:11,default
-default,62,272.25,pendente,2023-11-03 01:55:20,default
-default,63,425.70,pendente,2025-04-16 07:51:53,default
-default,64,353.64,pendente,2023-11-18 12:15:37,default
-default,65,137.16,ativa,2024-03-05 12:03:02,default
-default,66,145.35,ativa,2024-01-14 02:24:56,default
-default,67,345.71,ativa,2025-03-26 08:46:27,default
-default,68,459.27,ativa,2024-06-10 23:12:23,default
-default,69,119.31,ativa,2024-08-25 23:26:00,default
-default,70,459.27,ativa,2025-04-29 09:37:23,default
-default,71,237.10,ativa,2024-06-15 16:38:16,default
-default,72,276.95,ativa,2024-03-25 15:31:27,default
-default,73,254.07,pendente,2025-04-13 13:49:16,default
-default,74,263.93,ativa,2024-01-24 00:31:45,default
-default,75,425.06,concluida,2024-12-30 20:08:36,default
-default,76,186.86,concluida,2024-11-10 22:11:01,default
-default,77,107.93,pendente,2023-12-08 19:35:36,default
-default,78,214.09,ativa,2023-12-15 02:03:27,default
-default,79,384.97,pendente,2024-05-10 22:59:58,default
-default,80,345.71,ativa,2024-06-16 06:02:02,default
-default,81,246.20,ativa,2024-10-12 10:46:22,default
-default,82,245.95,ativa,2023-12-15 08:45:21,default
-default,83,410.49,pendente,2024-11-22 19:36:59,default
-default,84,57.00,ativa,2025-09-30 01:20:56,default
-default,85,146.71,ativa,2023-11-10 14:12:53,default
-default,86,151.84,ativa,2024-08-29 16:25:16,default
-default,87,461.22,cancelada,2024-01-17 10:08:57,default
-default,88,263.93,ativa,2025-03-01 01:10:20,default
-default,89,369.17,pendente,2024-08-14 05:55:43,default
-default,90,165.09,ativa,2024-12-30 01:09:26,default
-default,91,425.70,pendente,2024-03-20 04:53:26,default
-default,92,250.01,pendente,2024-12-22 03:17:04,default
-default,93,459.27,pendente,2024-07-27 19:03:07,default
-default,94,145.63,pendente,2025-02-19 15:33:29,default
-default,95,389.27,pendente,2025-05-15 11:22:34,default
-default,96,198.24,ativa,2025-02-05 05:55:20,default
-default,97,57.00,ativa,2024-04-27 00:11:49,default
-default,98,198.24,ativa,2024-03-16 01:23:37,default
-default,99,137.16,pendente,2024-09-30 23:27:19,default
-default,100,299.34,pendente,2025-03-02 15:07:28,default
-default,101,250.01,ativa,2025-07-04 20:01:06,default
-default,102,80.77,concluida,2024-03-19 09:52:29,default
-default,103,137.16,ativa,2024-03-15 23:12:09,default
-default,104,439.37,pendente,2024-09-24 07:50:14,default
-default,105,99.37,ativa,2024-05-12 01:21:34,default
-default,106,272.25,pendente,2025-10-17 03:39:54,default
-default,107,72.29,ativa,2025-03-16 05:03:55,default
-default,108,200.78,concluida,2025-01-09 17:57:10,default
-default,109,200.78,pendente,2024-12-03 12:01:02,default
-default,110,146.71,pendente,2023-11-03 02:21:58,default
-default,111,351.45,ativa,2025-01-01 09:32:54,default
-default,112,149.60,pendente,2025-03-25 15:04:09,default
-default,113,107.93,ativa,2024-09-20 12:22:26,default
-default,114,461.22,pendente,2024-04-13 08:58:52,default
-default,115,369.17,pendente,2024-09-21 09:01:32,default
-default,116,195.87,pendente,2023-11-13 16:09:38,default
-default,117,211.30,ativa,2025-06-14 11:29:18,default
-default,118,248.82,pendente,2024-07-14 23:25:45,default
-default,119,263.93,pendente,2023-11-14 05:41:55,default
-default,120,479.02,pendente,2025-03-17 16:08:25,default
-default,121,252.09,pendente,2025-07-14 17:53:23,default
-default,122,459.27,pendente,2025-08-30 19:46:00,default
-default,123,173.66,ativa,2025-09-03 18:59:29,default
-default,124,497.44,ativa,2024-08-08 17:51:16,default
-default,125,393.07,ativa,2025-09-22 18:56:18,default
-default,126,248.82,pendente,2023-11-22 01:33:30,default
-default,127,250.01,concluida,2024-07-08 23:35:12,default
-default,128,149.61,ativa,2025-10-15 18:53:41,default
-default,129,107.93,ativa,2024-01-09 04:42:16,default
-default,130,252.09,ativa,2024-06-22 13:17:52,default
-default,131,497.44,ativa,2025-04-24 09:17:03,default
-default,132,248.82,ativa,2024-03-20 18:42:15,default
-default,133,234.79,ativa,2025-04-20 08:30:22,default
-default,134,417.50,ativa,2024-04-25 03:57:50,default
-default,135,468.61,pendente,2024-04-22 23:32:10,default
-default,136,404.79,ativa,2025-04-24 01:27:04,default
-default,137,417.50,pendente,2024-07-26 11:49:14,default
-default,138,252.09,ativa,2025-03-28 23:30:07,default
-default,139,353.64,pendente,2025-09-21 20:10:59,default
-default,140,248.82,ativa,2024-10-19 03:26:30,default
-default,141,393.07,pendente,2024-12-23 21:34:58,default
-default,142,72.29,pendente,2023-12-22 03:49:04,default
-default,143,107.93,concluida,2023-11-15 11:52:12,default
-default,144,391.38,concluida,2024-04-23 04:40:25,default
-default,145,167.87,ativa,2025-02-26 21:55:35,default
-default,146,384.97,ativa,2025-06-11 01:20:25,default
-default,147,146.71,pendente,2025-06-17 00:36:22,default
-default,148,353.64,ativa,2025-02-02 09:21:49,default
-default,149,493.84,pendente,2024-07-16 20:13:57,default
-default,150,78.50,pendente,2024-04-26 15:50:42,default
-default,151,439.37,ativa,2024-10-10 02:44:32,default
-default,152,391.38,cancelada,2025-05-12 07:59:00,default
-default,153,137.16,pendente,2025-09-30 01:17:13,default
-default,154,404.79,pendente,2024-04-30 19:15:33,default
-default,155,186.86,pendente,2024-11-22 23:57:20,default
-default,156,345.71,pendente,2025-05-30 15:02:38,default
-default,157,137.16,cancelada,2025-03-13 09:28:41,default
-default,158,173.66,ativa,2024-05-05 12:06:09,default
-default,159,211.30,ativa,2024-05-03 10:33:38,default
-default,160,492.90,cancelada,2025-01-22 01:08:48,default
-default,161,459.27,ativa,2024-12-05 09:04:49,default
-default,162,492.90,pendente,2024-02-26 08:36:13,default
-default,163,131.09,ativa,2025-10-17 04:33:55,default
-default,164,78.50,cancelada,2024-10-04 02:35:58,default
-default,165,393.07,ativa,2023-12-02 01:06:06,default
-default,166,254.07,pendente,2024-08-03 10:22:30,default
-default,167,146.71,pendente,2024-08-14 04:18:34,default
-default,168,177.36,ativa,2024-01-15 20:05:54,default
-default,169,74.55,ativa,2025-07-26 00:09:21,default
-default,170,250.01,ativa,2025-05-10 02:19:02,default
-default,171,492.90,ativa,2024-06-09 22:52:28,default
-default,172,151.84,ativa,2025-06-09 05:48:00,default
-default,173,404.79,ativa,2024-09-06 22:45:28,default
-default,174,438.81,ativa,2023-11-07 03:48:34,default
-default,175,391.38,ativa,2025-09-13 01:09:00,default
-default,176,119.31,cancelada,2025-03-10 16:53:56,default
-default,177,151.84,ativa,2024-10-30 21:24:37,default
-default,178,459.27,ativa,2024-10-09 19:08:28,default
-default,179,155.20,ativa,2025-06-28 12:42:10,default
-default,180,131.09,ativa,2025-03-22 23:10:57,default
-default,181,384.97,ativa,2024-12-17 23:51:14,default
-default,182,355.40,ativa,2024-02-02 05:29:11,default
-default,183,146.94,ativa,2024-07-12 11:18:06,default
-default,184,214.09,ativa,2024-11-02 16:29:09,default
-default,185,211.30,concluida,2024-08-11 05:20:56,default
-default,186,151.84,pendente,2025-05-22 08:18:36,default
-default,187,214.09,pendente,2025-05-19 23:21:23,default
-default,188,272.25,ativa,2024-10-08 12:22:02,default
-default,189,234.79,ativa,2025-01-24 19:18:23,default
-default,190,77.27,pendente,2025-06-05 10:23:04,default
-default,191,237.10,ativa,2025-07-05 16:21:43,default
-default,192,272.25,ativa,2024-08-21 11:12:17,default
-default,193,237.10,ativa,2024-06-23 13:35:11,default
-default,194,492.90,ativa,2024-06-06 18:37:26,default
-default,195,58.10,pendente,2024-09-23 18:28:44,default
-default,196,461.22,ativa,2025-06-19 17:36:02,default
-default,197,145.63,concluida,2025-09-03 10:48:24,default
-default,198,299.34,pendente,2024-06-22 12:43:29,default
-default,199,438.81,pendente,2025-02-15 00:46:38,default
-default,200,254.07,pendente,2025-02-13 13:01:40,default
-default,201,393.07,cancelada,2023-12-14 07:38:19,default
-default,202,58.10,ativa,2024-02-09 16:40:01,default
-default,203,73.05,pendente,2025-06-25 18:26:49,default
-default,204,439.37,ativa,2025-05-30 07:44:33,default
-default,205,250.01,ativa,2025-09-04 09:24:56,default
-default,206,73.05,ativa,2025-03-13 11:01:26,default
-default,207,151.84,concluida,2024-08-14 23:49:16,default
-default,208,345.71,ativa,2024-10-19 13:02:56,default
-default,209,393.07,pendente,2024-12-03 21:31:56,default
-default,210,61.16,pendente,2023-12-20 11:33:12,default
-default,211,146.71,pendente,2024-02-13 19:35:42,default
-default,212,107.93,pendente,2024-10-19 11:05:34,default
-default,213,140.26,ativa,2023-11-27 03:10:28,default
-default,214,245.95,concluida,2024-10-21 01:49:20,default
-default,215,145.63,ativa,2023-12-31 13:13:01,default
-default,216,250.01,pendente,2025-07-10 18:30:47,default
-default,217,167.87,pendente,2024-03-04 23:26:22,default
-default,218,211.30,cancelada,2025-08-11 03:21:48,default
-default,219,300.98,pendente,2025-04-03 03:50:15,default
-default,220,439.37,ativa,2024-08-24 03:13:15,default
-default,221,369.17,ativa,2024-10-17 06:56:06,default
-default,222,299.34,pendente,2025-08-18 05:41:05,default
-default,223,461.22,pendente,2025-05-09 01:26:57,default
-default,224,72.29,ativa,2025-09-10 02:39:00,default
-default,225,272.25,ativa,2024-06-07 03:52:38,default
-default,226,263.93,concluida,2024-05-23 09:16:38,default
-default,227,493.84,ativa,2024-02-13 13:22:44,default
-default,228,77.27,ativa,2024-03-20 15:20:01,default
-default,229,151.84,ativa,2024-07-17 04:55:13,default
-default,230,248.82,ativa,2025-03-15 12:28:25,default
-default,231,459.27,ativa,2025-03-11 21:36:11,default
-default,232,167.87,pendente,2024-01-11 17:52:13,default
-default,233,57.00,ativa,2025-01-23 21:23:17,default
-default,234,479.02,pendente,2024-04-27 19:02:01,default
-default,235,391.38,pendente,2024-10-14 11:26:49,default
-default,236,131.09,ativa,2025-06-12 08:23:47,default
-default,237,420.63,pendente,2024-01-25 22:53:05,default
-default,238,173.66,pendente,2025-02-06 22:41:40,default
-default,239,145.35,pendente,2023-11-22 09:21:22,default
-default,240,391.38,cancelada,2024-04-10 15:45:28,default
-default,241,345.71,ativa,2025-04-01 02:05:10,default
-default,242,149.60,ativa,2024-07-27 14:49:37,default
-default,243,78.50,pendente,2024-06-23 19:51:09,default
-default,244,254.07,pendente,2025-04-29 16:23:15,default
-default,245,195.87,ativa,2025-10-05 11:58:16,default
-default,246,272.25,ativa,2023-11-23 01:08:01,default
-default,247,254.04,ativa,2024-08-16 14:20:04,default
-default,248,211.30,pendente,2024-05-05 18:15:54,default
-default,249,391.38,pendente,2025-07-16 09:30:21,default
-default,250,140.26,ativa,2024-01-06 21:40:16,default
-default,251,345.71,ativa,2025-06-02 00:25:17,default
-default,252,145.35,pendente,2024-04-19 10:56:36,default
-default,253,57.00,pendente,2024-06-22 02:46:15,default
-default,254,177.36,ativa,2024-11-21 05:49:38,default
-default,255,155.20,pendente,2023-11-18 13:31:33,default
-default,256,461.22,ativa,2025-09-11 19:31:13,default
-default,257,151.84,pendente,2024-08-27 18:05:59,default
-default,258,389.27,pendente,2025-03-08 07:42:44,default
-default,259,195.87,ativa,2025-03-09 09:15:20,default
-default,260,107.93,ativa,2025-05-06 19:15:14,default
-default,261,410.49,pendente,2025-08-09 00:50:49,default
-default,262,425.06,ativa,2025-09-12 01:15:16,default
-default,263,119.31,ativa,2024-11-18 01:25:57,default
-default,264,149.60,ativa,2023-12-13 12:17:03,default
-default,265,369.17,ativa,2025-07-12 13:23:37,default
-default,266,131.09,pendente,2023-10-29 20:29:00,default
-default,267,78.50,pendente,2024-12-03 17:53:00,default
-default,268,186.86,ativa,2025-07-03 02:13:30,default
-default,269,78.50,ativa,2025-07-26 11:30:06,default
-default,270,165.09,ativa,2024-10-30 11:38:16,default
-default,271,248.89,pendente,2024-02-18 00:05:09,default
-default,272,165.09,pendente,2024-08-24 03:15:47,default
-default,273,351.45,pendente,2024-04-29 03:44:27,default
-default,274,468.61,ativa,2024-08-21 04:04:42,default
-default,275,250.01,ativa,2025-02-28 10:05:40,default
-default,276,245.95,pendente,2024-04-03 06:00:31,default
-default,277,420.63,ativa,2024-11-03 10:07:31,default
-default,278,72.29,ativa,2024-07-12 18:00:57,default
-default,279,393.07,ativa,2025-03-25 15:05:12,default
-default,280,404.79,concluida,2023-11-14 18:03:16,default
-default,281,438.81,pendente,2024-10-11 21:17:41,default
-default,282,254.04,ativa,2024-06-25 01:38:22,default
-default,283,245.95,ativa,2025-06-04 20:23:16,default
-default,284,470.33,pendente,2024-08-26 17:48:46,default
-default,285,119.31,ativa,2023-11-11 12:21:32,default
-default,286,263.93,ativa,2024-01-05 22:46:58,default
-default,287,420.63,ativa,2024-01-08 22:05:40,default
-default,288,58.10,ativa,2025-05-15 22:52:05,default
-default,289,285.14,pendente,2024-04-07 13:52:06,default
-default,290,177.36,ativa,2023-10-31 14:59:15,default
-default,291,345.71,pendente,2025-07-24 04:16:35,default
-default,292,384.97,ativa,2024-09-11 00:43:30,default
-default,293,254.07,ativa,2024-04-02 01:14:00,default
-default,294,86.58,pendente,2024-12-09 23:29:59,default
-default,295,149.61,ativa,2024-01-03 07:49:06,default
-default,296,145.35,pendente,2025-08-08 10:03:29,default
-default,297,389.27,ativa,2025-02-23 12:59:20,default
-default,298,186.86,ativa,2025-03-24 01:31:25,default
-default,299,439.37,pendente,2024-04-10 15:55:09,default
-default,300,145.63,ativa,2025-01-24 20:10:03,default
-default,301,167.87,ativa,2024-03-28 05:38:56,default
-default,302,250.01,ativa,2024-12-14 22:57:18,default
-default,303,272.25,pendente,2024-06-01 16:10:06,default
-default,304,410.49,ativa,2025-06-16 19:43:06,default
-default,305,211.30,ativa,2024-05-30 17:47:44,default
-default,306,86.58,pendente,2024-03-05 21:54:06,default
-default,307,355.40,pendente,2025-08-07 00:28:25,default
-default,308,384.97,concluida,2023-11-28 23:26:40,default
-default,309,58.10,ativa,2024-05-16 01:06:01,default
-default,310,276.95,pendente,2025-06-14 10:55:13,default
-default,311,167.87,pendente,2023-10-28 09:09:02,default
-default,312,149.60,ativa,2024-03-25 00:24:24,default
-default,313,177.36,ativa,2024-04-14 20:05:24,default
-default,314,74.55,pendente,2025-05-06 12:30:04,default
-default,315,252.09,ativa,2024-10-19 10:23:53,default
-default,316,285.14,pendente,2025-02-04 06:01:58,default
-default,317,57.00,ativa,2025-06-22 02:33:24,default
-default,318,195.87,ativa,2024-09-11 08:22:17,default
-default,319,263.93,pendente,2024-10-16 04:36:18,default
-default,320,425.06,ativa,2023-11-28 08:13:11,default
-default,321,167.87,pendente,2024-01-29 23:49:17,default
-default,322,417.50,pendente,2025-10-18 17:38:11,default
-default,323,77.27,ativa,2024-03-22 08:43:35,default
-default,324,355.40,concluida,2023-12-11 19:51:34,default
-default,325,234.79,ativa,2024-07-07 19:17:27,default
-default,326,272.25,pendente,2024-08-09 16:00:04,default
-default,327,74.55,ativa,2024-11-10 01:15:34,default
-default,328,80.77,pendente,2025-01-14 06:42:47,default
-default,329,300.98,ativa,2025-05-29 23:57:15,default
-default,330,56.16,ativa,2024-02-19 09:25:05,default
-default,331,299.34,pendente,2024-06-29 15:29:36,default
-default,332,438.81,pendente,2025-01-23 14:05:10,default
-default,333,78.50,ativa,2025-08-17 13:17:28,default
-default,334,276.95,ativa,2024-08-23 04:09:26,default
-default,335,254.07,ativa,2025-09-01 19:53:53,default
-default,336,248.82,pendente,2025-05-11 16:01:58,default
-default,337,86.58,ativa,2024-06-27 03:46:00,default
-default,338,299.34,pendente,2024-10-28 02:29:57,default
-default,339,417.50,ativa,2024-02-23 16:02:04,default
-default,340,146.94,pendente,2025-05-31 11:28:37,default
-default,341,140.26,ativa,2025-05-25 06:33:52,default
-default,342,74.55,pendente,2025-07-02 08:28:04,default
-default,343,276.95,ativa,2025-06-20 00:10:11,default
-default,344,211.30,ativa,2025-09-19 15:18:14,default
-default,345,155.20,pendente,2025-05-09 01:23:03,default
-default,346,479.02,ativa,2025-04-14 02:15:42,default
-default,347,245.95,pendente,2025-10-10 12:16:13,default
-default,348,351.45,pendente,2024-01-01 06:39:41,default
-default,349,410.49,ativa,2024-04-19 07:45:33,default
-default,350,80.77,pendente,2025-04-29 06:33:31,default
-default,351,492.90,ativa,2024-02-25 17:20:30,default
-default,352,195.87,ativa,2023-12-21 07:20:06,default
-default,353,250.01,pendente,2025-07-12 20:00:00,default
-default,354,145.35,ativa,2024-06-05 00:33:03,default
-default,355,263.93,ativa,2024-05-29 02:06:06,default
-default,356,189.58,pendente,2025-03-24 15:08:56,default
-default,357,80.77,ativa,2025-04-09 06:10:01,default
-default,358,355.40,pendente,2024-08-29 23:47:06,default
-default,359,214.09,ativa,2024-10-08 15:06:38,default
-default,360,131.09,pendente,2024-12-16 08:09:52,default
-default,361,189.58,pendente,2025-09-23 22:41:54,default
-default,362,425.70,concluida,2024-02-20 11:42:18,default
-default,363,299.34,pendente,2025-02-21 03:01:48,default
-default,364,146.94,pendente,2024-01-06 08:56:37,default
-default,365,438.81,ativa,2025-06-17 00:05:52,default
-default,366,493.84,ativa,2024-12-05 04:25:49,default
-default,367,211.30,concluida,2023-10-30 18:39:51,default
-default,368,272.25,pendente,2024-01-23 13:47:21,default
-default,369,479.02,ativa,2025-07-23 19:52:05,default
-default,370,497.44,pendente,2025-05-23 22:15:03,default
-default,371,425.06,ativa,2024-03-20 09:20:27,default
-default,372,285.14,ativa,2024-01-16 00:16:17,default
-default,373,198.24,ativa,2024-12-26 16:12:24,default
-default,374,137.16,ativa,2025-02-02 21:22:47,default
-default,375,461.22,ativa,2024-01-12 02:10:12,default
-default,376,200.78,pendente,2025-06-23 19:21:55,default
-default,377,254.07,ativa,2025-07-23 20:26:47,default
-default,378,479.02,ativa,2024-09-21 19:35:54,default
-default,379,248.89,pendente,2025-08-12 05:33:01,default
-default,380,479.02,ativa,2023-11-23 07:58:31,default
-default,381,276.95,ativa,2025-05-15 16:43:02,default
-default,382,470.33,cancelada,2024-01-19 01:10:34,default
-default,383,369.17,ativa,2024-06-18 00:54:31,default
-default,384,77.27,ativa,2024-05-10 13:59:52,default
-default,385,391.38,ativa,2025-09-26 03:45:01,default
-default,386,149.60,pendente,2025-03-19 09:58:43,default
-default,387,389.27,ativa,2024-11-25 18:13:08,default
-default,388,345.71,ativa,2025-01-19 05:43:49,default
-default,389,369.17,ativa,2023-11-01 03:11:04,default
-default,390,351.45,concluida,2024-08-06 04:35:55,default
-default,391,353.64,ativa,2025-05-02 16:03:33,default
-default,392,272.25,ativa,2025-07-13 02:00:50,default
-default,393,459.27,pendente,2025-03-30 05:30:08,default
-default,394,438.81,pendente,2024-02-24 13:22:21,default
-default,395,391.38,pendente,2024-09-29 07:37:59,default
-default,396,149.61,ativa,2024-01-18 20:55:26,default
-default,397,151.84,ativa,2025-02-09 01:53:47,default
-default,398,410.49,ativa,2024-09-14 22:10:25,default
-default,399,438.81,concluida,2025-04-19 10:14:19,default
-default,400,149.61,ativa,2024-10-11 17:58:59,default
-default,401,74.55,pendente,2023-11-22 22:52:01,default
-default,402,470.33,ativa,2024-12-01 14:47:36,default
-default,403,195.87,ativa,2024-02-18 15:32:19,default
-default,404,417.50,ativa,2025-01-15 01:07:50,default
-default,405,252.09,pendente,2024-01-04 07:54:30,default
-default,406,74.55,ativa,2024-12-03 16:02:58,default
-default,407,351.45,pendente,2025-09-09 13:16:21,default
-default,408,276.95,pendente,2025-05-04 01:21:59,default
-default,409,145.63,concluida,2024-03-15 22:29:22,default
-default,410,214.09,ativa,2024-07-11 12:54:37,default
-default,411,56.16,pendente,2024-04-28 04:03:27,default
-default,412,186.86,pendente,2024-07-02 19:48:02,default
-default,413,146.71,pendente,2024-12-06 10:40:22,default
-default,414,74.55,ativa,2024-06-08 00:58:11,default
-default,415,285.14,pendente,2024-06-07 23:55:20,default
-default,416,149.61,pendente,2024-02-02 19:31:23,default
-default,417,140.26,pendente,2025-06-06 19:26:09,default
-default,418,198.24,pendente,2025-05-05 20:03:33,default
-default,419,234.79,cancelada,2025-10-21 21:21:09,default
-default,420,80.77,pendente,2025-09-07 12:11:06,default
-default,421,146.94,ativa,2024-10-03 13:26:12,default
-default,422,468.61,ativa,2024-07-12 18:53:54,default
-default,423,468.61,ativa,2024-08-29 00:04:29,default
-default,424,425.70,ativa,2024-05-04 14:30:24,default
-default,425,146.71,ativa,2024-12-01 05:41:20,default
-default,426,72.29,pendente,2023-10-29 20:14:57,default
-default,427,479.02,ativa,2023-11-15 20:25:24,default
-default,428,420.63,ativa,2025-03-23 22:47:09,default
-default,429,165.09,pendente,2025-04-17 05:30:33,default
-default,430,497.44,ativa,2024-05-04 04:33:08,default
-default,431,285.14,ativa,2023-12-25 17:39:25,default
-default,432,198.24,ativa,2024-10-19 09:13:31,default
-default,433,237.10,ativa,2024-09-12 16:25:14,default
-default,434,459.27,ativa,2023-11-24 12:04:51,default
-default,435,145.35,ativa,2025-05-29 06:28:51,default
-default,436,145.63,ativa,2025-10-10 06:29:05,default
-default,437,300.98,ativa,2023-12-19 03:56:05,default
-default,438,404.79,pendente,2024-04-11 20:12:11,default
-default,439,149.60,ativa,2024-09-15 04:58:46,default
-default,440,61.16,pendente,2024-08-01 13:20:21,default
-default,441,137.16,pendente,2024-08-20 16:12:10,default
-default,442,173.66,ativa,2024-02-26 13:13:03,default
-default,443,425.70,ativa,2024-08-09 19:17:18,default
-default,444,80.77,ativa,2025-03-16 19:04:12,default
-default,445,252.09,ativa,2025-01-27 14:34:14,default
-default,446,146.71,ativa,2025-03-09 00:40:56,default
-default,447,272.25,pendente,2024-09-19 19:34:31,default
-default,448,351.45,pendente,2025-03-30 17:02:12,default
-default,449,200.78,pendente,2025-01-05 23:09:02,default
-default,450,156.84,pendente,2024-06-25 12:08:50,default
-default,451,459.27,pendente,2024-12-08 20:44:06,default
-default,452,285.14,ativa,2025-06-03 22:48:00,default
-default,453,366.55,pendente,2025-10-05 16:48:02,default
-default,454,459.27,pendente,2023-12-01 22:54:34,default
-default,455,468.61,pendente,2025-10-25 05:29:06,default
-default,456,167.87,pendente,2025-10-09 02:36:37,default
-default,457,73.05,ativa,2024-05-07 04:56:41,default
-default,458,211.30,pendente,2025-07-16 12:10:25,default
-default,459,107.93,ativa,2024-11-01 03:23:42,default
-default,460,353.64,ativa,2024-10-18 06:33:40,default
-default,461,248.82,ativa,2023-10-30 11:06:46,default
-default,462,80.77,pendente,2025-01-23 04:21:23,default
-default,463,248.89,ativa,2025-03-15 18:06:25,default
-default,464,393.07,ativa,2024-03-14 07:34:54,default
-default,465,439.37,concluida,2024-10-05 00:00:29,default
-default,466,155.20,ativa,2024-07-23 04:04:47,default
-default,467,366.55,ativa,2024-09-21 01:48:49,default
-default,468,177.36,ativa,2025-04-14 21:46:02,default
-default,469,146.94,ativa,2025-06-23 07:28:55,default
-default,470,195.87,ativa,2025-07-06 22:57:37,default
-default,471,355.40,pendente,2023-11-29 17:47:39,default
-default,472,156.84,ativa,2024-04-03 17:20:36,default
-default,473,186.86,ativa,2024-12-29 22:41:46,default
-default,474,195.87,pendente,2024-02-27 18:46:11,default
-default,475,214.09,ativa,2024-08-12 10:26:19,default
-default,476,57.00,ativa,2024-11-02 12:57:01,default
-default,477,149.60,pendente,2025-07-30 13:24:32,default
-default,478,299.34,pendente,2024-03-06 20:19:30,default
-default,479,300.98,ativa,2024-10-28 14:12:28,default
-default,480,438.81,cancelada,2024-09-13 19:41:26,default
-default,481,173.66,pendente,2024-03-28 07:23:46,default
-default,482,468.61,ativa,2025-06-06 16:00:00,default
-default,483,492.90,ativa,2025-04-05 12:18:09,default
-default,484,470.33,ativa,2024-01-22 06:28:25,default
-default,485,299.34,ativa,2025-07-20 18:13:02,default
-default,486,58.10,cancelada,2023-11-25 10:14:44,default
-default,487,355.40,pendente,2024-08-22 08:19:36,default
-default,488,389.27,ativa,2024-08-21 20:02:39,default
-default,489,393.07,concluida,2024-03-11 04:36:54,default
-default,490,470.33,pendente,2024-12-30 21:18:52,default
-default,491,493.84,pendente,2023-12-10 23:02:49,default
-default,492,285.14,pendente,2025-09-01 20:10:53,default
-default,493,366.55,ativa,2024-02-26 19:43:03,default
-default,494,366.55,ativa,2025-08-25 18:50:32,default
-default,495,61.16,ativa,2023-11-08 15:47:51,default
-default,496,351.45,ativa,2025-06-09 15:07:29,default
-default,497,248.82,ativa,2024-01-22 11:56:40,default
-default,498,156.84,ativa,2023-11-22 15:57:23,default
-default,499,149.60,pendente,2024-02-16 18:51:25,default
-default,500,479.02,ativa,2025-07-12 06:00:55,default
-default,501,263.93,pendente,2024-09-21 21:14:15,default
-default,502,493.84,ativa,2024-06-18 16:33:46,default
-default,503,131.09,pendente,2024-02-07 07:16:32,default
-default,504,299.34,pendente,2025-05-30 00:06:02,default
-default,505,145.63,pendente,2025-05-05 04:38:24,default
-default,506,300.98,ativa,2024-06-22 12:42:14,default
-default,507,497.44,pendente,2024-06-09 09:53:22,default
-default,508,165.09,concluida,2023-11-12 19:21:21,default
-default,509,195.87,ativa,2024-07-15 18:53:24,default
-default,510,468.61,pendente,2024-12-20 22:01:22,default
-default,511,167.87,ativa,2024-10-28 18:11:31,default
-default,512,146.71,ativa,2025-10-17 17:29:59,default
-default,513,479.02,ativa,2024-11-03 04:08:49,default
-default,514,173.66,pendente,2023-12-25 17:45:05,default
-default,515,246.20,ativa,2024-07-13 18:09:54,default
-default,516,272.25,ativa,2025-08-17 23:46:30,default
-default,517,391.38,ativa,2023-12-22 16:41:47,default
-default,518,119.31,ativa,2025-02-03 18:33:06,default
-default,519,369.17,ativa,2024-03-07 00:46:56,default
-default,520,389.27,pendente,2025-05-17 14:49:40,default
-default,521,351.45,concluida,2023-12-01 05:55:05,default
-default,522,145.63,ativa,2025-07-11 16:55:43,default
-default,523,186.86,ativa,2025-08-24 00:59:06,default
-default,524,254.04,ativa,2024-07-31 09:38:06,default
-default,525,173.66,ativa,2024-12-02 19:20:38,default
-default,526,57.00,ativa,2024-01-13 02:22:23,default
-default,527,353.64,pendente,2024-06-11 07:20:04,default
-default,528,237.10,pendente,2025-05-14 07:27:36,default
-default,529,250.01,ativa,2024-03-09 22:22:52,default
-default,530,479.02,ativa,2025-09-22 18:08:46,default
-default,531,470.33,ativa,2024-04-15 20:38:37,default
-default,532,351.45,pendente,2025-04-15 15:42:35,default
-default,533,58.10,ativa,2024-10-31 10:17:04,default
-default,534,57.00,concluida,2025-08-19 07:17:05,default
-default,535,254.04,ativa,2024-03-23 20:25:07,default
-default,536,248.82,ativa,2025-07-15 18:58:13,default
-default,537,200.78,ativa,2024-04-21 11:12:55,default
-default,538,353.64,pendente,2024-09-22 10:13:58,default
-default,539,195.87,pendente,2025-08-11 03:48:22,default
-default,540,146.94,pendente,2024-06-01 11:53:44,default
-default,541,155.20,ativa,2023-11-12 19:13:37,default
-default,542,389.27,cancelada,2025-09-23 10:57:21,default
-default,543,366.55,pendente,2025-08-27 18:11:33,default
-default,544,420.63,concluida,2025-02-27 05:17:38,default
-default,545,146.94,ativa,2023-11-07 21:58:35,default
-default,546,189.58,ativa,2024-02-22 00:57:57,default
-default,547,86.58,ativa,2025-06-16 13:24:53,default
-default,548,351.45,ativa,2024-05-25 15:03:46,default
-default,549,86.58,ativa,2024-12-20 14:58:17,default
-default,550,389.27,pendente,2025-04-09 03:48:53,default
-default,551,461.22,ativa,2024-04-09 05:42:30,default
-default,552,99.37,pendente,2024-08-12 07:43:24,default
-default,553,263.93,ativa,2025-06-28 00:50:55,default
-default,554,410.49,ativa,2025-04-11 10:46:15,default
-default,555,145.63,pendente,2025-03-03 19:54:52,default
-default,556,248.89,ativa,2024-04-25 02:34:54,default
-default,557,393.07,ativa,2025-08-29 20:28:28,default
-default,558,254.07,ativa,2025-01-10 21:40:19,default
-default,559,72.29,ativa,2025-06-16 01:11:44,default
-default,560,254.04,ativa,2025-08-09 14:09:15,default
-default,561,351.45,ativa,2023-11-04 10:16:02,default
-default,562,263.93,ativa,2023-10-27 12:14:32,default
-default,563,72.29,ativa,2023-12-27 14:22:21,default
-default,564,74.55,ativa,2023-11-12 03:33:05,default
-default,565,369.17,ativa,2024-09-01 00:37:20,default
-default,566,479.02,ativa,2025-06-08 04:17:42,default
-default,567,479.02,pendente,2025-06-23 09:42:20,default
-default,568,56.16,ativa,2025-02-28 07:14:01,default
-default,569,80.77,pendente,2025-10-05 05:05:57,default
-default,570,497.44,ativa,2024-09-28 12:19:34,default
-default,571,146.71,ativa,2024-02-10 09:17:06,default
-default,572,165.09,cancelada,2024-07-29 21:38:48,default
-default,573,254.07,pendente,2023-12-21 07:34:06,default
-default,574,56.16,pendente,2024-04-20 10:36:02,default
-default,575,131.09,pendente,2024-02-29 15:22:47,default
-default,576,438.81,ativa,2025-08-29 19:17:15,default
-default,577,234.79,ativa,2024-07-09 07:49:57,default
-default,578,425.70,ativa,2025-02-02 17:20:44,default
-default,579,145.63,ativa,2025-06-13 22:42:39,default
-default,580,425.06,ativa,2025-02-13 03:30:03,default
-default,581,272.25,ativa,2025-09-17 00:51:08,default
-default,582,353.64,ativa,2023-12-28 01:07:38,default
-default,583,470.33,ativa,2023-12-20 11:34:37,default
-default,584,263.93,ativa,2024-07-10 22:38:06,default
-default,585,56.16,pendente,2024-10-24 05:46:48,default
-default,586,384.97,ativa,2024-09-03 21:07:51,default
-default,587,146.71,ativa,2024-02-10 03:11:10,default
-default,588,263.93,cancelada,2025-04-25 13:52:12,default
-default,589,351.45,pendente,2025-06-18 14:59:01,default
-default,590,156.84,ativa,2023-12-25 21:27:31,default
-default,591,254.07,ativa,2023-11-26 04:48:53,default
-default,592,73.05,ativa,2025-08-25 13:49:55,default
-default,593,410.49,pendente,2024-04-21 21:38:06,default
-default,594,145.35,pendente,2025-08-08 04:48:24,default
-default,595,254.04,ativa,2025-02-26 15:50:05,default
-default,596,189.58,ativa,2025-08-13 23:53:36,default
-default,597,78.50,ativa,2025-10-01 11:22:29,default
-default,598,366.55,ativa,2024-09-03 23:31:33,default
-default,599,156.84,ativa,2025-09-25 17:25:37,default
-default,600,149.60,ativa,2024-02-29 22:20:03,default
+2ceb3f77-2f3e-430f-9cfb-c159100582bc,1,58.10,pendente,2025-10-26 23:47:56.848533,
+d67f063f-20b7-433e-9e07-47f897107901,2,137.16,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+88e8b94b-64d4-4e3d-a3f5-6651fefd9036,3,140.26,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+e88cea1c-a626-4e7e-a16a-3a3d15bf6f4e,4,355.40,pendente,2025-10-26 23:47:56.848533,
+8f84912d-5fb7-44f0-be45-2947499acdeb,5,393.07,pendente,2025-10-26 23:47:56.848533,
+6b83fb7c-bdc0-4e61-a54f-9ad584034174,6,77.27,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+8084db56-8141-4af1-907b-2aaf61d9b062,7,72.29,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+c6dafa3e-632d-4b77-b2a4-ffe647298590,8,140.26,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+72e1ad22-0653-454a-b527-33964f20e35b,9,173.66,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+584afbc8-c102-4c69-b43f-2c8527dcb724,10,263.93,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+d378cbeb-c57d-4dc9-92ac-45d0b7e3a518,11,145.35,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+878cb3a5-f79e-465a-99ea-4399b67ee729,12,61.16,cancelado,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+89e42c6c-6257-4816-83ee-43789a1cc1cc,13,145.63,pendente,2025-10-26 23:47:56.848533,
+11cca3f2-9a4d-4c1c-a005-2cc6d3e8917c,14,140.26,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+a02d0517-588f-4e67-989d-ed045669d9fd,15,198.24,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+12657695-57d0-4fa6-a557-37d5b2d3c36a,16,151.84,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+5e8aedbe-14b1-400b-b846-57e3748bd7d4,17,156.84,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+69e63632-dc80-4fec-ba0b-2baebf6584d4,18,404.79,pendente,2025-10-26 23:47:56.848533,
+52f80f3d-4946-42c3-8db1-4a201c2f5e10,19,173.66,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+07f17458-892f-49d8-9fe9-f4535f51d6e4,20,165.09,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+925c439f-d97b-4a41-b57b-eceaa66f1320,21,156.84,pendente,2025-10-26 23:47:56.848533,
+4a48c62e-1920-4833-82b2-af2cfda02fc1,22,248.89,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+cb437fd1-5221-4196-80b2-ee39320da83c,23,234.79,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+dcefa39d-be2a-47ff-b8b7-4f4940b98b42,24,200.78,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+38839f3e-2d7b-426d-bfc0-d54b38547eaf,25,366.55,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+f47f4b05-43b8-4df9-ba57-7e5afb4ab56e,26,86.58,pendente,2025-10-26 23:47:56.848533,
+8504f571-25c4-45e9-a029-68b4fe673255,27,276.95,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+e4e8de73-e338-4c9e-b426-399940bfaf70,28,58.10,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+fd2f625a-b3b1-4b8e-9a46-a278ccbe1584,29,177.36,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+e16c159a-f5cc-4f46-87e9-947c0576cd23,30,420.63,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+749c8f96-9fee-4a10-82e7-46f618fb6e6a,31,149.60,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+54204c1c-4530-4b73-8880-d6e0b9ab5836,32,200.78,pendente,2025-10-26 23:47:56.848533,
+450b4cb4-db68-4655-9881-3c927b36c015,33,167.87,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+53db4c24-50d0-4924-8bd7-7009a68370cf,34,389.27,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+de8f8340-8982-4999-92f5-9808deaf8efa,35,155.20,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+8a634399-041b-44b3-8e31-9c81d023b248,36,391.38,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+fc12b10c-6393-47f7-929f-c1efa58e974e,37,214.09,pendente,2025-10-26 23:47:56.848533,
+66f53aec-9c74-4e05-9d1a-552df8aae5b4,38,61.16,cancelado,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+2bd21995-061e-4aa9-8c47-0991d6483fff,39,250.01,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+89de0e6c-9e18-480c-ad45-070427ba537e,40,145.63,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+973b9610-50cc-46fe-ad9c-b34c82425746,41,177.36,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+a15afb59-db40-4644-b80f-f410ab769cc7,42,391.38,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+06409935-e397-483a-a429-12d19178e9a2,43,237.10,pendente,2025-10-26 23:47:56.848533,
+8dd4b73a-4490-4860-b097-a6f966054ab5,44,272.25,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+bc20ef2d-4b97-4c33-a284-dbe02aea3900,45,58.10,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+55f8c198-8bfa-4a93-964c-fed9b35639e9,46,461.22,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+56a90a5f-7721-417a-a0e7-16fa33a5bee2,47,200.78,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+5aab427a-242d-4929-a708-3d3d65bec3cb,48,353.64,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+d239b64f-4a2f-4d62-b670-d9c666155f46,49,137.16,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+a9f7f4e2-b46a-493f-8850-d6c9cb531a8c,50,57.00,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+b4e21d56-6c2b-4f44-ac6b-74aa4fa84048,51,214.09,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+99016ff2-3eee-4b75-a344-521f85961bc1,52,493.84,cancelado,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+a2ce200c-b97c-48e9-a519-66d32c391600,53,165.09,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+b440e504-cc97-41b1-9072-8760e0534154,54,248.89,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+ff8c61e6-9f57-4d68-b4d6-686289bca420,55,77.27,cancelado,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+72fa2eb7-8afe-4e79-82a7-ab1b1695269b,56,151.84,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+3263bbfa-e47f-4459-86a6-8d6896ce7740,57,420.63,cancelado,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+871277bc-e591-4b13-8eb5-68bc0c9cc6e1,58,393.07,cancelado,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+7b2236e6-af0b-476a-8d36-86231d7926a2,59,389.27,pendente,2025-10-26 23:47:56.848533,
+7ec48db5-705c-4ac5-9180-91abdd0a9254,60,78.50,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+32d344b6-5693-4d45-af9f-10a7e4bd4de0,61,140.26,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+f46955cf-bb3b-4cc2-a630-85eb69d13e94,62,272.25,cancelado,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+f4d26a5e-b6ba-48f1-8e3c-dc00c6489d77,63,425.70,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+632176a8-963f-4fb5-970a-9c4392c31587,64,353.64,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+3d983084-1d2b-459b-8137-daee33ffff51,65,137.16,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+abbcd014-e956-42e6-85b1-841a284cdf03,66,145.35,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+edfacdfc-2394-453f-a0a3-211bde3c9226,67,345.71,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+9138c708-a071-477c-ad36-a05714b3a593,68,459.27,pendente,2025-10-26 23:47:56.848533,
+590958a9-81cf-4f28-a825-954c12f11c27,69,119.31,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+1014edc7-3768-4c5a-a8f8-aa13347bbd9c,70,459.27,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+82db74cd-9a2a-4be4-a88c-62d9dad8e981,71,237.10,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+06bdfbc4-54f0-404c-88dd-8584d02a96b8,72,276.95,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+97f8d3e4-610d-414b-bd24-b77ec7b1b694,73,254.07,cancelado,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+18e7f812-9827-4303-b29d-6907388f0210,74,263.93,pendente,2025-10-26 23:47:56.848533,
+b621cea5-67db-41aa-b21d-eeaeb9fff192,75,425.06,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+6b85021c-6ce0-47d5-9b30-5ccdfdee9231,76,186.86,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+d41b4e20-3462-4318-a8a9-738992d68db8,77,107.93,pendente,2025-10-26 23:47:56.848533,
+2b55b439-3ee1-44cb-88f2-8e9205a92f3c,78,214.09,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+82f873d7-8781-4121-9e65-baf666381aa9,79,384.97,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+eec6c6ea-224c-4562-bb90-1e5e6c086d89,80,345.71,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+bd6294d1-b95c-4713-a59a-7bc016cbc913,81,246.20,cancelado,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+83d9943b-b775-41e3-9474-ab00afebb7d7,82,245.95,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+cc332799-08ee-44a5-bba5-62021ec12eb6,83,410.49,pendente,2025-10-26 23:47:56.848533,
+dd3ec05f-9631-4155-b762-37fb0532490f,84,57.00,pendente,2025-10-26 23:47:56.848533,
+1f843a20-7996-493a-8dfc-f187781bf601,85,146.71,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+1ea7dfaa-aca2-432e-904d-f1c7c408d597,86,151.84,pendente,2025-10-26 23:47:56.848533,
+389f7018-86e8-4be6-a6a6-2cd24aa15698,87,461.22,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+5fcfc35f-ab77-4268-93ec-3c4ab43c0b41,88,263.93,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+bac29f5f-d14e-4164-b238-93018185571b,89,369.17,cancelado,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+bfc5258d-b39a-4851-bc54-2cc8bf18de34,90,165.09,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+59617f8c-ffb6-4441-830a-36e8e6d46cea,91,425.70,pendente,2025-10-26 23:47:56.848533,
+1e3b86c0-2cec-48c4-9839-4a01c778811c,92,250.01,cancelado,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+5bbc7c22-c8f6-4028-8ce1-ef2c5a400053,93,459.27,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+7f09f95b-dfac-4267-bd75-94147bc9c7c7,94,145.63,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+b2b15a29-e71b-4358-95fb-a3fe285ccd45,95,389.27,cancelado,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+afecb370-d5e3-42fe-a2f3-0dbb7b6438a3,96,198.24,cancelado,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+3018ab5d-cc7b-420d-a895-60323ebe9517,97,57.00,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+87b946c8-c0c6-413b-9b8f-7d527d1923f7,98,198.24,pendente,2025-10-26 23:47:56.848533,
+54df470e-d54f-4ffd-9112-a4205c3ae18b,99,137.16,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+4a906c0e-7132-4718-8a7d-151dd41b2c81,100,299.34,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+7c561731-6f0b-484d-9829-7033c3a8c625,101,250.01,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+807e6e4c-1453-4ff6-b5a0-9c4631740252,102,80.77,pendente,2025-10-26 23:47:56.848533,
+65a64156-fc2b-41ec-9ad7-e9ce9650cdbe,103,137.16,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+37925ea6-05a6-4df3-b7e1-b5ca8c438348,104,439.37,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+50703ec0-0a66-4569-bea8-69d4269e260e,105,99.37,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+d0da2cb8-f26a-4300-a83e-db5f0d6852db,106,272.25,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+3541b423-3809-4f37-b476-24c6cbbdfcd8,107,72.29,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+db6cba22-4085-405e-8d4a-144395b07f16,108,200.78,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+23c14d78-a5ec-433b-a0b9-bb688ae6fd4f,109,200.78,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+c8df8e7e-26b9-4d7e-a14c-67eea5ac7983,110,146.71,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+daeed1f9-cec3-43e0-91fa-6e5cfde6f516,111,351.45,pendente,2025-10-26 23:47:56.848533,
+1c9f6e56-a43b-46f5-8539-826c90305374,112,149.60,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+6f2f8092-745a-4584-a6f5-f4dc692c8f1a,113,107.93,cancelado,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+b6754093-03c1-425b-950e-d93e34fa9f8f,114,461.22,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+8f6c98c6-0ed7-4e15-ba8c-3f03a4c088eb,115,369.17,pendente,2025-10-26 23:47:56.848533,
+f910777f-77f9-452e-923b-77317710c28c,116,195.87,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+10d3a880-8823-4c93-a854-659d50550d18,117,211.30,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+7be7bf3d-85bd-4461-b578-a24ca2e72956,118,248.82,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+5246256c-ef3f-424e-9d67-f18e6d233db0,119,263.93,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+f3577cb6-7506-4d70-8012-8662caa86ee9,120,479.02,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+bdc6b4ce-2469-4fdd-86d2-6a2ac01fa4e5,121,252.09,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+d7bf3838-7074-4ff6-bc45-1d7394915fac,122,459.27,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+56cf0bcc-666f-4050-8430-dacfd3441b74,123,173.66,cancelado,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+6c52dde0-87fa-495d-88cd-6c066f736db1,124,497.44,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+abe12e18-bdb1-46cc-b060-736f053d85dd,125,393.07,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+76bdd99d-eb62-4a3f-99cb-2a9c0eca2507,126,248.82,cancelado,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+62a97d74-925c-4e38-940c-ed4bd8a0d04b,127,250.01,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+83104e75-5831-4500-971a-0192784c6013,128,149.61,pendente,2025-10-26 23:47:56.848533,
+041b308c-b81e-41d3-87bd-4103a0cb87f5,129,107.93,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+9a783847-5216-4dfe-bbb7-875d5fd3f32e,130,252.09,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+e4073c65-5b96-4dd0-87ad-c558aed0e1ca,131,497.44,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+37bbbed5-5e8f-4d98-a647-51df5b0abb11,132,248.82,pendente,2025-10-26 23:47:56.848533,
+723c945d-775c-4167-969b-3db863dd16b5,133,234.79,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+ba0512f6-975a-40ac-bb46-e8fe7a57adbf,134,417.50,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+7de75ead-a5ad-44f7-b84f-a0df529f7d0f,135,468.61,pendente,2025-10-26 23:47:56.848533,
+4f86fc03-d19a-4d57-9d1a-cdd6e5363603,136,404.79,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+ac2b64b7-254a-4ab1-a678-192e5dafc55d,137,417.50,pendente,2025-10-26 23:47:56.848533,
+7e0a447d-2dd0-42fc-8a03-2e3dc481752f,138,252.09,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+135a0681-a145-4275-9444-d4cd7ba0870a,139,353.64,cancelado,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+699644e1-8e51-47ef-bcd1-b0e27673e643,140,248.82,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+78f09f9b-30a3-4ca5-bd6c-f119bcd1dcb6,141,393.07,cancelado,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+08c1ada5-8487-4ed2-a2e8-dc48be3d0dea,142,72.29,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+11c604c3-30f7-47bf-ae75-c11265b845f3,143,107.93,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+b7083771-79bd-4b71-9020-1f58b9150bca,144,391.38,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+4348f48b-0d91-42e3-a264-394a7ce591cd,145,167.87,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+661f3fe4-3a92-44cf-9df1-809cf974661e,146,384.97,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+c2972d1a-2dff-49b6-a072-ccfb6993c3ff,147,146.71,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+ed4015bc-6c22-4da3-93a9-ae87a79a0559,148,353.64,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+e0dbbe1f-a30e-4fd9-8e46-2fae59752654,149,493.84,cancelado,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+bcffbd1f-ffe4-44c1-a170-64507d54c1f4,150,78.50,pendente,2025-10-26 23:47:56.848533,
+bf752376-30af-448c-b666-f81b81f4e230,151,439.37,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+29e7ad63-2a63-419b-85d4-0328a32ed863,152,391.38,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+32d304df-0d7f-4069-81e3-e72daf22c35e,153,137.16,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+65538fd0-d11a-44a2-ac7b-70638757dc7a,154,404.79,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+dd1760f4-49dc-48a0-bc56-082662540099,155,186.86,pendente,2025-10-26 23:47:56.848533,
+b0c4eb2b-df44-4363-9a4b-6b9e147d4a87,156,345.71,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+34db609a-0ef8-42e7-a29e-7bc1bd3d5d3e,157,137.16,cancelado,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+3ffad118-962e-42c8-9d81-d980af7c137e,158,173.66,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+cdef6b87-5ddb-4edf-8c9a-4af70001a460,159,211.30,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+8f5ad39d-99fb-4a02-ab23-83e3d7600c65,160,492.90,pendente,2025-10-26 23:47:56.848533,
+b7c1c2b3-4a7d-4f52-95cb-36208b7b855c,161,459.27,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+87177224-f7b0-4191-bf75-c69bb34a88ee,162,492.90,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+86dd4bf7-4117-4df3-afa6-1c6e07f914f4,163,131.09,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+d62cb23c-3d37-4185-8dd9-0f5520889b09,164,78.50,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+d79bc4b4-e0ff-4ded-a757-eee3a759393f,165,393.07,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+35f94ba4-4648-40b0-9341-ab60c135f261,166,254.07,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+fb40afc4-f947-4ced-9c6a-099cf200e605,167,146.71,cancelado,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+ec9b374d-ac1e-44d6-b5b2-f37353f09eea,168,177.36,cancelado,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+3bf4c332-1233-4e0b-81e8-25ebdfd281cb,169,74.55,pendente,2025-10-26 23:47:56.848533,
+56319f61-d1a7-4961-903e-0f9672fe6c8c,170,250.01,pendente,2025-10-26 23:47:56.848533,
+affb4ea4-8d72-4886-a5d2-2f686c3b8278,171,492.90,cancelado,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+9b8ffd04-0d58-4dfc-86bd-4845282ddf70,172,151.84,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+26700a29-8898-4db7-8d1b-0575634fef4d,173,404.79,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+4e1ac846-2cbe-4abe-bb79-d6baeb47d4c6,174,438.81,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+9ba89fbd-62ed-4dc9-8c45-3da54da595e5,175,391.38,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+9e0b22cf-88d1-4b21-9704-a57f5327cd92,176,119.31,pendente,2025-10-26 23:47:56.848533,
+61c711df-61d0-4958-8cc5-3a01a3a03de7,177,151.84,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+f720e994-e8bc-4cfc-8b59-59da5a73514e,178,459.27,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+53384724-fb8f-4c01-950c-3d9cbd903379,179,155.20,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+c4e50263-bf35-4a44-ad98-a6a755fe75c9,180,131.09,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+38d22220-ddc7-4a6b-9c56-0c1e0959b688,181,384.97,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+1c89dc04-8a28-4513-9dd5-e5e55f49aaee,182,355.40,pendente,2025-10-26 23:47:56.848533,
+488c98c5-fce1-4c3f-86cc-b0764ca553c7,183,146.94,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+fe2e4098-67b0-4801-9d0a-0f934c1b1917,184,214.09,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+74a04165-4f0a-4eea-87da-a169a6c2716a,185,211.30,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+597e3c6e-fd6e-40c5-8dbe-c71ebe06a305,186,151.84,pendente,2025-10-26 23:47:56.848533,
+9c3dd72d-eb12-4957-b975-f544dfe9076e,187,214.09,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+072bc7f9-5295-4d3d-9763-4c771e63cfa0,188,272.25,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+80d67d98-c6a9-4cd2-bdd8-a01453f12b83,189,234.79,cancelado,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+8490d7ec-d61c-48d7-b4d6-e6165308f564,190,77.27,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+085109a9-5141-42c0-9f90-a6ded87f6ddc,191,237.10,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+f6c04bf4-df04-4470-b952-3fc9a8209527,192,272.25,cancelado,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+a404588b-844a-4e07-b816-5009bcf1dbfa,193,237.10,pendente,2025-10-26 23:47:56.848533,
+cad78570-d66b-499d-b808-26036f18d740,194,492.90,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+4f804a37-c937-4df4-bc2f-3ca93c993d19,195,58.10,pendente,2025-10-26 23:47:56.848533,
+6feacacb-26dc-4696-b74f-7b67e58ef0da,196,461.22,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+0ddf5e8e-79f9-478c-9bc4-347825301174,197,145.63,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+088b0c07-05f3-45be-b583-535fe73fffb7,198,299.34,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+4041a338-453d-45c7-9625-6f51cd8ba154,199,438.81,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+66f19e44-573e-4e27-9eb0-a9894f151b30,200,254.07,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+effd7f74-a50c-4ab2-96cb-fa83e432b58d,201,393.07,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+e296768b-32a4-4c05-bbce-85bcf77ebd2c,202,58.10,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+f7259416-4c3a-4300-9b58-3b6798e113c4,203,73.05,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+81c628e9-644e-4dfb-ac49-fa493e49cf48,204,439.37,pendente,2025-10-26 23:47:56.848533,
+373d8702-8a69-4a8d-b9fb-d00bf87bb96e,205,250.01,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+9133f8f5-45dc-40cd-be0b-b97a82c678ed,206,73.05,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+3510556d-e4c4-4595-b2af-3d20f6d13823,207,151.84,pendente,2025-10-26 23:47:56.848533,
+688355dc-9a4c-48bb-a13c-0d7c968485ad,208,345.71,cancelado,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+3099dc79-e207-4d9c-9fad-b895b646580e,209,393.07,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+3951be87-90ea-42ff-8876-55abcec900e2,210,61.16,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+bd49f0a5-13b5-4f30-a4cd-6a8a72632d8f,211,146.71,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+a4c438b7-1814-417a-b47e-f5c84b53ce50,212,107.93,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+d54ed0d3-7a0b-4210-a9fc-c99e17fe5cad,213,140.26,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+fede21f5-2e01-437e-ba59-5a5d2e7beac3,214,245.95,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+a95e26c8-7881-4162-9037-20c65426828a,215,145.63,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+72377cd5-8103-41c2-ad99-812d7a101ca7,216,250.01,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+72bbfd38-862e-47a8-a37a-df38c2c9fc34,217,167.87,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+7afc3f41-1d28-4198-ba71-85b82e1cbe07,218,211.30,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+050d419c-0b88-4440-b411-9e4796a2af2b,219,300.98,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+5510b941-643a-421a-901a-cc6aba16c704,220,439.37,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+c5324b01-19f9-4a9c-bd1f-eba384975cdb,221,369.17,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+6564699e-1d90-4c44-b557-a6f48a7fe315,222,299.34,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+de80c3e8-4ecd-41a1-926e-6ad11f6b852d,223,461.22,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+a042b8a2-7cbc-4a0c-b940-ec9ca4c048cf,224,72.29,pendente,2025-10-26 23:47:56.848533,
+32cbd43b-0eb9-4e03-8a05-02b046116fd6,225,272.25,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+feb0e988-65bf-41a4-b2c5-7f469c5885ad,226,263.93,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+c5ef54e4-f090-4a71-8c7d-84e2861dbceb,227,493.84,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+f7228f3c-e710-4d0f-a47d-5d366412fc78,228,77.27,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+fa58fe7e-0bf1-4ac3-a244-7ab83c97276c,229,151.84,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+7cd91d7e-d061-493a-8206-c7518a7a213a,230,248.82,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+2dd77035-fc39-42a9-a229-d28c113606dd,231,459.27,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+125cbf76-ca55-419b-9b09-35fb1908da8d,232,167.87,cancelado,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+0cc4d40e-8955-4b3b-923e-99c9a340260d,233,57.00,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+24fd4ead-c1a8-4abf-942b-4cea388a5eba,234,479.02,pendente,2025-10-26 23:47:56.848533,
+337320e4-df5f-431c-9820-c50d9d816138,235,391.38,pendente,2025-10-26 23:47:56.848533,
+e60d4542-448a-4593-bc21-113f6ac6beaa,236,131.09,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+a4296602-b0d9-49d8-920f-7b1d8764dadf,237,420.63,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+4362bf30-ecda-44f6-bc4e-86b4630c2b5a,238,173.66,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+7cf36238-fb0b-400d-b8e8-9e52d0591121,239,145.35,cancelado,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+dd80c095-48fb-4b13-803f-18b2756c64d3,240,391.38,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+e89061c1-080d-4849-bf78-c5cd9143bb40,241,345.71,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+440e3ca9-c24c-489f-9da2-4e7ada0233ff,242,149.60,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+2ae4be30-c09a-4d60-a1a9-b79fda5140ce,243,78.50,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+d3d88bac-b846-4426-a9aa-45f496f56a78,244,254.07,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+63a8ce87-822d-48e4-9c84-2740ed7b6155,245,195.87,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+3e2fe26e-441c-4fb2-8095-ce58279522d1,246,272.25,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+a089fa78-d298-4641-9251-e07728f2f776,247,254.04,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+6a00b600-8112-4c84-8718-dcb96bee7c07,248,211.30,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+d66db8ce-4be9-4e14-b437-207c5e25f215,249,391.38,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+1a0a9f65-ce47-44c1-9859-43ae6ae53d35,250,140.26,pendente,2025-10-26 23:47:56.848533,
+07a488b6-c13b-4518-b95d-078f3be12184,251,345.71,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+1b6eb51a-8e8d-452c-ac9d-8f2793920b90,252,145.35,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+2e8e4ac7-c27f-4a40-bbc3-f1d89a770230,253,57.00,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+a7cfe464-b264-4881-9dc8-5a76b212a303,254,177.36,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+8547ca0a-a5a8-4e46-9c05-44f599510c50,255,155.20,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+bf396ab5-bf51-4161-8bbf-3d27c62c6d51,256,461.22,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+68c423d6-f652-4b77-aacd-de54d6d9c822,257,151.84,pendente,2025-10-26 23:47:56.848533,
+d7449272-a6a3-4c09-bff7-756acd204bb1,258,389.27,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+b3cfec41-c90f-4add-996c-53ac6c4929a6,259,195.87,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+3dc8869b-1675-43cb-a3c3-766b7bea8312,260,107.93,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+186ab616-c30c-4a20-8481-3a297a7e2bf5,261,410.49,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+917c1f83-639e-4382-b4c5-34619b7abfac,262,425.06,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+8cc902e3-568e-402d-851b-94a35e3132f2,263,119.31,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+decc5e99-a176-41fd-818d-e0fa73c11782,264,149.60,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+63dbc77c-5502-41df-85ad-a092bff278f8,265,369.17,cancelado,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+2006bfe4-d7b3-46eb-9a4e-c2b0e840fa60,266,131.09,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+6154f0e4-3537-428d-bdd4-c8700fe34d94,267,78.50,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+1590e538-5686-4ec7-974d-e07176d415d6,268,186.86,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+bb4ee129-ff48-4a13-971e-d3766aae043d,269,78.50,cancelado,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+826a4f1a-fb86-47a4-aeca-160d5fd8d7a6,270,165.09,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+cc88703b-fa3c-49f3-a8ab-561549eb7e33,271,248.89,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+511392db-d16b-40c9-863d-7ee05c82328c,272,165.09,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+a862e01b-1849-4d6f-b598-8f4487a150e7,273,351.45,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+f0795e4b-7686-4350-aa77-555dd36cb6fe,274,468.61,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+4cb159b8-14e1-4f77-be89-07d4a5488d7f,275,250.01,pendente,2025-10-26 23:47:56.848533,
+e853f184-1fe4-40d7-bdef-3ea71a5def98,276,245.95,cancelado,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+34687198-ae0c-489f-ba40-5354ff0fe2d7,277,420.63,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+1c1a36bc-1443-40bc-b84d-dbccbbbeb461,278,72.29,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+a8a3d630-5978-47c8-9c48-14ee5e53c9e3,279,393.07,pendente,2025-10-26 23:47:56.848533,
+d6a3463e-371f-43c7-b66d-3ea22513d594,280,404.79,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+f4203f8a-82ae-4654-ab63-aa40bcb46328,281,438.81,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+f3989593-d479-4870-a805-02a5948762db,282,254.04,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+ba4454a1-d8a8-4851-89e0-9ea702fdc499,283,245.95,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+33a54f70-0044-409e-8691-65163cdf21e6,284,470.33,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+05474f38-e478-4c07-b9cb-79a3fe2a79b0,285,119.31,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+807dcec5-e142-4e67-8115-7813e2624629,286,263.93,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+2d37ef95-49eb-4375-b0d6-159e5e50120f,287,420.63,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+8b9b01b1-2b3f-453d-996c-e4c0c6e0eec2,288,58.10,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+5c278e74-9b7b-4b17-af0a-9591d4d6977a,289,285.14,cancelado,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+701d73db-5f43-4b72-ad27-0d030dfc0aed,290,177.36,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+74afa439-ccab-4a6b-8f3b-b747f87999cc,291,345.71,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+4cb1d7fa-03f8-4b80-b42c-a9c77a61266c,292,384.97,pendente,2025-10-26 23:47:56.848533,
+89ca8c8b-dd73-4d16-a136-c1b6d366ebe9,293,254.07,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+03ff8a42-fd56-42ee-889f-be64e048eeae,294,86.58,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+e91c9f6b-0e2d-4b1c-9b5d-c6fccc6d272c,295,149.61,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+d7239f12-3420-40f4-b5c7-f01759e2a1cf,296,145.35,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+bca0e757-26eb-40d3-9642-790955bd5771,297,389.27,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+94146acb-554a-42ab-af03-c6ed619747ec,298,186.86,pendente,2025-10-26 23:47:56.848533,
+53d962ab-5e63-4327-9255-647c76e5d4ef,299,439.37,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+b6922ccc-621b-47fc-8a6a-9a01c3034fef,300,145.63,cancelado,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+3056f954-f535-453f-8979-f6f5d43158ab,301,167.87,pendente,2025-10-26 23:47:56.848533,
+6a9ed01a-6b8b-4d59-b0f6-c8d968cbcdcf,302,250.01,cancelado,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+3593ecb5-5e33-45f4-8161-772c804b6d2a,303,272.25,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+13e7b329-e7f9-41bc-96df-b3273818d72c,304,410.49,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+ae36814d-91f3-430c-ae1f-70f5d6bf5fb5,305,211.30,pendente,2025-10-26 23:47:56.848533,
+0c97bdf7-7ebc-4a98-bfa7-a1f1c57aa5b3,306,86.58,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+b43ffe03-0f52-4ee1-a618-3aad65986f32,307,355.40,pendente,2025-10-26 23:47:56.848533,
+bf5a3a35-72ec-42f3-ac08-ccedd38879bf,308,384.97,pendente,2025-10-26 23:47:56.848533,
+590359d4-71e0-4760-96a1-bccf1121325e,309,58.10,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+4d1dc5cf-94a6-4b84-95af-13ecd42fc0e0,310,276.95,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+bab80b7d-37bf-41d0-a5e4-2df6b6c3e112,311,167.87,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+08257488-727a-4b04-ace6-485556eff48e,312,149.60,cancelado,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+08e5a4d0-8000-4a71-8441-24cacb922fb8,313,177.36,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+b48c2426-a090-4461-8cac-c0b6a90c1976,314,74.55,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+9b5df905-4619-4d95-88e9-e6b4e804a9bd,315,252.09,pendente,2025-10-26 23:47:56.848533,
+22154076-0777-47e7-b9ba-bfa5efbc4dc6,316,285.14,cancelado,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+a97d3fb2-ff69-4ca5-892b-5f6baa6e31c7,317,57.00,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+675f4262-1324-40aa-bfd0-d675d376188e,318,195.87,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+1edb3c92-8618-4506-802d-08a6b1b6cfd3,319,263.93,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+015c104b-2582-4eb3-abc1-1bce4a1f3b36,320,425.06,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+d4010b33-fde2-4abf-9c89-e7503beb9d1d,321,167.87,pendente,2025-10-26 23:47:56.848533,
+ddf40fdf-b177-48af-9089-0b5de7c1f663,322,417.50,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+57b3abea-3640-4e05-9578-bd62335d6436,323,77.27,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+22b31e22-3f18-456e-b327-6bc2174fae17,324,355.40,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+589f4b60-53db-4bb5-a066-3fae76538540,325,234.79,pendente,2025-10-26 23:47:56.848533,
+7b316cd5-1a69-449d-a797-7105980d8abd,326,272.25,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+415d6783-c9b5-4542-9211-8bb5dd86b00f,327,74.55,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+1f4ea5a1-0332-44ca-a4a7-25497ddb2617,328,80.77,pendente,2025-10-26 23:47:56.848533,
+5e24a464-fb37-43f1-8d30-fb7d442943db,329,300.98,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+875e3152-4bcb-40e8-ad70-f1f21e75972c,330,56.16,pendente,2025-10-26 23:47:56.848533,
+f6399f64-8491-45d1-8a93-73cc723f0398,331,299.34,pendente,2025-10-26 23:47:56.848533,
+bad52155-6706-4622-9d68-1f8f14ae5149,332,438.81,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+b9094bdb-b167-4759-bc10-c74ebfaadbf5,333,78.50,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+96f79dd0-358c-438d-991b-0cd79399e295,334,276.95,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+58477c63-c84b-41a9-9ff0-5eaf096510d3,335,254.07,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+c18b0f54-a070-44e9-952f-233ebc8497d9,336,248.82,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+0e09bd6a-4424-41ff-a22c-b52efaa8f899,337,86.58,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+5f36614a-b8c7-4fbd-bf9b-98a606a72e9a,338,299.34,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+62f0976a-b933-4c4c-abe2-f75277ceaaf6,339,417.50,pendente,2025-10-26 23:47:56.848533,
+aaf7673e-d85a-40e6-b1b0-08da3f10cd8a,340,146.94,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+bffe12fc-f82c-4cec-8030-bd38935eb6f4,341,140.26,cancelado,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+a955baee-2fbd-4823-9ce3-275ded228473,342,74.55,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+552c068c-8da2-456f-8965-1e7b082b302d,343,276.95,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+d2e2997c-4a6b-4973-98f2-93a283128ad1,344,211.30,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+bdb290af-e04f-4ee0-8ba9-4a8a12d1deba,345,155.20,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+13b34c02-3e16-4ec1-b8df-e02d289b8082,346,479.02,cancelado,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+a6307600-653e-4732-a17d-63a16c8174cf,347,245.95,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+bc3514ad-a580-40da-921e-167bbd2aa88e,348,351.45,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+291fbfaf-1b2d-4dd5-824a-ce2e6ae76f9a,349,410.49,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+023380a4-0eca-4777-8a7e-70349636efc0,350,80.77,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+122cc450-6b0a-4eb3-a3c3-4f2ff96b9c39,351,492.90,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+58f60d5d-3250-40b1-b7e4-8d3e3aa39d1a,352,195.87,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+9efc676a-8f65-4f68-b6cc-af16159df891,353,250.01,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+9504d3ea-59e1-4c2e-975f-5d9daae2f160,354,145.35,cancelado,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+2abac06d-ac16-4fd0-bba1-14420997d25c,355,263.93,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+cf666399-401a-4a11-a373-1b43347bfdf2,356,189.58,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+d9af6eca-75ba-4d4a-9649-66cd147421c9,357,80.77,cancelado,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+8ed77741-9099-4130-8d2e-600c1742d238,358,355.40,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+e8563b05-568e-4cca-b34a-09686ded3cbb,359,214.09,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+79f24b28-d59d-4971-b72f-fdd9fe259908,360,131.09,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+a4e87c3b-5f00-468e-baaf-4f6c8434ff54,361,189.58,pendente,2025-10-26 23:47:56.848533,
+7a58dfcb-4a41-4580-bbbe-af274b60cc29,362,425.70,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+1ae46db3-8e06-44dd-a6ac-9b57c1eb900d,363,299.34,cancelado,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+9d0c2b6b-2d3a-4622-8439-1799988e37b9,364,146.94,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+8b79366a-9025-480c-a294-9daf027f9ec9,365,438.81,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+d7032834-8292-4e57-b1a7-c5de01f46139,366,493.84,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+34a5d2da-ca98-49a9-8f66-c02abfcc088a,367,211.30,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+ae870ba2-fcb3-46f4-8e9a-fe94156b5c44,368,272.25,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+7d34f5e1-08cf-4961-99f8-db3ce5b87182,369,479.02,pendente,2025-10-26 23:47:56.848533,
+af9e5f18-dbf4-4248-a083-3b632b4d7607,370,497.44,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+b983c9c4-312c-4c77-8899-7ff1766e1d0b,371,425.06,pendente,2025-10-26 23:47:56.848533,
+cc015834-3aa1-490e-8f9e-c7b4d034ddb8,372,285.14,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+0cf38655-ad37-4af7-9dfc-43aec14909aa,373,198.24,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+5b71052f-ab84-4d66-9a8e-a87c2253111f,374,137.16,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+8fe1fd5d-315f-457a-9413-83c88779f524,375,461.22,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+858fd064-abbb-4ced-a08a-1e17d83c7807,376,200.78,pendente,2025-10-26 23:47:56.848533,
+af01bdfa-b638-4303-a130-b04230629168,377,254.07,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+3628a92f-28a8-494c-a152-13eb1fb3f244,378,479.02,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+58090ef5-4e9d-4f2e-b004-929289afa7c1,379,248.89,cancelado,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+b670f286-3124-48d0-ac36-2aeba398106a,380,479.02,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+567865b5-d873-4c13-8209-bab7337497fa,381,276.95,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+30347279-8c30-49e5-a743-32413a52ed89,382,470.33,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+6466afdd-f9a5-4bea-9770-e95043b50ab9,383,369.17,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+a89d8367-d4a8-4e94-b60b-051628791d3a,384,77.27,cancelado,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+bbf2539d-f670-40f2-bad7-2a2c4de78e9d,385,391.38,pendente,2025-10-26 23:47:56.848533,
+6ad9a65c-4af8-4485-b519-c75f9333b6c7,386,149.60,pendente,2025-10-26 23:47:56.848533,
+a0af1dd9-e633-4823-ad42-eca989b77b9e,387,389.27,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+53103a7c-138d-4e34-a1d7-c272bded9d4c,388,345.71,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+98e15b49-fdc8-4ce5-a80d-176fcd127f2b,389,369.17,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+83358ae1-40b6-4f05-b87d-ad1a30de7f5d,390,351.45,cancelado,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+7f60b0ab-77b9-46a5-a021-eab6b23aa998,391,353.64,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+cfa4fc48-4c62-46ad-870a-7be18de8097c,392,272.25,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+cd7c69bf-de7a-48e1-bc66-d448e5ff8aed,393,459.27,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+1ff30916-1d34-48f7-9964-ad66ecc1c019,394,438.81,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+d2cb07d6-e229-420a-8515-63b5743f6040,395,391.38,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+dbc98244-4f8c-4001-bdb5-a41fc18cebac,396,149.61,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+89d5d8a1-df3e-4400-9467-3767887e1b4d,397,151.84,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+9fdefd1e-d03f-4e9a-af63-eed60b6df373,398,410.49,pendente,2025-10-26 23:47:56.848533,
+047011a3-6d89-4019-8200-c1c32f814f28,399,438.81,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+9451a672-9c8f-4d2a-b0ae-33f67f72891e,400,149.61,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+9c9ff859-6172-4d90-8165-87c8007000e3,401,74.55,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+1d1f1b46-a646-4b9f-aa11-3cbbaf3d4bdf,402,470.33,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+c8f45c00-1b8a-4ed1-b1fe-4a6882f38af0,403,195.87,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+132c8470-69f6-447b-8ab5-113d898f27f4,404,417.50,cancelado,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+aeef1bda-66cf-414e-b539-684f20bb5ea2,405,252.09,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+f471b2e7-eabb-4ab1-9269-d5ccfee66d05,406,74.55,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+d1ed5481-c4e8-4a3f-ac53-3efdba4eae8c,407,351.45,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+245db525-1300-4c8d-844e-c0ce4b72b9d5,408,276.95,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+ddd4c572-833a-4c85-b22b-19c3328da73e,409,145.63,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+952da99f-17c6-45a3-b088-8fb174fc1259,410,214.09,pendente,2025-10-26 23:47:56.848533,
+d5f83795-73ce-470d-a9f2-73ced41353f7,411,56.16,pendente,2025-10-26 23:47:56.848533,
+c89f3d12-5991-4aa8-9923-fba1ed5bbdb6,412,186.86,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+f1b04a69-95a4-4ccf-a38d-ab6ea7ab2c40,413,146.71,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+30cd7501-edaa-4832-aa6d-e2418d8a968a,414,74.55,pendente,2025-10-26 23:47:56.848533,
+94858337-3ba6-4579-9337-e45d2059a5fc,415,285.14,cancelado,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+74742108-ed7f-4695-a241-0b5a6a1c72be,416,149.61,pendente,2025-10-26 23:47:56.848533,
+420ba310-8ffb-4cd8-8c5d-a1e02f7c9717,417,140.26,cancelado,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+906bb040-bd48-43fd-80c5-89ed8fd87f62,418,198.24,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+fb5779e2-842f-4bf1-af47-4b378a705eb4,419,234.79,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+f5b0aca7-c531-4ddd-a97b-f104eeba73a9,420,80.77,pendente,2025-10-26 23:47:56.848533,
+cbf011f3-a5dc-4d0c-af45-a5835a501851,421,146.94,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+0efc98cc-274f-4f61-b535-093304bc66dd,422,468.61,pendente,2025-10-26 23:47:56.848533,
+919c0b08-6581-4fef-8217-6f5321b3d3fd,423,468.61,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+66d9c837-3c99-47da-ae43-d0239a75f992,424,425.70,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+3aaa8155-f9a3-4498-8c56-8ffd7049dbb2,425,146.71,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+109f6290-22a0-45fc-b346-96c98e1fc57e,426,72.29,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+ccdb572b-22c8-4aab-be31-78e8bd437de9,427,479.02,pendente,2025-10-26 23:47:56.848533,
+d3a952b4-6022-4b30-a7e3-136f1df4771d,428,420.63,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+b8c5a996-2419-41bb-947f-b6438cf17dc5,429,165.09,pendente,2025-10-26 23:47:56.848533,
+873c474b-411a-4adf-b0a2-12b57facf02c,430,497.44,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+45d94a46-385c-4ec3-9f1e-7796e8890f73,431,285.14,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+3dc5235f-6246-41c9-8035-1219ab5be550,432,198.24,cancelado,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+9b3c1936-6763-4425-9622-502907d5a177,433,237.10,pendente,2025-10-26 23:47:56.848533,
+65991162-4db4-485f-96af-90c0842a8509,434,459.27,cancelado,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+184586d8-c1a5-4ea8-a8b9-4433886e0b84,435,145.35,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+4ec84c49-2301-4454-b93a-4d52e92ac10d,436,145.63,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+8d4c96d8-e5d5-4e0d-9139-c6587558fcce,437,300.98,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+de069417-0f63-4fc3-9ab9-5d643d0457d8,438,404.79,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+c378fafe-8da9-4ea4-add4-57b424afe12c,439,149.60,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+02b6046a-9784-419a-bda5-1aaa5483488a,440,61.16,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+f89c1980-4835-42ea-90f7-6bf26287daed,441,137.16,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+69b37890-0d27-401f-b147-a51da2418a23,442,173.66,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+a6fc1dd8-f3a2-42e5-a8a0-d70c527edf98,443,425.70,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+c6597366-6988-4c78-82d1-0976646756e5,444,80.77,pendente,2025-10-26 23:47:56.848533,
+3d7c149b-5b4e-4dc8-bff7-207305b0d25a,445,252.09,pendente,2025-10-26 23:47:56.848533,
+e91eedf6-7ff2-466c-b51d-72dd8dc4d3ac,446,146.71,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+e9a41ae5-96f3-4bb1-95d3-6901b47ad955,447,272.25,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+f8fca927-7ef9-4201-bd47-fe332b51bfeb,448,351.45,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+bdf84f68-9077-4e98-81c0-b5e47b2807dd,449,200.78,pendente,2025-10-26 23:47:56.848533,
+3e303ba1-f94e-4c97-98dc-d70ec85153fb,450,156.84,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+4fd7a793-72ec-4aaf-87ab-5c23e87e3b89,451,459.27,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+529a0acd-4c80-42a3-baf0-751c262d1bcd,452,285.14,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+d73930bf-9a9e-44cb-91af-1a3079d82c44,453,366.55,cancelado,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+8a7387fe-eff8-49be-979f-329f6d122f1a,454,459.27,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+0efba762-b338-47eb-a918-1899b3edf9cc,455,468.61,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+6551e3f1-cddd-4073-82b6-dfb0eaabe4dd,456,167.87,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+e8fe2542-523f-466e-827e-b05ce32c111f,457,73.05,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+1f5b5c31-fb06-4150-bc49-d21bbf6d12a9,458,211.30,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+5e65be59-56e1-4247-a09d-a18f9289785c,459,107.93,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+3260e791-115b-4076-8437-48fb683ab1eb,460,353.64,pendente,2025-10-26 23:47:56.848533,
+1b509ee5-7406-4550-8289-83dfe08774e8,461,248.82,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+4f9467b7-5688-4ca2-92ca-abaf50637ca4,462,80.77,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+63bf379c-7d87-4022-beba-a5a665242f9c,463,248.89,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+f56ea10b-7c37-4748-8c4a-633938f8ee06,464,393.07,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+5d8c8950-1f35-4b5c-abcb-c338a07a0dd8,465,439.37,pendente,2025-10-26 23:47:56.848533,
+67180037-3669-43e2-94ee-713be27f79ac,466,155.20,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+a5fbe9c6-f9ca-4ec4-813e-f92f91129d8f,467,366.55,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+2560f627-f411-41c3-94cb-8b21c2621b2e,468,177.36,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+92f8bcc6-da78-4120-8562-4d6912085884,469,146.94,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+9eeef1f1-f3a8-4d0d-8842-9221fa80140e,470,195.87,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+33d910e4-e930-4671-8dbf-136924d1df68,471,355.40,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+027c525d-2c74-4004-b20f-d18247913c8f,472,156.84,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+0df55ab8-3e64-43a3-af73-6b66b2ad5985,473,186.86,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+319f76fe-7d23-42b9-9557-0bbef598a8e9,474,195.87,pendente,2025-10-26 23:47:56.848533,
+0f0c9851-e57d-4f5f-8c5f-8737e6e825e1,475,214.09,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+f8e8b95d-5df0-40dd-9ae2-242a3ab68b61,476,57.00,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+172aa330-e932-455f-a0c9-3591a917a683,477,149.60,pendente,2025-10-26 23:47:56.848533,
+6a34b2f9-ea5e-495c-bdab-fb5b3349404a,478,299.34,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+1ed98f82-dffc-45d9-a54e-e51914f57fef,479,300.98,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+b35e2d3f-59b4-4716-9ff0-78c87cd0b349,480,438.81,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+ff2aa1a6-5251-4c97-add1-74faa7f72558,481,173.66,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+fc56963a-3749-43df-a12c-1aac0fd63db7,482,468.61,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+9ecbb2d0-2c38-49c2-a268-7175099429ef,483,492.90,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+769390ff-644b-48d7-893b-a44f7e089419,484,470.33,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+da089e01-bfe4-4ff0-95d0-1277cabb7bc9,485,299.34,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+e71b7ecc-5d97-478e-83db-d2157651e020,486,58.10,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+a20e72b0-73bb-44c1-b239-5f1536e82fa3,487,355.40,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+1425aec5-8b37-4f80-9421-81613a387004,488,389.27,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+30673dac-597b-46f5-b74d-b0fccd0fedf3,489,393.07,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+dde93f89-5e18-446d-88d2-7d58c50e8a23,490,470.33,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+2499e099-bc55-4626-8902-f3f5745295cf,491,493.84,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+534e68fa-6653-41fe-b85b-a1bac1e0ab03,492,285.14,pendente,2025-10-26 23:47:56.848533,
+55e8f5d5-6831-4452-90eb-c38dcd7c4e57,493,366.55,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+b98baa3a-9ac2-4996-800f-4b08ec897253,494,366.55,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+3c3f1edd-a801-4e72-b6e4-ade42077d22b,495,61.16,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+f26be041-0ce3-4cb1-b837-7b29929d2150,496,351.45,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+7a8bcc7d-c0a8-4deb-846a-098554b50fbe,497,248.82,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+3a419a0f-d21e-47c7-bdf2-ab7278370c58,498,156.84,pendente,2025-10-26 23:47:56.848533,
+ba06c0d9-dcd0-4ad4-bb8e-e2d5f377e1a1,499,149.60,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+736629c3-bed2-4b6c-b1f6-f14b157ed131,500,479.02,pendente,2025-10-26 23:47:56.848533,
+7be9c510-43cd-42b6-9253-b23fdb409505,501,263.93,cancelado,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+b87e3fcc-8a7e-43bd-9295-49df96cc3b81,502,493.84,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+0d46396f-d424-440c-96ae-6d00d23ed081,503,131.09,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+2c8a7c24-aa45-4d66-badb-8688996491c9,504,299.34,pendente,2025-10-26 23:47:56.848533,
+fcbf505b-0ec9-40e4-a8f2-4329c6b2e7a4,505,145.63,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+162abeb6-ffcb-49a1-acd6-98ac4a038016,506,300.98,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+d6a5a670-2b3e-41f7-82a3-c3543c531e7d,507,497.44,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+1fba8f68-e1ca-4576-87d3-90e30c550696,508,165.09,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+e5793548-5148-48fa-ba90-30bc15f3030e,509,195.87,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+7be4e15d-b9c9-4f35-b06e-95937db05ca7,510,468.61,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+1af562f9-4f53-49de-83da-759775eb5df4,511,167.87,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+554241b6-e8db-4df3-828e-d446f0c105b6,512,146.71,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+ba234246-e7cc-4a18-8e5c-1b6a8b5d0c6c,513,479.02,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+eb695d2c-60d0-49e9-9611-41bf975a9ba2,514,173.66,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+b9accf7c-acce-49cf-adfd-59004f7ee5da,515,246.20,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+6cf3358a-9894-4954-9193-74782cb63daa,516,272.25,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+d7fbfedd-81a3-48f1-86ba-b93f2692d1f0,517,391.38,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+97521502-5419-4666-aba5-3e42ee18a6a2,518,119.31,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+8cebd6f1-8e09-45d1-8ac3-7ecd691badad,519,369.17,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+36ab0c0b-c613-4879-bc2b-eb9d0ab8bfd4,520,389.27,pendente,2025-10-26 23:47:56.848533,
+28404706-af4f-4757-a0ca-5caa945b4812,521,351.45,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+b220d5a7-f151-4159-a996-00120a3bb29f,522,145.63,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+30e0432e-9ac6-419b-9520-b1c2e68d301f,523,186.86,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+fcb17d02-8efc-4497-8d25-a4b9a7032121,524,254.04,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+24af6bb9-ce38-4fd4-af2c-30e1b7558c47,525,173.66,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+7a32d766-034b-4b37-8bd7-f05df147cf7e,526,57.00,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+e7af97af-878b-4409-a450-ed140d37fbcc,527,353.64,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+0673ad3b-8ace-4494-af45-91896f4f44a0,528,237.10,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+826a8d51-8c79-4a80-88b1-9de95ff0d762,529,250.01,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+2eaebe36-80bd-4858-a4f3-8a81346bf123,530,479.02,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+199ad3b7-1058-49c0-93e8-e017548bdd6e,531,470.33,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+7eb03dd1-c7ad-43a1-83be-b5167937c100,532,351.45,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+f21638fe-23d1-45a9-a904-047a88c7b7e1,533,58.10,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+197bf0e9-d894-4d68-a6c3-acfb2b1c68b2,534,57.00,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+0d4184cb-bb57-494a-9dee-7d385ab4868a,535,254.04,pendente,2025-10-26 23:47:56.848533,
+aa8e2455-c039-41e0-8ff4-101d2adb4656,536,248.82,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+6a2b31ff-e7f6-4fc7-83ce-e0f2afb86a51,537,200.78,pendente,2025-10-26 23:47:56.848533,
+7183025e-bfea-4b14-9048-432c3e1b15fc,538,353.64,pendente,2025-10-26 23:47:56.848533,
+9f3542ea-d421-4cc3-bd0d-c0f08da2c878,539,195.87,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+5a7fb067-584a-4b49-b6af-191af8a8c02e,540,146.94,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+4d8f7871-3b10-42ff-b089-d49be096f656,541,155.20,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+fb3b4e7e-0400-4dc0-8b8a-e84d50eeceb0,542,389.27,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+2e90d320-5dd7-44e3-99be-054d9038d4be,543,366.55,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+b0a8e958-b385-4be9-b196-8d2c257dd47a,544,420.63,pendente,2025-10-26 23:47:56.848533,
+db0dce06-e7bc-4608-b64b-ade7e956333f,545,146.94,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+ede488f2-6993-4795-b657-0c12ee6ea101,546,189.58,cancelado,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+e8e03c1b-350d-4c12-b050-31619d31d328,547,86.58,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+97541fd5-cdcc-459b-bb85-6002f7b051b7,548,351.45,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+a9b52d8e-49ab-4b56-9537-8e1587f3e83f,549,86.58,pendente,2025-10-26 23:47:56.848533,
+9e5fb7be-67c9-425e-8f8e-052043507634,550,389.27,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+a2f48c36-e6e1-48df-8d0e-dbd508049c9f,551,461.22,pendente,2025-10-26 23:47:56.848533,
+2f828824-a4e9-430a-85f3-b8e910f3e9c7,552,99.37,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+2dafbcb7-61a4-4d60-88c2-993aab98d9b0,553,263.93,cancelado,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+3faaa31f-c943-40e9-8592-06a3b4c765af,554,410.49,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+2886bda5-dca8-4bfb-9775-3bb3713d1b6a,555,145.63,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+d03119b0-1bb8-41dd-8922-18bb874bfd28,556,248.89,pendente,2025-10-26 23:47:56.848533,
+8e0ddb38-770e-41bd-89aa-8ca3be5696dd,557,393.07,pendente,2025-10-26 23:47:56.848533,
+e8c6cfc2-81eb-4cb7-b574-c9c54d6e2e99,558,254.07,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+14cfdba1-0c61-4e55-95a5-858ad11a564e,559,72.29,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+9655caed-8bc8-4773-b1a9-41af71cf770e,560,254.04,cancelado,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+8ba8802e-b16d-49d7-bfa5-b847f7a59a70,561,351.45,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+7a907675-aade-4861-9a4d-c2f38e2d7021,562,263.93,cancelado,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+79c142c2-5229-4625-8af9-e57d615af678,563,72.29,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+01498146-696e-4812-863d-b8ae4e84cd2b,564,74.55,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+fc07117b-bcc4-4963-9340-9d32c43ce0a4,565,369.17,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+5c496df6-6f69-4df2-951e-277fa8c56e2a,566,479.02,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+a36b3c21-a053-4b0c-a098-c7682385f4c5,567,479.02,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+dd20a132-b189-46f9-abfc-e60643ff9a8f,568,56.16,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+b18eaee1-fdd9-4700-a764-d7b9dfa65e82,569,80.77,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+d16bf4c0-7a2e-4296-8da6-029bde9cd6da,570,497.44,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+c248d38b-2d77-4924-ba42-20991de6ab45,571,146.71,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+5265e499-1018-4516-8452-c227bef54352,572,165.09,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+c470f86d-67c4-41b1-86b4-73aa6c127a92,573,254.07,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+9a6c145f-d59b-4d5a-b513-4eec967e4326,574,56.16,cancelado,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+482a4353-8c9c-413f-893e-65f25caeae85,575,131.09,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+6df4dd2a-e4be-4d52-9b94-2230a0374c4e,576,438.81,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+2672bf37-d578-4c37-a7ee-58684f3ec525,577,234.79,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+8b2586a6-9b84-46d3-877e-4957ba4e60b3,578,425.70,cancelado,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+aec1c91d-6b53-4276-8631-9fd05628612d,579,145.63,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+aacd27ae-8a16-40c5-a2d3-92a3859b769a,580,425.06,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+e0883dcf-6713-43e3-b871-49b09f042afb,581,272.25,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+21ec8baa-3e22-47b8-94ce-2bc514772f25,582,353.64,pendente,2025-10-26 23:47:56.848533,
+8acf3e4a-d7ae-4c7d-9254-551045d6df56,583,470.33,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+68f43368-aae3-4aa2-8a34-c3a8063c9a97,584,263.93,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+53e520c7-d722-46eb-9373-56ec0729d6b4,585,56.16,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+6a78870f-8971-41bc-9341-9ce6a2cdd638,586,384.97,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+44e5e6e5-1b8f-42c6-9b2f-cf570006d605,587,146.71,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+e9f6928a-8a72-49be-b9bc-4b81359ef844,588,263.93,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+787b9724-e156-4fdf-b52c-39890d0db045,589,351.45,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+baf0f8a7-1ad5-4083-9183-7f2d57b95177,590,156.84,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+b651141b-d9e3-49a8-aeab-2622bce85e20,591,254.07,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+031d6be2-81fc-4597-8c5e-e2b38dcc1eef,592,73.05,cancelado,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+99bce5e5-a1e1-4fd3-977f-22f3f5a8a194,593,410.49,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+397b0379-8aac-4e68-9377-17fe9fcc4fa5,594,145.35,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+990180cf-357d-4373-976b-c0b2d96bd0c3,595,254.04,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+da6f214a-3297-48ef-9f6e-c7517e6778ac,596,189.58,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+71829195-72b8-41bf-8d90-fab2fc550a55,597,78.50,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+5b2d9a8f-f927-4f4d-8954-1aa992ff60a4,598,366.55,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+e2b490e2-875d-441f-abe3-37db21857a3c,599,156.84,pago,2025-10-26 23:47:56.848533,2025-10-26 23:47:56.848533
+46245fce-43fb-45e7-b242-9623fbadca19,600,149.60,pendente,2025-10-26 23:47:56.848533,

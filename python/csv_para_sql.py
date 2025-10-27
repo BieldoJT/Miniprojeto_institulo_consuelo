@@ -4,7 +4,7 @@ from validador_csv import is_float, is_int
 
 INPATH = "../data"
 def read_csv_to_sql(lista_tabelas):
-	with open("../script.sql", 'w') as f:
+	with open("../dados.sql", 'w') as f:
 		for nome_tabela in lista_tabelas:
 			path = os.path.join(INPATH, nome_tabela + '.csv')
 			if not os.path.exists(path):

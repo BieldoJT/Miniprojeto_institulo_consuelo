@@ -55,19 +55,19 @@ def main_admin(env):
                 print(f"Pasta {INPATH} não encontrada. Crie/importe seus CSVs antes.")
                 continue
 
-            print("Gerando ../script.sql a partir dos CSVs...")
+            print("Gerando ../dados.sql a partir dos CSVs...")
             try:
                 read_csv_to_sql(TABELAS_PADRAO)
             except Exception as e:
                 print(f"Falha ao gerar script.sql: {e}")
                 continue
 
-            script_path = Path("../script.sql")
+            script_path = Path("../dados.sql")
             if not script_path.exists():
-                print("script.sql não encontrado após a geração.")
+                print("dados.sql não encontrado após a geração.")
                 continue
 
-            print("Aplicando script.sql no banco...")
+            print("Aplicando dados.sql no banco...")
             run(["psql", "-d", DBNAME, "-f", str(script_path)], env)
 
         elif resposta_usuario == 4:
