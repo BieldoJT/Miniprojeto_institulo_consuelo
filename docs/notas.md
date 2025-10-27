@@ -1,0 +1,133 @@
+# ANOTAÇÕES
+
+
+## ER - DIAGRAMA
+ -- 04/10
+- Não sei se na tabela instrutores a coluna biografia seja text ou varchar
+
+- Os cursos podem ter mais de uma categoria??
+
+- decimal ou float?
+
+- nivel do curso, talvez seja um enum?? -> usar check nessa condições
+
+- o que seria ordem na tabela modulos??
+
+- tipo deve ser enum?? -> check
+
+- lembrar de setar os not null
+
+- status da tabela matriculas talvez enum?? ->check
+
+- nota talvez seja enum -> usar check
+
+
+https://dbdiagram.io/d/ER-mini_projeto_casa_digital-663ab0839e85a46d55408b02
+
+ -- 06/10
+- para todos os enuns USAR CHECK
+
+- criar tabelas pagamento e ordem de pagamento
+
+ - ordem pagamento
+- - id
+- - id_aluno
+- - id_curso
+- - forma_pagto (USAR CHECK para PIX, CREDITO, DEBITO, BOLETO)
+- - valor ()
+- - status_pagto (usar CHECK EM PENDENTE, PAGO, CANCELADO, REEMBOLSO)
+- - data_criacao (nao nulo)
+- - data_pagto (pode ser nulo)
+
+- criar uma tabela de cupons???
+
+ - pagamento
+- - id
+- - ordem_ptgo fk
+- - forma_pagto (USAR CHECK para PIX, CREDITO, DEBITO, BOLETO)
+- - status_pagto (Autorizado,Falhou,Reembolso)
+- - data_criacao (nao nulo)
+
+- Separar as avaliações por modulos do curso , para ter mais controle do alunos
+
+- criar a coluna da situação da matricula
+
+ -- 08/10
+
+- criação da tabela certificados, relacionada com  matricula
+ - colocar um trigger/procedure para verificar se ha matricula está concluida, para gerar o certificado
+
+- colocar alguma regra na tabela matricula para verificar qual campo é prioridade para conclusao:
+    se campo 'data de conclusão' for preenchida, ou quando o campo 'status' ser alteradado para "concluida"
+
+- criei a tabela cupom e vou colocar na ordem de pgamentos, provavelmente devo fazer um check ou trigger/procedure para verificar se o cupom é valido
+
+ -- 10/10
+- com a autorização do julio, estou modificando algumas tabelas, atualmente criei a tabela CATEGORIAS_CURSOS que relaciona os cursos com as categorias, pois um curso pode ter mais de uma categoria
+
+- pensei em criar o campo media, para relação da media do curso, mas não sei se vale a pena
+
+- no cupom, verificar se a data de validade é valida (se a data que termina é antes da data da que começa) e se a porcentagem de desconto não é nula. Verificar o valor maximo que cupom cobre o desconto
+
+- verificar os campos não nulos
+
+- aparentemente, a modelagem está pronta
+
+//dica do Fernando
+PROCESSO PARA CRIAR UMA API
+como vc vai receber
+• estilo de processamento (batch ou streaming)
+• como vc vai processar (ETL, ELT) ETL - extract transform load | extract load transform
+• como vc vai disponibilizar esses dados (enpoint GET, pagina html)
+
+ -- 14/10
+
+- comecei a criação do script
+ - - mudei alguns campos, e estou remodelando a logica do sistema de pagamentos para tonar memhlor com as triggers
+
+ - IMPORTANTE!!!! Por conta da logica de pagamentos, eu tirei o campo valor_pago e coloquei na tabela ordem de pagamentos, para mander uma boa relação.
+
+ -- 15/10
+
+ - Estava com muita duvida sobre o que o index faz e onde eu deveria usar.
+  - index serve para faciliar a busca quando for realizar queries. Os campos mais importantes a serem indexados devem ser os que, nas queries, mais serão utilizadas como parametra, no caso dentro do WHERE, ORDER BY, GROUP BY.
+  - Também deve ser utlizado em enum(os checks), que eu foi utilizar com frequencia em dashboards
+
+  - CREATE EXTENSION IF NOT EXISTS pg_trgm;
+
+CREATE INDEX IF NOT EXISTS idx_cursos_titulo_trgm
+  ON cursos USING GIN (titulo gin_trgm_ops); -> index para pesquisa aproximada do titulo, tem q usar ILIKE na query
+
+ - consegui criar uns triggers, so to me complicando com os pagamentos.
+ decidi remover a tabela pagamento, pois, torna mais complicado minha logica com os triggers.
+
+
+ -- 21/10
+  - corrigir a validação dos dados no CSV
+
+  - Estou com duvida sobra a relação a importação e exportação de dados, pois tem que gerar os inserts, mas os inserts tem que ser gerado pelo script?? por que o script gera os dados e por final gera um csv. Porem eu devo importar o csv para o banco ou devo apenas criar um script sql com os inserts
+
+  - Reorganzando nomes de funções, ta tudo confunso com portugues e ingles
+
+  - Agora eu deveria configurar minha venv, lembrar de importar o unicodedata e o Faker
+
+  -- 22/10
+  - eu consegui fazer a conexão com o banco, mas estou na duvida sobre o que fazer, eu devo fazer a conexão com o banco de alguma forma, mas estou na duvida sobre como fazer isso, pq para acessar o banco , eu preciso de usuario e senha
+
+  -- 23/10
+  - descobri que n da pra rodar com o "#!/usr/bin/python3", pois da conflito com a venv, tenho que rodar da forma padrão "python3 'nome do script'"
+
+  - retornar esse se o validador_csv não ler/encontrar os csv
+
+  - ideia no momento. cria uma main onde voce pode adicionar/atualizar/remover alunos, cursos etc.
+  então poder gerar relatórios gerais ou especificos;
+  ex: dados gerais de aluno x, de curso y
+  gerar relatórios fixos.
+  Possivel fazer consultas pelo python.
+
+  - estava pensando em usar o psycopg2, mas acho melhor fazer a conexão do banco com o subprocess para apenas rodar o script. então garantir que é necessário ter o psql instalado na maquina.
+
+# INSIGHTS Q TIVE
+
+ - a utilização do  psycopg2 é muito melhor em questões gerais de banco do que prender o usuario ao psql, pois gera uma conexão melhor e é mais escalavel. Decidi usar o subprocess por uma questão de facil execução para meu planos com o projeto.
+
